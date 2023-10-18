@@ -15,10 +15,10 @@ Last Style Storage: Default
 Audio File: ../raws/[JySzE] Cowboy Bebop - 02 [v2][90E70D6A].mkv
 Video File: ../raws/[JySzE] Cowboy Bebop - 02 [v2][90E70D6A].mkv
 Video AR Value: 1.340741
-Video Zoom Percent: 0.625000
-Scroll Position: 3
-Active Line: 8
-Video Position: 29828
+Video Zoom Percent: 0.500000
+Scroll Position: 61
+Active Line: 71
+Video Position: 7719
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,8 +28,6 @@ Style: GT 2,Adobe Clean,42,&H00FFFFFF,&H000000FF,&H000A0937,&HB40000FF,-1,0,0,0,
 Style: OST,Signika SemiBold,82,&H00FFFFFF,&H000000FF,&H00091641,&H971F3DBB,0,0,0,0,100,100,0,0,1,4,2,2,10,10,60,1
 Style: OP,VL Hagin Caps Medium,45,&H0002ACF8,&HFF0019FF,&H00000000,&HB401A1ED,-1,0,0,0,120,100,0,0,1,0,0,7,60,0,30,1
 Style: OP-Vie,VL Hagin Caps Medium,50,&H0002ACF8,&HFF0019FF,&H00000000,&HB401A1ED,-1,0,0,0,120,100,0,0,1,0,0,7,60,0,30,1
-Style: ED-Romaji,VL Hagin Caps Medium,60,&H00FFFFFF,&H000019FF,&H00020A16,&H78000000,0,0,0,0,100,100,0,0,1,1.3,2,8,0,0,45,1
-Style: ED-English,Adobe Garamond Pro Bold,55,&H00FFFFFF,&H000019FF,&H00020A16,&H78000000,-1,-1,0,0,100,100,0,0,1,1.3,2,2,0,0,45,1
 Style: ED-Vie,VL Hagin Caps Medium,60,&H00FFFFFF,&H000019FF,&H00020A16,&H78000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,45,1
 Style: Signs,Arial,80,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Title,MTD PI Faded,80,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
@@ -46,271 +44,514 @@ Dialogue: 0,0:00:12.62,0:00:14.99,OP,,0,0,0,,{\blur0.76\pos(760,240)}Okay, three
 Dialogue: 0,0:00:12.62,0:00:14.99,OP,,0,0,0,,{\blur0.76\pos(760,285)\c&HF89C03&}Okay, ba, hai, một, mở nhạc
 Comment: 0,0:20:10.11,0:24:12.10,Main,,0,0,0,,========= ED =========
 Dialogue: 0,0:20:22.95,0:20:28.42,ED-Vie,,0,0,0,,{\blur0.67}Too much time has passed by...
-Dialogue: 0,0:20:28.42,0:20:34.88,ED-Vie,,0,0,0,,{\blur0.67}...to lament that we were deeply in love.
+Dialogue: 0,0:20:28.42,0:20:33.84,ED-Vie,,0,0,0,,{\blur0.67}...to lament that we were deeply in love.
 Dialogue: 0,0:20:34.88,0:20:40.47,ED-Vie,,0,0,0,,{\blur0.67}The wind keeps blowing, while my heart...
 Dialogue: 0,0:20:40.47,0:20:45.67,ED-Vie,,0,0,0,,{\blur0.67}...cannot heal all the tears in it.
 Dialogue: 0,0:20:46.89,0:20:55.85,ED-Vie,,0,0,0,,{\blur0.67}Someone, cry for me with parched eyes.
 Dialogue: 0,0:20:58.03,0:21:01.41,ED-Vie,,0,0,0,,{\blur0.67}The real folk blues.
 Dialogue: 0,0:21:01.41,0:21:09.92,ED-Vie,,0,0,0,,{\blur0.67}I only want to know what true sadness is.
-Dialogue: 0,0:21:09.92,0:21:17.55,ED-Vie,,0,0,0,,{\blur0.67}Sitting in muddy water...
+Dialogue: 0,0:21:09.92,0:21:16.88,ED-Vie,,0,0,0,,{\blur0.67}Sitting in muddy water...
 Dialogue: 0,0:21:17.55,0:21:22.05,ED-Vie,,0,0,0,,{\blur0.67}...isn't such a bad life...
-Dialogue: 0,0:21:22.05,0:21:31.04,ED-Vie,,0,0,0,,{\blur0.67}...if it ends after the first time...
+Dialogue: 0,0:21:22.05,0:21:30.89,ED-Vie,,0,0,0,,{\blur0.67}...if it ends after the first time...
 Comment: 0,0:01:31.03,0:01:31.07,Main,,0,0,0,,========= Dialogue =========
-Dialogue: 12,0:01:43.91,0:01:46.68,Main,,0,0,0,,Come out!\NYou can't run anymore!
-Dialogue: 12,0:01:46.72,0:01:47.62,Main,,0,0,0,,We'll shoot!
-Dialogue: 12,0:01:47.62,0:01:50.48,Main,,0,0,0,,Give up already, Abdul Hakim!
-Dialogue: 12,0:01:53.99,0:01:54.96,Main,,0,0,0,,So ya wanna fight, huh?
-Dialogue: 12,0:01:54.99,0:01:56.51,Main,,0,0,0,,You're such a...
-Dialogue: 12,0:02:47.21,0:02:48.54,Main,,0,0,0,,{\i1}AMIGO!{\i0}
-Dialogue: 12,0:02:48.58,0:02:52.05,Main,,0,0,0,,{\i1}How're all you 300,000 bounty hunters{\i0}\N{\i1}in the solar system doing?{\i0}
-Dialogue: 12,0:02:52.05,0:02:55.78,Main,,0,0,0,,{\i1}It's time for BIG SHOT, the show that{\i0}\N{\i1}brings you information about fugitives!{\i0}
-Dialogue: 12,0:02:55.78,0:03:01.46,Main,,0,0,0,,{\i1}Well, well, first up for today{\i0}\N{\i1}is this guy: Abdul Hakim.{\i0}
-Dialogue: 12,0:03:01.46,0:03:04.76,Main,,0,0,0,,{\i1}He's known as a serial pet thief.{\i0}
-Dialogue: 12,0:03:04.76,0:03:06.66,Main,,0,0,0,,{\i1}This time, he snagged{\i0}\N{\i1}a test animal...{\i0}
-Dialogue: 12,0:03:06.66,0:03:08.80,Main,,0,0,0,,{\i1}...from a research facility,{\i0}\N{\i1}and is on the loose.{\i0}
-Dialogue: 12,0:03:08.80,0:03:13.47,Main,,0,0,0,,{\i1}The good news is that he's{\i0}\N{\i1}worth a whopping 8 million!{\i0}
-Dialogue: 12,0:03:13.47,0:03:15.27,Main,,0,0,0,,{\i1}The conditions are as always.{\i0}
-Dialogue: 12,0:03:15.27,0:03:17.87,Main,,0,0,0,,{\i1}Bring him in alive to{\i0}\N{\i1}collect your reward.{\i0}
-Dialogue: 12,0:03:17.87,0:03:19.94,Main,,0,0,0,,{\i1}If you kill him,{\i0}\N{\i1}kiss your reward good-bye.{\i0}
-Dialogue: 12,0:03:19.94,0:03:23.31,Main,,0,0,0,,{\i1}He's the biggest we've had in a while.{\i0}\N{\i1}Do your best to get this guy!{\i0}
-Dialogue: 12,0:03:23.31,0:03:24.51,Main,,0,0,0,,How's it look?
-Dialogue: 12,0:03:24.51,0:03:26.41,Main,,0,0,0,,It's done for.
-Dialogue: 12,0:03:26.41,0:03:28.25,Main,,0,0,0,,Man, why does everything?
-Dialogue: 12,0:03:30.49,0:03:31.55,Main,,0,0,0,,{\i1}Hey!{\i0}
-Dialogue: 12,0:03:31.55,0:03:33.62,Main,,0,0,0,,Doctor? You got information?
-Dialogue: 12,0:03:33.62,0:03:35.92,Main,,0,0,0,,{\i1}About Abdul Hakim.{\i0}
-Dialogue: 12,0:03:35.92,0:03:38.39,Main,,0,0,0,,{\i1}- I'll take it!{\i0}\N- I'll give a discount. 300.
-Dialogue: 12,0:03:38.39,0:03:40.33,Main,,0,0,0,,I got his post-plastic surgery picture.
-Dialogue: 12,0:03:40.36,0:03:43.23,Main,,0,0,0,,{\i1}Too much. 20 down.{\i0}
-Dialogue: 12,0:03:43.30,0:03:46.63,Main,,0,0,0,,All right, 280.\NOn one condition.
-Dialogue: 12,0:03:47.34,0:03:48.10,Main,,0,0,0,,What's that?
-Dialogue: 12,0:03:48.14,0:03:50.00,Main,,0,0,0,,{\i1}Sock him one.{\i0}
-Dialogue: 12,0:03:50.04,0:03:54.50,Main,,0,0,0,,{\i1}He trampled over me.{\i0}\N{\i1}If you want, punch him a dozen times.{\i0}
-Dialogue: 12,0:04:19.13,0:04:21.30,Main,,0,0,0,,I've got the goods.
-Dialogue: 12,0:04:21.34,0:04:24.10,Main,,0,0,0,,This one should be something big...
-Dialogue: 12,0:04:24.57,0:04:26.91,Main,,0,0,0,,Yeah, see you in six hours.
-Dialogue: 12,0:04:27.34,0:04:30.35,Main,,0,0,0,,{\i1}He had a very conspicuous suitcase.{\i0}
-Dialogue: 12,0:04:30.35,0:04:32.68,Main,,0,0,0,,That info's included\Nin the deal, right?
-Dialogue: 12,0:04:32.68,0:04:34.52,Main,,0,0,0,,{\i1}Oh, all right.{\i0}
-Dialogue: 12,0:04:34.52,0:04:37.29,Main,,0,0,0,,{\i1}It was something that could{\i0}\N{\i1}carry a small woman inside.{\i0}
-Dialogue: 12,0:04:37.29,0:04:38.39,Main,,0,0,0,,Treasure?
-Dialogue: 12,0:04:38.39,0:04:40.22,Main,,0,0,0,,{\i1}Can't really say.{\i0}
-Dialogue: 12,0:04:40.22,0:04:42.82,Main,,0,0,0,,{\i1}The way he handled it{\i0}\N{\i1}sure didn't seem that way.{\i0}
-Dialogue: 12,0:04:53.00,0:04:54.24,Main,,0,0,0,,Ni-lai-la!
-Dialogue: 12,0:04:54.24,0:04:57.91,Main,,0,0,0,,If you feel lethargic,\Nhave some ginseng hei-sui.
-Dialogue: 12,0:04:57.91,0:04:59.84,Main,,0,0,0,,You'll last a week with it!
-Dialogue: 12,0:04:59.84,0:05:02.68,Main,,0,0,0,,If you're tired,\Nhave sugarcane hei-sui.
-Dialogue: 12,0:05:02.68,0:05:05.58,Main,,0,0,0,,You ate too much?\NThen have pineapple hei-sui.
-Dialogue: 12,0:05:05.58,0:05:07.12,Main,,0,0,0,,Gimme some lao-chu.
-Dialogue: 12,0:05:07.12,0:05:08.48,Main,,0,0,0,,Thank you.
-Dialogue: 12,0:05:08.48,0:05:09.97,Main,,0,0,0,,Here you go.
-Dialogue: 12,0:05:12.02,0:05:14.89,Main,,0,0,0,,Sorry. My apologies, bro.
-Dialogue: 12,0:05:16.89,0:05:19.26,Main,,0,0,0,,Hey, I said I'm sorry!
-Dialogue: 12,0:05:19.26,0:05:21.85,Main,,0,0,0,,What, can't say anything?
-Dialogue: 12,0:05:24.67,0:05:26.83,Main,,0,0,0,,Wh-What? Ya pickin' a fight?
-Dialogue: 12,0:05:29.50,0:05:31.30,Main,,0,0,0,,My treat.
-Dialogue: 12,0:05:36.91,0:05:38.61,Main,,0,0,0,,Drink.
-Dialogue: 12,0:06:02.17,0:06:04.20,Main,,0,0,0,,And now, the loot.
-Dialogue: 12,0:06:31.77,0:06:34.43,Main,,0,0,0,,Even if I overhaul this whole craft,\NI'll have some change!
-Dialogue: 12,0:06:34.90,0:06:36.50,Main,,0,0,0,,Guess I'll go eat Peking Duck with it.
-Dialogue: 12,0:06:36.94,0:06:40.64,Main,,0,0,0,,As they say, "Don't count\Nchickens before they hatch."
-Dialogue: 12,0:06:42.58,0:06:43.87,Main,,0,0,0,,I got this one nailed shut!
-Dialogue: 12,0:06:43.91,0:06:45.61,Main,,0,0,0,,{\i1}Well, give it what you got.{\i0}
-Dialogue: 12,0:06:54.86,0:06:56.62,Main,,0,0,0,,So all three went down?
-Dialogue: 12,0:06:56.66,0:06:57.78,Main,,0,0,0,,Seems that way.
-Dialogue: 12,0:06:57.83,0:06:59.52,Main,,0,0,0,,And Hakim is around here?
-Dialogue: 12,0:06:59.59,0:07:01.06,Main,,0,0,0,,Seems that way.
-Dialogue: 12,0:07:01.63,0:07:04.00,Main,,0,0,0,,Dammit, he doesn't even know how\Nmuch that thing is Really worth.
-Dialogue: 12,0:07:04.73,0:07:06.67,Main,,0,0,0,,A pet shop?
-Dialogue: 12,0:07:06.70,0:07:08.57,Main,,0,0,0,,A shady one at that.
-Dialogue: 12,0:07:09.14,0:07:14.34,Main,,0,0,0,,Hey, bro, you can buy\Nanything here on Mars.
-Dialogue: 12,0:07:14.34,0:07:17.68,Main,,0,0,0,,From guns to human lives.
-Dialogue: 12,0:07:17.68,0:07:20.18,Main,,0,0,0,,If ya wanna know,\Nshow me what ya got.
-Dialogue: 12,0:07:20.18,0:07:23.78,Main,,0,0,0,,The chain on this one is long.\NMust be the "Way of the Dragon" model.
-Dialogue: 12,0:07:23.82,0:07:27.25,Main,,0,0,0,,Oh, you can tell?\NThat's a rare one from the '30s!
-Dialogue: 12,0:07:28.19,0:07:29.68,Main,,0,0,0,,It sure is an antique.
-Dialogue: 12,0:07:31.19,0:07:35.60,Main,,0,0,0,,Try the store called Animal\NTreasure off of Caiphon Road.
-Dialogue: 12,0:07:35.63,0:07:37.72,Main,,0,0,0,,I'm sure you'll find something there.
-Dialogue: 12,0:07:43.20,0:07:46.80,Main,,0,0,0,,Okay, I'll look... but I'll decide if I\Nwant to buy it from you after I see it.
-Dialogue: 12,0:07:46.84,0:07:48.04,Main,,0,0,0,,Oh, all right.
-Dialogue: 12,0:08:01.79,0:08:04.85,Main,,0,0,0,,Run out of funds changing your\Nface around too much, Hakim?
-Dialogue: 12,0:08:04.89,0:08:06.56,Main,,0,0,0,,W-Wait a sec...
-Dialogue: 12,0:08:06.56,0:08:08.03,Main,,0,0,0,,Hey, don't move.
-Dialogue: 12,0:08:08.03,0:08:11.87,Main,,0,0,0,,You sure are restless, changing\Nyour face around this much.
-Dialogue: 12,0:08:11.87,0:08:12.70,Main,,0,0,0,,What the?
-Dialogue: 12,0:08:12.70,0:08:15.27,Main,,0,0,0,,Hold it. I don't want any\Nof this business here.
-Dialogue: 12,0:08:15.27,0:08:17.41,Main,,0,0,0,,All of my babies are very sensitive!
-Dialogue: 12,0:08:17.41,0:08:19.21,Main,,0,0,0,,You open it.
-Dialogue: 12,0:08:19.21,0:08:20.84,Main,,0,0,0,,Why do I?!
-Dialogue: 12,0:08:20.84,0:08:22.31,Main,,0,0,0,,There seems to be some\Nsort of misunderstanding...
-Dialogue: 12,0:08:22.31,0:08:23.68,Main,,0,0,0,,Hurry it up!
-Dialogue: 12,0:08:28.02,0:08:29.68,Main,,0,0,0,,Oh, fine.
-Dialogue: 12,0:08:45.63,0:08:46.67,Main,,0,0,0,,A dog?
-Dialogue: 12,0:08:46.67,0:08:50.10,Main,,0,0,0,,A Welsh Corgi.\NIt's cute, but it's everywhere.
-Dialogue: 12,0:08:50.10,0:08:52.44,Main,,0,0,0,,Not a particularly rare species.
-Dialogue: 12,0:08:52.44,0:08:54.84,Main,,0,0,0,,And how much is it worth?
-Dialogue: 12,0:08:54.84,0:08:57.35,Main,,0,0,0,,With the suitcase, about this much.
-Dialogue: 12,0:08:57.35,0:08:58.31,Main,,0,0,0,,200K?
-Dialogue: 12,0:08:58.31,0:08:59.45,Main,,0,0,0,,No, no, 200, 200!
-Dialogue: 12,0:08:59.45,0:09:00.98,Main,,0,0,0,,No way!
-Dialogue: 12,0:09:00.98,0:09:04.35,Main,,0,0,0,,You don't like it, you take care\Nof it yourself. Like eating it.
-Dialogue: 12,0:09:04.35,0:09:06.05,Main,,0,0,0,,It IS a puppy...
-Dialogue: 12,0:09:06.05,0:09:08.85,Main,,0,0,0,,Sorry to bother you. Please continue.
-Dialogue: 12,0:09:17.33,0:09:19.23,Main,,0,0,0,,I guess the Peking Duck\Nhas been overcooked.
-Dialogue: 12,0:09:19.83,0:09:21.30,Main,,0,0,0,,At least give me 300...
-Dialogue: 12,0:09:21.30,0:09:22.44,Main,,0,0,0,,No can do.
-Dialogue: 12,0:09:22.44,0:09:23.30,Main,,0,0,0,,280?
-Dialogue: 12,0:09:23.30,0:09:24.84,Main,,0,0,0,,A no is a no.
-Dialogue: 12,0:09:24.84,0:09:25.74,Main,,0,0,0,,250!
-Dialogue: 12,0:09:25.74,0:09:28.54,Main,,0,0,0,,ZERO. I'll take it back.
-Dialogue: 12,0:09:28.54,0:09:30.84,Main,,0,0,0,,This again?\NWhat is it this time?
-Dialogue: 12,0:09:40.09,0:09:42.78,Main,,0,0,0,,Someone! Catch my babies! Hurry!
-Dialogue: 12,0:09:43.22,0:09:44.19,Main,,0,0,0,,- There it is!\N- All right!
-Dialogue: 12,0:09:51.10,0:09:54.23,Main,,0,0,0,,Hakim?!\NGod dammit, what's going on?!
-Dialogue: 12,0:10:36.21,0:10:37.88,Main,,0,0,0,,- Gangway!\N- What the hell?
-Dialogue: 12,0:10:37.88,0:10:39.54,Main,,0,0,0,,WAIT, dammit!
-Dialogue: 12,0:10:39.65,0:10:41.44,Main,,0,0,0,,Hey, what the hell do you want?!
-Dialogue: 12,0:10:56.03,0:10:57.50,Main,,0,0,0,,Bounty hunter?
-Dialogue: 12,0:10:57.53,0:10:59.59,Main,,0,0,0,,Animal rights syndicate?
-Dialogue: 12,0:10:59.63,0:11:01.50,Main,,0,0,0,,Your story brings a tear to my eye.
-Dialogue: 12,0:11:01.54,0:11:04.33,Main,,0,0,0,,Risking your life on a dog\Nthat's only worth 200 woolongs.
-Dialogue: 12,0:11:04.64,0:11:05.54,Main,,0,0,0,,What?
-Dialogue: 12,0:11:05.61,0:11:10.17,Main,,0,0,0,,What I want are the 8 million woolongs\Nhanging from YOUR neck.
-Dialogue: 12,0:11:22.66,0:11:24.35,Main,,0,0,0,,Not bad.
-Dialogue: 12,0:11:25.46,0:11:26.22,Main,,0,0,0,,What?!
-Dialogue: 12,0:11:27.00,0:11:28.02,Main,,0,0,0,,Dammit!
-Dialogue: 12,0:11:43.18,0:11:45.98,Main,,0,0,0,,Shuddup!\NI'm in a rotten mood right now!
-Dialogue: 12,0:11:59.93,0:12:03.16,Main,,0,0,0,,There, there.\NHere, lemme put on a collar.
-Dialogue: 12,0:12:03.97,0:12:05.87,Main,,0,0,0,,A dog instead of a duck, huh?
-Dialogue: 12,0:12:05.90,0:12:08.97,Main,,0,0,0,,Forget about that!\NYou know anything about it?
-Dialogue: 12,0:12:08.97,0:12:13.98,Main,,0,0,0,,Yeah. This is a Welsh Corgi.\NA total mongrel.
-Dialogue: 12,0:12:13.98,0:12:14.98,Main,,0,0,0,,Totally?
-Dialogue: 12,0:12:14.98,0:12:18.25,Main,,0,0,0,,Totally. Completely worthless.
-Dialogue: 12,0:12:18.25,0:12:21.08,Main,,0,0,0,,Shit, this gives me a headache.
-Dialogue: 12,0:12:21.08,0:12:23.41,Main,,0,0,0,,And all this is\Nbecause of this mongrel...
-Dialogue: 12,0:12:26.32,0:12:30.26,Main,,0,0,0,,The dog is worthless,\Nbut the OWNER is worth something.
-Dialogue: 12,0:12:30.26,0:12:33.26,Main,,0,0,0,,Well, at least you should get\Nto know this critter well.
-Dialogue: 12,0:12:33.26,0:12:36.40,Main,,0,0,0,,Man, I hate kids and critters!
-Dialogue: 12,0:12:36.40,0:12:38.52,Main,,0,0,0,,They're nothing but trouble!
-Dialogue: 12,0:12:41.30,0:12:42.10,Main,,0,0,0,,I got something!
-Dialogue: 12,0:12:42.14,0:12:43.80,Main,,0,0,0,,All right!
-Dialogue: 12,0:12:43.84,0:12:44.63,Main,,0,0,0,,It's big!
-Dialogue: 12,0:12:44.67,0:12:45.31,Main,,0,0,0,,Here it comes!
-Dialogue: 12,0:12:45.31,0:12:47.17,Main,,0,0,0,,Pull on the line!
-Dialogue: 12,0:12:52.21,0:12:54.27,Main,,0,0,0,,What time is it now?
-Dialogue: 12,0:12:55.88,0:12:57.82,Main,,0,0,0,,I-I-It's 4 o'clock now.
-Dialogue: 12,0:12:58.19,0:13:00.12,Main,,0,0,0,,Two hours...
-Dialogue: 12,0:13:02.62,0:13:05.46,Main,,0,0,0,,Who was that with Hakim? His ally?
-Dialogue: 12,0:13:05.49,0:13:06.59,Main,,0,0,0,,Seems that way.
-Dialogue: 12,0:13:06.63,0:13:09.83,Main,,0,0,0,,We got no clues?\NWe have to do something.
-Dialogue: 12,0:13:09.83,0:13:12.60,Main,,0,0,0,,If THAT falls into police hands,\Nwe're in deep shit.
-Dialogue: 12,0:13:12.60,0:13:14.00,Main,,0,0,0,,Seems that way.
-Dialogue: 12,0:13:14.00,0:13:17.51,Main,,0,0,0,,All our work will be worthless if our\Nexperiments get revealed to the public.
-Dialogue: 12,0:13:17.51,0:13:18.64,Main,,0,0,0,,Seems that way.
-Dialogue: 12,0:13:18.64,0:13:21.73,Main,,0,0,0,,How much does he think we\Nput into that "data dog"?
-Dialogue: 12,0:13:22.78,0:13:24.68,Main,,0,0,0,,Why don't YOU do this?
-Dialogue: 12,0:13:24.88,0:13:29.48,Main,,0,0,0,,Didn't your grandma teach you\Nto finish what you start?
-Dialogue: 12,0:13:30.12,0:13:32.05,Main,,0,0,0,,She was dead before I was born.
-Dialogue: 12,0:13:32.05,0:13:36.05,Main,,0,0,0,,{\i1}Sorry to hear that.{\i0}\N{\i1}Anyway, we have the joker in our hand.{\i0}
-Dialogue: 12,0:13:37.06,0:13:38.79,Main,,0,0,0,,Just do what we planned.
-Dialogue: 12,0:13:39.43,0:13:42.36,Main,,0,0,0,,Give me code name "snoop."
-Dialogue: 12,0:13:43.46,0:13:47.96,Main,,0,0,0,,Yeah. It's me.\NI had some trouble.
-Dialogue: 12,0:13:48.27,0:13:51.04,Main,,0,0,0,,No big deal...
-Dialogue: 12,0:13:51.04,0:13:53.53,Main,,0,0,0,,Hey, wait, Michael!
-Dialogue: 12,0:13:54.48,0:13:57.38,Main,,0,0,0,,I want to postpone the meeting a bit.
-Dialogue: 12,0:13:57.71,0:14:00.58,Main,,0,0,0,,As I said, it wasn't that big a deal...
-Dialogue: 12,0:14:00.58,0:14:03.81,Main,,0,0,0,,Impossible? Why? Hey, wait!
-Dialogue: 12,0:14:11.59,0:14:13.92,Main,,0,0,0,,And THIS is our plan?
-Dialogue: 12,0:14:18.00,0:14:19.76,Main,,0,0,0,,Hey, you!
-Dialogue: 12,0:14:19.80,0:14:23.24,Main,,0,0,0,,You have something you\Nwant to know, right?
-Dialogue: 12,0:14:23.27,0:14:24.67,Main,,0,0,0,,Wait!
-Dialogue: 12,0:14:24.71,0:14:28.47,Main,,0,0,0,,My little Peeko can\Nanswer your questions!
-Dialogue: 12,0:14:29.71,0:14:33.04,Main,,0,0,0,,You have something you\Nwant to know, right?
-Dialogue: 12,0:14:33.08,0:14:35.71,Main,,0,0,0,,See, little Peeko is telling me...
-Dialogue: 12,0:14:36.32,0:14:40.12,Main,,0,0,0,,...that you're looking\Nfor someone or something.
-Dialogue: 12,0:14:44.33,0:14:48.59,Main,,0,0,0,,Well, where there's\Nthis dog, there's Hakim.
-Dialogue: 12,0:14:49.43,0:14:51.56,Main,,0,0,0,,Seeing loud and clear.
-Dialogue: 12,0:14:51.67,0:14:54.03,Main,,0,0,0,,We're counting on you, pooch.
-Dialogue: 12,0:14:55.00,0:14:57.23,Main,,0,0,0,,We must resort to the dog whistle.
-Dialogue: 12,0:14:57.61,0:14:59.60,Main,,0,0,0,,But that'll cause a big mess.
-Dialogue: 12,0:14:59.64,0:15:00.63,Main,,0,0,0,,I don't care.
-Dialogue: 12,0:15:00.68,0:15:01.94,Main,,0,0,0,,We'll draw attention to ourselves!
-Dialogue: 12,0:15:01.98,0:15:03.74,Main,,0,0,0,,We have no choice!
-Dialogue: 12,0:15:03.74,0:15:04.73,Main,,0,0,0,,Shall I?
-Dialogue: 12,0:15:04.78,0:15:05.77,Main,,0,0,0,,Do it.
-Dialogue: 12,0:15:14.59,0:15:15.89,Main,,0,0,0,,I can't hear anything.
-Dialogue: 12,0:15:15.92,0:15:18.22,Main,,0,0,0,,I said before that\Nhumans can't hear it.
-Dialogue: 12,0:15:18.59,0:15:20.58,Main,,0,0,0,,Oh, that's right.
-Dialogue: 12,0:15:21.00,0:15:23.93,Main,,0,0,0,,This is so far fetched...
-Dialogue: 12,0:15:24.93,0:15:28.20,Main,,0,0,0,,Will this really attract?
-Dialogue: 12,0:15:33.51,0:15:36.84,Main,,0,0,0,,Oh, it's moving.\NSomething is now on the move.
-Dialogue: 12,0:15:39.18,0:15:43.31,Main,,0,0,0,,Wait! Babies, what's\Nwrong with you guys?!
-Dialogue: 12,0:15:45.02,0:15:46.21,Main,,0,0,0,,Hey, wait!
-Dialogue: 12,0:15:51.99,0:15:53.56,Main,,0,0,0,,It got away, Jet!
-Dialogue: 12,0:15:53.56,0:15:55.43,Main,,0,0,0,,Huh? Hakim?
-Dialogue: 12,0:15:55.43,0:15:56.26,Main,,0,0,0,,{\i1}No, the DOG!{\i0}
-Dialogue: 12,0:15:56.26,0:16:00.97,Main,,0,0,0,,It's close, it's close!\NWhat you are looking for is nearby.
-Dialogue: 12,0:16:00.97,0:16:03.90,Main,,0,0,0,,In fact, right in\Nfront of your eyes...
-Dialogue: 12,0:16:06.14,0:16:07.91,Main,,0,0,0,,Hey, wait, you need to pay!
-Dialogue: 12,0:16:07.91,0:16:08.98,Main,,0,0,0,,I'll pay when I am rich!
-Dialogue: 12,0:16:08.98,0:16:10.94,Main,,0,0,0,,You can't be serious...
-Dialogue: 12,0:16:18.35,0:16:20.62,Main,,0,0,0,,Goddammit, what the hell is going on?!
-Dialogue: 12,0:16:26.76,0:16:27.96,Main,,0,0,0,,Happy?
-Dialogue: 12,0:16:28.00,0:16:29.76,Main,,0,0,0,,Yes, very.
-Dialogue: 12,0:16:32.03,0:16:34.26,Main,,0,0,0,,- Excuse me...\N- Outta my way!
-Dialogue: 12,0:16:37.57,0:16:39.90,Main,,0,0,0,,You, what are you doing?
-Dialogue: 12,0:16:43.74,0:16:44.77,Main,,0,0,0,,Hakim!
-Dialogue: 12,0:16:52.82,0:16:53.65,Main,,0,0,0,,Dammit!
-Dialogue: 12,0:16:55.59,0:16:57.61,Main,,0,0,0,,It's just a dog, after all.
-Dialogue: 12,0:17:03.40,0:17:04.19,Main,,0,0,0,,Hakim!
-Dialogue: 12,0:17:05.70,0:17:08.76,Main,,0,0,0,,{\i1}Spike, he's headed for Interstate 6.{\i0}
-Dialogue: 12,0:17:08.84,0:17:10.04,Main,,0,0,0,,{\i1}Great!{\i0}
-Dialogue: 12,0:17:10.04,0:17:12.07,Main,,0,0,0,,{\i1}If he thinks he can outrun me,{\i0}\N{\i1}he's welcome to try!{\i0}
-Dialogue: 12,0:17:12.07,0:17:14.04,Main,,0,0,0,,Don't get too hotheaded!
-Dialogue: 12,0:17:14.04,0:17:15.94,Main,,0,0,0,,What part of me is hotheaded?!
-Dialogue: 12,0:17:21.05,0:17:22.24,Main,,0,0,0,,There he is!
-Dialogue: 12,0:17:39.47,0:17:40.66,Main,,0,0,0,,This is payback from earlier!
-Dialogue: 12,0:17:49.78,0:17:52.25,Main,,0,0,0,,...the HELL are you doin'?!\NThis guy is MINE!
-Dialogue: 12,0:18:01.59,0:18:02.59,Main,,0,0,0,,What the?
-Dialogue: 12,0:18:02.59,0:18:03.45,Main,,0,0,0,,Now!
-Dialogue: 12,0:18:06.49,0:18:07.98,Main,,0,0,0,,Stop that!
-Dialogue: 12,0:18:08.96,0:18:10.12,Main,,0,0,0,,Shit!
-Dialogue: 12,0:18:13.63,0:18:14.77,Main,,0,0,0,,SHIT!
-Dialogue: 12,0:18:14.77,0:18:16.93,Main,,0,0,0,,THIS is why I hate critters!
-Dialogue: 12,0:18:38.63,0:18:40.06,Main,,0,0,0,,{\i1}AMIGO!{\i0}
-Dialogue: 12,0:18:40.06,0:18:43.43,Main,,0,0,0,,{\i1}How're all you 300,000 bounty hunters{\i0}\N{\i1}in the solar system doing?{\i0}
-Dialogue: 12,0:18:43.46,0:18:47.33,Main,,0,0,0,,{\i1}It's time for BIG SHOT, the show that{\i0}\N{\i1}brings you information about fugitives!{\i0}
-Dialogue: 12,0:18:47.33,0:18:50.03,Main,,0,0,0,,{\i1}So, you remember Abdul Hakim{\i0}\N{\i1}who chose a rather...{\i0}
-Dialogue: 12,0:18:50.07,0:18:52.94,Main,,0,0,0,,{\i1}...flashy way of turning{\i0}\N{\i1}himself in last week?{\i0}
-Dialogue: 12,0:18:52.94,0:18:54.67,Main,,0,0,0,,{\i1}Yeah! Of course!{\i0}
-Dialogue: 12,0:18:54.71,0:18:58.04,Main,,0,0,0,,{\i1}Apparently, he stole what's{\i0}\N{\i1}called a "data dog"...{\i0}
-Dialogue: 12,0:18:58.08,0:19:01.92,Main,,0,0,0,,{\i1}...created in an illegal{\i0}\N{\i1}experiment of some research firm.{\i0}
-Dialogue: 12,0:19:01.92,0:19:03.68,Main,,0,0,0,,{\i1}Wow! What's that?{\i0}
-Dialogue: 12,0:19:03.72,0:19:08.76,Main,,0,0,0,,{\i1}I'm not sure myself, but apparently{\i0}\N{\i1}it's a very intelligent pooch.{\i0}
-Dialogue: 12,0:19:08.76,0:19:12.63,Main,,0,0,0,,{\i1}I hear that it's{\i0}\N{\i1}priceless among collectors.{\i0}
-Dialogue: 12,0:19:12.63,0:19:17.30,Main,,0,0,0,,{\i1}That's a surprise!{\i0}\N{\i1}I wanna have a dog like that!{\i0}
-Dialogue: 12,0:19:17.30,0:19:19.97,Main,,0,0,0,,{\i1}But they say it's still missing.{\i0}
-Dialogue: 12,0:19:19.97,0:19:22.07,Main,,0,0,0,,{\i1}I wonder where it went?{\i0}
-Dialogue: 12,0:19:22.07,0:19:24.80,Main,,0,0,0,,{\i1}Really!{\i0}\N{\i1}But now, a commercial!{\i0}
-Dialogue: 12,0:19:27.21,0:19:28.80,Main,,0,0,0,,Can't be...
-Dialogue: 12,0:19:28.84,0:19:33.25,Main,,0,0,0,,Hey there! When you're done cleaning,\Nfeed the komodo dragons!
-Dialogue: 12,0:19:34.55,0:19:35.95,Main,,0,0,0,,I want you to work your ass off!
-Dialogue: 12,0:19:35.95,0:19:37.78,Main,,0,0,0,,Yeah...
-Dialogue: 12,0:19:39.69,0:19:41.59,Main,,0,0,0,,Hey, hey!
-Dialogue: 12,0:19:44.09,0:19:46.12,Main,,0,0,0,,Hey, don't jump on there!
-Dialogue: 12,0:19:47.13,0:19:48.86,Main,,0,0,0,,That's cold!
-Dialogue: 12,0:19:49.63,0:19:52.77,Main,,0,0,0,,That's why I said we should\Nthrow out mongrels like this one!
-Dialogue: 12,0:19:52.77,0:19:54.53,Main,,0,0,0,,But you're the one\Nthat brought it here!
-Dialogue: 12,0:19:55.57,0:19:58.71,Main,,0,0,0,,In any case, we have to do\Nsomething about the ticks.
-Dialogue: 12,0:19:58.71,0:20:00.64,Main,,0,0,0,,Shit...
-Dialogue: 12,0:20:00.64,0:20:02.30,Main,,0,0,0,,I'm gonna salt you\Nand eat you, dammit!
-Dialogue: 12,0:20:02.88,0:20:05.35,Main,,0,0,0,,{\i1}Well, it's time for us to go.{\i0}\N{\i1}See you next time!{\i0}
-Dialogue: 12,0:20:05.35,0:20:06.28,Main,,0,0,0,,{\i1}Good luck!!{\i0}
-Dialogue: 12,0:21:48.28,0:21:51.51,Main,,0,0,0,,"Nothing is permanent."\NIt's a fact of life.
-Dialogue: 12,0:21:52.52,0:21:55.19,Main,,0,0,0,,The bell tolls for the great\Nones who will someday fall.
-Dialogue: 12,0:21:55.19,0:21:58.09,Main,,0,0,0,,Money makes the world go round...
-Dialogue: 12,0:21:58.09,0:22:01.46,Main,,0,0,0,,...but debt piles up\Nbefore you know it.
-Dialogue: 12,0:22:02.10,0:22:04.90,Main,,0,0,0,,I wandered through\Nall the reaches of space...
-Dialogue: 12,0:22:04.90,0:22:07.70,Main,,0,0,0,,...and there I met a cowboy.
-Dialogue: 12,0:22:07.70,0:22:12.00,Main,,0,0,0,,A session to the tune\Nof an off-key melody:
-Dialogue: 12,0:22:12.71,0:22:15.44,Main,,0,0,0,,Honky Tonk Women.
+Dialogue: 12,0:01:43.91,0:01:46.42,Main,,0,0,0,,Bước ra đây! Mày hết đường chạy rồi.
+Dialogue: 12,0:01:46.72,0:01:47.38,Main,,0,0,0,,Tao bắn đấy!
+Dialogue: 12,0:01:47.62,0:01:49.80,Main,,0,0,0,,Đầu hàng đi, Abdul Hakim!
+Dialogue: 12,0:01:53.99,0:01:54.99,Main,,0,0,0,,Muốn chiến à?
+Dialogue: 12,0:01:54.99,0:01:55.93,Main,,0,0,0,,Thằng chó này!
+Dialogue: 12,0:02:47.21,0:02:48.58,Main,,0,0,0,,{\i1}Chào bà con!
+Dialogue: 12,0:02:48.58,0:02:52.05,Main,,0,0,0,,{\i1}Toàn bộ 300.000 bà con thợ săn tiền thưởng,\N khỏe cả chứ?
+Dialogue: 12,0:02:52.05,0:02:55.74,Main,,0,0,0,,{\i1}Chúng tôi, Big Shot, sẽ cung cấp cho bà con \Nthông tin về những kẻ bị truy nã.
+Dialogue: 12,0:02:55.74,0:02:59.51,Main,,0,0,0,,{\i1}Giờ thì, giờ thì,\N mở bát cho hôm nay sẽ là...
+Comment: 12,0:02:59.57,0:03:00.66,Main,,0,0,0,,{\i1}Abdul Hakim.
+Dialogue: 12,0:03:01.46,0:03:04.76,Main,,0,0,0,,{\i1}Anh ta là một tay trộm thú cưng.{trộm chó @@}
+Dialogue: 12,0:03:04.76,0:03:08.63,Main,,0,0,0,,{\i1}Còn vụ này là trộm động vật thí nghiệm\N từ một tổ chức nghiên cứu, hiện vẫn đang lẫn trốn.
+Dialogue: 12,0:03:09.48,0:03:13.47,Main,,0,0,0,,{\i1}Tin tốt là tiền thưởng lên tới tận 8 triệu,\N sốc chưa bà con!
+Dialogue: 12,0:03:13.47,0:03:15.27,Main,,0,0,0,,{\i1}Điều kiện vẫn như thường lệ.
+Dialogue: 12,0:03:15.27,0:03:17.87,Main,,0,0,0,,{\i1}Nộp người nhận tiền, còn sống mới tính.
+Dialogue: 12,0:03:17.87,0:03:19.55,Main,,0,0,0,,{\i1}Lỡ mà giết, thôi khỏi tiền nong gì.
+Dialogue: 12,0:03:19.94,0:03:23.31,Main,,0,0,0,,{\i1}Lâu rồi mới có kèo to như này, \Nbà con cố mà giật nhé!
+Dialogue: 12,0:03:23.31,0:03:24.19,Main,,0,0,0,,Thế nào rồi?
+Dialogue: 12,0:03:24.54,0:03:25.94,Main,,0,0,0,,Cụ đi rồi.
+Dialogue: 12,0:03:26.41,0:03:28.25,Main,,0,0,0,,Cái nào cũng như cái nào.
+Dialogue: 12,0:03:30.49,0:03:31.55,Main,,0,0,0,,Chào!
+Dialogue: 12,0:03:31.55,0:03:33.62,Main,,0,0,0,,Bác sĩ, có thông tin gì không?
+Dialogue: 12,0:03:33.62,0:03:35.15,Main,,0,0,0,,Có thông tin về Abdul Hakim đây.
+Dialogue: 12,0:03:35.92,0:03:38.39,Main,,0,0,0,,- Lấy lấy.\N- Giảm giá cho anh còn 300.
+Dialogue: 12,0:03:38.39,0:03:40.33,Main,,0,0,0,,Tôi có bức ảnh của nó sau khi phẫu thuật.
+Dialogue: 12,0:03:40.33,0:03:42.11,Main,,0,0,0,,Cao quá, bớt 20 đê.
+Dialogue: 12,0:03:43.30,0:03:46.71,Main,,0,0,0,,Rồi, còn 280, nhưng tôi có một điều kiện.
+Dialogue: 12,0:03:47.23,0:03:48.07,Main,,0,0,0,,Điều kiện gì?
+Dialogue: 12,0:03:48.07,0:03:49.42,Main,,0,0,0,,Đấm nó hộ tôi một cái.
+Dialogue: 12,0:03:50.04,0:03:54.88,Main,,0,0,0,,Nó dám đạp tôi mới cay chứ,\N mà thích thì cứ chục cái luôn đi.
+Dialogue: 12,0:04:19.07,0:04:21.48,Main,,0,0,0,,Tôi có hàng rồi đây.
+Dialogue: 12,0:04:21.48,0:04:24.10,Main,,0,0,0,,Lần này không phải dạng vừa đâu.
+Dialogue: 12,0:04:24.57,0:04:26.48,Main,,0,0,0,,Vậy 6 giờ gặp.
+Dialogue: 12,0:04:27.34,0:04:30.35,Main,,0,0,0,,Nó mang theo một cái va li rất nổi bật.
+Dialogue: 12,0:04:30.35,0:04:32.46,Main,,0,0,0,,Thông tin đó vẫn nằm trong \Ncái giá ban nãy nhể?
+Dialogue: 12,0:04:32.75,0:04:34.00,Main,,0,0,0,,Sao cũng được.
+Dialogue: 12,0:04:34.52,0:04:37.29,Main,,550,0,160,,{\an8}Cái va li đó to đến độ có thể chứa cả\N một cô em thon thả bên trong.
+Dialogue: 12,0:04:37.29,0:04:38.47,Main,,550,0,160,,{\an8}Kho báu à?
+Dialogue: 12,0:04:38.47,0:04:39.43,Main,,550,0,160,,{\an8}Biết đâu đấy.
+Dialogue: 12,0:04:40.22,0:04:42.89,Main,,0,0,0,,Tuy nhiên, từ cái cách hắn mang vác\N thì không giống cho lắm.
+Dialogue: 12,0:04:53.00,0:04:54.24,Main,,0,0,0,,Chào quan khách!
+Dialogue: 12,0:04:54.24,0:04:57.91,Main,,0,0,0,,Quan khách làm cốc bánh trà nhân sâm,\N giá 100 cành đi.
+Dialogue: 12,0:04:57.91,0:04:59.84,Main,,0,0,0,,Khỏe re cả tuần luôn.
+Dialogue: 12,0:04:59.84,0:05:02.68,Main,,0,0,0,,Nếu quan khách mệt \Nthì làm cốc bánh trà mía.
+Dialogue: 12,0:05:02.68,0:05:05.54,Main,,0,0,0,,Nếu ăn nhiều đầy bụng thì bánh trà dứa.
+Dialogue: 12,0:05:05.54,0:05:07.12,Main,,0,0,0,,Cho một "lão tửu".
+Dialogue: 12,0:05:07.12,0:05:08.04,Main,,0,0,0,,Có ngay.
+Dialogue: 12,0:05:08.48,0:05:09.75,Main,,0,0,0,,Của quan khách đây.
+Dialogue: 12,0:05:10.71,0:05:12.02,Main,,0,0,0,,Úi giời~
+Dialogue: 12,0:05:12.02,0:05:15.17,Main,,0,0,0,,Xin lỗi, xin lỗi nhé, anh giai.
+Dialogue: 12,0:05:16.89,0:05:19.26,Main,,0,0,0,,Tôi xin lỗi rồi đấy nhá.
+Dialogue: 12,0:05:19.26,0:05:21.11,Main,,0,0,0,,Mồm miệng đâu hả!
+Dialogue: 12,0:05:21.11,0:05:21.51,Main,,0,0,0,,Ây ây!
+Dialogue: 12,0:05:24.67,0:05:27.06,Main,,0,0,0,,C-Cái giề?! Tính động thủ hả?
+Dialogue: 12,0:05:29.51,0:05:30.73,Main,,0,0,0,,Để tôi đãi ông.
+Dialogue: 12,0:05:36.91,0:05:37.82,Main,,0,0,0,,Uống!
+Dialogue: 12,0:06:02.22,0:06:04.72,Main,,0,0,0,,Giờ thì, kho báu ơi, anh tới đây.
+Dialogue: 12,0:06:31.60,0:06:34.58,Main,,0,0,0,,Kể cả có đại tu toàn bộ khung máy\N thì nhiêu đó vẫn còn dư ha.
+Dialogue: 12,0:06:34.90,0:06:36.83,Main,,0,0,0,,Làm tý vịt quay Bắc Kinh cái nhề.
+Dialogue: 12,0:06:37.37,0:06:40.71,Main,,0,0,0,,Biết câu {\c&H1DD7FF&}đếm cua trong lỗ{\c} không.
+Dialogue: 12,0:06:42.59,0:06:44.12,Main,,0,0,0,,Lần này chắc như đinh đóng cột.
+Dialogue: 12,0:06:44.12,0:06:45.93,Main,,0,0,0,,Thế cố lên nha.
+Dialogue: 12,0:06:54.86,0:06:56.78,Main,,0,0,0,,Đánh cả 3 luôn à?
+Dialogue: 12,0:06:56.78,0:06:58.11,Main,,0,0,0,,Chắc thế.
+Dialogue: 12,0:06:58.11,0:07:00.03,Main,,0,0,0,,Hakim ở quanh khu này đấy.
+Dialogue: 12,0:07:00.03,0:07:01.11,Main,,0,0,0,,Chắc thế.
+Dialogue: 12,0:07:01.63,0:07:04.11,Main,,0,0,0,,Tổ sư! Hắn còn cóc biết\N thứ đó giá trị như nào!
+Dialogue: 12,0:07:04.70,0:07:06.32,Main,,0,0,0,,Tiệm thú cưng á?
+Dialogue: 12,0:07:07.09,0:07:09.03,Main,,0,0,0,,Nó cũng kiểu trái phép ấy.
+Dialogue: 12,0:07:09.03,0:07:10.64,Main,,0,0,0,,Này, anh giai.
+Dialogue: 12,0:07:11.06,0:07:14.18,Main,,0,0,0,,Trên sao Hỏa này ấy, \Ngi gỉ gì gi cái gì cũng mua được bằng tiền.
+Dialogue: 12,0:07:14.55,0:07:17.50,Main,,0,0,0,,Từ súng ống cho đến mạng người.
+Dialogue: 12,0:07:17.81,0:07:20.18,Main,,0,0,0,,Anh giai cần thông tin thì nôn ra.
+Dialogue: 12,0:07:20.18,0:07:21.85,Main,,0,0,0,,Xích dài ghê nhỉ.
+Dialogue: 12,0:07:22.15,0:07:23.46,GT 2,,0,0,0,,(phim của Lý Tiểu Long, ra mắt năm 1972)
+Dialogue: 12,0:07:22.15,0:07:23.46,Main,,0,0,0,,Mẫu "Mãnh long quá giang" à?
+Dialogue: 12,0:07:23.90,0:07:25.31,Main,,0,0,0,,Ồ, anh biết à?
+Dialogue: 12,0:07:25.31,0:07:27.34,Main,,0,0,0,,Hàng hiếm từ những năm 30 đấy.
+Dialogue: 12,0:07:28.50,0:07:30.22,Main,,0,0,0,,Lên chức đồ cổ rồi ha.
+Dialogue: 12,0:07:31.19,0:07:32.94,Main,,0,0,0,,Ở cuối đường Thái Hồng ấy,
+Dialogue: 12,0:07:32.94,0:07:36.01,Main,,0,0,0,,có tiệm Animal Treasure, \Nanh giai qua đó thử xem.
+Dialogue: 12,0:07:36.01,0:07:38.19,Main,,0,0,0,,Khá chắc là sẽ tìm được gì đó.
+Dialogue: 12,0:07:43.20,0:07:45.01,Main,,0,0,0,,Xem thì xem cũng được,
+Dialogue: 12,0:07:45.01,0:07:47.18,Main,,0,0,0,,nhưng mua hay không \Nthì phải xem xong mới biết.
+Dialogue: 12,0:07:47.18,0:07:48.41,Main,,0,0,0,,Chiều luôn.
+Dialogue: 12,0:08:01.83,0:08:05.21,Main,,0,0,0,,Phẫu thuật thẩm mĩ nhiều quá\N hết cả tiền à, Hakim?
+Dialogue: 12,0:08:05.21,0:08:06.59,Main,,0,0,0,,T-Từ từ đã nào.
+Dialogue: 12,0:08:06.59,0:08:08.03,Main,,0,0,0,,Ấy, cấm nhúc nhích.
+Dialogue: 12,0:08:08.03,0:08:11.95,Main,,0,0,0,,Quỳ đấy! Có cái mặt \Nmà cứ thay đổi xoành xoạch.
+Dialogue: 12,0:08:11.95,0:08:12.56,Main,,0,0,0,,Là sao?
+Dialogue: 12,0:08:12.77,0:08:15.43,Main,,0,0,0,,Nào nào, đừng có kiếm chuyện ở đây chứ.
+Dialogue: 12,0:08:15.43,0:08:17.49,Main,,0,0,0,,Mấy bé tiệm tôi nhạy cảm lắm đấy.
+Dialogue: 12,0:08:17.49,0:08:19.31,Main,,0,0,0,,Bà mở nó ra.
+Dialogue: 12,0:08:19.31,0:08:20.40,Main,,0,0,0,,Tại sao?
+Dialogue: 12,0:08:20.92,0:08:22.15,Main,,0,0,0,,Hình như là anh hiểu nhầm—
+Dialogue: 12,0:08:22.34,0:08:23.09,Main,,0,0,0,,Nhanh lên!
+Dialogue: 12,0:08:28.07,0:08:29.24,Main,,0,0,0,,Thôi được rồi.
+Dialogue: 12,0:08:45.63,0:08:46.46,Main,,0,0,0,,Chó?
+Dialogue: 12,0:08:46.71,0:08:48.37,Main,,0,0,0,,Là chó Corgi xứ Wales.
+Dialogue: 12,0:08:48.37,0:08:50.05,Main,,0,0,0,,Đáng yêu nhưng phổ thông à.
+Dialogue: 12,0:08:50.05,0:08:52.26,Main,,0,0,0,,Không phải giống hiếm hay gì.
+Dialogue: 12,0:08:52.48,0:08:54.64,Main,,0,0,0,,Thế... nó đáng giá bao nhiêu?
+Dialogue: 12,0:08:54.64,0:08:57.46,Main,,0,0,0,,Tính cả cái va li thì được tầm này.
+Dialogue: 12,0:08:57.46,0:08:58.47,Main,,0,0,0,,200 cành?
+Dialogue: 12,0:08:58.47,0:08:59.73,Main,,0,0,0,,200, 200 thôi.
+Dialogue: 12,0:08:59.73,0:09:01.11,Main,,0,0,0,,Ơ-Ơ kìa!
+Dialogue: 12,0:09:01.11,0:09:04.45,Main,,0,0,0,,Không chịu thì tự lo đi, thịt luôn.
+Dialogue: 12,0:09:04.45,0:09:06.19,GT 2,,0,0,0,,(Akainu: chó đỏ/vàng, còn dùng để ám chỉ việc cướp lấy công sức, thành quả)
+Dialogue: 12,0:09:04.45,0:09:06.19,Main,,0,0,0,,Số {\i1}chó vàng{\i0} ha.
+Dialogue: 12,0:09:06.19,0:09:07.34,Main,,0,0,0,,Xin lỗi đã làm phiền.
+Dialogue: 12,0:09:07.34,0:09:09.04,Main,,0,0,0,,Anh bạn cứ tiếp tục đi.
+Dialogue: 12,0:09:17.18,0:09:19.37,Main,,0,0,0,,Vịt quay Bắc Kinh coi bộ hầm hơi kỹ rồi.
+Dialogue: 12,0:09:19.78,0:09:21.35,Main,,0,0,0,,Ít nhất cũng 300 đi.
+Dialogue: 12,0:09:21.35,0:09:22.45,Main,,0,0,0,,Không được.
+Dialogue: 12,0:09:22.45,0:09:23.34,Main,,0,0,0,,280?
+Dialogue: 12,0:09:23.34,0:09:24.46,Main,,0,0,0,,Không là không.
+Dialogue: 12,0:09:24.89,0:09:25.88,Main,,0,0,0,,250...
+Dialogue: 12,0:09:25.88,0:09:28.17,Main,,0,0,0,,Là 0. Tao sẽ lấy nó lại.
+Dialogue: 12,0:09:28.60,0:09:30.92,Main,,0,0,0,,Lại nữa à? Lần này là vụ gì?
+Dialogue: 12,0:09:40.11,0:09:42.98,Main,,0,0,0,,Ai đó làm ơn bắt mấy bé lại cái!\N Mau lên!
+Dialogue: 12,0:09:43.29,0:09:43.94,Main,,0,0,0,,Ở đó!
+Dialogue: 12,0:09:43.94,0:09:44.48,Main,,0,0,0,,Được rồi.
+Dialogue: 12,0:09:50.91,0:09:52.25,Main,,0,0,0,,Hakim?!
+Dialogue: 12,0:09:52.25,0:09:54.32,Main,,0,0,0,,Ơ cái đệch! Này là sao?
+Dialogue: 12,0:10:36.20,0:10:37.99,Main,,0,0,0,,Tránh ra! Tránh ra!
+Dialogue: 12,0:10:37.99,0:10:39.70,Main,,0,0,0,,Đứng lại, đứng lại!
+Dialogue: 12,0:10:39.70,0:10:41.58,Main,,0,0,0,,Nài nài, cái quái gì thế?
+Dialogue: 12,0:10:55.87,0:10:57.61,Main,,0,0,0,,Thợ săn tiền thưởng à?
+Dialogue: 12,0:10:57.61,0:10:59.30,Main,,0,0,0,,Mafia bảo vệ động vật à?
+Dialogue: 12,0:10:59.75,0:11:01.72,Main,,0,0,0,,Anh bạn có câu chuyện \Ncảm động phát khóc luôn.
+Dialogue: 12,0:11:01.72,0:11:04.35,Main,,0,0,0,,Liều cả mạng chỉ vì \Ncon chó đáng giá 200 ô long.
+Dialogue: 12,0:11:04.35,0:11:05.44,Main,,0,0,0,,Cái gì hả?!
+Dialogue: 12,0:11:05.44,0:11:07.18,Main,,0,0,0,,Cái tôi muốn là...
+Dialogue: 12,0:11:07.18,0:11:10.41,Main,,0,0,0,,8 triệu ông long treo trên cổ anh bạn.
+Dialogue: 12,0:11:22.66,0:11:23.91,Main,,0,0,0,,Khá đấy.
+Dialogue: 12,0:11:25.34,0:11:25.87,Main,,0,0,0,,Cái gì?!
+Dialogue: 12,0:11:27.09,0:11:27.81,Main,,0,0,0,,Thôi chết!
+Dialogue: 12,0:11:43.08,0:11:44.35,Main,,0,0,0,,Im mịa mày đi!
+Dialogue: 12,0:11:44.35,0:11:46.10,Main,,0,0,0,,Tao đang bực đây này!
+Dialogue: 12,0:11:59.84,0:12:03.49,Main,,0,0,0,,Ngoan ngoan, để tao đeo vòng cổ cho.
+Dialogue: 12,0:12:03.91,0:12:06.15,Main,,0,0,0,,Lẽ ra là vịt chứ không phải chó ha.
+Dialogue: 12,0:12:06.15,0:12:07.28,Main,,0,0,0,,Kệ nó đi.
+Dialogue: 12,0:12:07.87,0:12:09.01,Main,,0,0,0,,Bộ anh biết gì à.
+Dialogue: 12,0:12:09.01,0:12:10.92,Main,,0,0,0,,Ờ, cu cậu đây ấy.
+Dialogue: 12,0:12:10.92,0:12:13.67,GT 2,,0,0,0,,(Daken: chó lai, còn dùng để ám chỉ sự vô dụng)
+Dialogue: 12,0:12:10.92,0:12:13.67,Main,,0,0,0,,Là chó Corgi xứ Wales, hoàn toàn {\i1}vô dụng{\i0}.
+Dialogue: 12,0:12:10.92,0:12:13.67,GT 2,,0,0,0,,{\i1\pos(1122,912)}(chó lai)
+Dialogue: 12,0:12:14.00,0:12:14.92,Main,,0,0,0,,Hoàn toàn?
+Dialogue: 12,0:12:14.92,0:12:18.01,Main,,0,0,0,,Hoàn toàn! Gần như cho không.
+Dialogue: 12,0:12:18.31,0:12:21.31,Main,,0,0,0,,Cái đệch! Bực hết cả mình!
+Dialogue: 12,0:12:21.31,0:12:23.51,Main,,0,0,0,,Chả đâu vào đâu,\N tất cả là tại mày, con chó vô dụng!
+Dialogue: 12,0:12:26.40,0:12:30.28,Main,,0,0,0,,Con chó thì vô giá trị thật,\N nhưng chủ của nó thì không đâu.
+Dialogue: 12,0:12:30.28,0:12:33.27,Main,,0,0,0,,Mà nói chung, \Ntốt nhất anh nên kết thân với cu cậu.
+Dialogue: 12,0:12:33.27,0:12:33.71,Main,,0,0,0,,Đùa!
+Dialogue: 12,0:12:34.06,0:12:36.48,Main,,0,0,0,,Tôi chúa ghét lũ trẻ con với súc vật.
+Dialogue: 12,0:12:36.48,0:12:38.65,Main,,0,0,0,,Chúng còn chả tự lo được cho mình.
+Dialogue: 12,0:12:41.31,0:12:42.04,Main,,0,0,0,,Được rồi này!
+Dialogue: 12,0:12:42.04,0:12:43.65,Main,,0,0,0,,Ồ, ngon!
+Dialogue: 12,0:12:44.03,0:12:44.76,Main,,0,0,0,,To lắm.
+Dialogue: 12,0:12:44.76,0:12:45.50,Main,,0,0,0,,Đây rồi, đây rồi.
+Dialogue: 12,0:12:45.50,0:12:46.54,Main,,0,0,0,,Lên là lên!
+Dialogue: 12,0:12:52.25,0:12:53.58,Main,,0,0,0,,Giờ là mấy giờ?
+Dialogue: 12,0:12:56.21,0:12:57.42,Main,,0,0,0,,4 giờ ạ.
+Dialogue: 12,0:12:58.34,0:12:59.92,Main,,0,0,0,,2 tiếng nữa à.
+Dialogue: 12,0:13:02.85,0:13:05.62,Main,,0,0,0,,Cái thằng đi cùng Hakim... là đồng bọn à?
+Dialogue: 12,0:13:05.62,0:13:06.39,Main,,0,0,0,,Chắc thế.
+Dialogue: 12,0:13:06.73,0:13:09.87,Main,,0,0,0,,Không có manh mối nào à?\N Phải hành động mau thôi.
+Dialogue: 12,0:13:09.87,0:13:12.50,Main,,0,0,0,,Để cảnh sát dính vô thì rách việc lắm.
+Dialogue: 12,0:13:12.50,0:13:13.65,Main,,0,0,0,,Chắc thế.
+Dialogue: 12,0:13:13.97,0:13:17.61,Main,,0,0,0,,Nếu nghiên cứu của chúng ta bị lộ ra ngoài\N thì công sức từ trước đến nay coi như công cốc.
+Dialogue: 12,0:13:17.61,0:13:18.36,Main,,0,0,0,,Chắc thế.
+Dialogue: 12,0:13:18.62,0:13:21.86,Main,,0,0,0,,Rốt cuộc hắn nghĩ chúng ta đã \Nđầu tư bao nhiêu vào "con chó dữ liệu" đó!
+Dialogue: 12,0:13:22.86,0:13:24.91,Main,,0,0,0,,Thế sao anh không làm đi?
+Dialogue: 12,0:13:24.91,0:13:26.31,Main,,0,0,0,,Ơ thế bà cậu không dạy...
+Dialogue: 12,0:13:26.31,0:13:29.91,Main,,0,0,0,,"làm việc gì cũng phải đến nơi đến chốn" à?
+Dialogue: 12,0:13:30.18,0:13:32.34,Main,,0,0,0,,Bà mất trước khi tôi ra đời rồi.
+Dialogue: 12,0:13:32.34,0:13:33.49,Main,,0,0,800,,Ôi, thế xin lỗi nha.
+Dialogue: 12,0:13:33.49,0:13:36.88,Main,,0,0,800,,Mà dù sao, chúng ta nắm trong tay\N quân Joker đây rồi.
+Dialogue: 12,0:13:37.13,0:13:39.13,Main,,0,0,0,,Cứ theo chiến lược mà làm.
+Dialogue: 12,0:13:39.47,0:13:41.79,Main,,0,0,0,,Mật danh "snoop", làm ơn.
+Dialogue: 12,0:13:43.40,0:13:46.93,Main,,0,0,0,,Phải, tôi đây, có biến rồi.
+Dialogue: 12,0:13:48.22,0:13:50.41,Main,,0,0,0,,À không, cũng không có gì to tát,\N nhưng mà...
+Dialogue: 12,0:13:50.93,0:13:53.35,Main,,0,0,0,,Này! Chờ tao với, Michael!
+Dialogue: 12,0:13:54.49,0:13:57.20,Main,,0,0,0,,...tôi muốn hoãn lại thời điểm giao dịch.
+Dialogue: 12,0:13:57.77,0:13:59.73,Main,,0,0,0,,Không, không có gì to tát cả.
+Dialogue: 12,0:14:00.59,0:14:01.36,Main,,0,0,0,,Không được á?
+Dialogue: 12,0:14:01.36,0:14:03.77,Main,,0,0,0,,Tại sao? Này, từ đã nào!
+Dialogue: 12,0:14:11.72,0:14:14.04,Main,,0,0,0,,Chiến lược là đây ư.
+Dialogue: 12,0:14:18.05,0:14:20.00,Main,,0,0,0,,Anh kia!
+Dialogue: 12,0:14:20.00,0:14:23.00,Main,,0,0,0,,Anh đang cực kỳ \Nmuốn biết gì đó đúng không?
+Dialogue: 12,0:14:23.27,0:14:25.01,Main,,0,0,0,,Ấy ấy, dừng bước.
+Dialogue: 12,0:14:25.01,0:14:28.87,Main,,0,0,0,,Peeko-chan của lão cái gì cũng trả lời được.
+Dialogue: 12,0:14:29.47,0:14:32.68,Main,,0,0,0,,Quan khách đang vướng mắc gì đó\N đúng không nào?
+Dialogue: 12,0:14:33.05,0:14:36.19,Main,,0,0,0,,Đó đó, thấy chưa? Peeko-chan phán rằng...
+Dialogue: 12,0:14:36.19,0:14:40.19,Main,,0,0,0,,anh đang cần tìm ai đó, \Nhoặc là thứ gì đó ha.{mịa, phán kiểu này, phán 10 ông trúng 9}
+Dialogue: 12,0:14:44.36,0:14:48.70,Main,,0,0,0,,Xem nào, con chó đi đâu, thì Hakim đi đó...
+Dialogue: 12,0:14:49.38,0:14:51.01,Main,,0,0,0,,Vừa to vừa rõ.
+Dialogue: 12,0:14:51.66,0:14:54.12,Main,,0,0,0,,Nhờ cả vào mày đó, cún con.
+Dialogue: 12,0:14:54.99,0:14:57.62,Main,,0,0,0,,Hết cách rồi, dùng còi gọi chó thôi.
+Dialogue: 12,0:14:57.62,0:14:59.87,Main,,0,0,0,,Nhưng thế thì rắc rối to.
+Dialogue: 12,0:14:59.87,0:15:00.93,Main,,0,0,0,,Kệ đi.
+Dialogue: 12,0:15:00.93,0:15:02.23,Main,,0,0,0,,Sẽ gây chú ý đấy.
+Dialogue: 12,0:15:02.23,0:15:03.63,Main,,0,0,0,,Được cái này mất cái kia thôi.
+Dialogue: 12,0:15:03.63,0:15:04.89,Main,,0,0,0,,Vậy làm nhé?
+Dialogue: 12,0:15:04.89,0:15:05.92,Main,,0,0,0,,Ờ, làm đi.
+Dialogue: 12,0:15:14.64,0:15:16.15,Main,,0,0,0,,Sao chả nghe thấy gì.
+Dialogue: 12,0:15:16.15,0:15:18.73,Main,,0,0,0,,Thì con người sao mà nghe được.
+Dialogue: 12,0:15:18.73,0:15:20.69,Main,,0,0,0,,Ừ ha, đúng rồi.
+Dialogue: 12,0:15:21.21,0:15:24.17,Main,,0,0,0,,Ba cái trò mất não này. Chán chuyện!
+Dialogue: 12,0:15:24.99,0:15:27.76,Main,,0,0,0,,Bộ hắn thực sự chui đầu ra à?
+Dialogue: 12,0:15:33.57,0:15:36.96,Main,,0,0,0,,Ồ, có động tĩnh, có động tĩnh rồi này.
+Dialogue: 12,0:15:38.92,0:15:42.25,Main,,0,0,0,,Ơ, mấy bé làm sao thế?
+Dialogue: 12,0:15:45.08,0:15:46.34,Main,,0,0,0,,Này! Đứng lại!
+Dialogue: 12,0:15:52.01,0:15:53.39,Main,,0,0,0,,Chạy mất rồi! Jet!
+Dialogue: 12,0:15:54.44,0:15:55.49,Main,,0,0,0,,Hakim á?
+Dialogue: 12,0:15:55.49,0:15:56.35,Main,,0,0,0,,Con chó!
+Dialogue: 12,0:15:56.35,0:15:58.48,Main,,0,0,0,,Gần! Gần lắm rồi!
+Dialogue: 12,0:15:58.48,0:16:00.86,Main,,0,0,0,,Thứ anh tìm kiếm ở gần lắm rồi.
+Dialogue: 12,0:16:00.86,0:16:04.13,Main,,0,0,0,,Phải nói là ở ngay trước mặt luôn.
+Dialogue: 12,0:16:05.94,0:16:07.99,Main,,0,0,0,,Ơ kìa?! Còn tiền?
+Dialogue: 12,0:16:07.99,0:16:09.03,Main,,0,0,0,,Nào giàu tôi trả.
+Dialogue: 12,0:16:09.36,0:16:11.20,Main,,0,0,0,,Thật luôn?
+Dialogue: 12,0:16:18.31,0:16:20.75,Main,,0,0,0,,Cái đệch! Rốt cuộc là có chuyện gì?
+Dialogue: 12,0:16:26.72,0:16:27.98,Main,,0,0,0,,Em hạnh phúc chứ?
+Dialogue: 12,0:16:27.98,0:16:29.60,Main,,0,0,0,,Vâng, cực kỳ hạnh phúc.
+Dialogue: 12,0:16:32.09,0:16:32.60,Main,,0,0,0,,Anh gì ơi—
+Dialogue: 12,0:16:32.60,0:16:33.18,Main,,0,0,0,,Cút!
+Dialogue: 12,0:16:37.65,0:16:40.18,Main,,0,0,0,,Này anh, anh làm cái gì thế hả?
+Dialogue: 12,0:16:43.82,0:16:44.90,Main,,0,0,0,,Hakim!
+Dialogue: 12,0:16:52.78,0:16:53.63,Main,,0,0,0,,Thôi chết.
+Dialogue: 12,0:16:55.78,0:16:57.74,Main,,0,0,0,,Cũng chỉ là chó mà thôi.
+Dialogue: 12,0:17:03.45,0:17:04.00,Main,,0,0,0,,Hakim!
+Dialogue: 12,0:17:05.59,0:17:08.88,Main,,0,0,0,,Spike! Hắn đang hướng tới giao lộ 6.
+Dialogue: 12,0:17:08.88,0:17:12.15,Main,,0,0,0,,Đẹp luôn! Tính thoát được thì cứ thử xem!
+Dialogue: 12,0:17:12.15,0:17:13.89,Main,,0,0,0,,Cứ từ từ đừng nóng.
+Dialogue: 12,0:17:14.16,0:17:16.05,Main,,0,0,0,,Đâu, nóng đâu, nóng chỗ nào!
+Dialogue: 12,0:17:21.09,0:17:21.81,Main,,0,0,0,,Đây rồi con.
+Dialogue: 12,0:17:39.29,0:17:40.78,Main,,0,0,0,,Đáp lễ quả ban nãy này!
+Dialogue: 12,0:17:49.59,0:17:52.34,Main,,0,0,0,,Làm cái trò gì thế? \NHắn là của thằng này!
+Dialogue: 12,0:18:01.60,0:18:02.23,Main,,0,0,0,,Cái gì thế?
+Dialogue: 12,0:18:02.23,0:18:03.22,Main,,0,0,0,,Ngay lúc này!
+Dialogue: 12,0:18:06.44,0:18:07.06,Main,,0,0,0,,Mày thôi ngay!
+Dialogue: 12,0:18:09.31,0:18:10.48,Main,,0,0,0,,Bà mịa!
+Dialogue: 12,0:18:13.72,0:18:14.36,Main,,0,0,0,,Cái đệch!
+Dialogue: 12,0:18:15.09,0:18:17.03,Main,,0,0,0,,Thế mới nói ghét đám súc vật.
+Dialogue: 12,0:18:38.67,0:18:40.11,Main,,0,0,0,,{\i1}Chào bà con!
+Dialogue: 12,0:18:40.11,0:18:43.52,Main,,0,0,0,,{\i1}Toàn bộ 300.000 bà con thợ săn tiền thưởng,\N khỏe cả chứ?
+Dialogue: 12,0:18:43.52,0:18:47.57,Main,,0,0,0,,{\i1}Chúng tôi, Big Shot, sẽ cung cấp cho bà con \Nthông tin về những kẻ bị truy nã.
+Dialogue: 12,0:18:47.57,0:18:52.98,Main,,0,0,0,,{\i1}Xem nào, cô còn nhớ chứ, Abdul Hakim tuần trước\N làm quả đầu thú sáng nhất quả đất luôn.
+Dialogue: 12,0:18:52.98,0:18:54.70,Main,,0,0,0,,{\i1}Nhớ! Quên làm sao được.
+Dialogue: 12,0:18:54.70,0:18:59.17,Main,,0,0,0,,{\i1}Hóa ra, con vật mà Abdul Hakim đã trộm...
+Dialogue: 12,0:18:59.17,0:19:02.02,Main,,0,0,0,,{\i1}lại là "con chó dữ liệu" \Nmà tổ chức nghiên cứu đó nhân giống phi pháp.
+Dialogue: 12,0:19:02.02,0:19:03.88,Main,,0,0,0,,{\i1}Ù ôi! Là sao cơ?!
+Dialogue: 12,0:19:03.88,0:19:08.89,Main,,0,0,0,,{\i1}Ờ thì tôi cũng không hiểu lắm,\N đại loại là một con chó rất thông minh.
+Dialogue: 12,0:19:08.89,0:19:12.75,Main,,0,0,0,,{\i1}Trong giới sưu tầm,\N giá phải nói là cao ngất ngưởng luôn.
+Dialogue: 12,0:19:12.75,0:19:14.59,Main,,0,0,0,,{\i1}Ôi trời~ Bất ngờ quá~
+Dialogue: 12,0:19:14.59,0:19:17.34,Main,,0,0,0,,{\i1}Bé cún như thế tôi cũng muốn ý~
+Dialogue: 12,0:19:17.34,0:19:19.93,Main,,0,0,0,,{\i1}Ờ, cơ mà... hiện bé nó vẫn đang mất tích.
+Dialogue: 12,0:19:19.93,0:19:22.09,Main,,0,0,0,,{\i1}Rốt cuộc nó đi đâu được nhỉ?
+Dialogue: 12,0:19:22.09,0:19:23.19,Main,,0,0,0,,{\i1}Phải đấy!
+Dialogue: 12,0:19:23.19,0:19:25.24,Main,,0,0,0,,{\i1}Còn giờ, thời lượng cho quảng cáo.
+Dialogue: 12,0:19:27.15,0:19:28.73,Main,,0,0,0,,Làm gì có chuyện.
+Dialogue: 12,0:19:28.97,0:19:30.02,Main,,0,0,0,,Nào nào!
+Dialogue: 12,0:19:30.02,0:19:33.48,Main,,0,0,0,,Dọn xong thì cho rồng Komodo ăn đấy nhá.
+Dialogue: 12,0:19:34.07,0:19:36.07,Main,,0,0,0,,Làm đó đâu đấy vào!
+Dialogue: 12,0:19:36.07,0:19:37.20,Main,,0,0,0,,Rồi...
+Dialogue: 12,0:19:39.58,0:19:41.24,Main,,0,0,0,,Nài nài!
+Dialogue: 12,0:19:44.03,0:19:46.24,Main,,0,0,0,,Này! Đừng có nhảy lên đó.
+Dialogue: 12,0:19:47.39,0:19:48.08,Main,,0,0,0,,Lãnh vãi.
+Dialogue: 12,0:19:49.64,0:19:52.85,Main,,0,0,0,,Tôi đã kêu anh là tống cổ \Ncon chó vô dụng này đi rồi còn.
+Dialogue: 12,0:19:52.85,0:19:54.95,Main,,0,0,0,,Anh là người lôi nó về cơ mà.
+Dialogue: 12,0:19:55.55,0:19:58.17,Main,,0,0,0,,Dù sao đi nữa, \Nvẫn phải xử lý đống ve cho nó.
+Dialogue: 12,0:19:58.75,0:20:00.43,Main,,0,0,0,,Cái đệch!
+Dialogue: 12,0:20:00.43,0:20:02.43,Main,,0,0,0,,Tao cho mày vào nồi luôn đấy.
+Dialogue: 12,0:20:02.94,0:20:05.26,Main,,0,0,0,,{\i1}Vậy hẹn gặp lại bà con nhé! \NSee you next time!{\i0}
+Dialogue: 12,0:20:05.26,0:20:06.56,Main,,0,0,0,,{\i1}Good luck!
+Dialogue: 12,0:21:48.35,0:21:51.62,Main,preview,0,0,0,,Vạn vật trên thế giới này \Nđều có tạo hóa của nó,
+Dialogue: 12,0:21:52.62,0:21:54.66,Main,preview,0,0,0,,Lúc thịnh lúc suy.
+Dialogue: 12,0:21:55.21,0:21:57.42,Main,preview,0,0,0,,Tiền là động cơ của thế giới,
+Dialogue: 12,0:21:58.13,0:22:01.04,Main,preview,0,0,0,,nhưng rồi sẽ có ngày nợ nần chồng chất.
+Dialogue: 12,0:22:02.13,0:22:04.79,Main,preview,0,0,0,,Lang tha lang thang ngoài không gian,
+Dialogue: 12,0:22:04.79,0:22:07.43,Main,preview,0,0,0,,để rồi gặp một chàng cao bồi.
+Dialogue: 12,0:22:07.81,0:22:12.56,Main,preview,0,0,0,,Chơi một bản ghi với giai điệu lạc nhịp.
+Dialogue: 12,0:22:12.56,0:22:15.56,GT 2,preview,0,0,0,,(tên một bài hát có thật, mọi tên tập của Bebop đều lấy cảm hứng từ nhạc jazz)
+Comment: 12,0:22:12.56,0:22:14.24,Main,preview,0,0,0,,Honky Tonk Women\N (Cô gái quán bar)
+Comment: 0,0:22:14.24,0:22:17.24,Main,,0,0,0,,======================================
+Dialogue: 0,0:02:07.57,0:02:10.53,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H2F657A&\3c&H2F657A&\b0\pos(287.2,424.07)\fscx117\fscy124}CHÓ HOANG BỐ ĐỜI
+Dialogue: 1,0:02:07.57,0:02:10.53,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(287.2,424.07)\fscx117\fscy124}CHÓ HOANG BỐ ĐỜI
+Dialogue: 0,0:02:07.57,0:02:10.53,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H2F657A&\3c&H2F657A&\b0\alpha&H50&\3a&H00&\1a&H00&\pos(288.2,424.07)\fscx117\fscy124}CHÓ HOANG BỐ ĐỜI
+Dialogue: 1,0:02:07.57,0:02:10.53,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\alpha&H50&\pos(288.2,424.07)\fscx117\fscy124}CHÓ HOANG BỐ ĐỜI
+Dialogue: 0,0:02:07.57,0:02:10.53,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0.7\shad0\c&H2F657A&\3c&H2F657A&\b0\pos(1382.21,74.67)\fscx59\fscy59}Phụ đề được thực hiện bởi GSGA
+Dialogue: 1,0:02:07.57,0:02:10.53,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(1382.21,74.67)\fscx59\fscy59}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:02:07.57,0:02:10.53,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0.7\shad0\c&H2F657A&\3c&H2F657A&\b0\pos(1382.21,124.67)\fscx59\fscy59}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 1,0:02:07.57,0:02:10.53,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(1382.21,124.67)\fscx59\fscy59}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 0,0:04:53.56,0:05:05.54,Signs,,0,0,0,,
+Dialogue: 0,0:05:58.00,0:06:02.22,Signs,,0,0,0,,
+Dialogue: 0,0:14:25.01,0:14:29.47,Signs,,0,0,0,,
+Dialogue: 0,0:14:32.68,0:14:36.19,Signs,,0,0,0,,
+Dialogue: 0,0:14:36.19,0:14:40.19,Signs,,0,0,0,,
+Dialogue: 0,0:14:48.70,0:14:51.66,Signs,,0,0,0,,
+Dialogue: 0,0:17:05.59,0:17:08.88,Signs,,0,0,0,,
+Dialogue: 0,0:17:47.34,0:17:49.59,Signs,,0,0,0,,
+Dialogue: 0,0:18:04.56,0:18:06.06,Signs,,0,0,0,,
+Dialogue: 0,0:18:30.84,0:18:31.92,Signs,,0,0,0,,
+Dialogue: 0,0:21:46.37,0:21:47.54,Signs,,0,0,0,,{\pos(718,724)}Giới thiệu tập sau
+Dialogue: 0,0:22:12.56,0:22:15.56,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H532A3A&\3c&H532A3A&\b0\pos(182.2,430.07)\fscx105\fscy112}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
+Dialogue: 1,0:22:12.56,0:22:15.56,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(182.2,430.07)\fscx105\fscy112}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
+Dialogue: 0,0:22:12.56,0:22:15.56,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H532A3A&\3c&H532A3A&\b0\alpha&H50&\3a&H00&\1a&H00&\pos(183.2,430.07)\fscx105\fscy112}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
+Dialogue: 1,0:22:12.56,0:22:15.56,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\alpha&H50&\pos(183.2,430.07)\fscx105\fscy112}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
+Dialogue: 0,0:22:12.56,0:22:15.56,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0.7\shad0\c&H532A3A&\3c&H532A3A&\b0\pos(1382.21,74.67)\fscx59\fscy59}Phụ đề được thực hiện bởi GSGA
+Dialogue: 1,0:22:12.56,0:22:15.56,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(1382.21,74.67)\fscx59\fscy59}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:22:12.56,0:22:15.56,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0.7\shad0\c&H532A3A&\3c&H532A3A&\b0\pos(1382.21,124.67)\fscx59\fscy59}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 1,0:22:12.56,0:22:15.56,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(1382.21,124.67)\fscx59\fscy59}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Comment: 2,0:20:07.60,0:20:10.11,Endcard,,0,0,0,,{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.8,1012.8)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Comment: 1,0:20:07.60,0:20:10.11,Endcard,,0,0,0,,{\fsp5\blur0.9\bord0\shad0\pos(1014.8,1012.8)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Comment: 3,0:20:07.60,0:20:10.11,Endcard,,0,0,0,,{\fsp5\blur12\bord0\shad0\pos(1012.8,1012.8)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:07.60,0:20:07.64,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.8,1012.8)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:07.64,0:20:07.68,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.58,1012.75)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:07.68,0:20:07.72,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.46,1012.95)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:07.72,0:20:07.76,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.56,1012.79)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:07.76,0:20:07.81,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.9,1012.94)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:07.81,0:20:07.85,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1013.08,1013.26)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:07.85,0:20:07.89,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.74,1013.23)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:07.89,0:20:07.93,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.69,1012.97)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:07.93,0:20:07.97,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1013.09,1013.06)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:07.97,0:20:08.01,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.76,1012.7)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:08.01,0:20:08.06,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1013,1012.97)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:08.06,0:20:08.10,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1013.18,1012.86)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:08.10,0:20:08.14,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.67,1013.04)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:08.14,0:20:08.18,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.58,1013.11)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:08.18,0:20:08.22,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.71,1012.9)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:08.22,0:20:08.27,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.71,1012.88)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:08.27,0:20:08.31,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.7,1013.03)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:08.31,0:20:08.35,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.45,1013.1)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:08.35,0:20:08.39,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.56,1012.96)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:08.39,0:20:08.43,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.48,1013.06)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:08.43,0:20:08.47,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.72,1013.14)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:08.47,0:20:08.52,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.67,1012.63)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:08.52,0:20:08.56,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.6,1012.73)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:08.56,0:20:08.60,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.91,1013.04)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:08.60,0:20:08.64,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.62,1013.14)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:08.64,0:20:08.68,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.74,1012.77)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:08.68,0:20:08.72,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1013,1012.53)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:08.72,0:20:08.77,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.94,1012.82)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:08.77,0:20:08.81,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.69,1012.97)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:08.81,0:20:08.85,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.78,1012.69)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:08.85,0:20:08.89,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.9,1012.56)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:08.89,0:20:08.93,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.68,1012.74)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:08.93,0:20:08.97,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.58,1012.84)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:08.97,0:20:09.02,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.38,1012.85)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:09.02,0:20:09.06,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.44,1012.98)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:09.06,0:20:09.10,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.54,1013.01)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:09.10,0:20:09.14,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.8,1012.79)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:09.14,0:20:09.18,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.78,1012.64)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:09.18,0:20:09.22,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.98,1012.91)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:09.22,0:20:09.27,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1013.13,1012.98)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:09.27,0:20:09.31,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1013.18,1012.71)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:09.31,0:20:09.35,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1013.07,1012.58)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:09.35,0:20:09.39,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1013.05,1012.65)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:09.39,0:20:09.43,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.91,1012.52)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:09.43,0:20:09.47,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.71,1012.37)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:09.47,0:20:09.52,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.86,1012.56)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:09.52,0:20:09.56,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.78,1012.51)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:09.56,0:20:09.60,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.54,1012.73)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:09.60,0:20:09.64,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.71,1012.88)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:09.64,0:20:09.68,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.53,1013.22)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:09.68,0:20:09.72,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.34,1013.21)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:09.72,0:20:09.77,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.68,1012.79)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:09.77,0:20:09.81,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.97,1012.77)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:09.81,0:20:09.85,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.92,1013.01)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:09.85,0:20:09.89,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.89,1013.17)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:09.89,0:20:09.93,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.91,1012.73)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:09.93,0:20:09.98,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.7,1012.65)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:09.98,0:20:10.02,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1013.02,1012.67)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:10.02,0:20:10.06,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1013.04,1012.8)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:20:10.06,0:20:10.10,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.5,1013.3)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:07.60,0:20:07.64,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.8,1012.8)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:07.64,0:20:07.68,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.58,1012.75)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:07.68,0:20:07.72,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.46,1012.95)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:07.72,0:20:07.76,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.56,1012.79)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:07.76,0:20:07.81,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.9,1012.94)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:07.81,0:20:07.85,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1015.08,1013.26)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:07.85,0:20:07.89,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.74,1013.23)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:07.89,0:20:07.93,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.69,1012.97)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:07.93,0:20:07.97,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1015.09,1013.06)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:07.97,0:20:08.01,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.76,1012.7)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:08.01,0:20:08.06,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1015,1012.97)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:08.06,0:20:08.10,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1015.18,1012.86)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:08.10,0:20:08.14,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.67,1013.04)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:08.14,0:20:08.18,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.58,1013.11)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:08.18,0:20:08.22,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.71,1012.9)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:08.22,0:20:08.27,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.71,1012.88)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:08.27,0:20:08.31,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.7,1013.03)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:08.31,0:20:08.35,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.45,1013.1)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:08.35,0:20:08.39,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.56,1012.96)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:08.39,0:20:08.43,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.48,1013.06)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:08.43,0:20:08.47,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.72,1013.14)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:08.47,0:20:08.52,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.67,1012.63)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:08.52,0:20:08.56,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.6,1012.73)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:08.56,0:20:08.60,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.91,1013.04)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:08.60,0:20:08.64,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.62,1013.14)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:08.64,0:20:08.68,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.74,1012.77)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:08.68,0:20:08.72,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1015,1012.53)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:08.72,0:20:08.77,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.94,1012.82)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:08.77,0:20:08.81,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.69,1012.97)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:08.81,0:20:08.85,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.78,1012.69)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:08.85,0:20:08.89,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.9,1012.56)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:08.89,0:20:08.93,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.68,1012.74)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:08.93,0:20:08.97,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.58,1012.84)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:08.97,0:20:09.02,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.38,1012.85)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:09.02,0:20:09.06,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.44,1012.98)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:09.06,0:20:09.10,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.54,1013.01)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:09.10,0:20:09.14,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.8,1012.79)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:09.14,0:20:09.18,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.78,1012.64)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:09.18,0:20:09.22,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.98,1012.91)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:09.22,0:20:09.27,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1015.13,1012.98)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:09.27,0:20:09.31,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1015.18,1012.71)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:09.31,0:20:09.35,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1015.07,1012.58)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:09.35,0:20:09.39,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1015.05,1012.65)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:09.39,0:20:09.43,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.91,1012.52)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:09.43,0:20:09.47,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.71,1012.37)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:09.47,0:20:09.52,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.86,1012.56)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:09.52,0:20:09.56,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.78,1012.51)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:09.56,0:20:09.60,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.54,1012.73)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:09.60,0:20:09.64,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.71,1012.88)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:09.64,0:20:09.68,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.53,1013.22)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:09.68,0:20:09.72,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.34,1013.21)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:09.72,0:20:09.77,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.68,1012.79)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:09.77,0:20:09.81,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.97,1012.77)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:09.81,0:20:09.85,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.92,1013.01)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:09.85,0:20:09.89,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.89,1013.17)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:09.89,0:20:09.93,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.91,1012.73)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:09.93,0:20:09.98,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.7,1012.65)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:09.98,0:20:10.02,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1015.02,1012.67)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:10.02,0:20:10.06,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1015.04,1012.8)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:20:10.06,0:20:10.10,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.5,1013.3)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:07.60,0:20:07.64,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.8,1012.8)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:07.64,0:20:07.68,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.58,1012.75)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:07.68,0:20:07.72,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.46,1012.95)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:07.72,0:20:07.76,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.56,1012.79)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:07.76,0:20:07.81,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.9,1012.94)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:07.81,0:20:07.85,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1013.08,1013.26)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:07.85,0:20:07.89,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.74,1013.23)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:07.89,0:20:07.93,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.69,1012.97)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:07.93,0:20:07.97,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1013.09,1013.06)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:07.97,0:20:08.01,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.76,1012.7)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:08.01,0:20:08.06,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1013,1012.97)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:08.06,0:20:08.10,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1013.18,1012.86)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:08.10,0:20:08.14,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.67,1013.04)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:08.14,0:20:08.18,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.58,1013.11)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:08.18,0:20:08.22,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.71,1012.9)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:08.22,0:20:08.27,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.71,1012.88)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:08.27,0:20:08.31,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.7,1013.03)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:08.31,0:20:08.35,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.45,1013.1)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:08.35,0:20:08.39,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.56,1012.96)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:08.39,0:20:08.43,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.48,1013.06)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:08.43,0:20:08.47,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.72,1013.14)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:08.47,0:20:08.52,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.67,1012.63)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:08.52,0:20:08.56,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.6,1012.73)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:08.56,0:20:08.60,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.91,1013.04)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:08.60,0:20:08.64,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.62,1013.14)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:08.64,0:20:08.68,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.74,1012.77)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:08.68,0:20:08.72,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1013,1012.53)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:08.72,0:20:08.77,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.94,1012.82)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:08.77,0:20:08.81,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.69,1012.97)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:08.81,0:20:08.85,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.78,1012.69)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:08.85,0:20:08.89,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.9,1012.56)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:08.89,0:20:08.93,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.68,1012.74)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:08.93,0:20:08.97,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.58,1012.84)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:08.97,0:20:09.02,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.38,1012.85)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:09.02,0:20:09.06,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.44,1012.98)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:09.06,0:20:09.10,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.54,1013.01)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:09.10,0:20:09.14,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.8,1012.79)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:09.14,0:20:09.18,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.78,1012.64)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:09.18,0:20:09.22,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.98,1012.91)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:09.22,0:20:09.27,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1013.13,1012.98)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:09.27,0:20:09.31,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1013.18,1012.71)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:09.31,0:20:09.35,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1013.07,1012.58)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:09.35,0:20:09.39,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1013.05,1012.65)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:09.39,0:20:09.43,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.91,1012.52)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:09.43,0:20:09.47,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.71,1012.37)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:09.47,0:20:09.52,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.86,1012.56)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:09.52,0:20:09.56,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.78,1012.51)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:09.56,0:20:09.60,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.54,1012.73)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:09.60,0:20:09.64,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.71,1012.88)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:09.64,0:20:09.68,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.53,1013.22)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:09.68,0:20:09.72,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.34,1013.21)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:09.72,0:20:09.77,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.68,1012.79)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:09.77,0:20:09.81,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.97,1012.77)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:09.81,0:20:09.85,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.92,1013.01)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:09.85,0:20:09.89,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.89,1013.17)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:09.89,0:20:09.93,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.91,1012.73)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:09.93,0:20:09.98,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.7,1012.65)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:09.98,0:20:10.02,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1013.02,1012.67)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:10.02,0:20:10.06,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1013.04,1012.8)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:20:10.06,0:20:10.10,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.5,1013.3)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+
+[Aegisub Extradata]
+Data: 0,a-mo,e{"originalText"#3A"{\\fsp5\\blur12\\bord0\\shad0\\pos(1012.8#2C1012.8)\\c&HE1E1E1&\\1a&H9A&\\fax-0.45\\fscx57\\fscy90}G#E1#BA#B6P SAU#2C CH#C3#80NG CAO B#E1#BB#92I KH#C3#94NG GIAN ..."#2C"uuid"#3A"72b8d266-68c2-4ed3-9b2d-a902927e0704"}
+Data: 1,a-mo,e{"originalText"#3A"{\\fsp5\\blur0.9\\bord0\\shad0\\pos(1014.8#2C1012.8)\\c&HFFFFFF&\\fax-0.45\\fscx57\\fscy90}G#E1#BA#B6P SAU#2C CH#C3#80NG CAO B#E1#BB#92I KH#C3#94NG GIAN ..."#2C"uuid"#3A"e58439e8-9c66-4252-88cd-4e8c7ef8f916"}
+Data: 2,a-mo,e{"originalText"#3A"{\\fsp5\\blur0.9\\bord0\\shad0\\c&HE1E1E1&\\pos(1012.8#2C1012.8)\\fax-0.45\\fscx57\\fscy90}G#E1#BA#B6P SAU#2C CH#C3#80NG CAO B#E1#BB#92I KH#C3#94NG GIAN ..."#2C"uuid"#3A"0cd25030-7dec-4fd8-95c4-26b0fdd271ea"}
