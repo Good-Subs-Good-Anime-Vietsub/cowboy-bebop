@@ -16,13 +16,13 @@ Audio File: ../raws/[JySzE] Cowboy Bebop - 02 [v2][90E70D6A].mkv
 Video File: ../raws/[JySzE] Cowboy Bebop - 02 [v2][90E70D6A].mkv
 Video AR Value: 1.340741
 Video Zoom Percent: 0.500000
-Scroll Position: 61
-Active Line: 71
-Video Position: 7719
+Scroll Position: 50
+Active Line: 55
+Video Position: 6582
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,KiOZ Gandhi Sans Dialogue,68,&H00FFFFFF,&H000000FF,&H00000000,&HA9000000,0,0,0,0,100,100,0,0,1,3.2,2.8,2,12,12,60,1
+Style: Main,KiOZ Gandhi Sans Dialogue,72,&H00FFFFFF,&H000000FF,&H00000000,&HA9000000,0,0,0,0,100,100,0,0,1,3.6,2.8,2,12,12,60,1
 Style: GT,Adobe Clean,50,&H00FFFFFF,&H000000FF,&H00000000,&H82000000,-1,0,0,0,100,100,0,0,3,0,0.0740741,8,10,10,30,1
 Style: GT 2,Adobe Clean,42,&H00FFFFFF,&H000000FF,&H000A0937,&HB40000FF,-1,0,0,0,100,100,0,0,1,3,1,2,12,12,40,1
 Style: OST,Signika SemiBold,82,&H00FFFFFF,&H000000FF,&H00091641,&H971F3DBB,0,0,0,0,100,100,0,0,1,4,2,2,10,10,60,1
@@ -65,7 +65,7 @@ Dialogue: 12,0:02:52.05,0:02:55.74,Main,,0,0,0,,{\i1}Chúng tôi, Big Shot, sẽ
 Dialogue: 12,0:02:55.74,0:02:59.51,Main,,0,0,0,,{\i1}Giờ thì, giờ thì,\N mở bát cho hôm nay sẽ là...
 Comment: 12,0:02:59.57,0:03:00.66,Main,,0,0,0,,{\i1}Abdul Hakim.
 Dialogue: 12,0:03:01.46,0:03:04.76,Main,,0,0,0,,{\i1}Anh ta là một tay trộm thú cưng.{trộm chó @@}
-Dialogue: 12,0:03:04.76,0:03:08.63,Main,,0,0,0,,{\i1}Còn vụ này là trộm động vật thí nghiệm\N từ một tổ chức nghiên cứu, hiện vẫn đang lẫn trốn.
+Dialogue: 12,0:03:04.76,0:03:08.63,Main,,0,0,0,,{\i1}Lần này anh ta trộm động vật thí nghiệm\N từ một tổ chức nghiên cứu, hiện vẫn đang lẫn trốn.
 Dialogue: 12,0:03:09.48,0:03:13.47,Main,,0,0,0,,{\i1}Tin tốt là tiền thưởng lên tới tận 8 triệu,\N sốc chưa bà con!
 Dialogue: 12,0:03:13.47,0:03:15.27,Main,,0,0,0,,{\i1}Điều kiện vẫn như thường lệ.
 Dialogue: 12,0:03:15.27,0:03:17.87,Main,,0,0,0,,{\i1}Nộp người nhận tiền, còn sống mới tính.
@@ -86,13 +86,13 @@ Dialogue: 12,0:03:48.07,0:03:49.42,Main,,0,0,0,,Đấm nó hộ tôi một cái.
 Dialogue: 12,0:03:50.04,0:03:54.88,Main,,0,0,0,,Nó dám đạp tôi mới cay chứ,\N mà thích thì cứ chục cái luôn đi.
 Dialogue: 12,0:04:19.07,0:04:21.48,Main,,0,0,0,,Tôi có hàng rồi đây.
 Dialogue: 12,0:04:21.48,0:04:24.10,Main,,0,0,0,,Lần này không phải dạng vừa đâu.
-Dialogue: 12,0:04:24.57,0:04:26.48,Main,,0,0,0,,Vậy 6 giờ gặp.
+Dialogue: 12,0:04:24.57,0:04:26.48,Main,,0,0,0,,Vậy 6 tiếng nữa gặp.
 Dialogue: 12,0:04:27.34,0:04:30.35,Main,,0,0,0,,Nó mang theo một cái va li rất nổi bật.
 Dialogue: 12,0:04:30.35,0:04:32.46,Main,,0,0,0,,Thông tin đó vẫn nằm trong \Ncái giá ban nãy nhể?
 Dialogue: 12,0:04:32.75,0:04:34.00,Main,,0,0,0,,Sao cũng được.
-Dialogue: 12,0:04:34.52,0:04:37.29,Main,,550,0,160,,{\an8}Cái va li đó to đến độ có thể chứa cả\N một cô em thon thả bên trong.
-Dialogue: 12,0:04:37.29,0:04:38.47,Main,,550,0,160,,{\an8}Kho báu à?
-Dialogue: 12,0:04:38.47,0:04:39.43,Main,,550,0,160,,{\an8}Biết đâu đấy.
+Dialogue: 12,0:04:34.52,0:04:37.29,Main,,550,0,160,,{\q2\an8}Cái va li đó có thể chứa cả\N một cô em thon thả bên trong.
+Dialogue: 12,0:04:37.29,0:04:38.47,Main,,550,0,160,,{\q2\an8}Kho báu à?
+Dialogue: 12,0:04:38.47,0:04:39.43,Main,,550,0,160,,{\q2\an8}Biết đâu đấy.
 Dialogue: 12,0:04:40.22,0:04:42.89,Main,,0,0,0,,Tuy nhiên, từ cái cách hắn mang vác\N thì không giống cho lắm.
 Dialogue: 12,0:04:53.00,0:04:54.24,Main,,0,0,0,,Chào quan khách!
 Dialogue: 12,0:04:54.24,0:04:57.91,Main,,0,0,0,,Quan khách làm cốc bánh trà nhân sâm,\N giá 100 cành đi.
@@ -110,8 +110,8 @@ Dialogue: 12,0:05:21.11,0:05:21.51,Main,,0,0,0,,Ây ây!
 Dialogue: 12,0:05:24.67,0:05:27.06,Main,,0,0,0,,C-Cái giề?! Tính động thủ hả?
 Dialogue: 12,0:05:29.51,0:05:30.73,Main,,0,0,0,,Để tôi đãi ông.
 Dialogue: 12,0:05:36.91,0:05:37.82,Main,,0,0,0,,Uống!
-Dialogue: 12,0:06:02.22,0:06:04.72,Main,,0,0,0,,Giờ thì, kho báu ơi, anh tới đây.
-Dialogue: 12,0:06:31.60,0:06:34.58,Main,,0,0,0,,Kể cả có đại tu toàn bộ khung máy\N thì nhiêu đó vẫn còn dư ha.
+Dialogue: 12,0:06:02.22,0:06:04.72,Main,,0,0,0,,Giờ thì! Kho báu ơi~ Kho báu ơi~
+Dialogue: 12,0:06:31.60,0:06:34.58,Main,,0,0,0,,Kể cả có đại tu toàn bộ khung máy\N thì vẫn còn dư ha.
 Dialogue: 12,0:06:34.90,0:06:36.83,Main,,0,0,0,,Làm tý vịt quay Bắc Kinh cái nhề.
 Dialogue: 12,0:06:37.37,0:06:40.71,Main,,0,0,0,,Biết câu {\c&H1DD7FF&}đếm cua trong lỗ{\c} không.
 Dialogue: 12,0:06:42.59,0:06:44.12,Main,,0,0,0,,Lần này chắc như đinh đóng cột.
@@ -120,7 +120,7 @@ Dialogue: 12,0:06:54.86,0:06:56.78,Main,,0,0,0,,Đánh cả 3 luôn à?
 Dialogue: 12,0:06:56.78,0:06:58.11,Main,,0,0,0,,Chắc thế.
 Dialogue: 12,0:06:58.11,0:07:00.03,Main,,0,0,0,,Hakim ở quanh khu này đấy.
 Dialogue: 12,0:07:00.03,0:07:01.11,Main,,0,0,0,,Chắc thế.
-Dialogue: 12,0:07:01.63,0:07:04.11,Main,,0,0,0,,Tổ sư! Hắn còn cóc biết\N thứ đó giá trị như nào!
+Dialogue: 12,0:07:01.63,0:07:04.11,Main,,0,0,0,,Tổ sư! Hắn còn cóc biết\N thứ đó giá trị bao nhiêu.
 Dialogue: 12,0:07:04.70,0:07:06.32,Main,,0,0,0,,Tiệm thú cưng á?
 Dialogue: 12,0:07:07.09,0:07:09.03,Main,,0,0,0,,Nó cũng kiểu trái phép ấy.
 Dialogue: 12,0:07:09.03,0:07:10.64,Main,,0,0,0,,Này, anh giai.
@@ -184,7 +184,7 @@ Dialogue: 12,0:10:39.70,0:10:41.58,Main,,0,0,0,,Nài nài, cái quái gì thế?
 Dialogue: 12,0:10:55.87,0:10:57.61,Main,,0,0,0,,Thợ săn tiền thưởng à?
 Dialogue: 12,0:10:57.61,0:10:59.30,Main,,0,0,0,,Mafia bảo vệ động vật à?
 Dialogue: 12,0:10:59.75,0:11:01.72,Main,,0,0,0,,Anh bạn có câu chuyện \Ncảm động phát khóc luôn.
-Dialogue: 12,0:11:01.72,0:11:04.35,Main,,0,0,0,,Liều cả mạng chỉ vì \Ncon chó đáng giá 200 ô long.
+Dialogue: 12,0:11:01.72,0:11:04.35,Main,,0,0,0,,Liều mạng chỉ vì \Ncon chó đáng giá 200 ô long.
 Dialogue: 12,0:11:04.35,0:11:05.44,Main,,0,0,0,,Cái gì hả?!
 Dialogue: 12,0:11:05.44,0:11:07.18,Main,,0,0,0,,Cái tôi muốn là...
 Dialogue: 12,0:11:07.18,0:11:10.41,Main,,0,0,0,,8 triệu ông long treo trên cổ anh bạn.
@@ -206,7 +206,7 @@ Dialogue: 12,0:12:14.92,0:12:18.01,Main,,0,0,0,,Hoàn toàn! Gần như cho khô
 Dialogue: 12,0:12:18.31,0:12:21.31,Main,,0,0,0,,Cái đệch! Bực hết cả mình!
 Dialogue: 12,0:12:21.31,0:12:23.51,Main,,0,0,0,,Chả đâu vào đâu,\N tất cả là tại mày, con chó vô dụng!
 Dialogue: 12,0:12:26.40,0:12:30.28,Main,,0,0,0,,Con chó thì vô giá trị thật,\N nhưng chủ của nó thì không đâu.
-Dialogue: 12,0:12:30.28,0:12:33.27,Main,,0,0,0,,Mà nói chung, \Ntốt nhất anh nên kết thân với cu cậu.
+Dialogue: 12,0:12:30.28,0:12:33.27,Main,,0,0,0,,Mà nói chung, \Ntốt nhất anh nên kết thân với cu cậu đi.
 Dialogue: 12,0:12:33.27,0:12:33.71,Main,,0,0,0,,Đùa!
 Dialogue: 12,0:12:34.06,0:12:36.48,Main,,0,0,0,,Tôi chúa ghét lũ trẻ con với súc vật.
 Dialogue: 12,0:12:36.48,0:12:38.65,Main,,0,0,0,,Chúng còn chả tự lo được cho mình.
@@ -218,16 +218,16 @@ Dialogue: 12,0:12:45.50,0:12:46.54,Main,,0,0,0,,Lên là lên!
 Dialogue: 12,0:12:52.25,0:12:53.58,Main,,0,0,0,,Giờ là mấy giờ?
 Dialogue: 12,0:12:56.21,0:12:57.42,Main,,0,0,0,,4 giờ ạ.
 Dialogue: 12,0:12:58.34,0:12:59.92,Main,,0,0,0,,2 tiếng nữa à.
-Dialogue: 12,0:13:02.85,0:13:05.62,Main,,0,0,0,,Cái thằng đi cùng Hakim... là đồng bọn à?
+Dialogue: 12,0:13:02.85,0:13:05.62,Main,,0,0,0,,Cái thằng đi cùng Hakim \Nlà đồng bọn của hắn à?
 Dialogue: 12,0:13:05.62,0:13:06.39,Main,,0,0,0,,Chắc thế.
 Dialogue: 12,0:13:06.73,0:13:09.87,Main,,0,0,0,,Không có manh mối nào à?\N Phải hành động mau thôi.
 Dialogue: 12,0:13:09.87,0:13:12.50,Main,,0,0,0,,Để cảnh sát dính vô thì rách việc lắm.
 Dialogue: 12,0:13:12.50,0:13:13.65,Main,,0,0,0,,Chắc thế.
 Dialogue: 12,0:13:13.97,0:13:17.61,Main,,0,0,0,,Nếu nghiên cứu của chúng ta bị lộ ra ngoài\N thì công sức từ trước đến nay coi như công cốc.
 Dialogue: 12,0:13:17.61,0:13:18.36,Main,,0,0,0,,Chắc thế.
-Dialogue: 12,0:13:18.62,0:13:21.86,Main,,0,0,0,,Rốt cuộc hắn nghĩ chúng ta đã \Nđầu tư bao nhiêu vào "con chó dữ liệu" đó!
+Dialogue: 12,0:13:18.62,0:13:21.86,Main,,0,0,0,,Hắn nghĩ chúng ta đã \Nđầu tư bao nhiêu vào "con chó dữ liệu" đó chứ!
 Dialogue: 12,0:13:22.86,0:13:24.91,Main,,0,0,0,,Thế sao anh không làm đi?
-Dialogue: 12,0:13:24.91,0:13:26.31,Main,,0,0,0,,Ơ thế bà cậu không dạy...
+Dialogue: 12,0:13:24.91,0:13:26.31,Main,,0,0,0,,Bộ bà cậu không dạy...
 Dialogue: 12,0:13:26.31,0:13:29.91,Main,,0,0,0,,"làm việc gì cũng phải đến nơi đến chốn" à?
 Dialogue: 12,0:13:30.18,0:13:32.34,Main,,0,0,0,,Bà mất trước khi tôi ra đời rồi.
 Dialogue: 12,0:13:32.34,0:13:33.49,Main,,0,0,800,,Ôi, thế xin lỗi nha.
@@ -250,7 +250,7 @@ Dialogue: 12,0:14:29.47,0:14:32.68,Main,,0,0,0,,Quan khách đang vướng mắc
 Dialogue: 12,0:14:33.05,0:14:36.19,Main,,0,0,0,,Đó đó, thấy chưa? Peeko-chan phán rằng...
 Dialogue: 12,0:14:36.19,0:14:40.19,Main,,0,0,0,,anh đang cần tìm ai đó, \Nhoặc là thứ gì đó ha.{mịa, phán kiểu này, phán 10 ông trúng 9}
 Dialogue: 12,0:14:44.36,0:14:48.70,Main,,0,0,0,,Xem nào, con chó đi đâu, thì Hakim đi đó...
-Dialogue: 12,0:14:49.38,0:14:51.01,Main,,0,0,0,,Vừa to vừa rõ.
+Dialogue: 12,0:14:49.38,0:14:51.01,Main,,0,0,0,,To-Rõ!
 Dialogue: 12,0:14:51.66,0:14:54.12,Main,,0,0,0,,Nhờ cả vào mày đó, cún con.
 Dialogue: 12,0:14:54.99,0:14:57.62,Main,,0,0,0,,Hết cách rồi, dùng còi gọi chó thôi.
 Dialogue: 12,0:14:57.62,0:14:59.87,Main,,0,0,0,,Nhưng thế thì rắc rối to.
@@ -284,7 +284,7 @@ Dialogue: 12,0:16:32.60,0:16:33.18,Main,,0,0,0,,Cút!
 Dialogue: 12,0:16:37.65,0:16:40.18,Main,,0,0,0,,Này anh, anh làm cái gì thế hả?
 Dialogue: 12,0:16:43.82,0:16:44.90,Main,,0,0,0,,Hakim!
 Dialogue: 12,0:16:52.78,0:16:53.63,Main,,0,0,0,,Thôi chết.
-Dialogue: 12,0:16:55.78,0:16:57.74,Main,,0,0,0,,Cũng chỉ là chó mà thôi.
+Dialogue: 12,0:16:55.78,0:16:57.74,Main,,0,0,0,,Chó thì chỉ là chó thôi.
 Dialogue: 12,0:17:03.45,0:17:04.00,Main,,0,0,0,,Hakim!
 Dialogue: 12,0:17:05.59,0:17:08.88,Main,,0,0,0,,Spike! Hắn đang hướng tới giao lộ 6.
 Dialogue: 12,0:17:08.88,0:17:12.15,Main,,0,0,0,,Đẹp luôn! Tính thoát được thì cứ thử xem!
@@ -348,12 +348,14 @@ Dialogue: 0,0:02:07.57,0:02:10.53,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0.7\s
 Dialogue: 1,0:02:07.57,0:02:10.53,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(1382.21,74.67)\fscx59\fscy59}Phụ đề được thực hiện bởi GSGA
 Dialogue: 0,0:02:07.57,0:02:10.53,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0.7\shad0\c&H2F657A&\3c&H2F657A&\b0\pos(1382.21,124.67)\fscx59\fscy59}Dịch: KiOZ | TS: KiOZ | QC: mochi
 Dialogue: 1,0:02:07.57,0:02:10.53,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(1382.21,124.67)\fscx59\fscy59}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 0,0:02:55.74,0:02:58.45,Signs,,0,0,0,,
 Dialogue: 0,0:04:53.56,0:05:05.54,Signs,,0,0,0,,
 Dialogue: 0,0:05:58.00,0:06:02.22,Signs,,0,0,0,,
 Dialogue: 0,0:14:25.01,0:14:29.47,Signs,,0,0,0,,
 Dialogue: 0,0:14:32.68,0:14:36.19,Signs,,0,0,0,,
 Dialogue: 0,0:14:36.19,0:14:40.19,Signs,,0,0,0,,
 Dialogue: 0,0:14:48.70,0:14:51.66,Signs,,0,0,0,,
+Dialogue: 0,0:15:34.45,0:15:36.96,Signs,,0,0,0,,
 Dialogue: 0,0:17:05.59,0:17:08.88,Signs,,0,0,0,,
 Dialogue: 0,0:17:47.34,0:17:49.59,Signs,,0,0,0,,
 Dialogue: 0,0:18:04.56,0:18:06.06,Signs,,0,0,0,,
