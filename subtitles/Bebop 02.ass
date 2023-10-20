@@ -16,9 +16,9 @@ Audio File: ../raws/[JySzE] Cowboy Bebop - 02 [v2][90E70D6A].mkv
 Video File: ../raws/[JySzE] Cowboy Bebop - 02 [v2][90E70D6A].mkv
 Video AR Value: 1.340741
 Video Zoom Percent: 0.500000
-Scroll Position: 50
-Active Line: 55
-Video Position: 6582
+Scroll Position: 3
+Active Line: 16
+Video Position: 30352
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,7 +28,7 @@ Style: GT 2,Adobe Clean,42,&H00FFFFFF,&H000000FF,&H000A0937,&HB40000FF,-1,0,0,0,
 Style: OST,Signika SemiBold,82,&H00FFFFFF,&H000000FF,&H00091641,&H971F3DBB,0,0,0,0,100,100,0,0,1,4,2,2,10,10,60,1
 Style: OP,VL Hagin Caps Medium,45,&H0002ACF8,&HFF0019FF,&H00000000,&HB401A1ED,-1,0,0,0,120,100,0,0,1,0,0,7,60,0,30,1
 Style: OP-Vie,VL Hagin Caps Medium,50,&H0002ACF8,&HFF0019FF,&H00000000,&HB401A1ED,-1,0,0,0,120,100,0,0,1,0,0,7,60,0,30,1
-Style: ED-Vie,VL Hagin Caps Medium,60,&H00FFFFFF,&H000019FF,&H00020A16,&H78000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,45,1
+Style: ED-Vie,SVN-Bree,66,&H00FFFFFF,&H000019FF,&H00020A16,&H78000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,45,1
 Style: Signs,Arial,80,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Title,MTD PI Faded,80,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Endcard,UVN Ai Cap Nang,80,&H00EAE3D9,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
@@ -42,17 +42,20 @@ Dialogue: 0,0:00:10.24,0:00:14.99,OP,,0,0,0,,{\blur0.76\pos(410,135)}Get everybo
 Dialogue: 0,0:00:10.24,0:00:14.99,OP,,0,0,0,,{\blur0.76\pos(410,180)\c&HF89C03&}Anh em vác đồ nghề các thứ lại đây nào
 Dialogue: 0,0:00:12.62,0:00:14.99,OP,,0,0,0,,{\blur0.76\pos(760,240)}Okay, three, two, one, let's jam
 Dialogue: 0,0:00:12.62,0:00:14.99,OP,,0,0,0,,{\blur0.76\pos(760,285)\c&HF89C03&}Okay, ba, hai, một, mở nhạc
-Comment: 0,0:20:10.11,0:24:12.10,Main,,0,0,0,,========= ED =========
-Dialogue: 0,0:20:22.95,0:20:28.42,ED-Vie,,0,0,0,,{\blur0.67}Too much time has passed by...
-Dialogue: 0,0:20:28.42,0:20:33.84,ED-Vie,,0,0,0,,{\blur0.67}...to lament that we were deeply in love.
-Dialogue: 0,0:20:34.88,0:20:40.47,ED-Vie,,0,0,0,,{\blur0.67}The wind keeps blowing, while my heart...
-Dialogue: 0,0:20:40.47,0:20:45.67,ED-Vie,,0,0,0,,{\blur0.67}...cannot heal all the tears in it.
-Dialogue: 0,0:20:46.89,0:20:55.85,ED-Vie,,0,0,0,,{\blur0.67}Someone, cry for me with parched eyes.
-Dialogue: 0,0:20:58.03,0:21:01.41,ED-Vie,,0,0,0,,{\blur0.67}The real folk blues.
-Dialogue: 0,0:21:01.41,0:21:09.92,ED-Vie,,0,0,0,,{\blur0.67}I only want to know what true sadness is.
-Dialogue: 0,0:21:09.92,0:21:16.88,ED-Vie,,0,0,0,,{\blur0.67}Sitting in muddy water...
-Dialogue: 0,0:21:17.55,0:21:22.05,ED-Vie,,0,0,0,,{\blur0.67}...isn't such a bad life...
-Dialogue: 0,0:21:22.05,0:21:30.89,ED-Vie,,0,0,0,,{\blur0.67}...if it ends after the first time...
+Comment: 0,0:20:10.73,0:24:12.40,Main,,0,0,0,,========= ED =========
+Dialogue: 0,0:20:22.95,0:20:28.42,ED-Vie,,0,0,0,,{\fad(0,300)\blur0.67}Cứ mải than thân trách phận, cho mối tình xưa,
+Dialogue: 0,0:20:28.42,0:20:33.84,ED-Vie,,0,0,0,,{\fad(0,300)\blur0.67}dòng thời gian vẫn lẳng lặng trôi, đã bao lâu rồi?
+Dialogue: 0,0:20:34.88,0:20:40.47,ED-Vie,,0,0,0,,{\fad(0,300)\blur0.67}Vết bỏng hằn sâu trong tim, nào có nguôi đi,
+Dialogue: 0,0:20:40.47,0:20:45.68,ED-Vie,,0,0,0,,{\fad(0,300)\blur0.67}gió chẳng thể xoa dịu cho tôi, chỉ biết thổi thôi.
+Dialogue: 0,0:20:46.89,0:20:55.86,ED-Vie,,0,0,0,,{\fad(0,300)\blur0.67}Với con ngươi khô, với tròng mắt cạn, ai đó ơi, giúp tôi đổ lệ đi!
+Dialogue: 0,0:20:58.07,0:21:01.41,ED-Vie,,0,0,0,,{\fad(0,300)\blur0.67}Giai điệu Folk Blues đích thực!
+Dialogue: 0,0:20:58.07,0:21:01.41,GT,,0,0,0,,{\fad(0,300)\bord0\shad0\blur0.67}(Blues còn có nghĩa là u sầu, buồn bã)
+Dialogue: 0,0:21:01.41,0:21:05.58,ED-Vie,,0,0,0,,{\fad(0,300)\blur0.67}Đâu là thật đây?
+Dialogue: 0,0:21:05.58,0:21:09.92,ED-Vie,,0,0,0,,{\fad(0,300)\blur0.67}Tôi chỉ muốn biết đâu là u sầu thật sự.
+Dialogue: 0,0:21:09.92,0:21:13.46,ED-Vie,,0,0,0,,{\fad(0,300)\blur0.67}Toàn thân lấm lem phù sa.
+Dialogue: 0,0:21:13.46,0:21:16.92,ED-Vie,,0,0,0,,{\fad(0,300)\blur0.67}Ngụp lặn giữa sông.
+Dialogue: 0,0:21:17.59,0:21:22.09,ED-Vie,,0,0,0,,{\fad(0,300)\blur0.67}Sống như vậy cũng đâu đến nỗi tệ,
+Dialogue: 0,0:21:22.09,0:21:30.94,ED-Vie,,0,0,0,,{\fad(0,300)\blur0.67}miễn sao chỉ phải... cam chịu một lần.
 Comment: 0,0:01:31.03,0:01:31.07,Main,,0,0,0,,========= Dialogue =========
 Dialogue: 12,0:01:43.91,0:01:46.42,Main,,0,0,0,,Bước ra đây! Mày hết đường chạy rồi.
 Dialogue: 12,0:01:46.72,0:01:47.38,Main,,0,0,0,,Tao bắn đấy!
