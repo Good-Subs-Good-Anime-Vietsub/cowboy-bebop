@@ -18,9 +18,9 @@ Video File: ../raws/[JySzE] Cowboy Bebop - 03 [v2][9E111550].mkv
 Video AR Mode: 4
 Video AR Value: 1.340741
 Video Zoom Percent: 0.500000
-Scroll Position: 6
-Active Line: 16
-Video Position: 33816
+Scroll Position: 270
+Active Line: 275
+Video Position: 35423
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -59,323 +59,659 @@ Dialogue: 0,0:23:37.92,0:23:41.36,ED-Vie,,0,0,0,,{\fad(0,300)\blur0.67}Ngụp l�
 Dialogue: 0,0:23:42.03,0:23:46.53,ED-Vie,,0,0,0,,{\fad(0,300)\blur0.67}Sống như vậy cũng đâu đến nỗi tệ,
 Dialogue: 0,0:23:46.53,0:23:55.37,ED-Vie,,0,0,0,,{\fad(0,300)\blur0.67}miễn sao chỉ phải... cam chịu một lần.
 Comment: 0,0:01:31.03,0:01:31.07,Main,,0,0,0,,========= Dialogue =========
-Dialogue: 0,0:02:08.35,0:02:09.69,Main,,0,0,0,,Such pretty eyes.
-Dialogue: 0,0:02:10.11,0:02:12.07,Main,,0,0,0,,You've pretty eyes\Nand a smile to match.
-Dialogue: 0,0:02:15.28,0:02:17.51,Main,,0,0,0,,Lookin' to score riches?
-Dialogue: 0,0:02:19.89,0:02:21.49,Main,,0,0,0,,I welcome all.
-Dialogue: 0,0:02:30.18,0:02:32.46,Main,,0,0,0,,Ya know the first rule in combat?
-Dialogue: 0,0:02:45.70,0:02:47.81,Main,,0,0,0,,...to get the first attack.
-Dialogue: 0,0:03:05.27,0:03:07.54,Main,,0,0,0,,What an extended greeting this is.
-Dialogue: 0,0:03:18.70,0:03:21.38,Main,,0,0,0,,I didn't know that the sure-shot\Nand master of poker,
-Dialogue: 0,0:03:22.26,0:03:28.35,Main,,0,0,0,,the legendary female gambler\NPoker Alice was still alive.
-Dialogue: 0,0:03:29.46,0:03:32.54,Main,,0,0,0,,If she was still alive,\Nshe'd be 219 years old now.
-Dialogue: 0,0:03:32.54,0:03:37.15,Main,,0,0,0,,Of course. You sure don't look over 200.
-Dialogue: 0,0:03:40.98,0:03:44.15,Main,,0,0,0,,Besides, Alice never lost during her lifetime.
-Dialogue: 0,0:03:44.15,0:03:47.00,Main,,0,0,0,,She kept winning, without cheating.
-Dialogue: 0,0:03:47.00,0:03:49.12,Main,,0,0,0,,You have a way to prove that?
-Dialogue: 0,0:03:50.12,0:03:53.50,Main,,0,0,0,,I hear you are carrying a large debt.
-Dialogue: 0,0:03:55.33,0:03:59.30,Main,,0,0,0,,Which do you prefer...\Nthe police, or my establishment?
-Dialogue: 0,0:04:22.82,0:04:24.34,Main,,0,0,0,,A prophecy?
-Dialogue: 0,0:04:25.24,0:04:29.41,Main,,0,0,0,,Charlie said,\N"Only hands can wash hands.
-Dialogue: 0,0:04:29.41,0:04:32.34,Main,,0,0,0,,If you want to receive,\Nyou must first give."
-Dialogue: 0,0:04:32.34,0:04:37.46,Main,,0,0,0,,Hey, doesn't that mean that Charlie\Nis telling us to just do it?
-Dialogue: 0,0:04:37.46,0:04:38.96,Main,,0,0,0,,Right? {9 frames}
-Dialogue: 0,0:04:38.96,0:04:42.59,Main,,0,0,0,,Do you think Charlie Parker\Nwould quote Goethe?
-Dialogue: 0,0:04:42.59,0:04:45.53,Main,,0,0,0,,Oh come on, it's all part of the dream I had.
-Dialogue: 0,0:04:45.53,0:04:47.89,Main,,0,0,0,,The way things go,\NI say that even the hard-earned {2 extra frames lead-in}
-Dialogue: 0,0:04:47.89,0:04:50.01,Main,,0,0,0,,5000 woolongs will\Ndisappear with your dream.
-Dialogue: 0,0:04:50.01,0:04:52.06,Main,,0,0,0,,Let me tell you something, Spike...
-Dialogue: 0,0:04:52.06,0:04:53.89,Main,,0,0,0,,This is a no smoking area.
-Dialogue: 0,0:05:23.92,0:05:27.88,Main,,0,0,0,,You shouldn't play.\NYour eyes are too good for this.
-Dialogue: 0,0:05:27.88,0:05:30.10,Main,,0,0,0,,They'll kick us out if you win too much.
-Dialogue: 0,0:05:31.20,0:05:32.89,Main,,0,0,0,,Then don't bring me here.
-Dialogue: 0,0:05:53.46,0:05:54.77,Main,,0,0,0,,Pray, man. {9 frames}
-Dialogue: 0,0:06:05.76,0:06:06.97,Main,,0,0,0,,I'll take one.
+Comment: 0,0:02:08.35,0:02:12.07,GT,,0,0,0,,- cụm từ khen đẹp trai, nghĩa đen {\c&H19E6FF&}lông mày{\c} {\c&HFFD919&}và mắt đẹp{\c}.\N- cụm từ khen xinh gái, nghĩa đen {\c&HFFD919&}mắt sáng răng trắng{\c}.
+Dialogue: 0,0:02:08.35,0:02:09.69,Main,,0,0,0,,Tướng mạo tuấn tú.
+Dialogue: 0,0:02:10.11,0:02:12.07,Main,,0,0,0,,Chim sa cá lặn.
+Dialogue: 0,0:02:15.28,0:02:17.51,Main,,0,0,0,,Một đập ăn quan?
+Dialogue: 0,0:02:19.89,0:02:21.49,Main,,0,0,0,,Mua may bán đắt.
+Dialogue: 0,0:02:30.18,0:02:32.46,Main,,0,0,0,,Biết điều cơ bản của chiến đấu\N là gì không?
+Dialogue: 0,0:02:45.70,0:02:47.81,Main,,0,0,0,,Là tiên thủ hạ vi cường.
+Dialogue: 0,0:03:05.27,0:03:07.54,Main,,0,0,0,,Chào đón nồng hậu quá nhỉ.
+Dialogue: 0,0:03:18.70,0:03:21.38,Main,,0,0,0,,Cao thủ bài bạc và rút súng nhanh,
+Dialogue: 0,0:03:22.26,0:03:26.08,Main,,0,0,0,,bà hoàng huyền thoại Gambler Poker Alice,
+Dialogue: 0,0:03:26.08,0:03:28.35,Main,,0,0,0,,không ngờ là vẫn còn sống.
+Dialogue: 0,0:03:29.46,0:03:32.54,Main,,0,0,0,,Bà ta còn sống cũng phải 219 tuổi rồi.
+Dialogue: 0,0:03:32.54,0:03:33.32,Main,,0,0,0,,Công nhận.
+Dialogue: 0,0:03:33.71,0:03:37.15,Main,,0,0,0,,Trông cô không thể hơn 200 tuổi được.
+Dialogue: 0,0:03:40.98,0:03:44.15,Main,,0,0,0,,Hơn nữa, Alice cả đời chưa từng thua.
+Dialogue: 0,0:03:44.15,0:03:47.00,Main,,0,0,0,,Không cần ăn gian mà vẫn thắng đều.
+Dialogue: 0,0:03:47.00,0:03:49.12,Main,,0,0,0,,Nói có sách, mách có chứng chứ ông anh.
+Dialogue: 0,0:03:50.12,0:03:53.50,Main,,0,0,0,,Cô có vẻ là cô đang nợ chồng chất.
+Dialogue: 0,0:03:55.33,0:03:59.30,Main,,0,0,0,,Giữa lên đồn và sòng bạc của tôi,\N cô chọn cái nào?
+Dialogue: 0,0:04:22.82,0:04:24.34,Main,,0,0,0,,Báo mộng à?
+Dialogue: 0,0:04:25.24,0:04:29.41,Main,,0,0,0,,Charlie nói, "chỉ có tay mới rửa được cho tay,
+Dialogue: 0,0:04:29.41,0:04:32.34,Main,,0,0,0,,muốn nhận thì phải cho."
+Dialogue: 0,0:04:32.34,0:04:34.21,Main,,0,0,0,,Có biết như thế nghĩa là gì không?
+Dialogue: 0,0:04:34.21,0:04:37.46,Main,,0,0,0,,Là Charlie bảo cứ chơi đi đó.
+Dialogue: 0,0:04:37.92,0:04:38.96,Main,,0,0,0,,Chuẩn chưa?
+Dialogue: 0,0:04:39.33,0:04:42.59,Main,,0,0,0,,Charlie Parker mà trích lời Goethe à?
+Dialogue: 0,0:04:42.59,0:04:45.53,Main,,0,0,0,,Có sao đâu, trong mơ cơ mà.
+Dialogue: 0,0:04:45.53,0:04:50.01,Main,,0,0,0,,5000 ô lông quý báu đó \Nrồi sẽ tan biến như giấc mơ của anh thôi.
+Dialogue: 0,0:04:50.01,0:04:52.06,Main,,0,0,0,,Tôi bảo này, Spike...
+Dialogue: 0,0:04:52.06,0:04:53.89,Main,,0,0,0,,Chỗ này cấm hút thuốc.
+Dialogue: 0,0:05:23.92,0:05:27.88,Main,,0,0,0,,Anh đừng có chơi,\N tại mắt anh quá nhạy.
+Dialogue: 0,0:05:27.88,0:05:30.10,Main,,0,0,0,,Ăn nhiều quá là bị tống cổ đấy.
+Dialogue: 0,0:05:31.20,0:05:32.89,Main,,0,0,0,,Thế thì đừng lôi tôi theo chứ.
+Dialogue: 0,0:05:53.86,0:05:54.77,Main,,0,0,0,,Cầu nguyện đi.
+Dialogue: 0,0:06:04.59,0:06:05.87,Main,,0,0,0,,Hú~ Ngon!
+Dialogue: 0,0:06:05.87,0:06:06.97,Main,,0,0,0,,Xin tí nha.
+Dialogue: 0,0:06:22.48,0:06:24.00,GT 2,,0,0,0,,(thiếu kiến thức bài bạc, ko dịch được thông cảm)
 Dialogue: 0,0:06:22.48,0:06:24.00,Main,,0,0,0,,Small jack.
-Dialogue: 0,0:06:31.81,0:06:33.12,Main,,0,0,0,,I'll play a few.
-Dialogue: 0,0:06:38.24,0:06:39.44,Main,,0,0,0,,{\i1}Must be him.{\i0}
-Dialogue: 0,0:06:54.14,0:06:55.85,Main,,0,0,0,,Nice, Jackie.
-Dialogue: 0,0:07:12.53,0:07:16.96,Main,,0,0,0,,The target will sit at a blackjack table,\Nand lose at a certain point.
-Dialogue: 0,0:07:17.87,0:07:20.16,Main,,0,0,0,,Of course, you will help him with that.
-Dialogue: 0,0:07:20.92,0:07:26.73,Main,,0,0,0,,And, he will hand you the last\Nchip he has as a dealer's chip.
-Dialogue: 0,0:07:27.26,0:07:28.63,Main,,0,0,0,,And what about it?
-Dialogue: 0,0:07:30.04,0:07:34.60,Main,,0,0,0,,It's something that'll make your debt as small as one tiny second in this universe.
-Dialogue: 0,0:07:53.51,0:07:54.49,Main,,0,0,0,,Last game.
-Dialogue: 0,0:07:56.20,0:07:59.85,Main,,0,0,0,,I'm not lucky, nor am I nimble.
-Dialogue: 0,0:08:00.84,0:08:02.08,Main,,0,0,0,,Then what are you? {9 frames}
-Dialogue: 0,0:08:02.54,0:08:03.92,Main,,0,0,0,,Generous.
-Dialogue: 0,0:08:12.36,0:08:13.90,Main,,0,0,0,,Blackjack.
-Dialogue: 0,0:08:15.84,0:08:18.31,Main,,0,0,0,,Ya got me. I give up.
-Dialogue: 0,0:08:20.26,0:08:21.69,Main,,0,0,0,,I'll take this as a memento.
-Dialogue: 0,0:08:21.69,0:08:22.26,Main,,0,0,0,,Huh?
-Dialogue: 0,0:08:22.82,0:08:24.57,Main,,0,0,0,,Wait a minute!
-Dialogue: 0,0:08:24.57,0:08:25.84,Main,,0,0,0,,Hold up!
-Dialogue: 0,0:09:05.98,0:09:07.84,Main,,0,0,0,,Hey, you!
-Dialogue: 0,0:09:07.84,0:09:09.60,Main,,0,0,0,,What part of you is generous?
-Dialogue: 0,0:09:09.60,0:09:11.64,Main,,0,0,0,,This wasn't the plan I heard!
-Dialogue: 0,0:09:11.64,0:09:14.32,Main,,0,0,0,,I thought you were supposed\Nto give me the last chip!
-Dialogue: 0,0:09:14.32,0:09:16.04,Main,,0,0,0,,Why should I?
-Dialogue: 0,0:09:16.04,0:09:18.28,Main,,0,0,0,,I played along with you and your cheats!
-Dialogue: 0,0:09:21.98,0:09:23.53,Main,,0,0,0,,Did ya hear that!?
-Dialogue: 0,0:09:23.53,0:09:24.78,Main,,0,0,0,,Cheating!
-Dialogue: 0,0:09:25.32,0:09:26.62,Main,,0,0,0,,That for real?
-Dialogue: 0,0:09:26.62,0:09:28.71,Main,,0,0,0,,The dealer has been cheating!
-Dialogue: 0,0:09:43.31,0:09:45.98,Main,,0,0,0,,Can you come with me to the office?
-Dialogue: 0,0:09:45.98,0:09:47.10,Main,,0,0,0,,Why?
-Dialogue: 0,0:09:53.09,0:09:53.98,Main,,0,0,0,,What do you want?
-Dialogue: 0,0:09:56.35,0:09:57.57,Main,,0,0,0,,You piece of...
-Dialogue: 0,0:10:04.25,0:10:05.75,Main,,0,0,0,,Come on...
-Dialogue: 0,0:10:06.37,0:10:09.31,Main,,0,0,0,,Does this casino also run a fitness club?
-Dialogue: 0,0:10:16.51,0:10:17.55,Main,,0,0,0,,It's showtime!
-Dialogue: 0,0:10:35.11,0:10:37.45,Main,,0,0,0,,Heh heh. Pardon me here.
-Dialogue: 0,0:10:42.08,0:10:43.74,Main,,0,0,0,,Spike...
-Dialogue: 0,0:10:53.34,0:10:54.09,Main,,0,0,0,,All right.
+Dialogue: 0,0:06:31.81,0:06:33.12,Main,,0,0,0,,Cho tôi chơi nữa.
+Dialogue: 0,0:06:38.24,0:06:39.44,Main,,0,0,0,,{\i1}Là hắn à.
+Dialogue: 0,0:06:54.14,0:06:55.85,Main,,0,0,0,,Hay, Jackie.
+Dialogue: 0,0:07:12.53,0:07:16.96,Main,,0,0,0,,Mục tiêu sẽ đến bàn blackjack\Nvà thua ở một thời điểm nhất định.
+Dialogue: 0,0:07:17.87,0:07:20.16,Main,,0,0,0,,Tất nhiên cô sẽ phải hợp tác với hắn.
+Dialogue: 0,0:07:20.92,0:07:26.73,Main,,0,0,0,,Và hắn sẽ đưa cho cô đồng chip cuối cùng,\N kiểu như tip cho người chia bài.
+Dialogue: 0,0:07:27.26,0:07:28.63,Main,,0,0,0,,Rồi sao nữa?
+Dialogue: 0,0:07:30.04,0:07:34.60,Main,,0,0,0,,Rồi khoản nợ của cô sẽ hóa hư không.
+Dialogue: 0,0:07:53.51,0:07:54.49,Main,,0,0,0,,Ván cuối.
+Dialogue: 0,0:07:56.20,0:07:59.85,Main,,0,0,0,,Tôi chả may mắn cũng chả tài giỏi.
+Dialogue: 0,0:08:00.84,0:08:02.08,Main,,0,0,0,,Thế là gì?
+Dialogue: 0,0:08:02.54,0:08:03.92,Main,,0,0,0,,Hào phóng.
+Dialogue: 0,0:08:12.36,0:08:13.74,Main,,0,0,0,,Blackjack!
+Dialogue: 0,0:08:15.84,0:08:18.31,Main,,0,0,0,,Chịu rồi. Tôi thua, tôi thua.
+Dialogue: 0,0:08:20.26,0:08:21.69,Main,,0,0,0,,Tôi giữ nó làm kỷ niệm nha.
+Dialogue: 0,0:08:22.82,0:08:24.57,Main,,0,0,0,,Ơ kìa! Khoan đã!
+Dialogue: 0,0:08:24.57,0:08:25.84,Main,,0,0,0,,Từ từ đã nào!
+Dialogue: 0,0:09:06.37,0:09:07.84,Main,,0,0,0,,Này, anh kia!
+Dialogue: 0,0:09:07.84,0:09:09.60,Main,,0,0,0,,Thế mà kêu là hào phóng à?!
+Dialogue: 0,0:09:09.60,0:09:11.17,Main,,0,0,0,,Chả đúng kịch bản gì cả.
+Dialogue: 0,0:09:11.64,0:09:14.32,Main,,0,0,0,,Anh phải đưa đồng chip cuối cho tôi chứ.
+Dialogue: 0,0:09:14.32,0:09:16.04,Main,,0,0,0,,Ơ tại sao?
+Dialogue: 0,0:09:16.04,0:09:18.28,Main,,0,0,0,,Tôi đã hùa theo \Ntrò ăn gian của cô rồi còn gì.
+Dialogue: 0,0:09:21.98,0:09:23.53,Main,,0,0,0,,Uầy! Nghe gì không?
+Dialogue: 0,0:09:23.53,0:09:24.78,Main,,0,0,0,,Hắn nói "ăn gian" đấy.
+Dialogue: 0,0:09:25.32,0:09:26.62,Main,,0,0,0,,Thật đấy à?
+Dialogue: 0,0:09:26.62,0:09:28.71,Main,,0,0,0,,Nói là người chia bài ăn gian.
+Dialogue: 0,0:09:43.31,0:09:45.98,Main,,0,0,0,,Ta vào văn phòng \Nnói chuyện một chút được không?
+Dialogue: 0,0:09:45.98,0:09:47.10,Main,,0,0,0,,Tại sao?
+Dialogue: 0,0:09:53.09,0:09:53.98,Main,,0,0,0,,Quái gì thế!
+Dialogue: 0,0:09:56.35,0:09:57.57,Main,,0,0,0,,Thằng chó—
+Dialogue: 0,0:10:04.25,0:10:05.75,Main,,0,0,0,,Nào nào.
+Dialogue: 0,0:10:06.37,0:10:09.31,Main,,0,0,0,,Sòng bạc này còn mở cả phòng gym à?
+Dialogue: 0,0:10:16.51,0:10:17.56,Main,,0,0,0,,"Đến giờ diễn rồi".
+Dialogue: 0,0:10:35.78,0:10:37.28,Main,,0,0,0,,Xin phép cho tôi qua~
+Dialogue: 0,0:10:42.08,0:10:43.74,Main,,0,0,0,,Spike?
+Dialogue: 0,0:10:53.34,0:10:54.09,Main,,0,0,0,,Được rồi.
 Dialogue: 0,0:10:59.05,0:10:59.76,Main,,0,0,0,,Jet.
-Dialogue: 0,0:10:59.76,0:11:01.37,Main,,0,0,0,,That's why I told you not to—
-Dialogue: 0,0:11:01.37,0:11:04.06,Main,,0,0,0,,That's not it! But we gotta split!
-Dialogue: 0,0:11:04.06,0:11:05.97,Main,,0,0,0,,I haven't cashed these in yet!
-Dialogue: 0,0:11:05.97,0:11:06.89,Main,,0,0,0,,Hey!
-Dialogue: 0,0:11:39.84,0:11:43.30,Main,,0,0,0,,He doesn't have it. The chip is a fake. {9 frames, almost 8 frames}
-Dialogue: 0,0:11:43.85,0:11:50.00,Main,,0,0,0,,Neither you nor your boss realize\Nwhy we cooked up this whole thing.
-Dialogue: 0,0:11:50.00,0:11:52.31,Main,,0,0,0,,If that chip falls into police hands...
-Dialogue: 0,0:11:52.77,0:11:54.77,Main,,0,0,0,,It's all over!
-Dialogue: 0,0:11:55.27,0:11:58.42,Main,,0,0,0,,Boss, we still can't find that broad.
-Dialogue: 0,0:11:58.42,0:11:59.97,Main,,0,0,0,,Find her!
-Dialogue: 0,0:11:59.97,0:12:01.49,Main,,0,0,0,,Put a reward on her if you have to!
-Dialogue: 0,0:12:20.94,0:12:21.59,Main,,0,0,0,,Wait a sec!
-Dialogue: 0,0:12:21.59,0:12:25.57,Main,,0,0,0,,Why is my reward for bringing\Nya back being trapped in here?!
-Dialogue: 0,0:12:30.27,0:12:34.53,Main,,0,0,0,,I see. She smells like\Nmoney to you too, huh?
-Dialogue: 0,0:12:34.53,0:12:35.85,Main,,0,0,0,,You have got to be kidding!
-Dialogue: 0,0:12:35.85,0:12:38.40,Main,,0,0,0,,Jet, how much did you have?
-Dialogue: 0,0:12:38.40,0:12:40.36,Main,,0,0,0,,Oh, 200K. Easy.
-Dialogue: 0,0:12:40.84,0:12:42.36,Main,,0,0,0,,And who put it all to naught?
-Dialogue: 0,0:12:45.50,0:12:47.82,Main,,0,0,0,,What, only 200K?
-Dialogue: 0,0:12:47.82,0:12:49.97,Main,,0,0,0,,That's nothing compared to my debt...
-Dialogue: 0,0:12:49.97,0:12:52.83,Main,,0,0,0,,Besides, don't you think this is\Na bit much for a false accusation?
-Dialogue: 0,0:12:52.83,0:12:56.56,Main,,0,0,0,,Well, that mono-carrier\Nshould sell for about 400K.
-Dialogue: 0,0:12:56.56,0:13:00.48,Main,,0,0,0,,If you had just given me that chip,\Nwe wouldn't have had a problem.
+Dialogue: 0,0:10:59.76,0:11:01.37,Main,,0,0,0,,Đã dặn là đừng có chơi rồi.
+Dialogue: 0,0:11:01.37,0:11:02.74,Main,,0,0,0,,Không phải thế đâu.
+Dialogue: 0,0:11:02.74,0:11:04.06,Main,,0,0,0,,Mà tóm lại, chạy đã!
+Dialogue: 0,0:11:10.40,0:11:10.61,Signs,,0,0,0,,Điều khiển
+Dialogue: 0,0:11:10.69,0:11:12.15,Signs,,0,0,0,,bằng tay
+Dialogue: 0,0:11:04.06,0:11:05.97,Main,,0,0,0,,Tôi vẫn còn chưa đổi tiền mà.
+Dialogue: 0,0:11:05.97,0:11:06.89,Main,,0,0,0,,Này!
+Dialogue: 0,0:11:39.84,0:11:43.30,Main,,0,0,0,,Hắn không giữ nó, con chip là giả.
+Dialogue: 0,0:11:43.85,0:11:46.54,Main,,0,0,0,,Tại sao lại phải bày ra cái trò này,
+Dialogue: 0,0:11:46.54,0:11:50.00,Main,,0,0,0,,cả mày lẫn sếp mày đều không biết.
+Dialogue: 0,0:11:50.00,0:11:52.31,Main,,0,0,0,,Con chip đó mà rơi vào tay cảnh sát...
+Dialogue: 0,0:11:52.77,0:11:54.77,Main,,0,0,0,,thì chết cả lũ.
+Dialogue: 0,0:11:55.27,0:11:58.42,Main,,0,0,0,,Sếp, vẫn chưa tìm được con ả kia.
+Dialogue: 0,0:11:58.42,0:11:59.97,Main,,0,0,0,,Tìm bằng được!
+Dialogue: 0,0:11:59.97,0:12:01.49,Main,,0,0,0,,Cần thì treo thưởng luôn.
+Dialogue: 0,0:12:20.94,0:12:21.59,Main,,0,0,0,,Này này.
+Dialogue: 0,0:12:21.59,0:12:25.57,Main,,0,0,0,,Cho các anh đi nhờ \Nmà giờ các anh trả ơn tôi thế này à?
+Dialogue: 0,0:12:30.27,0:12:34.53,Main,,0,0,0,,Ra thế, ra là \Nngửi thấy mùi tiền từ bà chị này à.
+Dialogue: 0,0:12:34.53,0:12:35.85,Main,,0,0,0,,Vớ vẩn vừa thôi.
+Dialogue: 0,0:12:35.85,0:12:38.40,Main,,0,0,0,,Jet, anh thắng được bao nhiêu?
+Dialogue: 0,0:12:38.40,0:12:40.36,Main,,0,0,0,,Nhẹ nhàng 200 cành.
+Dialogue: 0,0:12:40.84,0:12:42.36,Main,,0,0,0,,Thế vì ai mà mất hết?
+Dialogue: 0,0:12:45.50,0:12:47.82,Main,,0,0,0,,Gì cơ, có mỗi 200 cành.
+Dialogue: 0,0:12:47.82,0:12:49.97,Main,,0,0,0,,So với món nợ của tôi thì—
+Dialogue: 0,0:12:49.97,0:12:52.84,Main,,0,0,0,,Mà nhá! Đổ lỗi cho tôi như thế \Nlà hơi bị oan đấy.
+Dialogue: 0,0:12:52.84,0:12:56.56,Main,,0,0,0,,Thôi, quả mono-carrier kia\N đem bán chắc cũng được 400 cành.
+Dialogue: 0,0:12:56.56,0:13:00.48,Main,,0,0,0,,Anh mà đưa tôi con chip đó\N thì đã chả có vấn đề gì rồi.
 Dialogue: 0,0:13:00.48,0:13:01.40,Main,,0,0,0,,Chip?
-Dialogue: 0,0:13:01.40,0:13:02.29,Main,,0,0,0,,Yeah!
-Dialogue: 0,0:13:06.99,0:13:08.76,Main,,0,0,0,,Disgusting.
-Dialogue: 0,0:13:09.21,0:13:13.04,Main,,0,0,0,,If you give that to Gordon,\Nhe'll give you as much as you want.
-Dialogue: 0,0:13:13.04,0:13:15.13,Main,,0,0,0,,Yeah, let's do that!
-Dialogue: 0,0:13:15.13,0:13:17.79,Main,,0,0,0,,I don't know any guy named Gordon,
-Dialogue: 0,0:13:17.79,0:13:20.65,Main,,0,0,0,,nor do I want to believe your stories.
-Dialogue: 0,0:13:20.65,0:13:21.99,Main,,0,0,0,,Wait a minute!
-Dialogue: 0,0:13:21.99,0:13:23.53,Main,,0,0,0,,Let's go, Ein.
-Dialogue: 0,0:13:24.58,0:13:26.24,Main,,0,0,0,,Are you listening to me? Come on!
-Dialogue: 0,0:13:37.63,0:13:38.90,Main,,0,0,0,,It's a chip.
-Dialogue: 0,0:13:38.90,0:13:40.14,Main,,0,0,0,,Of course it's a chip.
-Dialogue: 0,0:13:40.14,0:13:44.17,Main,,0,0,0,,I don't mean that kind of chip.\NThere's a microchip in this thing.
-Dialogue: 0,0:13:53.76,0:13:56.93,Main,,0,0,0,,{\i1}Amigo! Leave it to us{\i0}\N{\i1}for bounty information!{\i0}
-Dialogue: 0,0:13:56.93,0:13:59.27,Main,,0,0,0,,{\i1}Thanks for waiting! It's time for Big Shot!{\i0}
-Dialogue: 0,0:14:06.70,0:14:07.65,Main,,0,0,0,,This is...
-Dialogue: 0,0:14:07.65,0:14:10.42,Main,,0,0,0,,{\i1}So, first up this week is...?{\i0}
-Dialogue: 0,0:14:10.42,0:14:12.82,Main,,0,0,0,,{\i1}It's a shame we have to\Nhand her to the police.{\i0}
-Dialogue: 0,0:14:12.82,0:14:14.16,Main,,0,0,0,,Hey, Spike!
-Dialogue: 0,0:14:12.82,0:14:16.16,Main,,0,0,0,,{\i1}She doesn't look it, but she's\Na real mean one. Faye Valentine.{\i0}
-Dialogue: 0,0:14:16.94,0:14:19.61,Main,,0,0,0,,{\i1}The bounty is a whopping{\i0}\N{\i1}6 million! A real deal!{\i0}
-Dialogue: 0,0:14:19.61,0:14:20.63,Main,,0,0,0,,Hey, Jet!
-Dialogue: 0,0:14:19.61,0:14:21.48,Main,,0,0,0,,{\i1}First come, first served.{\i0}
-Dialogue: 0,0:14:21.48,0:14:23.59,Main,,0,0,0,,{\i1}Good luck, cowboys!{\i0}
-Dialogue: 0,0:14:25.27,0:14:27.14,Main,,0,0,0,,I've been waiting for you.
-Dialogue: 0,0:14:27.14,0:14:30.58,Main,,0,0,0,,{\i1}First off, let me tell you{\i0}\N{\i1}that I didn't intend to run.{\i0}
-Dialogue: 0,0:14:30.58,0:14:32.44,Main,,0,0,0,,I trust you.
-Dialogue: 0,0:14:32.44,0:14:33.89,Main,,0,0,0,,Where are you?
-Dialogue: 0,0:14:33.89,0:14:36.48,Main,,0,0,0,,{\i1}An old fishing ship in the gate.{\i0}
-Dialogue: 0,0:14:36.48,0:14:38.61,Main,,0,0,0,,{\i1}They have the chip.{\i0}
-Dialogue: 0,0:14:38.61,0:14:39.78,Main,,0,0,0,,{\i1}So hurry up and—{\i0}
-Dialogue: 0,0:14:47.62,0:14:48.32,Main,,0,0,0,,What?
-Dialogue: 0,0:14:48.32,0:14:52.31,Main,,0,0,0,,Well, we thought we were being immature. {9 frames}
-Dialogue: 0,0:14:52.31,0:14:55.79,Main,,0,0,0,,To leave a young woman\Nin a place like this.
-Dialogue: 0,0:14:56.65,0:14:58.96,Main,,0,0,0,,You aren't thinking\Nweird thoughts, are you?
-Dialogue: 0,0:14:58.96,0:15:02.96,Main,,0,0,0,,No, we thought we'd escort you to\Na place more considerate of your situation.
-Dialogue: 0,0:15:02.96,0:15:04.76,Main,,0,0,0,,Oh, and where would that be?
-Dialogue: 0,0:15:04.76,0:15:06.52,Main,,0,0,0,,The police.
-Dialogue: 0,0:15:06.52,0:15:10.33,Main,,0,0,0,,We're sorry that we were so cheap\Nearlier with the 200K bit,
+Dialogue: 0,0:13:01.40,0:13:02.29,Main,,0,0,0,,Chả thế.
+Dialogue: 0,0:13:06.99,0:13:08.76,Main,,0,0,0,,Tởm vãi.
+Dialogue: 0,0:13:09.21,0:13:12.90,Main,,0,0,0,,Nếu đưa nó cho Gordon,\N muốn bao nhiêu cũng có.
+Dialogue: 0,0:13:12.90,0:13:14.52,Main,,0,0,0,,Đúng rồi, cứ làm thế đi?
+Dialogue: 0,0:13:15.13,0:13:17.79,Main,,0,0,0,,Gordon là thằng cha nào tôi biết đâu.
+Dialogue: 0,0:13:17.79,0:13:20.65,Main,,0,0,0,,Và cũng chả việc gì phải tin cô.
+Dialogue: 0,0:13:20.65,0:13:21.99,Main,,0,0,0,,Ơ này!
+Dialogue: 0,0:13:21.99,0:13:23.53,Main,,0,0,0,,Đi thôi, Ein.
+Dialogue: 0,0:13:24.58,0:13:26.24,Main,,0,0,0,,Có nghe không hả! Này!
+Dialogue: 0,0:13:37.63,0:13:38.90,Main,,0,0,0,,Là chip thật.
+Dialogue: 0,0:13:38.90,0:13:40.14,Main,,0,0,0,,Chả {\i1}chip{\i0} thì sao.
+Dialogue: 0,0:13:40.14,0:13:41.44,Main,,0,0,0,,Không phải thế.
+Dialogue: 0,0:13:41.44,0:13:44.17,Main,,0,0,0,,Bên trong được cấy\N một con chip vi tính đây này.
+Dialogue: 0,0:13:53.76,0:13:56.93,Main,,0,0,0,,{\i1}Chào bà con!\N Đâu có treo thưởng, ở đó có chúng tôi.
+Dialogue: 0,0:13:56.93,0:13:59.27,Main,,0,0,0,,{\i1}Không để quý vị chờ lâu nữa,\N Big Shot xin phép được bắt đầu!
+Dialogue: 0,0:14:06.70,0:14:07.65,Main,,0,0,0,,Đây là...
+Dialogue: 0,0:14:07.65,0:14:10.42,Main,,0,0,0,,{\i1\an8}Nào, mở bát cho tuần này là?
+Dialogue: 0,0:14:10.42,0:14:12.82,Main,,0,0,0,,{\i1\an8}Một cô gái với vẻ ngoài phải thừa nhận là...
+Dialogue: 0,0:14:12.82,0:14:14.16,Main,,0,0,0,,Ây, Spike!
+Dialogue: 0,0:14:12.82,0:14:16.16,Main,,0,0,0,,{\i1\an8}nếu đem giao cho cảnh sát thì phí của giời,\N Faye Valentine, tiền án tiền sự đầy mình.
+Dialogue: 0,0:14:16.94,0:14:19.61,Main,,0,0,0,,{\i1\an8}Tiền thưởng là 6 triệu, món hời đấy.
+Dialogue: 0,0:14:19.61,0:14:20.63,Main,,0,0,0,,Ây, Jet!
+Dialogue: 0,0:14:19.61,0:14:21.48,Main,,0,0,0,,{\i1\an8}Đến trước ăn trước nha.
+Dialogue: 0,0:14:21.48,0:14:23.59,Main,,0,0,0,,{\i1\an8}Cố lên nhé, anh em cao bồi~{\i0}
+Dialogue: 0,0:14:25.27,0:14:26.99,Main,,0,0,0,,Tôi nhớ cô lắm đấy.
+Dialogue: 0,0:14:26.99,0:14:27.81,Main,,0,0,0,,Ông nghe kỹ đây.
+Dialogue: 0,0:14:28.22,0:14:30.58,Main,,0,0,0,,Tôi không hề có ý chạy trốn.
+Dialogue: 0,0:14:30.58,0:14:32.44,Main,,0,0,0,,Tôi tin cô mà.
+Dialogue: 0,0:14:32.44,0:14:33.89,Main,,0,0,0,,Hiện cô đang ở đâu?
+Dialogue: 0,0:14:33.89,0:14:36.37,Main,,0,0,0,,Trên một tàu đánh cá cũ ở cổng.
+Dialogue: 0,0:14:36.37,0:14:38.63,Main,,0,0,0,,Họ đang giữ con chip.
+Dialogue: 0,0:14:38.63,0:14:39.78,Main,,0,0,0,,Nên là nhanh lên.
+Dialogue: 0,0:14:47.49,0:14:48.32,Main,,0,0,0,,Vấn đề gì?
+Dialogue: 0,0:14:48.32,0:14:52.31,Main,,0,0,0,,Ờ thì, bọn này \Nnhận ra là đã cư xử hơi trẻ con ấy.
+Dialogue: 0,0:14:52.31,0:14:55.79,Main,,0,0,0,,Khi để một cô gái trẻ\N ở một nơi như thế này.
+Dialogue: 0,0:14:56.56,0:14:58.96,Main,,0,0,0,,Mấy anh không có ý đồ gì đó chứ?
+Dialogue: 0,0:14:58.96,0:15:02.96,Main,,0,0,0,,Đâu có, bọn này chỉ tính đưa cô em\N đến một nơi đàng hoàng hơn thôi.
+Dialogue: 0,0:15:02.96,0:15:04.76,Main,,0,0,0,,Ái chà, là đâu cơ?
+Dialogue: 0,0:15:04.76,0:15:06.52,Main,,0,0,0,,Đồn cảnh sát.
+Dialogue: 0,0:15:06.52,0:15:10.33,Main,,0,0,0,,Thực sự xin lỗi \Nvì đã nhỏ nhen chỉ vì 200 cành.
 Dialogue: 0,0:15:10.33,0:15:12.22,Main,,0,0,0,,Faye Valentine.
-Dialogue: 0,0:15:12.22,0:15:14.41,Main,,0,0,0,,What, there's a bounty on me?
-Dialogue: 0,0:15:14.41,0:15:16.22,Main,,0,0,0,,A whopping 6 million.
-Dialogue: 0,0:15:16.86,0:15:19.31,Main,,0,0,0,,What... only 6 million?
-Dialogue: 0,0:15:19.99,0:15:22.31,Main,,0,0,0,,How much {\i1}are{\i0} you in debt?
-Dialogue: 0,0:15:22.31,0:15:25.97,Main,,0,0,0,,Come on, please!\NAnywhere but the police!
-Dialogue: 0,0:15:25.97,0:15:28.15,Main,,0,0,0,,Only the police would give us money.
-Dialogue: 0,0:15:28.15,0:15:32.54,Main,,0,0,0,,My mother's last will was for me to\Nnot be in any place for too long!
-Dialogue: 0,0:15:32.54,0:15:33.41,Main,,0,0,0,,Yeah, yeah...
-Dialogue: 0,0:15:33.98,0:15:38.33,Main,,0,0,0,,My family have always been "Romanies,"\Nwandering about in search of love.
-Dialogue: 0,0:15:39.87,0:15:42.46,Main,,0,0,0,,You don't know anything, do you?\NThat's another term for Gypsies!
-Dialogue: 0,0:15:42.92,0:15:47.82,Main,,0,0,0,,Everyone else, like you guys, with no\Npride in their lives are called "Gorgio."
-Dialogue: 0,0:15:47.82,0:15:49.92,Main,,0,0,0,,I'm fine with being a "Gorgio."
-Dialogue: 0,0:15:50.48,0:15:53.26,Main,,0,0,0,,It's calling me... The great\Noutdoors is calling out to me...
-Dialogue: 0,0:15:53.26,0:15:54.64,Main,,0,0,0,,You can do all of this\Nwith the cops. {3 frames extra lead-in}
-Dialogue: 0,0:15:55.21,0:15:56.46,Main,,0,0,0,,Let's go, Jet.
-Dialogue: 0,0:15:56.46,0:16:01.04,Main,,0,0,0,,Oh, fine. I won't run.\NAt least untie one hand!
-Dialogue: 0,0:16:01.04,0:16:02.85,Main,,0,0,0,,I can't even go to\Nthe bathroom like this!
-Dialogue: 0,0:16:02.85,0:16:05.81,Main,,0,0,0,,Man, we got one yappy woman here... {9 frames}
-Dialogue: 0,0:16:11.65,0:16:14.57,Main,,0,0,0,,Like taking candy from a baby.
-Dialogue: 0,0:16:15.24,0:16:17.76,Main,,0,0,0,,More like a small sacrifice for a large reward.
-Dialogue: 0,0:16:17.76,0:16:22.66,Main,,0,0,0,,As Charlie said, "If you want\Nto receive, you must first give."
-Dialogue: 0,0:16:22.66,0:16:26.07,Main,,0,0,0,,I guess what I see in dreams is\Nworth something once in a while...
-Dialogue: 0,0:16:28.42,0:16:29.59,Main,,0,0,0,,Ow...
-Dialogue: 0,0:16:34.01,0:16:35.36,Main,,0,0,0,,What do you think you're doing?
-Dialogue: 0,0:16:37.80,0:16:40.84,Main,,0,0,0,,{\i1}I don't know who you are,{\i0}
-Dialogue: 0,0:16:40.84,0:16:42.94,Main,,0,0,0,,{\i1}but I would like the chip back.{\i0}
-Dialogue: 0,0:16:43.50,0:16:45.58,Main,,0,0,0,,{\i1}I don't know who you are,{\i0}
-Dialogue: 0,0:16:45.58,0:16:47.08,Main,,0,0,0,,{\i1}but I refuse.{\i0}
-Dialogue: 0,0:16:47.08,0:16:50.24,Main,,0,0,0,,It's just a chip that means nothing to you.
-Dialogue: 0,0:16:50.24,0:16:53.50,Main,,0,0,0,,{\i1}Although we can sell what's{\i0}\N{\i0}in{\i1} the chip for a pretty penny.{\i0} {"in" was capitalized}
-Dialogue: 0,0:16:54.15,0:16:58.02,Main,,0,0,0,,There was a decryption program\Ncalled Crypt-Breaker
-Dialogue: 0,0:16:58.02,0:17:02.41,Main,,0,0,0,,that was developed by SIT three years ago.
-Dialogue: 0,0:17:02.41,0:17:05.41,Main,,0,0,0,,Rumors say that right after its completion,\Nthe programmer was killed,
-Dialogue: 0,0:17:05.41,0:17:08.13,Main,,0,0,0,,and the program went into the black market.
-Dialogue: 0,0:17:08.13,0:17:15.46,Main,,0,0,0,,{\i1}It's a "magic key" that can decode and{\i0}\N{\i1}unlock almost every protection code.{\i0}
-Dialogue: 0,0:17:15.46,0:17:19.10,Main,,0,0,0,,{\i1}But that program itself was encoded.{\i0}
-Dialogue: 0,0:17:19.10,0:17:23.01,Main,,0,0,0,,So, there was a need to find\Nthe key to open the program. {9 frames}
-Dialogue: 0,0:17:23.01,0:17:28.44,Main,,0,0,0,,I heard rumors that both the cops and the\NISSP were parting hairs to find the key...
-Dialogue: 0,0:17:28.95,0:17:32.40,Main,,0,0,0,,I never thought I would see\Nit in a place like this.
-Dialogue: 0,0:17:33.66,0:17:35.65,Main,,0,0,0,,You're pretty good.
-Dialogue: 0,0:17:36.22,0:17:40.37,Main,,0,0,0,,I used to work in a shady\Nplace called the ISSP.
-Dialogue: 0,0:17:40.37,0:17:43.65,Main,,0,0,0,,{\i1}I'm sure the casino was to{\i0}\N{\i1}take attention away from{\i0} {9 frames}
-Dialogue: 0,0:17:43.65,0:17:46.86,Main,,0,0,0,,{\i1}the large sum of money{\i0}\N{\i1}and to fool the cops...{\i0}
-Dialogue: 0,0:17:46.86,0:17:48.51,Main,,0,0,0,,{\i1}You just chose the wrong day.{\i0}
-Dialogue: 0,0:17:48.51,0:17:52.34,Main,,0,0,0,,{\i1}Of course, this thing is useless for us as well.{\i0}
-Dialogue: 0,0:17:52.34,0:17:54.74,Main,,0,0,0,,{\i1}It would only be proper to give it to the cops.{\i0}
-Dialogue: 0,0:17:54.74,0:17:56.13,Main,,0,0,0,,I'll pay.
-Dialogue: 0,0:17:56.91,0:18:00.21,Main,,0,0,0,,{\i1}300 million... Nah, too much.{\i0}\N{\i1}How about 30 million?{\i0}
-Dialogue: 0,0:18:00.21,0:18:03.64,Main,,0,0,0,,{\i1}Not bad for the price of a magic key, eh?{\i0}
-Dialogue: 0,0:18:05.83,0:18:07.10,Main,,0,0,0,,All right...
-Dialogue: 0,0:18:27.95,0:18:31.20,Main,,0,0,0,,{\i1}Okay, 6 million turns into 30 million.{\i0}
-Dialogue: 0,0:18:31.20,0:18:32.91,Main,,0,0,0,,The money just keeps growing...
-Dialogue: 0,0:18:32.91,0:18:34.64,Main,,0,0,0,,{\i1}Don't get caught off-guard.{\i0}
-Dialogue: 0,0:18:34.64,0:18:36.08,Main,,0,0,0,,Okey dokey.
-Dialogue: 0,0:19:24.93,0:19:27.93,Main,,0,0,0,,Someone who specifies cash\Nup front is rare nowadays. {9 frames}
-Dialogue: 0,0:19:28.53,0:19:30.69,Main,,0,0,0,,I'm an old-fashioned guy.
-Dialogue: 0,0:19:35.76,0:19:37.03,Main,,0,0,0,,{\i1}All right.{\i0}
-Dialogue: 0,0:19:37.52,0:19:39.50,Main,,0,0,0,,We'll both count to three.
-Dialogue: 0,0:19:40.03,0:19:42.78,Main,,0,0,0,,At which point, we'll release the\Nmagnetic field of the suitcase {original: "we will"}
-Dialogue: 0,0:19:43.30,0:19:44.86,Main,,0,0,0,,{\i1}and send it that way.{\i0}
-Dialogue: 0,0:19:44.86,0:19:47.57,Main,,0,0,0,,{\i1}You toss the chip our way.{\i0}
-Dialogue: 0,0:19:47.57,0:19:48.37,Main,,0,0,0,,Okay.
-Dialogue: 0,0:19:49.39,0:19:50.87,Main,,0,0,0,,I'm trusting you...
-Dialogue: 0,0:19:53.05,0:19:55.56,Main,,0,0,0,,When you confirm that we got\Nthe chip, sink that ship.
-Dialogue: 0,0:19:55.56,0:19:56.09,Main,,0,0,0,,Roger.
-Dialogue: 0,0:19:57.19,0:19:58.05,Main,,0,0,0,,Let's go!
-Dialogue: 0,0:20:02.07,0:20:02.80,Main,,0,0,0,,One.
-Dialogue: 0,0:20:04.22,0:20:05.05,Main,,0,0,0,,Two.
-Dialogue: 0,0:20:05.80,0:20:06.56,Main,,0,0,0,,Three.
-Dialogue: 0,0:20:16.94,0:20:17.57,Main,,0,0,0,,What?!
-Dialogue: 0,0:20:23.07,0:20:25.03,Main,,0,0,0,,Shutters are meant to be opened!
-Dialogue: 0,0:20:34.29,0:20:35.29,Main,,0,0,0,,What!?
-Dialogue: 0,0:20:48.14,0:20:50.05,Main,,0,0,0,,Hi, "Gorgio."
-Dialogue: 0,0:20:50.77,0:20:52.92,Main,,0,0,0,,Hey, "Romani." {9 frames}
-Dialogue: 0,0:20:55.52,0:20:56.52,Main,,0,0,0,,Bye! {10 frames}
-Dialogue: 0,0:20:56.52,0:20:58.15,Main,,0,0,0,,Don't let her get away! Fire!
-Dialogue: 0,0:21:02.40,0:21:03.47,Main,,0,0,0,,Shit!
-Dialogue: 0,0:21:10.12,0:21:12.16,Main,,0,0,0,,Jet, let's get outta here!
-Dialogue: 0,0:21:12.57,0:21:13.87,Main,,0,0,0,,All right!
-Dialogue: 0,0:21:16.54,0:21:18.92,Main,,0,0,0,,Get them! Get them!\NWhat the hell are you doing!?
-Dialogue: 0,0:21:37.73,0:21:39.43,Main,,0,0,0,,She dropped chaff!
-Dialogue: 0,0:21:39.43,0:21:40.28,Main,,0,0,0,,What?
-Dialogue: 0,0:21:40.28,0:21:41.73,Main,,0,0,0,,Missiles are approaching!
-Dialogue: 0,0:22:02.00,0:22:03.58,Main,,0,0,0,,That wench...
-Dialogue: 0,0:22:11.80,0:22:13.95,Main,,0,0,0,,It's only proper to use it.
-Dialogue: 0,0:22:14.56,0:22:17.18,Main,,0,0,0,,Guess we have to build up\Nagain from square one.
-Dialogue: 0,0:22:24.14,0:22:25.59,Main,,0,0,0,,That's cheating!
-Dialogue: 0,0:24:12.62,0:24:15.26,Main,,0,0,0,,It sucks... this world is such an unruly place.
-Dialogue: 0,0:24:15.74,0:24:18.31,Main,,0,0,0,,Economic recession everywhere,\Nmaking kids lose their minds...
-Dialogue: 0,0:24:18.31,0:24:20.37,Main,,0,0,0,,Come on, this isn't the time\Nto be reading the paper!
-Dialogue: 0,0:24:20.37,0:24:22.94,Main,,0,0,0,,Things aboard the Bebop are\Nbecoming even more unruly!
-Dialogue: 0,0:24:23.62,0:24:25.44,Main,,0,0,0,,Bah, this is nothing!
-Dialogue: 0,0:24:25.44,0:24:29.65,Main,,0,0,0,,Look at this... terrorists! Apparently\Nthey want to blow Ganymede up.
-Dialogue: 0,0:24:29.65,0:24:32.32,Main,,0,0,0,,Oh? Environmental Protection Society?
-Dialogue: 0,0:24:32.32,0:24:35.74,Main,,0,0,0,,Perfect! We can have them\Ntake care of this fleabag.
-Dialogue: 0,0:24:35.74,0:24:37.97,Main,,0,0,0,,Next episode: Gateway Shuffle.
-Dialogue: 0,0:24:37.97,0:24:39.50,Main,,0,0,0,,Man, I'm about to lose it.
-Dialogue: 0,0:02:22.24,0:02:22.28,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.33,104.47)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:22.28,0:02:22.33,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(726.47,102.36)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:22.33,0:02:22.37,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(726.08,102.32)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:22.37,0:02:22.41,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.44,102.59)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:22.41,0:02:22.45,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.72,102.71)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:22.45,0:02:22.49,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.68,102.77)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:22.49,0:02:22.53,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.72,103.08)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:22.53,0:02:22.58,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.69,102.82)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:22.58,0:02:22.62,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.62,102.62)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:22.62,0:02:22.66,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.64,102.78)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:22.66,0:02:22.70,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.66,102.78)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:22.70,0:02:22.74,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.69,102.76)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:22.74,0:02:22.78,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.76,102.59)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:22.78,0:02:22.83,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.46,102.8)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:22.83,0:02:22.87,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.84,102.74)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:22.87,0:02:22.91,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.58,102.51)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:22.91,0:02:22.95,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.65,102.27)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:22.95,0:02:22.99,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.69,102.57)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:22.99,0:02:23.03,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.7,102.64)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:23.03,0:02:23.08,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.65,102.66)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:23.08,0:02:23.12,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(726.19,102.76)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:23.12,0:02:23.16,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.8,102.75)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:23.16,0:02:23.20,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.43,102.53)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:23.20,0:02:23.24,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.44,102.51)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:23.24,0:02:23.28,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.45,102.56)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:23.28,0:02:23.33,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.47,102.64)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:23.33,0:02:23.37,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.51,102.42)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:23.37,0:02:23.41,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.87,102.44)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:23.41,0:02:23.45,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.74,102.8)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:23.45,0:02:23.49,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.63,102.91)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:23.49,0:02:23.53,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.62,103.06)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:23.53,0:02:23.58,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.77,103.02)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:23.58,0:02:23.62,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.89,102.9)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:23.62,0:02:23.66,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.8,102.85)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:23.66,0:02:23.70,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.85,102.88)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:23.70,0:02:23.74,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.93,103.03)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:23.74,0:02:23.79,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.77,102.93)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:23.79,0:02:23.83,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.43,102.75)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:23.83,0:02:23.87,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.66,102.75)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:23.87,0:02:23.91,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.86,103.02)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:23.91,0:02:23.95,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.68,102.86)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:23.95,0:02:23.99,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.58,102.71)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:23.99,0:02:24.04,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.88,103)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:24.04,0:02:24.08,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(726.1,103.1)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:24.08,0:02:24.12,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.92,103.06)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:24.12,0:02:24.16,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.88,102.81)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:24.16,0:02:24.20,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.95,103.04)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:24.20,0:02:24.24,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.93,102.64)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:24.24,0:02:24.29,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(726.06,102.61)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:24.29,0:02:24.33,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.95,102.67)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:24.33,0:02:24.37,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.98,102.83)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:24.37,0:02:24.41,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.8,102.93)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:24.41,0:02:24.45,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.78,102.87)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:24.45,0:02:24.49,Signs,,0,0,0,,{=2}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.16,103.23)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:37.47,0:02:37.51,Signs,,0,0,0,,{=3}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.33,104.47)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:37.51,0:02:37.55,Signs,,0,0,0,,{=3}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(726.61,103.42)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:37.55,0:02:37.59,Signs,,0,0,0,,{=3}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(726.19,103.47)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:37.59,0:02:37.63,Signs,,0,0,0,,{=3}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(726.39,103.42)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:37.63,0:02:37.67,Signs,,0,0,0,,{=3}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(726.16,103.37)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:37.67,0:02:37.72,Signs,,0,0,0,,{=3}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(726.19,103.18)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:37.72,0:02:37.76,Signs,,0,0,0,,{=3}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.99,103.69)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:37.76,0:02:37.80,Signs,,0,0,0,,{=3}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.88,103.78)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:37.80,0:02:37.84,Signs,,0,0,0,,{=3}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.94,103.97)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:37.84,0:02:37.88,Signs,,0,0,0,,{=3}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.95,103.88)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:37.88,0:02:37.92,Signs,,0,0,0,,{=3}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.57,103.39)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:37.92,0:02:37.97,Signs,,0,0,0,,{=3}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.98,103.62)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:37.97,0:02:38.01,Signs,,0,0,0,,{=3}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.91,103.72)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:38.01,0:02:38.05,Signs,,0,0,0,,{=3}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.89,103.33)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:38.05,0:02:38.09,Signs,,0,0,0,,{=3}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(726.2,103.33)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:38.09,0:02:38.13,Signs,,0,0,0,,{=3}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(726.62,103.5)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:38.13,0:02:38.17,Signs,,0,0,0,,{=3}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(726.15,103.87)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:38.17,0:02:38.22,Signs,,0,0,0,,{=3}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(726.31,103.49)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:38.22,0:02:38.26,Signs,,0,0,0,,{=3}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(726.25,103.47)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:38.26,0:02:38.30,Signs,,0,0,0,,{=3}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(726.11,103.45)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:38.30,0:02:38.34,Signs,,0,0,0,,{=3}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.96,103.13)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:38.34,0:02:38.38,Signs,,0,0,0,,{=3}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.92,103.12)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:38.38,0:02:38.42,Signs,,0,0,0,,{=3}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.82,103.1)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:38.42,0:02:38.47,Signs,,0,0,0,,{=3}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.84,103.1)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:38.47,0:02:38.51,Signs,,0,0,0,,{=3}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.86,103.26)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:38.51,0:02:38.55,Signs,,0,0,0,,{=3}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.96,103.41)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:38.55,0:02:38.59,Signs,,0,0,0,,{=3}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.97,103.92)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:38.59,0:02:38.63,Signs,,0,0,0,,{=3}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(726.12,103.8)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:38.63,0:02:38.67,Signs,,0,0,0,,{=3}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.88,103.7)}HERBAL                 MEDICINE                       SHOP
-Dialogue: 0,0:02:38.67,0:02:38.72,Signs,,0,0,0,,{=3}{\fnA-OTF Harucraft Std Heavy\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\pos(725.62,103.96)}HERBAL                 MEDICINE                       SHOP
+Dialogue: 0,0:15:12.22,0:15:14.41,Main,,0,0,0,,Tôi bị treo thưởng á?
+Dialogue: 0,0:15:14.41,0:15:16.22,Main,,0,0,0,,Kếch xù đấy, 6 triệu.
+Dialogue: 0,0:15:16.72,0:15:19.31,Main,,0,0,0,,Gì cơ?! Có 6 triệu thôi á.
+Dialogue: 0,0:15:19.99,0:15:22.31,Main,,0,0,0,,Cô... rốt cuộc nợ bao nhiêu thế?
+Dialogue: 0,0:15:22.31,0:15:23.62,Main,,0,0,0,,Này, tôi xin mấy anh.
+Dialogue: 0,0:15:23.62,0:15:25.90,Main,,0,0,0,,Đâu cũng được trừ cảnh sát ra.
+Dialogue: 0,0:15:25.90,0:15:28.06,Main,,0,0,0,,Không giao cho cảnh sát thì tiền đâu ra.
+Dialogue: 0,0:15:28.06,0:15:31.02,Main,,0,0,0,,Tôi không được phép ru rú một chỗ,\N phải đi đây đi đó.
+Dialogue: 0,0:15:31.02,0:15:32.48,Main,,0,0,0,,Đó là mong ước cuối đời của mẹ tôi.
+Dialogue: 0,0:15:32.48,0:15:33.41,Main,,0,0,0,,Rồi, rồi.
+Dialogue: 0,0:15:33.98,0:15:37.43,Main,,0,0,0,,Gia tộc chúng tôi \Nchu du khắp nơi tìm kiếm tình yêu.
+Dialogue: 0,0:15:37.43,0:15:38.33,Main,,0,0,0,,Là người {\i1}Romani{\i0}.
+Dialogue: 0,0:15:39.87,0:15:42.46,Main,,0,0,0,,Anh có vẻ thiếu hiểu biết,\N là dân Gypsy đó.
+Dialogue: 0,0:15:42.92,0:15:46.16,Main,,0,0,0,,Những người không có lòng kiêu hãnh\N như hai anh,
+Dialogue: 0,0:15:46.16,0:15:47.82,Main,,0,0,0,,chúng tôi gọi là Gorja.
+Dialogue: 0,0:15:47.82,0:15:49.42,Main,,0,0,0,,Gorja thì Gorja.
+Dialogue: 0,0:15:50.48,0:15:53.26,Main,,0,0,0,,Có tiếng gọi tôi,\N thiên nhiên đang vẫy gọi tôi.
+Dialogue: 0,0:15:53.26,0:15:54.64,Main,,0,0,0,,Lên đồn mà trình bày.
+Dialogue: 0,0:15:55.21,0:15:56.46,Main,,0,0,0,,Nhổ neo nào, Jet.
+Dialogue: 0,0:15:56.46,0:16:01.04,Main,,0,0,0,,Rồi được rồi, tôi không trốn, \Nnhưng ít nhất cũng tháo một tay ra chứ.
+Dialogue: 0,0:16:01.04,0:16:02.86,Main,,0,0,0,,Thế này thì đi vệ sinh kiểu gì.
+Dialogue: 0,0:16:03.23,0:16:05.81,Main,,0,0,0,,Chịu đấy! Cô em này lắm mồm quá.
+Dialogue: 0,0:16:11.65,0:16:14.57,Main,,0,0,0,,Đúng là tiền tự chảy vào túi ha.
+Dialogue: 0,0:16:15.24,0:16:17.76,Main,,0,0,0,,Đó là thả con săn sắt bắt con cá rô.
+Dialogue: 0,0:16:17.76,0:16:22.66,Main,,0,0,0,,Như Charlie đã nói, \N"muốn nhận thì phải cho đi".
+Dialogue: 0,0:16:22.66,0:16:26.07,Main,,0,0,0,,Quả báo mộng kia \Ncũng không phải không có cơ cở.
+Dialogue: 0,0:16:28.42,0:16:29.59,Main,,0,0,0,,Au ui.
+Dialogue: 0,0:16:34.01,0:16:35.36,Main,,0,0,0,,Làm cái quái gì thế?
+Dialogue: 0,0:16:37.80,0:16:40.84,Main,,0,0,0,,Tôi không biết các anh là ai,
+Dialogue: 0,0:16:40.84,0:16:42.94,Main,,0,0,0,,nhưng trả lại tôi con chip được không?
+Dialogue: 0,0:16:43.50,0:16:45.58,Main,,0,0,0,,Tôi không biết ông là ai,
+Dialogue: 0,0:16:45.58,0:16:47.08,Main,,0,0,0,,nhưng tôi từ chối.
+Dialogue: 0,0:16:47.08,0:16:50.24,Main,,0,0,0,,Con chip đó \Nđâu có ý nghĩa gì với các anh.
+Dialogue: 0,0:16:50.24,0:16:53.50,Main,,0,0,0,,Thứ bên trong nó\N có khả năng sẽ bán được giá cao.
+Dialogue: 0,0:16:54.15,0:16:58.02,Main,,0,0,0,,3 năm trước, tôi có nhớ\N SIT từng phát triển một thứ,
+Dialogue: 0,0:16:58.02,0:17:02.41,Main,,0,0,0,,là chương trình phá mã mang tên\NCrypto-Breaker.
+Dialogue: 0,0:17:02.41,0:17:05.41,Main,,0,0,0,,Có tin đồn là lập trình viên\Nđã bị giết ngay sau khi hoàn tất,
+Dialogue: 0,0:17:05.41,0:17:08.13,Main,,0,0,0,,và chương trình thì bị tuồn vào chợ đen.
+Dialogue: 0,0:17:08.13,0:17:12.36,Main,,0,0,0,,Nó có thể bẻ khóa hầu hết \Ncác loại mật mã hay hệ thống bảo mật,
+Dialogue: 0,0:17:12.36,0:17:15.46,Main,,0,0,0,,có thể gọi là \Nchiếc chìa khóa thần kỳ.
+Dialogue: 0,0:17:15.46,0:17:19.10,Main,,0,0,0,,Tuy nhiên, bản thân chương trình đó \Nđã được mã hóa.
+Dialogue: 0,0:17:19.48,0:17:23.01,Main,,0,0,0,,Nên là cần có {\i1}key{\i0} để mở.
+Dialogue: 0,0:17:23.01,0:17:28.44,Main,,0,0,0,,Có tin đồn là cảnh sát và ISSP \Nđang ráo riết tìm kiếm, nhưng mà...
+Dialogue: 0,0:17:28.95,0:17:32.40,Main,,0,0,0,,không ngờ được là nó lại ở đây đấy.
+Dialogue: 0,0:17:33.66,0:17:35.65,Main,,0,0,0,,Anh có vẻ rất thành thạo.
+Dialogue: 0,0:17:36.22,0:17:40.37,Main,,0,0,0,,Hồi xưa, tôi từng làm việc\N cho một {\i1}băng yakuza{\i0} tên ISSP mà.
+Dialogue: 0,0:17:40.37,0:17:43.65,Main,,0,0,0,,Sòng bạc là một nơi hoàn hảo để rửa tiền\N mà không gây chú ý,
+Dialogue: 0,0:17:43.65,0:17:46.86,Main,,0,0,0,,và cũng dễ qua mặt cảnh sát, chỉ là...
+Dialogue: 0,0:17:46.86,0:17:48.51,Main,,0,0,0,,đúng hôm số nhọ.
+Dialogue: 0,0:17:48.51,0:17:52.34,Main,,0,0,0,,Tất nhiên, thứ này với bọn tôi là vô dụng.
+Dialogue: 0,0:17:52.34,0:17:54.74,Main,,0,0,0,,Tốt nhất nên giao cho cảnh sát.
+Dialogue: 0,0:17:54.74,0:17:56.13,Main,,0,0,0,,Tôi sẽ trả tiền.
+Dialogue: 0,0:17:56.91,0:18:00.21,Main,,0,0,0,,300 triệu... mà thôi, 30 triệu thấy sao?
+Dialogue: 0,0:18:00.21,0:18:03.64,Main,,0,0,0,,Là chiếc chìa khóa thần kỳ đấy,\N 30 triệu vẫn còn rẻ chán ha?
+Dialogue: 0,0:18:05.83,0:18:07.10,Main,,0,0,0,,Được thôi.
+Dialogue: 0,0:18:27.95,0:18:31.20,Main,,0,0,0,,OK! 6 triệu hóa 30 triệu.
+Dialogue: 0,0:18:31.20,0:18:32.91,GT 2,,0,0,0,,(gốc: "Triệu phú rơm", truyện dân gian NB)
+Dialogue: 0,0:18:31.20,0:18:32.91,Main,,0,0,0,,Làm giàu không khó mà.
+Dialogue: 0,0:18:32.91,0:18:34.64,Main,,0,0,0,,Cứ nên cẩn thận.
+Dialogue: 0,0:18:34.64,0:18:36.08,Main,,0,0,0,,Ô kê con dê.
+Dialogue: 0,0:19:25.33,0:19:27.93,Main,,0,0,0,,Thời nay mà vẫn còn tiền mặt.
+Dialogue: 0,0:19:28.53,0:19:30.69,Main,,0,0,0,,Tôi là kiểu hoài cổ mà.
+Dialogue: 0,0:19:35.76,0:19:37.03,Main,,0,0,0,,Được rồi.
+Dialogue: 0,0:19:37.52,0:19:39.36,Main,,0,0,0,,Chúng ta đếm đến 3.
+Dialogue: 0,0:19:39.80,0:19:42.78,Main,,0,0,0,,Lúc đó, bên tôi sẽ ngắt từ trường cái va li,
+Dialogue: 0,0:19:42.79,0:19:44.86,Main,,0,0,0,,để nó bay sang bên anh.
+Dialogue: 0,0:19:44.86,0:19:47.57,Main,,0,0,0,,Còn bên anh quăng chip sang bên tôi.
+Dialogue: 0,0:19:47.57,0:19:48.37,Main,,0,0,0,,OK.
+Dialogue: 0,0:19:49.39,0:19:50.87,Main,,0,0,0,,Trông cậy vào anh đấy.
+Dialogue: 0,0:19:53.05,0:19:55.56,Main,,0,0,0,,Nhận được con chip thì xử luôn con tàu đó.
+Dialogue: 0,0:19:55.56,0:19:56.09,Main,,0,0,0,,Rõ.
+Dialogue: 0,0:19:57.19,0:19:58.05,Main,,0,0,0,,Triển nào!
+Dialogue: 0,0:20:02.07,0:20:02.80,Main,,0,0,0,,Một
+Dialogue: 0,0:20:04.22,0:20:05.05,Main,,0,0,0,,Hai
+Dialogue: 0,0:20:05.80,0:20:06.56,Main,,0,0,0,,Ba
+Dialogue: 0,0:20:16.94,0:20:17.57,Main,,0,0,0,,Cái gì?!
+Dialogue: 0,0:20:23.07,0:20:25.03,Main,,0,0,0,,Cửa là để mở nhá!
+Dialogue: 0,0:20:34.30,0:20:35.29,Main,,0,0,0,,Cái gì?!
+Dialogue: 0,0:20:48.14,0:20:50.05,Main,,0,0,0,,Chào~ Gorja!
+Dialogue: 0,0:20:50.77,0:20:52.92,Main,,0,0,0,,Chào~ Romani!
+Dialogue: 0,0:20:55.52,0:20:56.52,Main,,0,0,0,,Bai~
+Dialogue: 0,0:20:56.52,0:20:58.15,Main,,0,0,0,,Không để nó thoát! Bắn!
+Dialogue: 0,0:21:02.40,0:21:03.47,Main,,0,0,0,,Cái đệch!
+Dialogue: 0,0:21:10.12,0:21:12.16,Main,,0,0,0,,Jet! Phắn khỏi đây thôi.
+Dialogue: 0,0:21:12.57,0:21:13.87,Main,,0,0,0,,Được!
+Dialogue: 0,0:21:16.54,0:21:18.92,Main,,0,0,0,,Xử chúng ngay! Xử chúng ngay!\N Chúng mày làm cái quái gì thế?
+Dialogue: 0,0:21:37.73,0:21:39.43,Main,,0,0,0,,Nó thả {\i1}chaff{\i0} gây nhiễu.
+Dialogue: 0,0:21:39.43,0:21:40.28,Main,,0,0,0,,Gì cơ?!
+Dialogue: 0,0:21:40.28,0:21:41.73,Main,,0,0,0,,Tên lửa đang đến!
+Dialogue: 0,0:22:02.00,0:22:03.58,Main,,0,600,0,,Cái cô này...
+Dialogue: 0,0:22:11.77,0:22:13.95,Main,,0,0,0,,Tốt nhất vẫn là nên dùng nó.
+Dialogue: 0,0:22:14.46,0:22:17.18,Main,,0,0,0,,Thế là phải "làm giàu không khó"\N lại từ đầu à.
+Dialogue: 0,0:22:24.14,0:22:25.59,Main,,0,0,0,,Ăn gian!
+Dialogue: 0,0:24:12.62,0:24:15.26,Main,preview,0,0,0,,Đến quỳ luôn!\N Thế giới này loạn lạc quá!
+Dialogue: 0,0:24:15.74,0:24:18.11,Main,preview,0,0,0,,Đám trẻ phát điên vì kinh tế suy thoái.
+Dialogue: 0,0:24:18.11,0:24:20.17,Main,preview,0,0,0,,Này, giờ không phải lúc đọc báo.
+Dialogue: 0,0:24:20.17,0:24:22.94,Main,preview,0,0,0,,Trên Bebop còn đang loạn hết cả lên đây này.
+Dialogue: 0,0:24:23.62,0:24:25.44,Main,preview,0,0,0,,Thế cũng kêu loạn.
+Dialogue: 0,0:24:25.44,0:24:26.53,Main,preview,0,0,0,,Nhìn đây này!
+Dialogue: 0,0:24:26.53,0:24:29.65,Main,preview,0,0,0,,Khủng bố đấy, \Nchúng tính cho Ganymede nổ tanh bành luôn.
+Dialogue: 0,0:24:29.65,0:24:32.32,Main,preview,0,0,0,,Hả?! Tổ chức bảo vệ môi trường?
+Dialogue: 0,0:24:32.32,0:24:35.74,Main,preview,0,0,0,,Vừa hay, \Nđể họ bế luôn con thú hoang này đi .
+Dialogue: 0,0:24:35.74,0:24:37.85,Main,preview,0,0,0,,Kỳ tới, "Hỗn loạn tại cổng không gian".
+Dialogue: 0,0:24:37.85,0:24:39.50,Main,preview,0,0,0,,Tôi sắp phát điên lên rồi.
+Comment: 0,0:24:37.97,0:24:39.50,Main,,0,0,0,,==========================================
+Dialogue: 0,0:04:21.28,0:04:25.24,Signs,,0,0,0,,
+Dialogue: 0,0:06:17.52,0:06:19.98,Signs,,0,0,0,,
+Dialogue: 0,0:10:20.27,0:10:23.48,Signs,,0,0,0,,
+Dialogue: 0,0:24:37.04,0:24:40.04,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H30592A&\3c&H30592A&\b0\pos(182.2,430.07)\fscx105\fscy112}HỖN LOẠN TẠI CỔNG KHÔNG GIAN
+Dialogue: 1,0:24:37.04,0:24:40.04,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(182.2,430.07)\fscx105\fscy112}HỖN LOẠN TẠI CỔNG KHÔNG GIAN
+Dialogue: 0,0:24:37.04,0:24:40.04,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H30592A&\3c&H30592A&\b0\alpha&H50&\3a&H00&\1a&H00&\pos(183.2,430.07)\fscx105\fscy112}HỖN LOẠN TẠI CỔNG KHÔNG GIAN
+Dialogue: 1,0:24:37.04,0:24:40.04,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\alpha&H50&\pos(183.2,430.07)\fscx105\fscy112}HỖN LOẠN TẠI CỔNG KHÔNG GIAN
+Dialogue: 0,0:24:37.04,0:24:40.04,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0.7\shad0\c&H30592A&\3c&H30592A&\b0\pos(1382.21,74.67)\fscx59\fscy59}Phụ đề được thực hiện bởi GSGA
+Dialogue: 1,0:24:37.04,0:24:40.04,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(1382.21,74.67)\fscx59\fscy59}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:24:37.04,0:24:40.04,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0.7\shad0\c&H30592A&\3c&H30592A&\b0\pos(1382.21,124.67)\fscx59\fscy59}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 1,0:24:37.04,0:24:40.04,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(1382.21,124.67)\fscx59\fscy59}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 0,0:03:09.79,0:03:14.26,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H532A3A&\3c&H532A3A&\b0\pos(182.2,430.07)\fscx105\fscy112}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
+Dialogue: 1,0:03:09.79,0:03:14.26,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(182.2,430.07)\fscx105\fscy112}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
+Dialogue: 0,0:03:09.79,0:03:14.26,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H532A3A&\3c&H532A3A&\b0\alpha&H50&\3a&H00&\1a&H00&\pos(183.2,430.07)\fscx105\fscy112}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
+Dialogue: 1,0:03:09.79,0:03:14.26,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\alpha&H50&\pos(183.2,430.07)\fscx105\fscy112}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
+Dialogue: 0,0:03:09.79,0:03:14.26,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0.7\shad0\c&H532A3A&\3c&H532A3A&\b0\pos(1382.21,74.67)\fscx59\fscy59}Phụ đề được thực hiện bởi GSGA
+Dialogue: 1,0:03:09.79,0:03:14.26,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(1382.21,74.67)\fscx59\fscy59}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:03:09.79,0:03:14.26,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0.7\shad0\c&H532A3A&\3c&H532A3A&\b0\pos(1382.21,124.67)\fscx59\fscy59}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 1,0:03:09.79,0:03:14.26,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(1382.21,124.67)\fscx59\fscy59}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1183.2,430.07,383.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1184.2,430.07,384.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1185.2,430.07,385.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1186.2,430.07,386.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1187.2,430.07,387.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1188.2,430.07,388.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1189.2,430.07,389.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1190.2,430.07,390.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1191.2,430.07,391.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1192.2,430.07,392.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1193.2,430.07,393.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1194.2,430.07,394.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1195.2,430.07,395.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1196.2,430.07,396.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1197.2,430.07,397.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1198.2,430.07,398.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1199.2,430.07,399.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1200.2,430.07,400.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H6F475A&\3c&H532A3A&\b0\move(183.21,124.67,1183.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H6F475A&\3c&H532A3A&\b0\move(184.21,124.67,1184.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H6F475A&\3c&H532A3A&\b0\move(185.21,124.67,1185.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H6F475A&\3c&H532A3A&\b0\move(186.21,124.67,1186.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H6F475A&\3c&H532A3A&\b0\move(187.21,124.67,1187.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H6F475A&\3c&H532A3A&\b0\move(188.21,124.67,1188.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H6F475A&\3c&H532A3A&\b0\move(189.21,124.67,1189.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H6F475A&\3c&H532A3A&\b0\move(190.21,124.67,1190.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H6F475A&\3c&H532A3A&\b0\move(191.21,124.67,1191.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H6F475A&\3c&H532A3A&\b0\move(192.21,124.67,1192.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H6F475A&\3c&H532A3A&\b0\move(193.21,124.67,1193.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H6F475A&\3c&H532A3A&\b0\move(194.21,124.67,1194.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H6F475A&\3c&H532A3A&\b0\move(195.21,124.67,1195.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H6F475A&\3c&H532A3A&\b0\move(183.21,74.67,1183.21,74.67)\fscx59\fscy59\1a&HC8&}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H6F475A&\3c&H532A3A&\b0\move(184.21,74.67,1184.21,74.67)\fscx59\fscy59\1a&HC8&}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H6F475A&\3c&H532A3A&\b0\move(185.21,74.67,1185.21,74.67)\fscx59\fscy59\1a&HC8&}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H6F475A&\3c&H532A3A&\b0\move(186.21,74.67,1186.21,74.67)\fscx59\fscy59\1a&HC8&}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H6F475A&\3c&H532A3A&\b0\move(187.21,74.67,1187.21,74.67)\fscx59\fscy59\1a&HC8&}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H6F475A&\3c&H532A3A&\b0\move(188.21,74.67,1188.21,74.67)\fscx59\fscy59\1a&HC8&}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H6F475A&\3c&H532A3A&\b0\move(189.21,74.67,1189.21,74.67)\fscx59\fscy59\1a&HC8&}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H6F475A&\3c&H532A3A&\b0\move(190.21,74.67,1190.21,74.67)\fscx59\fscy59\1a&HC8&}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H6F475A&\3c&H532A3A&\b0\move(191.21,74.67,1191.21,74.67)\fscx59\fscy59\1a&HC8&}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H6F475A&\3c&H532A3A&\b0\move(192.21,74.67,1192.21,74.67)\fscx59\fscy59\1a&HC8&}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H6F475A&\3c&H532A3A&\b0\move(193.21,74.67,1193.21,74.67)\fscx59\fscy59\1a&HC8&}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H6F475A&\3c&H532A3A&\b0\move(194.21,74.67,1194.21,74.67)\fscx59\fscy59\1a&HC8&}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H6F475A&\3c&H532A3A&\b0\move(195.21,74.67,1195.21,74.67)\fscx59\fscy59\1a&HC8&}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:24:10.85,0:24:10.97,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1383.2,410.07,583.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:10.85,0:24:10.97,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1384.2,410.07,584.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:10.85,0:24:10.97,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1385.2,410.07,585.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:10.85,0:24:10.97,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1386.2,410.07,586.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:10.85,0:24:10.97,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1387.2,410.07,587.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:10.85,0:24:10.97,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1388.2,410.07,588.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:10.85,0:24:10.97,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1389.2,410.07,589.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:10.85,0:24:10.97,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1390.2,410.07,590.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:10.85,0:24:10.97,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1391.2,410.07,591.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:10.85,0:24:10.97,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1392.2,410.07,592.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:10.85,0:24:10.97,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1393.2,410.07,593.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:10.85,0:24:10.97,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1394.2,410.07,594.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:10.85,0:24:10.97,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1395.2,410.07,595.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:10.85,0:24:10.97,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1396.2,410.07,596.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:10.85,0:24:10.97,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1397.2,410.07,597.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:10.85,0:24:10.97,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1398.2,410.07,598.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:10.85,0:24:10.97,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1399.2,410.07,599.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:10.97,0:24:12.06,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H2B2D7B&\3c&H2B2D7B&\b0\fscx105\fscy112\pos(386.2,410.07)}GIỚI THIỆU TẬP SAU
+Dialogue: 1,0:24:10.97,0:24:12.06,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\fscx105\fscy112\pos(386.2,410.07)}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:10.97,0:24:12.06,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H2B2D7B&\3c&H2B2D7B&\b0\alpha&H50&\3a&H00&\1a&H00&\fscx105\fscy112\pos(387.2,410.07)}GIỚI THIỆU TẬP SAU
+Dialogue: 1,0:24:10.97,0:24:12.06,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\alpha&H50&\fscx105\fscy112\pos(387.2,410.07)}GIỚI THIỆU TẬP SAU
+Dialogue: 2,0:22:31.41,0:22:31.45,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.91,1012.97)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:31.45,0:22:31.49,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.62,1012.16)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:31.49,0:22:31.53,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.82,1012.29)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:31.53,0:22:31.58,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.54,1012.32)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:31.58,0:22:31.62,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.66,1012.28)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:31.62,0:22:31.66,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.64,1012.22)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:31.66,0:22:31.70,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.5,1012.6)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:31.70,0:22:31.74,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.49,1012.77)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:31.74,0:22:31.78,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.38,1012.71)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:31.78,0:22:31.83,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.33,1012.56)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:31.83,0:22:31.87,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.77,1012.8)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:31.87,0:22:31.91,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.75,1012.51)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:31.91,0:22:31.95,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.66,1012.46)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:31.95,0:22:31.99,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.6,1012.67)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:31.99,0:22:32.03,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.35,1012.63)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:32.03,0:22:32.08,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.57,1012.72)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:32.08,0:22:32.12,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.58,1012.63)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:32.12,0:22:32.16,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.65,1012.83)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:32.16,0:22:32.20,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.83,1012.85)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:32.20,0:22:32.24,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.79,1012.75)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:32.24,0:22:32.28,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.69,1012.61)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:32.28,0:22:32.33,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.82,1012.9)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:32.33,0:22:32.37,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.59,1012.76)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:32.37,0:22:32.41,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.48,1012.77)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:32.41,0:22:32.45,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.59,1012.67)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:32.45,0:22:32.49,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.41,1012.57)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:32.49,0:22:32.53,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.46,1012.42)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:32.53,0:22:32.58,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.6,1012.42)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:32.58,0:22:32.62,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.62,1012.46)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:32.62,0:22:32.66,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.58,1012.68)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:32.66,0:22:32.70,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.44,1012.86)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:32.70,0:22:32.74,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.73,1013.05)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:32.74,0:22:32.78,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.7,1013.01)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:32.78,0:22:32.83,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.94,1012.8)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:32.83,0:22:32.87,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.89,1012.62)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:32.87,0:22:32.91,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.73,1012.89)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:32.91,0:22:32.95,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.88,1012.81)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:32.95,0:22:32.99,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.74,1012.83)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:32.99,0:22:33.03,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.37,1012.73)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:33.03,0:22:33.08,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.54,1012.98)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:33.08,0:22:33.12,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.63,1013.03)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:33.12,0:22:33.16,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.4,1012.9)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:33.16,0:22:33.20,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.53,1012.75)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:33.20,0:22:33.24,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.8,1012.65)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:33.24,0:22:33.29,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.6,1012.68)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:33.29,0:22:33.33,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.92,1012.82)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:33.33,0:22:33.37,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.79,1012.67)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:33.37,0:22:33.41,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.76,1012.8)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:33.41,0:22:33.45,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.72,1012.64)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:33.45,0:22:33.49,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.75,1012.7)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:33.49,0:22:33.54,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.86,1013.02)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:33.54,0:22:33.58,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.62,1012.45)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:33.58,0:22:33.62,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.53,1012.54)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:33.62,0:22:33.66,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.83,1012.46)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:33.66,0:22:33.70,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.68,1012.3)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:33.70,0:22:33.74,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.57,1012.64)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:33.74,0:22:33.79,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.52,1012.78)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:33.79,0:22:33.83,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.58,1013.06)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:33.83,0:22:33.87,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.99,1013.4)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:33.87,0:22:33.91,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.33,1013.51)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:33.91,0:22:33.95,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.53,1012.31)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:33.95,0:22:33.99,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.65,1012.27)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:33.99,0:22:34.04,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.63,1012.21)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:34.04,0:22:34.08,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.49,1012.59)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:34.08,0:22:34.12,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.49,1012.76)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:34.12,0:22:34.16,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.37,1012.71)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:34.16,0:22:34.20,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.32,1012.55)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:34.20,0:22:34.24,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.76,1012.79)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:34.24,0:22:34.29,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.74,1012.5)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:34.29,0:22:34.33,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.66,1012.45)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:34.33,0:22:34.37,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.6,1012.66)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:34.37,0:22:34.41,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.35,1012.63)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:34.41,0:22:34.45,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.56,1012.71)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:34.45,0:22:34.49,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.57,1012.62)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:34.49,0:22:34.54,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.65,1012.83)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:34.54,0:22:34.58,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.82,1012.84)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 2,0:22:34.58,0:22:34.62,Endcard,,0,0,0,,{=6}{\fsp5\blur0.86\bord0\shad0\c&HE1E1E1&\pos(1162.8,1012.8)\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:31.41,0:22:31.45,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.91,1012.97)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:31.45,0:22:31.49,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.62,1012.16)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:31.49,0:22:31.53,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.82,1012.29)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:31.53,0:22:31.58,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.54,1012.32)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:31.58,0:22:31.62,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.66,1012.28)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:31.62,0:22:31.66,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.64,1012.22)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:31.66,0:22:31.70,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.5,1012.6)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:31.70,0:22:31.74,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.49,1012.77)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:31.74,0:22:31.78,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.38,1012.71)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:31.78,0:22:31.83,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.33,1012.56)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:31.83,0:22:31.87,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.77,1012.8)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:31.87,0:22:31.91,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.75,1012.51)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:31.91,0:22:31.95,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.66,1012.46)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:31.95,0:22:31.99,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.6,1012.67)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:31.99,0:22:32.03,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.35,1012.63)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:32.03,0:22:32.08,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.57,1012.72)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:32.08,0:22:32.12,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.58,1012.63)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:32.12,0:22:32.16,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.65,1012.83)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:32.16,0:22:32.20,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.83,1012.85)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:32.20,0:22:32.24,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.79,1012.75)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:32.24,0:22:32.28,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.69,1012.61)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:32.28,0:22:32.33,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.82,1012.9)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:32.33,0:22:32.37,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.59,1012.76)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:32.37,0:22:32.41,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.48,1012.77)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:32.41,0:22:32.45,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.59,1012.67)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:32.45,0:22:32.49,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.41,1012.57)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:32.49,0:22:32.53,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.46,1012.42)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:32.53,0:22:32.58,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.6,1012.42)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:32.58,0:22:32.62,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.62,1012.46)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:32.62,0:22:32.66,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.58,1012.68)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:32.66,0:22:32.70,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.44,1012.86)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:32.70,0:22:32.74,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.73,1013.05)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:32.74,0:22:32.78,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.7,1013.01)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:32.78,0:22:32.83,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.94,1012.8)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:32.83,0:22:32.87,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.89,1012.62)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:32.87,0:22:32.91,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.73,1012.89)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:32.91,0:22:32.95,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.88,1012.81)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:32.95,0:22:32.99,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.74,1012.83)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:32.99,0:22:33.03,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.37,1012.73)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:33.03,0:22:33.08,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.54,1012.98)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:33.08,0:22:33.12,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.63,1013.03)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:33.12,0:22:33.16,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.4,1012.9)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:33.16,0:22:33.20,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.53,1012.75)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:33.20,0:22:33.24,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.8,1012.65)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:33.24,0:22:33.29,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.6,1012.68)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:33.29,0:22:33.33,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.92,1012.82)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:33.33,0:22:33.37,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.79,1012.67)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:33.37,0:22:33.41,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.76,1012.8)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:33.41,0:22:33.45,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.72,1012.64)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:33.45,0:22:33.49,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.75,1012.7)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:33.49,0:22:33.54,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.86,1013.02)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:33.54,0:22:33.58,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.62,1012.45)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:33.58,0:22:33.62,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.53,1012.54)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:33.62,0:22:33.66,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.83,1012.46)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:33.66,0:22:33.70,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.68,1012.3)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:33.70,0:22:33.74,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.57,1012.64)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:33.74,0:22:33.79,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.52,1012.78)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:33.79,0:22:33.83,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.58,1013.06)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:33.83,0:22:33.87,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.99,1013.4)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:33.87,0:22:33.91,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.33,1013.51)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:33.91,0:22:33.95,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.53,1012.31)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:33.95,0:22:33.99,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.65,1012.27)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:33.99,0:22:34.04,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.63,1012.21)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:34.04,0:22:34.08,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.49,1012.59)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:34.08,0:22:34.12,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.49,1012.76)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:34.12,0:22:34.16,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.37,1012.71)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:34.16,0:22:34.20,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.32,1012.55)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:34.20,0:22:34.24,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.76,1012.79)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:34.24,0:22:34.29,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.74,1012.5)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:34.29,0:22:34.33,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.66,1012.45)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:34.33,0:22:34.37,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.6,1012.66)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:34.37,0:22:34.41,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.35,1012.63)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:34.41,0:22:34.45,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.56,1012.71)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:34.45,0:22:34.49,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.57,1012.62)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:34.49,0:22:34.54,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.65,1012.83)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:34.54,0:22:34.58,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.82,1012.84)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 1,0:22:34.58,0:22:34.62,Endcard,,0,0,0,,{=5}{\fsp5\blur0.86\bord0\shad0\pos(1164.8,1012.8)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:31.41,0:22:31.45,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.91,1012.97)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:31.45,0:22:31.49,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.62,1012.16)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:31.49,0:22:31.53,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.82,1012.29)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:31.53,0:22:31.58,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.54,1012.32)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:31.58,0:22:31.62,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.66,1012.28)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:31.62,0:22:31.66,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.64,1012.22)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:31.66,0:22:31.70,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.5,1012.6)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:31.70,0:22:31.74,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.49,1012.77)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:31.74,0:22:31.78,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.38,1012.71)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:31.78,0:22:31.83,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.33,1012.56)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:31.83,0:22:31.87,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.77,1012.8)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:31.87,0:22:31.91,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.75,1012.51)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:31.91,0:22:31.95,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.66,1012.46)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:31.95,0:22:31.99,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.6,1012.67)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:31.99,0:22:32.03,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.35,1012.63)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:32.03,0:22:32.08,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.57,1012.72)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:32.08,0:22:32.12,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.58,1012.63)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:32.12,0:22:32.16,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.65,1012.83)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:32.16,0:22:32.20,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.83,1012.85)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:32.20,0:22:32.24,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.79,1012.75)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:32.24,0:22:32.28,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.69,1012.61)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:32.28,0:22:32.33,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.82,1012.9)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:32.33,0:22:32.37,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.59,1012.76)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:32.37,0:22:32.41,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.48,1012.77)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:32.41,0:22:32.45,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.59,1012.67)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:32.45,0:22:32.49,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.41,1012.57)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:32.49,0:22:32.53,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.46,1012.42)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:32.53,0:22:32.58,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.6,1012.42)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:32.58,0:22:32.62,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.62,1012.46)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:32.62,0:22:32.66,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.58,1012.68)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:32.66,0:22:32.70,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.44,1012.86)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:32.70,0:22:32.74,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.73,1013.05)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:32.74,0:22:32.78,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.7,1013.01)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:32.78,0:22:32.83,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.94,1012.8)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:32.83,0:22:32.87,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.89,1012.62)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:32.87,0:22:32.91,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.73,1012.89)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:32.91,0:22:32.95,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.88,1012.81)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:32.95,0:22:32.99,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.74,1012.83)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:32.99,0:22:33.03,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.37,1012.73)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:33.03,0:22:33.08,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.54,1012.98)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:33.08,0:22:33.12,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.63,1013.03)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:33.12,0:22:33.16,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.4,1012.9)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:33.16,0:22:33.20,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.53,1012.75)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:33.20,0:22:33.24,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.8,1012.65)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:33.24,0:22:33.29,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.6,1012.68)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:33.29,0:22:33.33,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.92,1012.82)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:33.33,0:22:33.37,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.79,1012.67)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:33.37,0:22:33.41,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.76,1012.8)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:33.41,0:22:33.45,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.72,1012.64)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:33.45,0:22:33.49,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.75,1012.7)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:33.49,0:22:33.54,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.86,1013.02)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:33.54,0:22:33.58,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.62,1012.45)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:33.58,0:22:33.62,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.53,1012.54)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:33.62,0:22:33.66,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.83,1012.46)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:33.66,0:22:33.70,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.68,1012.3)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:33.70,0:22:33.74,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.57,1012.64)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:33.74,0:22:33.79,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.52,1012.78)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:33.79,0:22:33.83,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.58,1013.06)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:33.83,0:22:33.87,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.99,1013.4)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:33.87,0:22:33.91,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.33,1013.51)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:33.91,0:22:33.95,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.53,1012.31)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:33.95,0:22:33.99,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.65,1012.27)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:33.99,0:22:34.04,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.63,1012.21)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:34.04,0:22:34.08,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.49,1012.59)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:34.08,0:22:34.12,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.49,1012.76)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:34.12,0:22:34.16,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.37,1012.71)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:34.16,0:22:34.20,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.32,1012.55)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:34.20,0:22:34.24,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.76,1012.79)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:34.24,0:22:34.29,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.74,1012.5)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:34.29,0:22:34.33,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.66,1012.45)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:34.33,0:22:34.37,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.6,1012.66)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:34.37,0:22:34.41,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.35,1012.63)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:34.41,0:22:34.45,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.56,1012.71)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:34.45,0:22:34.49,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.57,1012.62)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:34.49,0:22:34.54,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.65,1012.83)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:34.54,0:22:34.58,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.82,1012.84)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 3,0:22:34.58,0:22:34.62,Endcard,,0,0,0,,{=4}{\fsp5\blur0.86\bord0\shad0\pos(1162.8,1012.8)\c&HE1E1E1&\1a&H9A&\fax-0.45\fscx57\fscy90}CỦA THIÊN, TRẢ ĐỊA …
+Dialogue: 0,0:02:22.24,0:02:22.28,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.33,104.47)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:22.28,0:02:22.33,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(726.47,102.36)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:22.33,0:02:22.37,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(726.08,102.32)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:22.37,0:02:22.41,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.44,102.59)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:22.41,0:02:22.45,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.72,102.71)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:22.45,0:02:22.49,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.68,102.77)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:22.49,0:02:22.53,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.72,103.08)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:22.53,0:02:22.58,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.69,102.82)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:22.58,0:02:22.62,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.62,102.62)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:22.62,0:02:22.66,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.64,102.78)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:22.66,0:02:22.70,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.66,102.78)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:22.70,0:02:22.74,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.69,102.76)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:22.74,0:02:22.78,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.76,102.59)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:22.78,0:02:22.83,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.46,102.8)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:22.83,0:02:22.87,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.84,102.74)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:22.87,0:02:22.91,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.58,102.51)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:22.91,0:02:22.95,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.65,102.27)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:22.95,0:02:22.99,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.69,102.57)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:22.99,0:02:23.03,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.7,102.64)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:23.03,0:02:23.08,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.65,102.66)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:23.08,0:02:23.12,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(726.19,102.76)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:23.12,0:02:23.16,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.8,102.75)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:23.16,0:02:23.20,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.43,102.53)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:23.20,0:02:23.24,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.44,102.51)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:23.24,0:02:23.28,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.45,102.56)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:23.28,0:02:23.33,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.47,102.64)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:23.33,0:02:23.37,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.51,102.42)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:23.37,0:02:23.41,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.87,102.44)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:23.41,0:02:23.45,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.74,102.8)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:23.45,0:02:23.49,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.63,102.91)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:23.49,0:02:23.53,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.62,103.06)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:23.53,0:02:23.58,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.77,103.02)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:23.58,0:02:23.62,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.89,102.9)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:23.62,0:02:23.66,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.8,102.85)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:23.66,0:02:23.70,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.85,102.88)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:23.70,0:02:23.74,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.93,103.03)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:23.74,0:02:23.79,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.77,102.93)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:23.79,0:02:23.83,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.43,102.75)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:23.83,0:02:23.87,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.66,102.75)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:23.87,0:02:23.91,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.86,103.02)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:23.91,0:02:23.95,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.68,102.86)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:23.95,0:02:23.99,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.58,102.71)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:23.99,0:02:24.04,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.88,103)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:24.04,0:02:24.08,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(726.1,103.1)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:24.08,0:02:24.12,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.92,103.06)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:24.12,0:02:24.16,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.88,102.81)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:24.16,0:02:24.20,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.95,103.04)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:24.20,0:02:24.24,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.93,102.64)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:24.24,0:02:24.29,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(726.06,102.61)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:24.29,0:02:24.33,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.95,102.67)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:24.33,0:02:24.37,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.98,102.83)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:24.37,0:02:24.41,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.8,102.93)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:24.41,0:02:24.45,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.78,102.87)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:24.45,0:02:24.49,Signs,,0,0,0,,{=2}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H39588A&\an8\fs40\frx-10.87\frz0.34\pos(725.16,103.23)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:37.47,0:02:37.51,Signs,,0,0,0,,{=3}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\pos(725.33,104.47)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:37.51,0:02:37.55,Signs,,0,0,0,,{=3}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\pos(726.61,103.42)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:37.55,0:02:37.59,Signs,,0,0,0,,{=3}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\pos(726.19,103.47)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:37.59,0:02:37.63,Signs,,0,0,0,,{=3}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\pos(726.39,103.42)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:37.63,0:02:37.67,Signs,,0,0,0,,{=3}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\pos(726.16,103.37)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:37.67,0:02:37.72,Signs,,0,0,0,,{=3}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\pos(726.19,103.18)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:37.72,0:02:37.76,Signs,,0,0,0,,{=3}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\pos(725.99,103.69)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:37.76,0:02:37.80,Signs,,0,0,0,,{=3}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\pos(725.88,103.78)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:37.80,0:02:37.84,Signs,,0,0,0,,{=3}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\pos(725.94,103.97)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:37.84,0:02:37.88,Signs,,0,0,0,,{=3}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\pos(725.95,103.88)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:37.88,0:02:37.92,Signs,,0,0,0,,{=3}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\pos(725.57,103.39)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:37.92,0:02:37.97,Signs,,0,0,0,,{=3}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\pos(725.98,103.62)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:37.97,0:02:38.01,Signs,,0,0,0,,{=3}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\pos(725.91,103.72)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:38.01,0:02:38.05,Signs,,0,0,0,,{=3}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\pos(725.89,103.33)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:38.05,0:02:38.09,Signs,,0,0,0,,{=3}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\pos(726.2,103.33)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:38.09,0:02:38.13,Signs,,0,0,0,,{=3}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\pos(726.62,103.5)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:38.13,0:02:38.17,Signs,,0,0,0,,{=3}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\pos(726.15,103.87)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:38.17,0:02:38.22,Signs,,0,0,0,,{=3}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\pos(726.31,103.49)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:38.22,0:02:38.26,Signs,,0,0,0,,{=3}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\pos(726.25,103.47)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:38.26,0:02:38.30,Signs,,0,0,0,,{=3}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\pos(726.11,103.45)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:38.30,0:02:38.34,Signs,,0,0,0,,{=3}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\pos(725.96,103.13)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:38.34,0:02:38.38,Signs,,0,0,0,,{=3}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\pos(725.92,103.12)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:38.38,0:02:38.42,Signs,,0,0,0,,{=3}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\pos(725.82,103.1)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:38.42,0:02:38.47,Signs,,0,0,0,,{=3}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\pos(725.84,103.1)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:38.47,0:02:38.51,Signs,,0,0,0,,{=3}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\pos(725.86,103.26)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:38.51,0:02:38.55,Signs,,0,0,0,,{=3}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\pos(725.96,103.41)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:38.55,0:02:38.59,Signs,,0,0,0,,{=3}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\pos(725.97,103.92)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:38.59,0:02:38.63,Signs,,0,0,0,,{=3}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\pos(726.12,103.8)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:38.63,0:02:38.67,Signs,,0,0,0,,{=3}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\pos(725.88,103.7)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
+Dialogue: 0,0:02:38.67,0:02:38.72,Signs,,0,0,0,,{=3}{\fnSVN-Neutraface 2\blur1\b1\fsp0\c&H3B5C90&\an8\fs40\frx-10.87\frz0.34\pos(725.62,103.96)}TIỆM      THUỐC      ĐÔNG      Y      TRUNG      QUỐC
 
 [Aegisub Extradata]
 Data: 2,a-mo,e{"uuid"#3A"79b18764-b4fd-4c68-8268-7c248ad5204b"#2C"originalText"#3A"{\\fnkeifont\\blur1\\b1\\fsp2\\c&H345489&\\an8\\fs35\\frx-10.87\\frz0.34\\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\\pos(725.33#2C104.47)}Herbal Medicine Shop {fry-0.38 fax-0.03}"}
 Data: 3,a-mo,e{"uuid"#3A"d5033b14-d1a8-4390-a10a-e5cc3ad5484c"#2C"originalText"#3A"{\\fnkeifont\\blur1\\b1\\fsp2\\c&H345489&\\an8\\fs35\\frx-10.87\\frz0.34\\clip(m 65.33 101.33 l 1390.67 93.33 1286.67 338.67 157.33 338.67)\\pos(725.33#2C104.47)}Herbal Medicine Shop {fry-0.38 fax-0.03}"}
+Data: 4,a-mo,e{"originalText"#3A"{\\fsp5\\blur0.86\\bord0\\shad0\\pos(1162.8#2C1012.8)\\c&HE1E1E1&\\1a&H9A&\\fax-0.45\\fscx57\\fscy90}C#E1#BB#A6A THI#C3#8AN#2C TR#E1#BA#A2 #C4#90#E1#BB#8AA #E2#80#A6"#2C"uuid"#3A"4498b0e0-49cd-4e15-b50d-31b01be8d132"}
+Data: 5,a-mo,e{"originalText"#3A"{\\fsp5\\blur0.86\\bord0\\shad0\\pos(1164.8#2C1012.8)\\c&HFFFFFF&\\fax-0.45\\fscx57\\fscy90}C#E1#BB#A6A THI#C3#8AN#2C TR#E1#BA#A2 #C4#90#E1#BB#8AA #E2#80#A6"#2C"uuid"#3A"76d85aea-527a-4d8a-8f26-9fbedccef2c7"}
+Data: 6,a-mo,e{"originalText"#3A"{\\fsp5\\blur0.86\\bord0\\shad0\\c&HE1E1E1&\\pos(1162.8#2C1012.8)\\fax-0.45\\fscx57\\fscy90}C#E1#BB#A6A THI#C3#8AN#2C TR#E1#BA#A2 #C4#90#E1#BB#8AA #E2#80#A6"#2C"uuid"#3A"5e3af4fa-7191-4541-ac5e-fe823fbf3d7e"}
