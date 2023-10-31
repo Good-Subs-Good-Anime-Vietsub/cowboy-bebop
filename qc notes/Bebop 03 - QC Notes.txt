@@ -4,27 +4,35 @@ Dia:
 ======================
 Cao thủ bài bạc và rút súng nhanh,
 ("rút súng nhanh" chỉ đơn giản là rút súng nhanh thôi à a :D)
+~ Ừm
 
 "Đến giờ diễn rồi".
 (e không nghĩ là "diễn" đâu)
+nó kiểu: It's showtime. ~ Showtime da yo.
 
 Quả báo mộng kia \Ncũng không phải không có cơ cở.
 (cơ sở)
+~DONE
 
 Thời nay mà vẫn còn tiền mặt.
 (Thời nào rồi mà)
+~DONE
 
 Là tiên thủ hạ vi cường.
 (tiên hạ thủ vi cường)
+~DONE
 
 Cô có vẻ là cô đang nợ chồng chất.
 (lặp từ "cô")
+~DONE
 
 Rồi được rồi, tôi không trốn, \Nnhưng ít nhất cũng tháo một tay ra chứ.
 (Thôi được rồi,)
+~ Giữ
 
 Chào bà con!\N Đâu có treo thưởng, ở đó có chúng tôi.
 (Ở đâu có treo thưởng)
+~DONE
 ======================
 TS:
 ======================
