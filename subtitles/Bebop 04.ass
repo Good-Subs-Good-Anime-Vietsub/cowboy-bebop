@@ -15,10 +15,10 @@ Last Style Storage: Default
 Audio File: ../raws/[JySzE] Cowboy Bebop - 04 [v2][13F9FE51].mkv
 Video File: ../raws/[JySzE] Cowboy Bebop - 04 [v2][13F9FE51].mkv
 Video AR Value: 1.340741
-Video Zoom Percent: 0.500000
-Scroll Position: 18
-Active Line: 27
-Video Position: 2956
+Video Zoom Percent: 0.625000
+Scroll Position: 387
+Active Line: 392
+Video Position: 32387
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -57,7 +57,6 @@ Dialogue: 0,0:23:36.98,0:23:40.40,ED-Vie,,0,0,0,,{\fad(0,300)\blur0.67}Ngụp l�
 Dialogue: 0,0:23:41.07,0:23:45.57,ED-Vie,,0,0,0,,{\fad(0,300)\blur0.67}Sống như vậy cũng đâu đến nỗi tệ,
 Dialogue: 0,0:23:45.57,0:23:54.41,ED-Vie,,0,0,0,,{\fad(0,300)\blur0.67}miễn sao chỉ phải... cam chịu một lần.
 Comment: 0,0:01:31.03,0:01:31.07,Main,,0,0,0,,========= Dialogue =========
-Dialogue: 0,0:01:53.84,0:01:56.80,Signs,,0,0,0,,
 Dialogue: 0,0:01:57.74,0:01:58.76,Main,,0,0,0,,Tới rồi!
 Dialogue: 0,0:01:58.76,0:02:00.08,Main,,0,0,0,,Chào đằng ấy~
 Dialogue: 0,0:02:00.08,0:02:01.84,Main,,0,0,0,,Đằng ấy đang tới chỗ mình à~
@@ -66,270 +65,583 @@ Dialogue: 0,0:02:03.20,0:02:05.48,Main,,0,0,0,,Mình bị hết nhiên liệu ý
 Dialogue: 0,0:02:05.48,0:02:07.57,Main,,0,0,0,,Đằng ấy cho mình tới Ganymede—
 Dialogue: 0,0:02:13.27,0:02:14.96,Main,,0,0,0,,Giời ạ!
 Dialogue: 0,0:02:14.96,0:02:17.89,Main,,0,0,0,,Thằng nào thằng nấy, \Nđều không cho mình đi nhờ là sao?
-Dialogue: 0,0:02:29.59,0:02:34.30,Signs,,0,0,0,,
-Dialogue: 0,0:02:59.24,0:03:01.24,Main,,0,0,0,,This sea rat
-Dialogue: 0,0:03:01.24,0:03:04.65,Main,,0,0,0,,used to be raised in\Nthe oceans of Ganymede.
-Dialogue: 0,0:03:04.65,0:03:08.49,Main,,0,0,0,,After the gates stabilized,\Nfood was no longer scarce.
-Dialogue: 0,0:03:08.49,0:03:12.54,Main,,0,0,0,,And so, now the ones in the wild get\Neaten by those who have a fancy for them.
-Dialogue: 0,0:03:12.54,0:03:15.09,Main,,0,0,0,,So, is it good?
-Dialogue: 0,0:03:15.09,0:03:16.75,Main,,0,0,0,,It's totally disgusting.
-Dialogue: 0,0:03:17.29,0:03:19.99,Main,,0,0,0,,It's just expensive because\Nit's a Ganymede specialty.
-Dialogue: 0,0:03:19.99,0:03:24.13,Main,,0,0,0,,Then it's no good.\NI'll have the lobster miso stew.
-Dialogue: 0,0:03:25.28,0:03:26.72,Main,,0,0,0,,{\i1}Thank you.{\i0}
-Dialogue: 0,0:03:26.72,0:03:29.06,Main,,0,0,0,,That doesn't look good, either.
-Dialogue: 0,0:03:29.06,0:03:31.81,Main,,0,0,0,,Well, I thought I'd go for\Nsomething expensive while I'm at it.
-Dialogue: 0,0:03:31.81,0:03:35.15,Main,,0,0,0,,You mean, because we'll\Nsoon have some money?
-Dialogue: 0,0:03:45.69,0:03:48.71,Main,,0,0,0,,To think that Gould was a spy...
-Dialogue: 0,0:03:48.71,0:03:52.96,Main,,0,0,0,,But, Mom, don't worry. We sunk his ship.
-Dialogue: 0,0:03:54.45,0:03:57.84,Main,,0,0,0,,It's all right. One vial nowadays\Ndoesn't mean much.
-Dialogue: 0,0:04:00.97,0:04:03.79,Main,,0,0,0,,Let's continue the deal as we initially planned.
-Dialogue: 0,0:04:03.79,0:04:07.20,Main,,0,0,0,,But... who was in charge of\Nwatching the house then?
-Dialogue: 0,0:04:09.06,0:04:10.70,Main,,0,0,0,,M-Mom...
-Dialogue: 0,0:04:10.70,0:04:12.30,Main,,0,0,0,,It was you, Harrison?
-Dialogue: 0,0:04:15.81,0:04:18.77,Main,,0,0,0,,Um, uh, Mom...
-Dialogue: 0,0:04:18.77,0:04:21.66,Main,,0,0,0,,Hey! Where's my sea rat sauté?!
-Dialogue: 0,0:04:27.57,0:04:32.79,Main,,0,0,0,,Come on, there, come on!
-Dialogue: 0,0:04:32.79,0:04:35.35,Main,,0,0,0,,No doubt. It's Morgan.
-Dialogue: 0,0:04:35.35,0:04:38.26,Main,,0,0,0,,Then shall we go before we get breakfast?
-Dialogue: 0,0:04:41.01,0:04:44.42,Main,,0,0,0,,Hey, kid, did you know\Nthat the Ganymede sea rat
-Dialogue: 0,0:04:44.42,0:04:48.10,Main,,0,0,0,,is a very intelligent and kind animal?
-Dialogue: 0,0:04:48.10,0:04:48.97,Main,,0,0,0,,What's that?
-Dialogue: 0,0:04:48.97,0:04:51.31,Main,,0,0,0,,That woman... I think she was...
-Dialogue: 0,0:04:51.68,0:04:54.65,Main,,0,0,0,,I don't remember ordering a circus! {9 frames}
-Dialogue: 0,0:05:13.46,0:05:16.34,Main,,0,0,0,,I know I've seen her somewhere...
-Dialogue: 0,0:05:27.53,0:05:32.04,Main,,0,0,0,,{\i1}We, the Space Warriors, work night{\i0}\N{\i1}and day to preserve the environment{\i0}
-Dialogue: 0,0:05:32.04,0:05:35.98,Main,,0,0,0,,{\i1}and protect endangered species{\i0}\N{\i1}all over the universe.{\i0}
-Dialogue: 0,0:05:42.47,0:05:46.25,Main,,0,0,0,,I remember now!\NThat lady's worth 25 million!
-Dialogue: 0,0:05:49.25,0:05:50.28,Main,,0,0,0,,Mom, hurry!
-Dialogue: 0,0:05:51.19,0:05:53.54,Main,,0,0,0,,This is the end, Mademoiselle.
-Dialogue: 0,0:05:53.54,0:05:54.33,Main,,0,0,0,,Mom?!
-Dialogue: 0,0:05:54.85,0:05:56.12,Main,,0,0,0,,Don't move!
-Dialogue: 0,0:05:56.12,0:05:58.12,Main,,0,0,0,,Do you want to see your mom in pain?
-Dialogue: 0,0:05:58.12,0:05:59.35,Main,,0,0,0,,Who are you?
-Dialogue: 0,0:05:59.89,0:06:01.13,Main,,0,0,0,,How's Morgan?
-Dialogue: 0,0:06:03.16,0:06:04.55,Main,,0,0,0,,He's full of holes.
-Dialogue: 0,0:06:04.97,0:06:07.39,Main,,0,0,0,,That's a problem. He was\Ngonna put food on our table.
-Dialogue: 0,0:06:07.39,0:06:11.76,Main,,0,0,0,,But he's worth nothing compared to\Nthe 25 million that you're worth.
-Dialogue: 0,0:06:12.56,0:06:13.35,Main,,0,0,0,,You!
-Dialogue: 0,0:06:13.35,0:06:14.56,Main,,0,0,0,,Let go of Mom!
-Dialogue: 0,0:06:14.56,0:06:17.94,Main,,0,0,0,,Stop it. These guys are bounty hunters.
-Dialogue: 0,0:06:17.94,0:06:19.72,Main,,0,0,0,,We can't do anything.
-Dialogue: 0,0:06:19.72,0:06:20.52,Main,,0,0,0,,Mom!
-Dialogue: 0,0:06:21.03,0:06:24.27,Main,,0,0,0,,Take care of the home. I'll be back soon.
-Dialogue: 0,0:06:24.98,0:06:28.57,Main,,0,0,0,,Come on. If you don't go now,\Nthe cops are gonna arrive!
-Dialogue: 0,0:06:28.57,0:06:30.21,Main,,0,0,0,,Mom, sit tight!
-Dialogue: 0,0:06:30.21,0:06:33.28,Main,,0,0,0,,Harrison, you'll get plenty\Nof punishment later.
-Dialogue: 0,0:06:33.70,0:06:34.59,Main,,0,0,0,,M-Mom?!
-Dialogue: 0,0:06:34.59,0:06:35.20,Main,,0,0,0,,Let's go!
-Dialogue: 0,0:06:35.20,0:06:35.83,Main,,0,0,0,,Mom!!
-Dialogue: 0,0:06:35.83,0:06:35.87,Main,,0,0,0,,{\clip(612,941.333,781.333,1053.333)}Mom!!
-Dialogue: 0,0:06:35.87,0:06:35.91,Main,,0,0,0,,{\clip(612,941.333,780,1053.333)}Mom!!
-Dialogue: 0,0:06:36.62,0:06:40.67,Main,,0,0,0,,Lucky you, Harrison. Your mom\Nwon't be back for a while.
-Dialogue: 0,0:06:48.78,0:06:50.68,Main,,0,0,0,,Hey, are you alive?!
-Dialogue: 0,0:06:52.70,0:06:57.02,Main,,0,0,0,,Please... Take this to the ISSP...
-Dialogue: 0,0:06:57.91,0:07:00.77,Main,,0,0,0,,But... don't open it...
-Dialogue: 0,0:07:03.44,0:07:04.73,Main,,0,0,0,,H-Hey, wait a minute!
-Dialogue: 0,0:07:06.27,0:07:07.75,Main,,0,0,0,,What does he want me to do?!
-Dialogue: 0,0:07:16.05,0:07:18.78,Main,,0,0,0,,Universal Environmental Protection Society? {linked to next line to lower CPS}
-Dialogue: 0,0:07:18.78,0:07:21.76,Main,,0,0,0,,More like environmental terrorists.
-Dialogue: 0,0:07:21.76,0:07:23.54,Main,,0,0,0,,They're called the Space Warriors.
-Dialogue: 0,0:07:23.54,0:07:26.09,Main,,0,0,0,,They used to be a good group\Nworking on environmental
-Dialogue: 0,0:07:26.09,0:07:28.57,Main,,0,0,0,,preservation and the protection\Nof endangered species.
-Dialogue: 0,0:07:28.57,0:07:32.59,Main,,0,0,0,,But since their leader changed two years ago,\Ntheir focus drastically changed.
-Dialogue: 0,0:07:32.59,0:07:34.68,Main,,0,0,0,,There are only a few members,
-Dialogue: 0,0:07:34.68,0:07:39.14,Main,,0,0,0,,but now they're even worse than\Na lot of syndicates out there. {10 frames I guess}
-Dialogue: 0,0:07:39.14,0:07:43.48,Main,,0,0,0,,They're especially keen on\Nprotecting the Ganymede sea rats.
-Dialogue: 0,0:07:43.48,0:07:49.45,Main,,0,0,0,,And she's the leader of this terrorist\Ngroup: Twinkle Maria Murdock. {9 frames}
-Dialogue: 0,0:07:50.28,0:07:52.86,Main,,0,0,0,,Please, don't associate us with terrorists.
-Dialogue: 0,0:07:53.30,0:07:57.87,Main,,0,0,0,,We are warriors of peace,\Nfighting for the law of nature.
-Dialogue: 0,0:07:57.87,0:07:59.04,Main,,0,0,0,,Yeah, yeah.
-Dialogue: 0,0:07:59.04,0:08:02.46,Main,,0,0,0,,And where can we get\Nthe 25 million in reward?
-Dialogue: 0,0:08:02.46,0:08:05.58,Main,,0,0,0,,The Ganymede government.\NBut we can't cash in.
-Dialogue: 0,0:08:07.90,0:08:09.42,Main,,0,0,0,,I'm checking on it...
-Dialogue: 0,0:08:09.42,0:08:12.44,Main,,0,0,0,,The government canceled\Nthe reward yesterday.
-Dialogue: 0,0:08:12.44,0:08:13.80,Main,,0,0,0,,Why?
-Dialogue: 0,0:08:22.70,0:08:25.23,Main,,0,0,0,,When you're told not to open it,\Nthe more you want to...
-Dialogue: 0,0:08:26.09,0:08:26.74,Main,,0,0,0,,Oh.
-Dialogue: 0,0:08:28.32,0:08:30.62,Main,,0,0,0,,I didn't open it!
-Dialogue: 0,0:08:30.62,0:08:32.38,Main,,0,0,0,,This thing opened by itself!
-Dialogue: 0,0:08:50.92,0:08:55.02,Main,,0,0,0,,{\i1}So, as you requested,{\i0}\N{\i1}we have canceled the bounty.{\i0}
-Dialogue: 0,0:08:55.02,0:08:57.84,Main,,0,0,0,,{\i1}And we are debating about prohibiting{\i0}
-Dialogue: 0,0:08:57.84,0:09:00.05,Main,,0,0,0,,{\i1}the fishing of sea rats on Ganymede as well.{\i0}
-Dialogue: 0,0:09:01.04,0:09:02.61,Main,,0,0,0,,So, where's Mom?
-Dialogue: 0,0:09:03.51,0:09:07.72,Main,,0,0,0,,{\i1}As I said, we haven't gotten{\i0}\N{\i1}word of Twinkle's capture!{\i0}
-Dialogue: 0,0:09:07.72,0:09:10.32,Main,,0,0,0,,{\i1}If we can find out who captured them...{\i0}
-Dialogue: 0,0:09:11.30,0:09:13.94,Main,,0,0,0,,If Mom doesn't come back,
-Dialogue: 0,0:09:13.94,0:09:16.82,Main,,0,0,0,,we'll set that plan into action immediately.
-Dialogue: 0,0:09:16.82,0:09:20.20,Main,,0,0,0,,{\i1}W-Wait! We're not going against your wishes!{\i0}
-Dialogue: 0,0:09:26.79,0:09:29.87,Main,,0,0,0,,Doesn't look like it would ease my hunger...
-Dialogue: 0,0:09:35.80,0:09:40.09,Main,,0,0,0,,Wait a minute, that terrorist act\Nwe saw isn't on the records, either!
-Dialogue: 0,0:09:40.09,0:09:41.51,Main,,0,0,0,,What's going on?
-Dialogue: 0,0:09:42.89,0:09:46.63,Main,,0,0,0,,See? I told you that you\Ncouldn't do anything. {9 frames depending on where you want to start this}
-Dialogue: 0,0:09:47.28,0:09:49.35,Main,,0,0,0,,So, you can just let me go.
-Dialogue: 0,0:09:49.36,0:09:53.06,Main,,0,0,0,,I don't get it... There's\Nsomething behind all this. {9 frames}
-Dialogue: 0,0:09:56.28,0:10:00.26,Main,,0,0,0,,{\i1}Hello there! You approaching{\i0}\N{\i1}this area, can you see me?{\i0}
-Dialogue: 0,0:10:01.34,0:10:04.50,Main,,0,0,0,,{\i1}I'm a little troubled because I'm out of gas...{\i0}
-Dialogue: 0,0:10:04.50,0:10:05.75,Main,,0,0,0,,Hey, she's...!
-Dialogue: 0,0:10:06.31,0:10:09.31,Main,,0,0,0,,Can you take me to Ganymede?
-Dialogue: 0,0:10:13.34,0:10:14.85,Main,,0,0,0,,{\i1}Please?{\i0}
-Dialogue: 0,0:10:14.85,0:10:18.83,Main,,0,0,0,,{\i1}Even getting a little propellant{\i0}\N{\i1}would be wonderful!{\i0}
-Dialogue: 0,0:10:23.18,0:10:26.27,Main,,0,0,0,,Hey! Can you hear me or what?!
-Dialogue: 0,0:10:29.32,0:10:30.98,Main,,0,0,0,,D'oh...
-Dialogue: 0,0:10:42.21,0:10:43.58,Main,,0,0,0,,Then what?
-Dialogue: 0,0:10:43.58,0:10:47.84,Main,,0,0,0,,You spent all the money you\Ntook from us at the casino?!
-Dialogue: 0,0:10:48.43,0:10:51.29,Main,,0,0,0,,As they say, "money makes\Nthe world go round."
-Dialogue: 0,0:10:51.67,0:10:53.89,Main,,0,0,0,,They also say,\N"thieves have no compassion." {9 frames}
-Dialogue: 0,0:10:54.52,0:10:55.50,Main,,0,0,0,,How is it over there?
-Dialogue: 0,0:10:55.50,0:10:59.20,Main,,0,0,0,,Yeah, I'm contacting an old friend.
-Dialogue: 0,0:10:59.76,0:11:02.94,Main,,0,0,0,,Man, there isn't even\Nanything worth keeping... {9 frames}
-Dialogue: 0,0:11:03.50,0:11:05.01,Main,,0,0,0,,Huh? What's this?
-Dialogue: 0,0:11:09.53,0:11:12.30,Main,,0,0,0,,Yes... I still don't know where that virus is...
-Dialogue: 0,0:11:13.29,0:11:14.48,Main,,0,0,0,,Yes, Mr. President...
-Dialogue: 0,0:11:14.48,0:11:16.24,Main,,0,0,0,,We will continue to do our best!
-Dialogue: 0,0:11:19.82,0:11:20.49,Main,,0,0,0,,{\i1}Chief!{\i0}
-Dialogue: 0,0:11:21.01,0:11:22.20,Main,,0,0,0,,What?
-Dialogue: 0,0:11:22.20,0:11:24.07,Main,,0,0,0,,{\i1}The one who nabbed Twinkle...{\i0}
-Dialogue: 0,0:11:24.07,0:11:25.83,Main,,0,0,0,,You found them?!
-Dialogue: 0,0:11:26.71,0:11:31.36,Main,,0,0,0,,And, that guy told you to\Ntake this to the ISSP?
-Dialogue: 0,0:11:31.36,0:11:33.54,Main,,0,0,0,,Yup. Doesn't that look\Nlike it's worth something?
-Dialogue: 0,0:11:34.04,0:11:36.50,Main,,0,0,0,,So, how about we call it even?
-Dialogue: 0,0:11:36.50,0:11:38.76,Main,,0,0,0,,I never trust anything thieves say.
-Dialogue: 0,0:11:40.56,0:11:41.73,Main,,0,0,0,,What?!
-Dialogue: 0,0:11:42.26,0:11:44.60,Main,,0,0,0,,What's all this about?! Hey, Bob!
-Dialogue: 0,0:11:44.97,0:11:46.63,Main,,0,0,0,,{\i1}Nothing is really up.{\i0} {9 frames}
-Dialogue: 0,0:11:46.63,0:11:48.97,Main,,0,0,0,,{\i1}The bounty has been canceled.{\i0}
-Dialogue: 0,0:11:49.54,0:11:52.08,Main,,0,0,0,,{\i1}They're saying you should{\i0}\N{\i1}let her go immediately.{\i0}
-Dialogue: 0,0:11:53.07,0:11:54.69,Main,,0,0,0,,Hey, Bob...
-Dialogue: 0,0:11:55.10,0:11:57.23,Main,,0,0,0,,{\i1}When we worked in the same department,{\i0}
-Dialogue: 0,0:11:57.23,0:12:00.53,Main,,0,0,0,,{\i1}a lot of the confiscated{\i0}\N{\i1}eye drops disappeared, you know?{\i0}
-Dialogue: 0,0:12:00.53,0:12:03.27,Main,,0,0,0,,Wh-What do ya wanna say? {added the "h" to the hesitation}
-Dialogue: 0,0:12:03.27,0:12:05.62,Main,,0,0,0,,{\i1}If you wanna work until retirement age,{\i0}
-Dialogue: 0,0:12:06.23,0:12:09.20,Main,,0,0,0,,{\i1}isn't it a better idea for{\i0}\N{\i1}you to go along with me?{\i0}
-Dialogue: 0,0:12:12.36,0:12:13.52,Main,,0,0,0,,Oh, all right.
-Dialogue: 0,0:12:13.52,0:12:15.04,Main,,0,0,0,,I get what you're saying.
-Dialogue: 0,0:12:18.94,0:12:21.30,Main,,0,0,0,,Hey, don't break it!
-Dialogue: 0,0:12:23.81,0:12:27.51,Main,,0,0,0,,{\i1}The guys are threatening{\i0}\N{\i1}under the mask of "negotiation."{\i0} {9 frames}
-Dialogue: 0,0:12:28.17,0:12:31.26,Main,,0,0,0,,{\i1}They're holding the 8 million{\i0}\N{\i1}residents of Ganymede hostage.{\i0}
-Dialogue: 0,0:12:31.26,0:12:32.60,Main,,0,0,0,,What do you mean by that?
-Dialogue: 0,0:12:33.02,0:12:36.11,Main,,0,0,0,,They basically kidnapped\Nthe leader in virus technology
-Dialogue: 0,0:12:36.55,0:12:39.82,Main,,0,0,0,,and created a virus to their liking.
-Dialogue: 0,0:12:39.82,0:12:43.07,Main,,0,0,0,,{\i1}The virus is called Monkey Business.{\i0}
-Dialogue: 0,0:12:43.07,0:12:48.11,Main,,0,0,0,,{\i1}They say that humans and monkeys only{\i0}\N{\i1}have a 2% difference in DNA structure,{\i0}
-Dialogue: 0,0:12:48.11,0:12:53.12,Main,,0,0,0,,{\i1}and apparently this virus{\i0}\N{\i1}acts on those two percent.{\i0}
-Dialogue: 0,0:12:54.28,0:12:59.25,Main,,0,0,0,,{\i1}So, that virus selectively acts only on humans.{\i0}
-Dialogue: 0,0:13:04.59,0:13:06.30,Main,,0,0,0,,Why don't you give up?
-Dialogue: 0,0:13:09.01,0:13:13.82,Main,,0,0,0,,We lost contact with the ISSP spy\Nthat infiltrated their group.
-Dialogue: 0,0:13:13.82,0:13:15.60,Main,,0,0,0,,So, we had no other option.
-Dialogue: 0,0:13:15.60,0:13:18.98,Main,,0,0,0,,So you're going to agree to their terms?!
-Dialogue: 0,0:13:21.86,0:13:24.24,Main,,0,0,0,,Man, this was a big one\Nthat we caught, too!
-Dialogue: 0,0:13:24.24,0:13:26.86,Main,,0,0,0,,It's orders from up above!\NWe couldn't do anything about it!
-Dialogue: 0,0:13:32.75,0:13:34.32,Main,,0,0,0,,We're releasing her.
-Dialogue: 0,0:14:02.53,0:14:04.86,Main,,0,0,0,,Us... or them...
-Dialogue: 0,0:14:04.86,0:14:08.57,Main,,0,0,0,,Which one of us deserves\Npunishment from heaven?
-Dialogue: 0,0:14:08.57,0:14:11.56,Main,,0,0,0,,Soon, the time of judgment will arrive.
-Dialogue: 0,0:14:11.56,0:14:14.83,Main,,0,0,0,,Yes... Soon...
-Dialogue: 0,0:14:23.41,0:14:25.14,Main,,0,0,0,,The release procedure\Nhas been completed. {2 frames extra lead-in}
-Dialogue: 0,0:14:25.14,0:14:27.86,Main,,0,0,0,,We will continue to monitor\Nher using our special agents.
-Dialogue: 0,0:14:27.86,0:14:29.23,Main,,0,0,0,,How's the satellite?
-Dialogue: 0,0:14:29.23,0:14:30.88,Main,,0,0,0,,It will be ready in about an hour.
-Dialogue: 0,0:14:30.88,0:14:32.43,Main,,0,0,0,,Get the chemical tech group as well.
-Dialogue: 0,0:14:33.00,0:14:35.84,Main,,0,0,0,,Don't do anything until we\Nknow where the virus is.
-Dialogue: 0,0:14:35.84,0:14:38.64,Main,,0,0,0,,Sir, a communication from Twinkle.
-Dialogue: 0,0:14:40.54,0:14:43.04,Main,,0,0,0,,{\i1}Long time no see, Minister.{\i0}
-Dialogue: 0,0:14:43.04,0:14:45.53,Main,,0,0,0,,{\i1}About that promise we made...{\i0}
-Dialogue: 0,0:14:45.53,0:14:49.00,Main,,0,0,0,,So... about the sea rats,\Nwe will keep a stable population
-Dialogue: 0,0:14:49.00,0:14:51.99,Main,,0,0,0,,using limitations on hunting them.
-Dialogue: 0,0:14:52.43,0:14:54.86,Main,,0,0,0,,{\i1}Didn't I say {\i0}prohibition{\i1} of hunting?{\i0}
-Dialogue: 0,0:14:55.49,0:15:00.12,Main,,0,0,0,,W-Well, we will look at the\Ndemands in a positive light...
-Dialogue: 0,0:15:03.20,0:15:06.70,Main,,0,0,0,,{\i1}Looks like you need some{\i0}\N{\i1}punishment to understand.{\i0}
-Dialogue: 0,0:15:06.70,0:15:08.97,Main,,0,0,0,,Ah! Hey! Wait!
-Dialogue: 0,0:15:08.97,0:15:11.97,Main,,0,0,0,,Mom! I don't want to\Nbecome a monkey! Mom!
-Dialogue: 0,0:15:30.33,0:15:32.84,Main,,0,0,0,,{\i1}Alpha 1-0-5 to headquarters.{\i0}
-Dialogue: 0,0:15:32.84,0:15:35.49,Main,,0,0,0,,{\i1}The target has entered{\i0}\N{\i1}the wasteland area.{\i0}
-Dialogue: 0,0:15:35.92,0:15:39.23,Main,,0,0,0,,{\i1}Roger. Continue pursuit.{\i0}
-Dialogue: 0,0:15:52.99,0:15:55.72,Main,,0,0,0,,Man, they're too easygoing.
-Dialogue: 0,0:16:21.96,0:16:23.29,Main,,0,0,0,,Dammit...
-Dialogue: 0,0:16:23.93,0:16:26.59,Main,,0,0,0,,All that and no reward...
-Dialogue: 0,0:16:28.67,0:16:30.20,Main,,0,0,0,,{\i1}Jet, can you hear me?{\i0}
-Dialogue: 0,0:16:30.20,0:16:32.26,Main,,0,0,0,,{\i1}Turn on channel 72 and watch it!{\i0}
-Dialogue: 0,0:16:33.30,0:16:36.60,Main,,0,0,0,,{\i1}They're broadcasting from\Ntheir own satellite!{\i0}
-Dialogue: 0,0:16:37.12,0:16:40.14,Main,,0,0,0,,{\i1}This isn't just about the sea rats.{\i0}
-Dialogue: 0,0:16:40.55,0:16:42.14,Main,,0,0,0,,{\i1}Humans, with their culture,{\i0}
-Dialogue: 0,0:16:42.14,0:16:45.60,Main,,0,0,0,,{\i1}have escaped from the great system of nature{\i0}
-Dialogue: 0,0:16:46.55,0:16:50.08,Main,,0,0,0,,{\i1}and are committing crimes{\i0}\N{\i1}that cannot be amended.{\i0}
-Dialogue: 0,0:16:50.08,0:16:52.32,Main,,0,0,0,,{\i1}Those that don't realize this{\i0}
-Dialogue: 0,0:16:52.32,0:16:55.70,Main,,0,0,0,,{\i1}are what you could call{\i0}\N{\i1}"bugs" in the nature system.{\i0}
-Dialogue: 0,0:17:04.28,0:17:06.25,Main,,0,0,0,,That ship was a decoy!
-Dialogue: 0,0:17:06.25,0:17:08.00,Main,,0,0,0,,Where are they broadcasting from? {9 frames}
-Dialogue: 0,0:17:08.00,0:17:10.63,Main,,0,0,0,,It's near here. They're...
-Dialogue: 0,0:17:11.12,0:17:13.13,Main,,0,0,0,,in hyperspace!
-Dialogue: 0,0:17:13.13,0:17:16.90,Main,,0,0,0,,{\i1}Monkey Business, our virus,{\i0}
-Dialogue: 0,0:17:16.90,0:17:20.60,Main,,0,0,0,,{\i1}takes such humans and{\i0}\N{\i1}returns them to nature.{\i0}
-Dialogue: 0,0:17:21.43,0:17:22.60,Main,,0,0,0,,{\i1}Understand?{\i0}
-Dialogue: 0,0:17:24.35,0:17:26.59,Main,,0,0,0,,{\i1}Au revoir.{\i0}
-Dialogue: 0,0:17:34.78,0:17:36.39,Main,,0,0,0,,{\i1}Good news, Jet!{\i0}
-Dialogue: 0,0:17:36.39,0:17:40.03,Main,,0,0,0,,{\i1}The Ganymede government has reestablished{\i0}\N{\i1}the ransom on Twinkle and company!{\i0}
-Dialogue: 0,0:17:40.03,0:17:41.24,Main,,0,0,0,,What?!
-Dialogue: 0,0:17:41.24,0:17:44.50,Main,,0,0,0,,This is our chance! We're\Nthe only ones around here!
-Dialogue: 0,0:17:44.50,0:17:47.37,Main,,0,0,0,,{\i1}But just catching them won't do.{\i0}
-Dialogue: 0,0:17:48.67,0:17:53.48,Main,,0,0,0,,{\i1}If the missile falls, there'll be{\i0}\N{\i1}nobody here that can pay the bounty!{\i0}
-Dialogue: 0,0:18:06.52,0:18:09.31,Main,,0,0,0,,So there's nothing to bitch about\Nif we get rid of the missile, right? {1 frame extra lead-in}
-Dialogue: 0,0:18:09.31,0:18:12.19,Main,,0,0,0,,But they're at the exit to a gate.
-Dialogue: 0,0:18:12.19,0:18:13.57,Main,,0,0,0,,I know.
-Dialogue: 0,0:18:24.41,0:18:25.84,Main,,0,0,0,,What about the defense system?!
-Dialogue: 0,0:18:25.84,0:18:27.91,Main,,0,0,0,,4 minutes and 30 seconds to impact!
-Dialogue: 0,0:18:27.91,0:18:29.37,Main,,0,0,0,,The system won't make it in time!
-Dialogue: 0,0:18:29.37,0:18:32.75,Main,,0,0,0,,Th-This is an emergency!\NGet the President!
-Dialogue: 0,0:18:37.05,0:18:38.51,Main,,0,0,0,,They're here. {9 frames}
-Dialogue: 0,0:18:50.58,0:18:51.81,Main,,0,0,0,,It split?! Shit!
-Dialogue: 0,0:19:06.45,0:19:08.71,Main,,0,0,0,,Jet! Get the last one!
-Dialogue: 0,0:19:08.71,0:19:10.83,Main,,0,0,0,,What?! There aren't any\Nweapons over here!
-Dialogue: 0,0:19:11.38,0:19:14.90,Main,,0,0,0,,If I wait for the next shot to fully charge,\Nthat thing'll hit Ganymede!
-Dialogue: 0,0:19:14.90,0:19:17.51,Main,,0,0,0,,{\i1}Oh? Are you in trouble?{\i0}
-Dialogue: 0,0:19:17.51,0:19:20.05,Main,,0,0,0,,{\i1}How about for 80% of the earnings?{\i0} {9 frames}
-Dialogue: 0,0:19:20.05,0:19:21.12,Main,,0,0,0,,You've got to be kidding!
-Dialogue: 0,0:19:21.12,0:19:23.10,Main,,0,0,0,,{\i1}Okay, bye! Have a nice day!{\i0}
-Dialogue: 0,0:19:23.10,0:19:25.60,Main,,0,0,0,,All right. 40%. No more.
-Dialogue: 0,0:19:25.60,0:19:27.31,Main,,0,0,0,,Okay! I get the 60!
-Dialogue: 0,0:19:27.31,0:19:28.81,Main,,0,0,0,,Fine... We got no choice.
-Dialogue: 0,0:19:36.63,0:19:38.49,Main,,0,0,0,,Shit, will she make it in time?
-Dialogue: 0,0:19:40.24,0:19:41.36,Main,,0,0,0,,Welcome!
-Dialogue: 0,0:19:48.69,0:19:50.04,Main,,0,0,0,,What is this?!
-Dialogue: 0,0:19:50.04,0:19:53.04,Main,,0,0,0,,Multiple warheads?!\NThis ain't the military!
-Dialogue: 0,0:19:55.54,0:19:57.63,Main,,0,0,0,,Now all of you, become apes!
-Dialogue: 0,0:19:58.26,0:20:01.59,Main,,0,0,0,,{\i1}Jet! The guys from the government{\i0}\N{\i1}are closing down the gate!{\i0}
-Dialogue: 0,0:20:01.59,0:20:02.50,Main,,0,0,0,,What?!
-Dialogue: 0,0:20:02.50,0:20:05.43,Main,,0,0,0,,{\i1}They're going to enclose all of it{\i0}\N{\i1}in hyperspace, missile and all!{\i0}
-Dialogue: 0,0:20:05.43,0:20:07.04,Main,,0,0,0,,Wait a minute, this isn't a joke!
-Dialogue: 0,0:20:07.04,0:20:08.43,Main,,0,0,0,,{\i1}Spike!{\i0}
-Dialogue: 0,0:20:10.66,0:20:12.60,Main,,0,0,0,,I hear ya!
+Dialogue: 0,0:02:59.24,0:03:01.24,Main,,0,0,0,,Loài chuột biển này ấy...
+Dialogue: 0,0:03:01.24,0:03:04.65,Main,,0,0,0,,trước đây từng được nuôi\N ở các vùng biển tại Ganymede.
+Dialogue: 0,0:03:04.65,0:03:08.49,Main,,0,0,0,,Nhưng sau khi cổng ổn định,\Nlương thực không còn khan hiếm nữa.
+Dialogue: 0,0:03:08.49,0:03:12.54,Main,,0,0,0,,Giờ chỉ những kẻ có khẩu vị lạ\Nmới ăn động vật hoang dã như thế.
+Dialogue: 0,0:03:12.54,0:03:14.71,Main,,0,0,0,,Thế... rốt cuộc có ngon không?
+Dialogue: 0,0:03:15.09,0:03:16.75,Main,,0,0,0,,Tởm hết chỗ nói.
+Dialogue: 0,0:03:17.29,0:03:19.99,Main,,0,0,0,,Nó chỉ đắt tiền vì là đặc sản Ganymede thôi.
+Dialogue: 0,0:03:19.99,0:03:21.16,Main,,0,0,0,,Vậy thôi bỏ đi.
+Dialogue: 0,0:03:21.16,0:03:24.02,Main,,0,0,0,,Tôi sẽ món tôm hùm hầm miso.
+Dialogue: 0,0:03:25.28,0:03:26.72,Main,,0,0,0,,{\i1}Cảm ơn quý khách đã gọi món.
+Dialogue: 0,0:03:26.72,0:03:29.06,Main,,0,0,0,,Món đấy cũng có ngon đâu.
+Dialogue: 0,0:03:29.06,0:03:31.82,Main,,0,0,0,,À thì, tới đây rồi \Nthì gọi món nào sang sang chút.
+Dialogue: 0,0:03:31.82,0:03:35.15,Main,,0,0,0,,Ý là bởi sắp có tiền à?
+Dialogue: 0,0:03:45.69,0:03:48.71,Main,,0,0,0,,Không ngờ là thằng Gould lại là gián điệp.
+Dialogue: 0,0:03:48.71,0:03:50.88,Main,,0,0,0,,Nhưng mẹ à, không phải lo gì đâu.
+Dialogue: 0,0:03:50.88,0:03:52.96,Main,,0,0,0,,Ta đã hạ tàu của hắn rồi.
+Dialogue: 0,0:03:54.03,0:03:57.63,Main,,0,0,0,,Không sao hết, \Ngiờ thì một lọ không thành vấn đề.
+Dialogue: 0,0:04:00.97,0:04:03.79,Main,,0,0,0,,Hãy tiến hành đàm phán theo kế hoạch.
+Dialogue: 0,0:04:03.79,0:04:07.20,Main,,0,0,0,,Nhưng... lúc đó là đứa nào \Nđảm nhiệm việc giám sát?
+Dialogue: 0,0:04:09.06,0:04:10.70,Main,,0,0,0,,M-Mẹ...
+Dialogue: 0,0:04:10.70,0:04:12.30,Main,,0,0,0,,Là con à, Harrison?
+Dialogue: 0,0:04:15.81,0:04:18.77,Main,,0,0,0,,C-Chuyện là... Mẹ...
+Dialogue: 0,0:04:18.77,0:04:21.66,Main,,0,0,0,,Ây! Chuột biển xào có chưa hả!
+Dialogue: 0,0:04:27.57,0:04:32.79,Main,,0,0,0,,Nào~ Đúng rồi~ rồi~ rồi~
+Dialogue: 0,0:04:32.79,0:04:35.15,Main,,0,0,0,,Không sai vào đâu được.\N Là Morgan.
+Dialogue: 0,0:04:35.15,0:04:38.26,Main,,0,0,0,,Vậy làm cho xong trước khi họ dọn đồ lên nhỉ?
+Dialogue: 0,0:04:41.43,0:04:44.42,Main,,0,0,0,,Này thanh niên! \NCó biết chuột biển Ganymede...
+Dialogue: 0,0:04:44.42,0:04:48.10,Main,,0,0,0,,là một loài \Nrất thông minh và tốt bụng không?
+Dialogue: 0,0:04:48.10,0:04:48.97,Main,,0,0,0,,Gì đấy?
+Dialogue: 0,0:04:48.97,0:04:51.31,Main,,0,0,0,,Bà già đó... không nhầm thì...
+Dialogue: 0,0:04:51.68,0:04:54.65,Main,,0,0,0,,Tôi không nhớ là có đặt gánh xiếc.
+Dialogue: 0,0:05:13.46,0:05:16.34,Main,,0,0,0,,Trông mặt bà ta quen quen...
+Dialogue: 0,0:05:27.53,0:05:30.48,Main,,0,0,0,,Chúng tôi, những Chiến Binh Vũ Trụ,
+Dialogue: 0,0:05:30.48,0:05:35.98,Main,,0,0,0,,ngày đêm để bảo vệ môi trường vũ trụ\N và các loài động vật quý hiếm.
+Dialogue: 0,0:05:41.95,0:05:45.82,Main,,0,0,0,,Nhớ ra rồi!\NBà già đó đáng giá 25 triệu đấy!
+Dialogue: 0,0:05:49.25,0:05:50.28,Main,,0,0,0,,Mẹ! Khẩn trương lên!
+Dialogue: 0,0:05:51.19,0:05:53.54,Main,,0,0,0,,Đến đây thôi, thưa quý bà!
+Dialogue: 0,0:05:53.54,0:05:54.66,Main,,0,0,0,,Mẹ?!
+Dialogue: 0,0:05:54.66,0:05:55.73,Main,,0,0,0,,Cấm nhúc nhích!
+Dialogue: 0,0:05:56.12,0:05:58.12,Main,,0,0,0,,Không là "mẹ" ăn đủ đấy.
+Dialogue: 0,0:05:58.12,0:05:59.35,Main,,0,0,0,,Mày là thằng nào?
+Dialogue: 0,0:05:59.63,0:06:01.13,Main,,0,0,0,,Morgan thế nào rồi?
+Dialogue: 0,0:06:02.85,0:06:04.55,Main,,0,0,0,,Người như cái rổ rồi.
+Dialogue: 0,0:06:04.55,0:06:05.79,Main,,0,0,0,,Rồi xong luôn.
+Dialogue: 0,0:06:05.79,0:06:07.39,Main,,0,0,0,,Bọn này mất lúa rồi.
+Dialogue: 0,0:06:07.39,0:06:11.76,Main,,0,0,0,,Cơ mà, chả đáng là bao so với quý bà đây \Nđáng giá tới 25 triệu.
+Dialogue: 0,0:06:12.56,0:06:13.35,Main,,0,0,0,,Chó này!
+Dialogue: 0,0:06:13.35,0:06:14.56,Main,,0,0,0,,Thả mẹ tao ra!
+Dialogue: 0,0:06:14.56,0:06:16.03,Main,,0,0,0,,Thôi bỏ đi.
+Dialogue: 0,0:06:16.03,0:06:17.94,Main,,0,0,0,,Bọn này là thợ săn tiền thưởng.
+Dialogue: 0,0:06:17.94,0:06:19.72,Main,,0,0,0,,Không làm được gì đâu.
+Dialogue: 0,0:06:19.72,0:06:20.52,Main,,0,0,0,,Mẹ...
+Dialogue: 0,0:06:20.78,0:06:24.27,Main,,0,0,0,,Cứ về trông nhà đi, mẹ sẽ về sau.
+Dialogue: 0,0:06:24.98,0:06:26.02,Main,,0,0,0,,Thôi nào, thôi nào!
+Dialogue: 0,0:06:26.02,0:06:28.37,Main,,0,0,0,,Nhanh cái chân lên\N không là cảnh sát đến bây giờ.
+Dialogue: 0,0:06:28.37,0:06:30.21,Main,,0,0,0,,Mẹ à, đợi tụi con nhé!
+Dialogue: 0,0:06:30.21,0:06:33.28,Main,,0,0,0,,Harrison, mẹ sẽ phạt con sau.
+Dialogue: 0,0:06:33.70,0:06:34.80,Main,,0,0,0,,M-Mẹ!!
+Dialogue: 0,0:06:34.80,0:06:35.34,Main,,0,0,0,,Đi thôi!
+Dialogue: 0,0:06:35.34,0:06:35.92,Main,,0,0,0,,Mẹ!!
+Dialogue: 0,0:06:36.63,0:06:40.67,Main,,0,0,0,,Sướng nhá, Harrison,\N mẹ cậu sẽ không về nhà một thời gian.
+Dialogue: 0,0:06:48.26,0:06:50.68,Main,,0,0,0,,Này! Anh còn sống chứ?
+Dialogue: 0,0:06:52.11,0:06:56.69,Main,,0,0,0,,Làm ơn... đưa nó cho ISSP...
+Dialogue: 0,0:06:57.81,0:07:00.77,Main,,0,0,0,,Nhưng... tuyệt đối đừng mở ra.
+Dialogue: 0,0:07:01.71,0:07:02.57,Main,,0,0,0,,Ui trời...
+Dialogue: 0,0:07:02.88,0:07:04.73,Main,,0,0,0,,Ơ-Ơ này...
+Dialogue: 0,0:07:06.27,0:07:07.82,Main,,0,0,0,,Giờ sao?
+Dialogue: 0,0:07:16.05,0:07:18.33,Main,,0,0,0,,Hội Bảo Vệ Môi Trường Vũ Trụ?
+Dialogue: 0,0:07:18.78,0:07:21.76,Main,,0,0,0,,Chính xác hơn thì là \Nbăng khủng bố môi trường.
+Dialogue: 0,0:07:21.76,0:07:23.54,Main,,0,0,0,,Tên là Chiến Binh Vũ Trụ.
+Dialogue: 0,0:07:23.54,0:07:28.57,Main,,0,0,0,,Ban đầu đúng là một tổ chức bảo vệ môi trường \Nvà động vật quý hiếm tử tế,
+Dialogue: 0,0:07:28.57,0:07:32.59,Main,,0,0,0,,nhưng sau khi thay lãnh đạo 2 năm trước,\Nđường lối của họ đã thay đổi.
+Dialogue: 0,0:07:32.59,0:07:34.68,Main,,0,0,0,,Chỉ còn lại vài thành viên,
+Dialogue: 0,0:07:35.17,0:07:38.72,Main,,0,0,0,,nhưng giờ còn nguy hiểm hơn\N bất kỳ băng đảng mafia nào.
+Dialogue: 0,0:07:39.14,0:07:43.48,Main,,0,0,0,,Chúng đặc biệt nhiệt tình\N trong việc bảo vệ chuột biển Ganymede.
+Dialogue: 0,0:07:43.92,0:07:49.45,Main,,0,0,0,,Và đây là thủ lĩnh của băng khủng bố đó,\NTwinkle Maria Murdock.
+Dialogue: 0,0:07:50.28,0:07:52.86,Main,,0,0,0,,Đừng có đánh đồng chúng tôi \Nvới khủng bố chứ.
+Dialogue: 0,0:07:53.30,0:07:57.87,Main,,0,0,0,,Chúng tôi là các chiến binh của hòa bình,\Nchiến đấu cho mẹ thiên nhiên.
+Dialogue: 0,0:07:57.87,0:07:59.04,Main,,0,0,0,,Rồi, rồi.
+Dialogue: 0,0:07:59.04,0:08:02.46,Main,,0,0,0,,Thế... vác đi đâu để nhận 25 triệu đây?
+Dialogue: 0,0:08:02.46,0:08:05.58,Main,,0,0,0,,Chính phủ Ganymede, \Nnhưng không rút tiền mặt được.
+Dialogue: 0,0:08:07.90,0:08:09.42,Main,,0,0,0,,Để kiểm tra xem.
+Dialogue: 0,0:08:09.42,0:08:12.44,Main,,0,0,0,,Hôm qua, chính phủ đã gỡ treo thưởng rồi.
+Dialogue: 0,0:08:12.44,0:08:13.80,Main,,0,0,0,,Tại sao?
+Dialogue: 0,0:08:22.70,0:08:25.23,Main,,0,0,0,,Không được mở thì lại càng muốn mở.
+Dialogue: 0,0:08:26.09,0:08:26.74,Main,,0,0,0,,Ui chà...
+Dialogue: 0,0:08:28.32,0:08:30.62,Main,,0,0,0,,Không phải chụy mở đâu nhá.
+Dialogue: 0,0:08:30.62,0:08:32.38,Main,,0,0,0,,Mà là tự nhiên nó mở đấy.
+Dialogue: 0,0:08:50.92,0:08:54.85,Main,,0,0,0,,Đúng như yêu cầu,\N chúng tôi đã gỡ treo thưởng.
+Dialogue: 0,0:08:54.85,0:09:00.05,Main,,0,0,0,,Chính phủ cũng đang xem xét \Nlệnh cấm đánh bắt chuột biển Ganymede.
+Dialogue: 0,0:09:01.04,0:09:02.61,Main,,0,0,0,,Thế... Còn "mẹ"?
+Dialogue: 0,0:09:03.51,0:09:07.72,Main,,0,0,0,,Như đã nói, chúng tôi chưa nhận được\N báo cáo nào về việc bắt giữ Twinkle.
+Dialogue: 0,0:09:07.72,0:09:10.32,Main,,0,0,0,,Nếu chúng tôi biết được kẻ nào bắt giữ...
+Dialogue: 0,0:09:10.91,0:09:13.47,Main,,0,0,0,,Nếu mẹ mà không về...
+Dialogue: 0,0:09:13.94,0:09:16.82,Main,,0,0,0,,bọn ta sẽ tiến hành kế hoạch ngay lập tức.
+Dialogue: 0,0:09:16.82,0:09:20.20,Main,,0,0,0,,K-Khoan đã! Chúng tôi vẫn làm theo lời—
+Dialogue: 0,0:09:26.79,0:09:29.87,Main,,0,0,0,,Cái này có bỏ bụng được quái đâu.
+Dialogue: 0,0:09:35.80,0:09:36.99,Main,,0,0,0,,Uây uây!
+Dialogue: 0,0:09:36.99,0:09:40.09,Main,,0,0,0,,Vụ khủng bố mới xong\N thậm chí còn không được ghi nhận. 
+Dialogue: 0,0:09:40.09,0:09:41.51,Main,,0,0,0,,Rốt cuộc là sao?
+Dialogue: 0,0:09:42.89,0:09:46.63,Main,,0,0,0,,Tôi chả bảo rồi thây,\N "không làm được gì đâu".
+Dialogue: 0,0:09:47.15,0:09:48.96,Main,,0,0,0,,Mau mau thả tôi ra đi.
+Dialogue: 0,0:09:49.36,0:09:50.72,Main,,0,0,0,,Chả hiểu quái gì.
+Dialogue: 0,0:09:50.72,0:09:53.06,Main,,0,0,0,,Có gì đó mờ ám ở đây.
+Dialogue: 0,0:09:56.28,0:09:57.41,Main,,0,0,0,,Chào đằng ấy~
+Dialogue: 0,0:09:57.41,0:09:59.02,Main,,0,0,0,,Đằng ấy đang tới chỗ mình à~
+Dialogue: 0,0:09:59.02,0:10:00.26,Main,,0,0,0,,Có thấy mình hông~
+Dialogue: 0,0:10:01.12,0:10:04.03,Main,,0,0,0,,Mình bị hết nhiên liệu ý~
+Dialogue: 0,0:10:04.37,0:10:05.75,Main,,0,0,0,,Uầy! Đây là!
+Dialogue: 0,0:10:06.35,0:10:09.36,Main,,0,0,0,,Đằng ấy cho mình tới Ganymede được hông?
+Dialogue: 0,0:10:13.34,0:10:14.85,Main,,0,0,0,,Được hông ấy ơi?
+Dialogue: 0,0:10:14.85,0:10:18.83,GT 2,,0,0,0,,{\i1\pos(1024,864)}(Propellant)
+Dialogue: 0,0:10:14.85,0:10:18.83,Main,,0,0,0,,Không thì cho mình xíu {\i1}thuốc phóng{\i0}\Nlà mình biết ơn lắm rồi.
+Dialogue: 0,0:10:23.27,0:10:26.27,Main,,0,0,0,,Này! Có nghe thấy không thế?
+Dialogue: 0,0:10:29.32,0:10:30.98,Main,,0,0,0,,Ôi giời ạ~
+Dialogue: 0,0:10:42.21,0:10:43.58,Main,,0,0,0,,Cái gì cơ?
+Dialogue: 0,0:10:43.97,0:10:47.84,Main,,0,0,0,,Số tiền cô cuỗm từ bọn này,\N toàn bộ ngốn sạch vào sòng bạc rồi á?
+Dialogue: 0,0:10:48.43,0:10:51.29,Main,,0,0,0,,Người ta nói, \N"tiền là động cơ của thế giới" còn gì.
+Dialogue: 0,0:10:51.67,0:10:53.89,Main,,0,0,0,,Cũng có câu, "mặt dày như cái mo nang".
+Dialogue: 0,0:10:54.52,0:10:55.51,Main,,0,0,0,,Bên anh sao rồi?
+Dialogue: 0,0:10:55.51,0:10:59.20,Main,,0,0,0,,Ờ, đang liên lạc với một ông bạn cũ. 
+Dialogue: 0,0:11:00.29,0:11:03.01,Main,,0,0,0,,Bà mịa! Toàn đồ vô dụng.
+Dialogue: 0,0:11:03.50,0:11:05.01,Main,,0,0,0,,Hở? Cái này?
+Dialogue: 0,0:11:09.53,0:11:12.30,Main,,0,0,0,,Chưa, chúng tôi vẫn chưa biết virus ở đâu...
+Dialogue: 0,0:11:13.29,0:11:14.48,Main,,0,0,0,,Vâng! Thưa tổng thống.
+Dialogue: 0,0:11:14.86,0:11:16.42,Main,,0,0,0,,Chúng tôi sẽ cân nhắc hợp lý.
+Dialogue: 0,0:11:19.82,0:11:20.49,Main,,0,0,0,,Sếp!
+Dialogue: 0,0:11:21.01,0:11:22.20,Main,,0,0,0,,Chuyện gì?
+Dialogue: 0,0:11:22.20,0:11:24.08,Main,,0,0,0,,Về kẻ đã bắt giữ Twinkle...
+Dialogue: 0,0:11:24.08,0:11:25.83,Main,,0,0,0,,Tìm thấy rồi à?
+Dialogue: 0,0:11:26.71,0:11:31.36,Main,,0,0,0,,Rồi... gã đó kêu là giao cái này cho ISSP à?
+Dialogue: 0,0:11:31.36,0:11:33.54,Main,,0,0,0,,Phải, chắc là đáng giá đấy.
+Dialogue: 0,0:11:34.04,0:11:36.50,Main,,0,0,0,,Thế là hòa cả làng nhé?
+Dialogue: 0,0:11:36.50,0:11:39.41,Main,,0,0,0,Netflix's most line,Không nghe trộm kể chuyện, \Nkhông nghe nghiện trình bày.
+Dialogue: 0,0:11:40.56,0:11:41.73,Main,,0,0,0,,Cái gì?!
+Dialogue: 0,0:11:42.69,0:11:44.60,Main,,0,0,0,,Đã có chuyện gì hả, Bob?!
+Dialogue: 0,0:11:44.97,0:11:46.63,Main,,0,0,0,,Chả có gì hết.
+Dialogue: 0,0:11:46.63,0:11:48.97,Main,,0,0,0,,Treo thưởng bị gỡ rồi.
+Dialogue: 0,0:11:49.63,0:11:52.08,Main,,0,0,0,,Được lệnh thả người ngay lập tức.
+Dialogue: 0,0:11:53.07,0:11:54.69,Main,,0,0,0,,Tôi bảo này, Bob.
+Dialogue: 0,0:11:55.10,0:11:57.23,Main,,0,0,0,,Hồi chúng ta còn ở chung đồn,
+Dialogue: 0,0:11:57.23,0:12:00.53,Main,,0,0,0,,số thuốc nhỏ mắt tịch thu được\N cứ hay mất tích ấy nhề...
+Dialogue: 0,0:12:00.53,0:12:03.27,Main,,0,0,0,,A-Anh nói cái gì thế?
+Dialogue: 0,0:12:03.27,0:12:05.62,Main,,0,0,0,,Nếu anh vẫn còn muốn giữ ghế\N tới lúc nghỉ hưu,
+Dialogue: 0,0:12:06.23,0:12:09.20,Main,,0,0,0,,tốt hơn hết là đừng chống lại tôi.
+Dialogue: 0,0:12:12.36,0:12:13.52,Main,,0,0,0,,Thôi được rồi.
+Dialogue: 0,0:12:13.52,0:12:15.04,Main,,0,0,0,,Thích thì chiều.
+Dialogue: 0,0:12:18.94,0:12:21.30,Main,,0,0,0,,Này, cẩn thận không vỡ giờ.
+Dialogue: 0,0:12:23.81,0:12:27.51,Main,,0,0,0,,Chúng đang tống tiền\N dưới danh nghĩa đàm phán.
+Dialogue: 0,0:12:28.17,0:12:31.26,Main,,0,0,200,,Và con tin là \N8 triệu cư dân tại Ganymede.
+Dialogue: 0,0:12:31.26,0:12:32.60,Main,,0,0,200,,Tức là sao?
+Dialogue: 0,0:12:33.04,0:12:36.11,Main,,0,0,0,,Chúng đã bắt cóc \Nmột chuyên gia đầu ngành về virus học.
+Dialogue: 0,0:12:36.71,0:12:39.82,Main,,0,0,0,,ép ông ta tạo ra một loại virus theo ý chúng.
+Dialogue: 0,0:12:40.34,0:12:43.07,Main,,0,0,0,Netflix's most line,Virus có tên là Trò Khỉ.
+Dialogue: 0,0:12:43.07,0:12:48.11,Main,,0,0,0,,Sự khác biệt giữa \Ngien ở người và khỉ chỉ là 2%,
+Dialogue: 0,0:12:48.11,0:12:53.12,Main,,0,0,0,,và xem chừng,\N virus này chỉ tác động đến 2% đó thôi.
+Dialogue: 0,0:12:54.28,0:12:59.25,Main,,0,0,0,,Ngắn gọn là virus này\N chỉ tác động đến con người.
+Dialogue: 0,0:13:04.59,0:13:06.30,Main,,0,0,0,,Chịu thua chưa ông tướng?
+Dialogue: 0,0:13:09.41,0:13:13.82,Main,,0,0,0,,Bên này đã mất liên lạc với gián điệp của ISSP\N cài vào tổ chức chúng,
+Dialogue: 0,0:13:13.82,0:13:15.60,Main,,0,0,0,,nên cũng chả làm được gì nữa.
+Dialogue: 0,0:13:15.60,0:13:18.98,Main,,0,0,0,,Vì thế mà các anh\N sẵn sàng thỏa hiệp với chúng à?
+Dialogue: 0,0:13:21.86,0:13:24.24,Main,,0,0,0,,Dù cho bên tôi đã tóm được thủ lĩnh.
+Dialogue: 0,0:13:24.24,0:13:26.86,Main,,0,0,0,,Lệnh từ trên xuống! Làm khác được à!
+Dialogue: 0,0:13:32.75,0:13:34.32,Main,,0,0,0,,Phải thả thôi.
+Dialogue: 0,0:14:02.53,0:14:04.87,Main,,0,0,0,,Là chúng tôi? Hay bọn họ?
+Dialogue: 0,0:14:04.87,0:14:08.58,Main,,0,0,0,,Bên nào sẽ bị trời phạt đây?
+Dialogue: 0,0:14:08.58,0:14:11.56,Main,,0,0,0,,Rồi sẽ biết sớm thôi.
+Dialogue: 0,0:14:11.56,0:14:14.83,Main,,0,0,0,,Phải, sớm thôi...
+Dialogue: 0,0:14:23.44,0:14:25.14,Main,,0,0,0,,Bà ta đã được thả.
+Dialogue: 0,0:14:25.14,0:14:27.86,Main,,0,0,0,,Đội đặc nhiệm sẽ tiếp tục theo dấu.
+Dialogue: 0,0:14:27.86,0:14:29.23,Main,,0,0,0,,Chuẩn bị vệ tinh sao rồi?
+Dialogue: 0,0:14:29.23,0:14:30.88,Main,,0,0,0,,Sẵn sàng trong 1 tiếng nữa
+Dialogue: 0,0:14:30.88,0:14:32.43,Main,,0,0,0,,Yêu cầu đội hóa học chờ lệnh.
+Dialogue: 0,0:14:33.00,0:14:35.84,Main,,0,0,0,,Án binh bất động \Ncho đến khi biết được virus ở đâu.
+Dialogue: 0,0:14:35.84,0:14:38.64,Main,,0,0,0,,Sếp! Có tin nhắn từ Twinkle.
+Dialogue: 0,0:14:40.54,0:14:43.04,Main,,0,0,0,,Lâu rồi không gặp, ngài bộ trưởng.
+Dialogue: 0,0:14:43.04,0:14:45.53,Main,,0,0,0,,Về việc ông đã hứa…
+Dialogue: 0,0:14:45.53,0:14:48.64,Main,,0,0,0,,Đối với vấn đề chuột biển thì...
+Dialogue: 0,0:14:48.64,0:14:51.99,Main,,0,0,0,,chúng tôi đang nỗ lực duy trì số lượng\N bằng cách hạn chế đánh bắt...
+Dialogue: 0,0:14:52.43,0:14:54.86,Main,,0,0,0,,Bộ tôi chưa nói rõ là "cấm hoàn toàn" à?
+Dialogue: 0,0:14:55.49,0:15:00.12,Main,,0,0,0,,À, trước mắt vẫn phải tiếp cận từ từ, \Ncần có biện pháp thích hợp.
+Dialogue: 0,0:15:03.20,0:15:06.79,Main,,0,0,0,,Quả nhiên là phải trừng phạt \Nmới hiểu ra vấn đề.
+Dialogue: 0,0:15:06.79,0:15:08.97,Main,,0,0,0,,Ơ này! Từ từ đã!
+Dialogue: 0,0:15:08.97,0:15:11.97,Main,,0,0,0,,Mẹ ơi! Không làm khỉ đâu! Mẹ ơi!
+Dialogue: 0,0:15:30.33,0:15:32.84,Main,,0,0,0,,Alpha-105 gọi tổng chỉ huy.
+Dialogue: 0,0:15:32.84,0:15:35.49,Main,,0,0,0,,Mục tiêu đã đi vào khu vực phế thải.
+Dialogue: 0,0:15:35.92,0:15:39.23,Main,,0,0,0,,Rõ! Hãy tiếp tục theo dõi!
+Dialogue: 0,0:15:52.99,0:15:55.72,Main,,0,0,0,,Trông chúng ẩu chưa kìa.
+Dialogue: 0,0:16:21.96,0:16:23.29,Main,,0,0,0,,Con mịa nó!
+Dialogue: 0,0:16:23.93,0:16:26.69,Main,,0,0,0,,Thế là chả thu được cái mịa gì.
+Dialogue: 0,0:16:28.67,0:16:30.20,Main,,0,0,0,,Jet, nghe thấy tôi không!
+Dialogue: 0,0:16:30.20,0:16:32.26,Main,,0,0,0,,Mở kênh 72 lên mà xem!
+Dialogue: 0,0:16:33.30,0:16:36.60,Main,,0,0,0,,Chúng đang phát sóng \Nbằng chính vệ tinh của chúng!
+Dialogue: 0,0:16:37.12,0:16:40.15,Main,,0,0,0,,Đây không chỉ là về chuột biển.
+Dialogue: 0,0:16:40.55,0:16:42.15,Main,,0,0,0,,Loài người văn minh...
+Dialogue: 0,0:16:42.58,0:16:45.60,Main,,0,0,0,,đã đi chệch khỏi quỹ đạo \Ncủa mẹ thiên nhiên,
+Dialogue: 0,0:16:46.55,0:16:50.08,Main,,0,0,0,,đã phạm phải trọng tội không thể tha thứ.
+Dialogue: 0,0:16:50.08,0:16:52.32,Main,,0,0,0,,Và những kẻ không ý thức được việc này...
+Dialogue: 0,0:16:52.80,0:16:55.54,GT 2,,0,0,0,,(bug: lỗi/bọ)
+Dialogue: 0,0:16:52.80,0:16:55.54,Main,,0,0,0,,có thể nói là {\c&H27F2FF&}bug{\c} của mẹ thiên nhiên.
+Dialogue: 0,0:17:04.28,0:17:06.25,Main,,0,0,0,,Con tàu đó là mồi nhử!
+Dialogue: 0,0:17:06.78,0:17:08.00,Main,,0,0,0,,Chúng phát sóng từ đâu thế?
+Dialogue: 0,0:17:08.42,0:17:10.63,Main,,0,0,0,,Gần đây thôi! Chúng ở...
+Dialogue: 0,0:17:11.12,0:17:13.13,Main,,0,0,0,,trong vùng {\i1}không gian chuyển pha{\i0}.
+Dialogue: 0,0:17:13.13,0:17:16.90,Main,,0,0,0,,Virus của chúng tôi, Trò Khỉ...
+Dialogue: 0,0:17:16.90,0:17:20.60,Main,,0,0,0,,sẽ đưa những kẻ đó trở về với tự nhiên.
+Dialogue: 0,0:17:21.43,0:17:22.60,Main,,0,0,0,,Đã hiểu chưa?
+Dialogue: 0,0:17:24.75,0:17:26.59,Main,,0,0,0,,Vĩnh biệt.\N{\rGT 2}(Au revoir.)
+Dialogue: 0,0:17:34.78,0:17:36.48,Main,,0,0,0,,Có tin tốt đây, Jet!{\i}
+Dialogue: 0,0:17:36.48,0:17:40.04,Main,,0,0,0,,Chính phủ Ganymede đã treo lại tiền thưởng\N cho Twinkle và băng của mụ ta rồi.
+Dialogue: 0,0:17:40.37,0:17:41.31,Main,,0,0,0,,Gì cơ?!
+Dialogue: 0,0:17:41.31,0:17:44.50,Main,,0,0,0,,Cơ hội tới đấy! \NChỉ có mình chúng ta ở đây thôi.
+Dialogue: 0,0:17:44.50,0:17:47.37,Main,,0,0,0,,Nhưng chỉ bắt chúng thôi \Nthì vẫn xôi hỏng bỏng không.
+Dialogue: 0,0:17:48.67,0:17:53.48,Main,,0,0,0,,Tên lửa đáp xuống \Nlà cóc còn ai trả tiền nữa đâu.
+Dialogue: 0,0:18:06.67,0:18:09.32,Main,,0,0,0,,Vậy chỉ cần hạ được tên lửa là được nhề.
+Dialogue: 0,0:18:09.66,0:18:12.20,Main,,0,0,0,,Nhưng chúng ở chỗ cổng ra đấy.
+Dialogue: 0,0:18:12.62,0:18:13.57,Main,,0,0,0,,Tôi biết chứ.
+Dialogue: 0,0:18:24.42,0:18:25.98,Main,,0,0,0,,Hệ thống đánh chặn thế nào?
+Dialogue: 0,0:18:25.98,0:18:28.00,Main,,0,0,0,,Còn 4p30s cho đến khi tên lửa va chạm.
+Dialogue: 0,0:18:28.00,0:18:29.38,Main,,0,0,0,,Không đủ thời gian cài đặt.
+Dialogue: 0,0:18:29.82,0:18:32.75,Main,,0,0,0,,T-Tình huống khẩn cấp! Gọi ngài tổng thống!
+Dialogue: 0,0:18:37.52,0:18:38.51,Main,,0,0,0,,Đây rồi.
+Dialogue: 0,0:18:50.74,0:18:52.22,Main,,0,0,0,,Tách ra á? Đệch!
+Dialogue: 0,0:19:06.90,0:19:08.71,Main,,0,0,0,,Jet! Quả cuối nhờ anh đấy!
+Dialogue: 0,0:19:08.71,0:19:10.83,Main,,0,0,0,,Gì cơ? Chỗ tôi có vũ khí quái đâu!
+Dialogue: 0,0:19:11.57,0:19:15.02,Main,,0,0,0,,Nó sẽ trúng Ganymede\Ntrước khi tôi bắn được phát kế tiếp!
+Dialogue: 0,0:19:15.02,0:19:17.15,Main,,0,0,0,,Ui chà! Gặp rắc rối à? 
+Dialogue: 0,0:19:18.00,0:19:20.18,Main,,0,0,0,,80% tiền thưởng, thấy sao?
+Dialogue: 0,0:19:20.18,0:19:21.20,Main,,0,0,0,,Cô đùa tôi à!
+Dialogue: 0,0:19:21.20,0:19:23.10,Main,,0,0,0,,Thế baibai~ Bảo trọng nhé!
+Dialogue: 0,0:19:23.10,0:19:24.94,Main,,0,0,0,,Thôi được! 40%.
+Dialogue: 0,0:19:24.94,0:19:25.60,Main,,0,0,0,,Giá cuối đấy!
+Dialogue: 0,0:19:25.91,0:19:27.31,Main,,0,0,0,,OK! Chốt 60.
+Dialogue: 0,0:19:27.31,0:19:28.81,Main,,0,0,0,,Đ-Đành chịu chứ biết sao.
+Dialogue: 0,0:19:36.71,0:19:38.49,Main,,0,0,0,,Cái đệch! Cũng không kịp à?
+Dialogue: 0,0:19:40.55,0:19:41.36,Main,,0,0,0,,Chào mừng!
+Dialogue: 0,0:19:48.73,0:19:50.04,Main,,0,0,0,,Cái quái gì đây?
+Dialogue: 0,0:19:50.04,0:19:53.04,Main,,0,0,0,,Tên lửa đa đầu đạn?\NKhông phải của quân đội!
+Dialogue: 0,0:19:55.55,0:19:57.63,Main,,0,0,0,,Hóa khỉ hết đi!
+Dialogue: 0,0:19:58.67,0:20:01.59,Main,,0,0,0,,Jet! Chính phủ đang đóng cổng!{\i}
+Dialogue: 0,0:20:01.59,0:20:02.56,Main,,0,0,0,,Cái gì?!
+Dialogue: 0,0:20:02.56,0:20:05.43,Main,,0,0,0,,Họ tính nhốt toàn bộ tên lửa \Ntrong không gian chuyển pha.
+Dialogue: 0,0:20:05.43,0:20:07.25,Main,,0,0,0,,Này này! Đùa đấy à?!
+Dialogue: 0,0:20:07.25,0:20:08.43,Main,,0,0,0,,Spike!
+Dialogue: 0,0:20:10.81,0:20:12.60,Main,,0,0,0,,Nghe thấy rồi!
+Dialogue: 0,0:20:22.91,0:20:24.33,Signs,,0,0,0,,
 Dialogue: 0,0:20:30.04,0:20:31.04,Main,,0,0,0,,Spike!
-Dialogue: 0,0:20:56.34,0:20:57.86,Main,,0,0,0,,Why?
-Dialogue: 0,0:21:01.85,0:21:04.25,Main,,0,0,0,,{\i1}Didn't you learn in high school?{\i0}
-Dialogue: 0,0:21:05.11,0:21:09.83,Main,,0,0,0,,{\i1}Matter that gets enclosed{\i0}\N{\i1}in hyperspace can be seen{\i0}
-Dialogue: 0,0:21:09.83,0:21:14.29,Main,,0,0,0,,but will never interact with\Nmatter in this realm again. {9 frames}
-Dialogue: 0,0:21:17.29,0:21:19.63,Main,,0,0,0,,Mom! The gate's closed!
-Dialogue: 0,0:21:20.25,0:21:21.97,Main,,0,0,0,,Hey, Mom, what can we do?!
-Dialogue: 0,0:21:21.97,0:21:23.63,Main,,0,0,0,,Stop! Stop!
-Dialogue: 0,0:21:42.14,0:21:47.02,Main,,0,0,0,,So... this and that and no reward.\NAll that work for nothing.
-Dialogue: 0,0:21:47.99,0:21:51.95,Main,,0,0,0,,Oh, don't look so down,\Nwe can make money next time.
-Dialogue: 0,0:21:52.75,0:21:55.66,Main,,0,0,0,,Well, I'll go take a shower.
-Dialogue: 0,0:21:57.05,0:21:59.86,Main,,0,0,0,,Next time? Make money?
-Dialogue: 0,0:22:00.54,0:22:03.61,Main,,0,0,0,,Hey, Jet, what did she just say?
-Dialogue: 0,0:22:03.61,0:22:05.88,Main,,0,0,0,,Don't ask me! Just don't!
-Dialogue: 0,0:22:05.88,0:22:08.87,Main,,0,0,0,,And she's off to shower without asking us...
-Dialogue: 0,0:22:08.87,0:22:11.41,Main,,0,0,0,,Hey, are we gonna take all of this?
-Dialogue: 0,0:22:11.41,0:22:14.27,Main,,0,0,0,,Don't tell me! Just don't!
-Dialogue: 0,0:22:15.81,0:22:18.35,Main,,0,0,0,,Fine, I'll go tell her.
-Dialogue: 0,0:22:21.98,0:22:23.36,Main,,0,0,0,,Hey, Spike...
-Dialogue: 0,0:22:26.29,0:22:28.57,Main,,0,0,0,,Should've seen that coming.
-Dialogue: 0,0:24:10.25,0:24:13.19,Main,,0,0,0,,The supposedly broken music\Nbox starts to move,
-Dialogue: 0,0:24:13.19,0:24:15.18,Main,,0,0,0,,and a nostalgic tune fills the air.
-Dialogue: 0,0:24:15.18,0:24:17.18,Main,,0,0,0,,I then happen to wake up\Nfrom the dream. {10 frames}
-Dialogue: 0,0:24:17.70,0:24:19.73,Main,,0,0,0,,There is no such thing as a music box,
-Dialogue: 0,0:24:19.73,0:24:23.14,Main,,0,0,0,,yet, there is a small\Nmusic box nestled in my hand.
-Dialogue: 0,0:24:24.02,0:24:26.02,Main,,0,0,0,,And I awake from the dream again.
-Dialogue: 0,0:24:26.65,0:24:30.86,Main,,0,0,0,,As if I was peeling an onion,\Nit's a dream no matter how far I go.
-Dialogue: 0,0:24:30.86,0:24:33.11,Main,,0,0,0,,I can never return to reality.
-Dialogue: 0,0:24:33.68,0:24:35.12,Main,,0,0,0,,Such a nightmare, this is.
-Dialogue: 0,0:24:36.16,0:24:39.20,Main,,0,0,0,,Next episode: Ballad for Fallen Angels.
+Dialogue: 0,0:20:56.43,0:20:57.86,Main,,0,0,0,,Sao lại?
+Dialogue: 0,0:21:01.95,0:21:04.25,Main,,0,0,0,,Cấp 3 chả dạy rồi còn gì?
+Dialogue: 0,0:21:05.37,0:21:09.83,Main,,0,0,0,,Mặc dù mắt người vẫn có thể nhìn thấy \Nvật chất bị kẹt trong không gian chuyển pha...
+Dialogue: 0,0:21:10.34,0:21:14.29,Main,,0,0,0,,nhưng nó sẽ không tương tác được\N với vật chất ở không gian bên ngoài.
+Dialogue: 0,0:21:17.44,0:21:19.63,Main,,0,0,0,,Mẹ ơi! Cổng đóng mất rồi!
+Dialogue: 0,0:21:20.26,0:21:22.17,Main,,0,0,0,,Này mẹ ơi! Phải làm sao bây giờ?
+Dialogue: 0,0:21:22.17,0:21:23.63,Main,,0,0,0,,Dừng lại! Dừng lại!
+Dialogue: 0,0:21:42.22,0:21:47.02,Main,,0,0,0,,Chà, mệt đứt hơi xong\N tiền thưởng chả thấy đâu ha.
+Dialogue: 0,0:21:47.99,0:21:50.54,Main,,0,0,0,,Nào~ Đừng ủ rũ thế chứ.
+Dialogue: 0,0:21:50.54,0:21:51.95,Main,,0,0,0,,Lần sau chúng ta sẽ kiếm được thôi.
+Dialogue: 0,0:21:52.85,0:21:55.66,Main,,0,0,0,,Thôi tôi đi tắm đây.
+Dialogue: 0,0:21:57.07,0:21:59.86,Main,,0,0,0,,"Lần sau"? "Chúng ta sẽ kiếm"?
+Dialogue: 0,0:22:00.54,0:22:03.71,Main,,0,0,0,,Này Jet! Cô ta nói cái quái gì thế?
+Dialogue: 0,0:22:03.71,0:22:05.89,Main,,0,0,0,,Đừng hỏi tôi! Đừng!
+Dialogue: 0,0:22:06.31,0:22:08.97,Main,,0,0,0,,Rồi lại còn tự tiện đi tắm nữa.
+Dialogue: 0,0:22:08.97,0:22:11.51,Main,,0,0,0,,Này, cứ để thế được à?
+Dialogue: 0,0:22:11.51,0:22:14.27,Main,,0,0,0,,Đừng kêu tôi! Đừng!
+Dialogue: 0,0:22:15.87,0:22:18.35,Main,,0,0,0,,Vậy... để tôi đi kêu.
+Dialogue: 0,0:22:21.98,0:22:23.36,Main,,0,0,0,,Uầy, Spike!
+Dialogue: 0,0:22:26.45,0:22:28.57,Main,,0,0,0,,Chứng nào tật nấy.
+Dialogue: 0,0:24:10.25,0:24:13.09,Main,preview,0,0,0,,Hộp nhạc tưởng là đã bị hỏng\N bỗng nhiên vang lên...
+Dialogue: 0,0:24:13.09,0:24:14.80,Main,preview,0,0,0,,giai điệu một bài hát hoài niệm.
+Dialogue: 0,0:24:15.53,0:24:17.18,Main,preview,0,0,0,,Rồi tôi chợt tỉnh giấc...
+Dialogue: 0,0:24:17.62,0:24:19.65,Main,preview,0,0,0,,tôi vốn chẳng có chiếc hộp nhạc nào,
+Dialogue: 0,0:24:19.65,0:24:23.14,Main,preview,0,0,0,,{\an8}nhưng trong lòng bàn tay tôi \Nlà một chiếc hộp nhạc.
+Dialogue: 0,0:24:23.94,0:24:26.02,Main,preview,0,0,0,,Rồi tôi lại tỉnh giấc...
+Dialogue: 0,0:24:26.65,0:24:30.86,Main,preview,0,0,0,,mơ chồng mơ, giống như lột vỏ hành vậy.
+Dialogue: 0,0:24:30.86,0:24:32.59,Main,preview,0,0,0,,Không còn biết đâu là thật nữa.
+Dialogue: 0,0:24:33.63,0:24:35.12,Main,preview,0,0,0,,Quả là ác mộng.
+Dialogue: 0,0:24:36.16,0:24:39.21,Main,preview,0,0,0,,Kỳ tới, "Bản ballad của Thiên thần sa ngã".
+Comment: 0,0:24:36.10,0:24:38.72,Main,,0,0,0,,===================================
+Dialogue: 0,0:02:29.75,0:02:34.30,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H30592A&\3c&H30592A&\b0\pos(182.2,430.07)\fscx105\fscy112}HỖN LOẠN TẠI CỔNG KHÔNG GIAN
+Dialogue: 1,0:02:29.75,0:02:34.30,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(182.2,430.07)\fscx105\fscy112}HỖN LOẠN TẠI CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.75,0:02:34.30,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H30592A&\3c&H30592A&\b0\alpha&H50&\3a&H00&\1a&H00&\pos(183.2,430.07)\fscx105\fscy112}HỖN LOẠN TẠI CỔNG KHÔNG GIAN
+Dialogue: 1,0:02:29.75,0:02:34.30,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\alpha&H50&\pos(183.2,430.07)\fscx105\fscy112}HỖN LOẠN TẠI CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.75,0:02:34.30,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0.7\shad0\c&H30592A&\3c&H30592A&\b0\pos(1382.21,74.67)\fscx59\fscy59}Phụ đề được thực hiện bởi GSGA
+Dialogue: 1,0:02:29.75,0:02:34.30,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(1382.21,74.67)\fscx59\fscy59}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:02:29.75,0:02:34.30,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0.7\shad0\c&H30592A&\3c&H30592A&\b0\pos(1382.21,124.67)\fscx59\fscy59}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 1,0:02:29.75,0:02:34.30,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(1382.21,124.67)\fscx59\fscy59}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1183.2,430.07,383.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}HỖN LOẠN TẠI CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1184.2,430.07,384.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}HỖN LOẠN TẠI CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1185.2,430.07,385.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}HỖN LOẠN TẠI CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1186.2,430.07,386.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}HỖN LOẠN TẠI CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1187.2,430.07,387.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}HỖN LOẠN TẠI CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1188.2,430.07,388.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}HỖN LOẠN TẠI CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1189.2,430.07,389.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}HỖN LOẠN TẠI CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1190.2,430.07,390.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}HỖN LOẠN TẠI CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1191.2,430.07,391.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}HỖN LOẠN TẠI CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1192.2,430.07,392.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}HỖN LOẠN TẠI CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1193.2,430.07,393.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}HỖN LOẠN TẠI CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1194.2,430.07,394.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}HỖN LOẠN TẠI CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1195.2,430.07,395.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}HỖN LOẠN TẠI CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1196.2,430.07,396.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}HỖN LOẠN TẠI CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1197.2,430.07,397.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}HỖN LOẠN TẠI CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1198.2,430.07,398.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}HỖN LOẠN TẠI CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1199.2,430.07,399.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}HỖN LOẠN TẠI CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1200.2,430.07,400.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}HỖN LOẠN TẠI CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H30592A&\3c&H532A3A&\b0\move(183.21,124.67,1183.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H30592A&\3c&H532A3A&\b0\move(184.21,124.67,1184.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H30592A&\3c&H532A3A&\b0\move(185.21,124.67,1185.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H30592A&\3c&H532A3A&\b0\move(186.21,124.67,1186.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H30592A&\3c&H532A3A&\b0\move(187.21,124.67,1187.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H30592A&\3c&H532A3A&\b0\move(188.21,124.67,1188.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H30592A&\3c&H532A3A&\b0\move(189.21,124.67,1189.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H30592A&\3c&H532A3A&\b0\move(190.21,124.67,1190.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H30592A&\3c&H532A3A&\b0\move(191.21,124.67,1191.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H30592A&\3c&H532A3A&\b0\move(192.21,124.67,1192.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H30592A&\3c&H532A3A&\b0\move(193.21,124.67,1193.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H30592A&\3c&H532A3A&\b0\move(194.21,124.67,1194.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H30592A&\3c&H532A3A&\b0\move(195.21,124.67,1195.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H30592A&\3c&H532A3A&\b0\move(183.21,74.67,1183.21,74.67)\fscx59\fscy59\1a&HC8&}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H30592A&\3c&H532A3A&\b0\move(184.21,74.67,1184.21,74.67)\fscx59\fscy59\1a&HC8&}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H30592A&\3c&H532A3A&\b0\move(185.21,74.67,1185.21,74.67)\fscx59\fscy59\1a&HC8&}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H30592A&\3c&H532A3A&\b0\move(186.21,74.67,1186.21,74.67)\fscx59\fscy59\1a&HC8&}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H30592A&\3c&H532A3A&\b0\move(187.21,74.67,1187.21,74.67)\fscx59\fscy59\1a&HC8&}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H30592A&\3c&H532A3A&\b0\move(188.21,74.67,1188.21,74.67)\fscx59\fscy59\1a&HC8&}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H30592A&\3c&H532A3A&\b0\move(189.21,74.67,1189.21,74.67)\fscx59\fscy59\1a&HC8&}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H30592A&\3c&H532A3A&\b0\move(190.21,74.67,1190.21,74.67)\fscx59\fscy59\1a&HC8&}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H30592A&\3c&H532A3A&\b0\move(191.21,74.67,1191.21,74.67)\fscx59\fscy59\1a&HC8&}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H30592A&\3c&H532A3A&\b0\move(192.21,74.67,1192.21,74.67)\fscx59\fscy59\1a&HC8&}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H30592A&\3c&H532A3A&\b0\move(193.21,74.67,1193.21,74.67)\fscx59\fscy59\1a&HC8&}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H30592A&\3c&H532A3A&\b0\move(194.21,74.67,1194.21,74.67)\fscx59\fscy59\1a&HC8&}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H30592A&\3c&H532A3A&\b0\move(195.21,74.67,1195.21,74.67)\fscx59\fscy59\1a&HC8&}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:24:09.97,0:24:10.10,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1383.2,410.07,583.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:09.97,0:24:10.10,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1384.2,410.07,584.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:09.97,0:24:10.10,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1385.2,410.07,585.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:09.97,0:24:10.10,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1386.2,410.07,586.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:09.97,0:24:10.10,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1387.2,410.07,587.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:09.97,0:24:10.10,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1388.2,410.07,588.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:09.97,0:24:10.10,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1389.2,410.07,589.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:09.97,0:24:10.10,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1390.2,410.07,590.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:09.97,0:24:10.10,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1391.2,410.07,591.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:09.97,0:24:10.10,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1392.2,410.07,592.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:09.97,0:24:10.10,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1393.2,410.07,593.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:09.97,0:24:10.10,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1394.2,410.07,594.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:09.97,0:24:10.10,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1395.2,410.07,595.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:09.97,0:24:10.10,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1396.2,410.07,596.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:09.97,0:24:10.10,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1397.2,410.07,597.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:09.97,0:24:10.10,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1398.2,410.07,598.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:09.97,0:24:10.10,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H2B2D7B&\b0\move(1399.2,410.07,599.2,410.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:10.10,0:24:11.18,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H2B2D7B&\3c&H2B2D7B&\b0\fscx105\fscy112\pos(386.2,410.07)}GIỚI THIỆU TẬP SAU
+Dialogue: 1,0:24:10.10,0:24:11.18,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\fscx105\fscy112\pos(386.2,410.07)}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:10.10,0:24:11.18,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H2B2D7B&\3c&H2B2D7B&\b0\alpha&H50&\3a&H00&\1a&H00&\fscx105\fscy112\pos(387.2,410.07)}GIỚI THIỆU TẬP SAU
+Dialogue: 1,0:24:10.10,0:24:11.18,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\alpha&H50&\fscx105\fscy112\pos(387.2,410.07)}GIỚI THIỆU TẬP SAU
+Dialogue: 0,0:24:36.16,0:24:39.21,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H753B39&\3c&H753B39&\b0\pos(182.2,430.07)\fscx91\fscy97}BẢN BALLAD CỦA THIÊN THẦN SA NGÃ
+Dialogue: 1,0:24:36.16,0:24:39.21,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(182.2,430.07)\fscx91\fscy97}BẢN BALLAD CỦA THIÊN THẦN SA NGÃ
+Dialogue: 0,0:24:36.16,0:24:39.21,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H753B39&\3c&H753B39&\b0\alpha&H50&\3a&H00&\1a&H00&\pos(183.2,430.07)\fscx91\fscy97}BẢN BALLAD CỦA THIÊN THẦN SA NGÃ
+Dialogue: 1,0:24:36.16,0:24:39.21,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\alpha&H50&\pos(183.2,430.07)\fscx91\fscy97}BẢN BALLAD CỦA THIÊN THẦN SA NGÃ
+Dialogue: 0,0:24:36.16,0:24:39.21,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0.7\shad0\c&H753B39&\3c&H753B39&\b0\pos(1382.21,74.67)\fscx59\fscy59}Phụ đề được thực hiện bởi GSGA
+Dialogue: 1,0:24:36.16,0:24:39.21,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(1382.21,74.67)\fscx59\fscy59}Phụ đề được thực hiện bởi GSGA
+Dialogue: 0,0:24:36.16,0:24:39.21,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0.7\shad0\c&H753B39&\3c&H753B39&\b0\pos(1382.21,124.67)\fscx59\fscy59}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Dialogue: 1,0:24:36.16,0:24:39.21,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(1382.21,124.67)\fscx59\fscy59}Dịch: KiOZ | TS: KiOZ | QC: mochi
+Comment: 2,0:22:30.79,0:22:33.67,Endcard,,0,0,0,,{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.8,1012.8)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Comment: 1,0:22:30.79,0:22:33.67,Endcard,,0,0,0,,{\fsp5\blur0.9\bord0\shad0\pos(1014.8,1012.8)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Comment: 3,0:22:30.79,0:22:33.67,Endcard,,0,0,0,,{\fsp5\blur12\bord0\shad0\pos(1012.8,1012.8)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:30.78,0:22:30.82,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.8,1012.8)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:30.82,0:22:30.87,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.52,1013.16)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:30.87,0:22:30.91,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.47,1013.11)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:30.91,0:22:30.95,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.52,1013.16)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:30.95,0:22:30.99,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.45,1013.1)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:30.99,0:22:31.03,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.49,1013.12)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:31.03,0:22:31.07,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.71,1013.13)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:31.07,0:22:31.12,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.43,1013.71)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:31.12,0:22:31.16,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.74,1013.28)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:31.16,0:22:31.20,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.86,1013.24)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:31.20,0:22:31.24,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.77,1013.02)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:31.24,0:22:31.28,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.69,1013.39)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:31.28,0:22:31.32,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1013.02,1013.59)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:31.32,0:22:31.37,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.51,1013.16)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:31.37,0:22:31.41,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.67,1013.1)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:31.41,0:22:31.45,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.78,1013.05)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:31.45,0:22:31.49,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.86,1013.19)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:31.49,0:22:31.53,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.68,1013.05)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:31.53,0:22:31.58,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.93,1013.19)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:31.58,0:22:31.62,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.75,1013.42)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:31.62,0:22:31.66,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.62,1013.07)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:31.66,0:22:31.70,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.88,1013.02)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:31.70,0:22:31.74,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.88,1013.08)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:31.74,0:22:31.78,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.72,1013.07)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:31.78,0:22:31.83,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.59,1013.03)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:31.83,0:22:31.87,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.83,1013.06)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:31.87,0:22:31.91,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.92,1013.02)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:31.91,0:22:31.95,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.78,1013.11)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:31.95,0:22:31.99,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.99,1013.07)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:31.99,0:22:32.03,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.84,1013.02)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:32.03,0:22:32.08,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.64,1013.23)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:32.08,0:22:32.12,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.73,1013.37)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:32.12,0:22:32.16,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.82,1013.2)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:32.16,0:22:32.20,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.9,1013.25)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:32.20,0:22:32.24,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1013.07,1013.43)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:32.24,0:22:32.28,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.77,1013.13)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:32.28,0:22:32.33,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.89,1013.15)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:32.33,0:22:32.37,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.88,1013.26)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:32.37,0:22:32.41,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.61,1013.21)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:32.41,0:22:32.45,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.54,1013.12)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:32.45,0:22:32.49,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.98,1012.96)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:32.49,0:22:32.53,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.84,1012.99)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:32.53,0:22:32.58,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.72,1013.3)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:32.58,0:22:32.62,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.96,1013.26)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:32.62,0:22:32.66,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.89,1013.17)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:32.66,0:22:32.70,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1013.02,1013.02)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:32.70,0:22:32.74,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.94,1013.15)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:32.74,0:22:32.78,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.82,1012.92)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:32.78,0:22:32.83,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1013,1013.11)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:32.83,0:22:32.87,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.7,1013.04)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:32.87,0:22:32.91,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.83,1013.12)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:32.91,0:22:32.95,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.66,1012.96)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:32.95,0:22:32.99,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.86,1012.96)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:32.99,0:22:33.03,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.6,1013.09)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:33.03,0:22:33.08,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.47,1013.06)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:33.08,0:22:33.12,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.87,1013.39)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:33.12,0:22:33.16,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1013.05,1013.21)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:33.16,0:22:33.20,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.84,1012.96)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:33.20,0:22:33.24,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1013.1,1013.1)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:33.24,0:22:33.29,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.97,1013.3)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:33.29,0:22:33.33,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.78,1013.11)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:33.33,0:22:33.37,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1013.01,1013.07)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:33.37,0:22:33.41,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1013.03,1013.17)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:33.41,0:22:33.45,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1013.03,1013.21)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:33.45,0:22:33.49,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.91,1013.18)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:33.49,0:22:33.54,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.91,1013.32)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:33.54,0:22:33.58,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.93,1013.45)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:33.58,0:22:33.62,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.97,1013.86)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 2,0:22:33.62,0:22:33.66,Endcard,,0,0,0,,{=2}{\fsp5\blur0.9\bord0\shad0\c&HE1E1E1&\pos(1012.85,1013.81)\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:30.78,0:22:30.82,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.8,1012.8)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:30.82,0:22:30.87,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.52,1013.16)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:30.87,0:22:30.91,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.47,1013.11)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:30.91,0:22:30.95,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.52,1013.16)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:30.95,0:22:30.99,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.45,1013.1)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:30.99,0:22:31.03,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.49,1013.12)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:31.03,0:22:31.07,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.71,1013.13)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:31.07,0:22:31.12,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.43,1013.71)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:31.12,0:22:31.16,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.74,1013.28)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:31.16,0:22:31.20,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.86,1013.24)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:31.20,0:22:31.24,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.77,1013.02)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:31.24,0:22:31.28,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.69,1013.39)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:31.28,0:22:31.32,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1015.02,1013.59)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:31.32,0:22:31.37,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.51,1013.16)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:31.37,0:22:31.41,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.67,1013.1)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:31.41,0:22:31.45,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.78,1013.05)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:31.45,0:22:31.49,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.86,1013.19)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:31.49,0:22:31.53,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.68,1013.05)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:31.53,0:22:31.58,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.93,1013.19)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:31.58,0:22:31.62,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.75,1013.42)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:31.62,0:22:31.66,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.62,1013.07)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:31.66,0:22:31.70,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.88,1013.02)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:31.70,0:22:31.74,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.88,1013.08)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:31.74,0:22:31.78,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.72,1013.07)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:31.78,0:22:31.83,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.59,1013.03)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:31.83,0:22:31.87,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.83,1013.06)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:31.87,0:22:31.91,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.92,1013.02)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:31.91,0:22:31.95,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.78,1013.11)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:31.95,0:22:31.99,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.99,1013.07)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:31.99,0:22:32.03,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.84,1013.02)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:32.03,0:22:32.08,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.64,1013.23)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:32.08,0:22:32.12,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.73,1013.37)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:32.12,0:22:32.16,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.82,1013.2)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:32.16,0:22:32.20,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.9,1013.25)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:32.20,0:22:32.24,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1015.07,1013.43)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:32.24,0:22:32.28,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.77,1013.13)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:32.28,0:22:32.33,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.89,1013.15)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:32.33,0:22:32.37,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.88,1013.26)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:32.37,0:22:32.41,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.61,1013.21)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:32.41,0:22:32.45,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.54,1013.12)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:32.45,0:22:32.49,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.98,1012.96)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:32.49,0:22:32.53,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.84,1012.99)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:32.53,0:22:32.58,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.72,1013.3)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:32.58,0:22:32.62,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.96,1013.26)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:32.62,0:22:32.66,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.89,1013.17)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:32.66,0:22:32.70,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1015.02,1013.02)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:32.70,0:22:32.74,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.94,1013.15)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:32.74,0:22:32.78,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.82,1012.92)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:32.78,0:22:32.83,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1015,1013.11)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:32.83,0:22:32.87,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.7,1013.04)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:32.87,0:22:32.91,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.83,1013.12)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:32.91,0:22:32.95,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.66,1012.96)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:32.95,0:22:32.99,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.86,1012.96)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:32.99,0:22:33.03,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.6,1013.09)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:33.03,0:22:33.08,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.47,1013.06)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:33.08,0:22:33.12,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.87,1013.39)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:33.12,0:22:33.16,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1015.05,1013.21)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:33.16,0:22:33.20,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.84,1012.96)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:33.20,0:22:33.24,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1015.1,1013.1)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:33.24,0:22:33.29,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.97,1013.3)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:33.29,0:22:33.33,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.78,1013.11)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:33.33,0:22:33.37,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1015.01,1013.07)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:33.37,0:22:33.41,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1015.03,1013.17)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:33.41,0:22:33.45,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1015.03,1013.21)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:33.45,0:22:33.49,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.91,1013.18)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:33.49,0:22:33.54,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.91,1013.32)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:33.54,0:22:33.58,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.93,1013.45)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:33.58,0:22:33.62,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.97,1013.86)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 1,0:22:33.62,0:22:33.66,Endcard,,0,0,0,,{=1}{\fsp5\blur0.9\bord0\shad0\pos(1014.85,1013.81)\c&HFFFFFF&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:30.78,0:22:30.82,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.8,1012.8)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:30.82,0:22:30.87,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.52,1013.16)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:30.87,0:22:30.91,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.47,1013.11)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:30.91,0:22:30.95,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.52,1013.16)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:30.95,0:22:30.99,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.45,1013.1)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:30.99,0:22:31.03,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.49,1013.12)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:31.03,0:22:31.07,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.71,1013.13)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:31.07,0:22:31.12,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.43,1013.71)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:31.12,0:22:31.16,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.74,1013.28)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:31.16,0:22:31.20,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.86,1013.24)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:31.20,0:22:31.24,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.77,1013.02)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:31.24,0:22:31.28,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.69,1013.39)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:31.28,0:22:31.32,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1013.02,1013.59)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:31.32,0:22:31.37,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.51,1013.16)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:31.37,0:22:31.41,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.67,1013.1)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:31.41,0:22:31.45,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.78,1013.05)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:31.45,0:22:31.49,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.86,1013.19)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:31.49,0:22:31.53,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.68,1013.05)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:31.53,0:22:31.58,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.93,1013.19)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:31.58,0:22:31.62,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.75,1013.42)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:31.62,0:22:31.66,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.62,1013.07)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:31.66,0:22:31.70,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.88,1013.02)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:31.70,0:22:31.74,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.88,1013.08)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:31.74,0:22:31.78,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.72,1013.07)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:31.78,0:22:31.83,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.59,1013.03)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:31.83,0:22:31.87,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.83,1013.06)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:31.87,0:22:31.91,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.92,1013.02)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:31.91,0:22:31.95,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.78,1013.11)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:31.95,0:22:31.99,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.99,1013.07)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:31.99,0:22:32.03,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.84,1013.02)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:32.03,0:22:32.08,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.64,1013.23)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:32.08,0:22:32.12,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.73,1013.37)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:32.12,0:22:32.16,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.82,1013.2)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:32.16,0:22:32.20,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.9,1013.25)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:32.20,0:22:32.24,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1013.07,1013.43)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:32.24,0:22:32.28,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.77,1013.13)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:32.28,0:22:32.33,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.89,1013.15)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:32.33,0:22:32.37,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.88,1013.26)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:32.37,0:22:32.41,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.61,1013.21)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:32.41,0:22:32.45,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.54,1013.12)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:32.45,0:22:32.49,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.98,1012.96)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:32.49,0:22:32.53,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.84,1012.99)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:32.53,0:22:32.58,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.72,1013.3)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:32.58,0:22:32.62,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.96,1013.26)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:32.62,0:22:32.66,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.89,1013.17)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:32.66,0:22:32.70,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1013.02,1013.02)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:32.70,0:22:32.74,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.94,1013.15)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:32.74,0:22:32.78,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.82,1012.92)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:32.78,0:22:32.83,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1013,1013.11)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:32.83,0:22:32.87,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.7,1013.04)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:32.87,0:22:32.91,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.83,1013.12)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:32.91,0:22:32.95,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.66,1012.96)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:32.95,0:22:32.99,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.86,1012.96)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:32.99,0:22:33.03,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.6,1013.09)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:33.03,0:22:33.08,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.47,1013.06)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:33.08,0:22:33.12,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.87,1013.39)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:33.12,0:22:33.16,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1013.05,1013.21)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:33.16,0:22:33.20,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.84,1012.96)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:33.20,0:22:33.24,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1013.1,1013.1)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:33.24,0:22:33.29,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.97,1013.3)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:33.29,0:22:33.33,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.78,1013.11)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:33.33,0:22:33.37,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1013.01,1013.07)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:33.37,0:22:33.41,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1013.03,1013.17)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:33.41,0:22:33.45,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1013.03,1013.21)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:33.45,0:22:33.49,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.91,1013.18)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:33.49,0:22:33.54,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.91,1013.32)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:33.54,0:22:33.58,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.93,1013.45)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:33.58,0:22:33.62,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.97,1013.86)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 3,0:22:33.62,0:22:33.66,Endcard,,0,0,0,,{=0}{\fsp5\blur12\bord0\shad0\pos(1012.85,1013.81)\c&HC3F0F9&\1a&H9A&\fax-0.45\fscx57\fscy90}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
+Dialogue: 0,0:01:53.84,0:01:56.80,Signs,,0,0,0,,
+Dialogue: 0,0:05:22.01,0:05:30.48,Signs,,0,0,0,,Chiến Binh Vũ Trụ
+Dialogue: 0,0:07:15.29,0:07:20.84,Signs,,0,0,0,,
+Dialogue: 0,0:09:55.78,0:10:00.83,Signs,,0,0,0,,
+Dialogue: 0,0:10:19.56,0:10:21.56,Signs,,0,0,0,,
+Dialogue: 0,0:15:47.68,0:15:52.14,Signs,,0,0,0,,
+
+[Aegisub Extradata]
+Data: 0,a-mo,e{"originalText"#3A"{\\fsp5\\blur12\\bord0\\shad0\\pos(1012.8#2C1012.8)\\c&HC3F0F9&\\1a&H9A&\\fax-0.45\\fscx57\\fscy90}G#E1#BA#B6P SAU#2C CH#C3#80NG CAO B#E1#BB#92I KH#C3#94NG GIAN ..."#2C"uuid"#3A"3aef3c8e-31f8-499e-8795-d0086ec9a566"}
+Data: 1,a-mo,e{"originalText"#3A"{\\fsp5\\blur0.9\\bord0\\shad0\\pos(1014.8#2C1012.8)\\c&HFFFFFF&\\fax-0.45\\fscx57\\fscy90}G#E1#BA#B6P SAU#2C CH#C3#80NG CAO B#E1#BB#92I KH#C3#94NG GIAN ..."#2C"uuid"#3A"12b3ec61-9108-4869-9af7-f694e6be93fa"}
+Data: 2,a-mo,e{"originalText"#3A"{\\fsp5\\blur0.9\\bord0\\shad0\\c&HE1E1E1&\\pos(1012.8#2C1012.8)\\fax-0.45\\fscx57\\fscy90}G#E1#BA#B6P SAU#2C CH#C3#80NG CAO B#E1#BB#92I KH#C3#94NG GIAN ..."#2C"uuid"#3A"83746dbb-c321-4561-a3c8-81c19dd9e6be"}
