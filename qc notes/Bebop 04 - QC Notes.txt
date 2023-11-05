@@ -3,27 +3,34 @@
 Dia:
 ======================
 Tôi sẽ món tôm hùm hầm miso.
-(???)
+(???)--"gọi"
+~DONE
 
 Sự khác biệt giữa 
 gien ở người và khỉ chỉ là 2%,
 (gen)
+~DONE
 
 Không ngờ là thằng Gould lại là gián điệp.
 (bỏ từ "là" đầu tiền đi, lặp từ)
+~DONE
 
 Chúng tôi, những Chiến Binh Vũ Trụ,
 ngày đêm để bảo vệ môi trường vũ trụ\N và các loài động vật quý hiếm.
 (từ "để" có vấn đề, kiểu "đang hành động ngày đêm để" thì ok)
+~DONE
 
 Cơ mà, chả đáng là bao so với quý bà đây \Nđáng giá tới 25 triệu.
 (vẫn nên thêm dấu phẩy dù có xuống dòng)
+~DONE
 
 ép ông ta tạo ra một loại virus theo ý chúng.
 (dòng trước chấm cuối câu)
+~DONE
 
 Bên này đã mất liên lạc với gián điệp của ISSP\N cài vào tổ chức chúng,
 (thay từ "của" thành từ "mà" chẳng hạn, hoặc viết lại câu, cảm giác từ "của" nó làm câu không mượt, 2 vế hơi lạc nhau)
+~DONE -- "do"
 
 Sẵn sàng trong 1 tiếng nữa
 (thiếu dấu câu)

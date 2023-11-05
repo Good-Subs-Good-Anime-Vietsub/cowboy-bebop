@@ -15,10 +15,10 @@ Last Style Storage: Default
 Audio File: ../raws/[JySzE] Cowboy Bebop - 04 [v2][13F9FE51].mkv
 Video File: ../raws/[JySzE] Cowboy Bebop - 04 [v2][13F9FE51].mkv
 Video AR Value: 1.340741
-Video Zoom Percent: 0.625000
-Scroll Position: 387
-Active Line: 392
-Video Position: 32387
+Video Zoom Percent: 0.500000
+Scroll Position: 594
+Active Line: 604
+Video Position: 22722
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -73,12 +73,12 @@ Dialogue: 0,0:03:12.54,0:03:14.71,Main,,0,0,0,,Thế... rốt cuộc có ngon kh
 Dialogue: 0,0:03:15.09,0:03:16.75,Main,,0,0,0,,Tởm hết chỗ nói.
 Dialogue: 0,0:03:17.29,0:03:19.99,Main,,0,0,0,,Nó chỉ đắt tiền vì là đặc sản Ganymede thôi.
 Dialogue: 0,0:03:19.99,0:03:21.16,Main,,0,0,0,,Vậy thôi bỏ đi.
-Dialogue: 0,0:03:21.16,0:03:24.02,Main,,0,0,0,,Tôi sẽ món tôm hùm hầm miso.
+Dialogue: 0,0:03:21.16,0:03:24.02,Main,,0,0,0,,Tôi sẽ gọi món tôm hùm hầm miso.
 Dialogue: 0,0:03:25.28,0:03:26.72,Main,,0,0,0,,{\i1}Cảm ơn quý khách đã gọi món.
 Dialogue: 0,0:03:26.72,0:03:29.06,Main,,0,0,0,,Món đấy cũng có ngon đâu.
 Dialogue: 0,0:03:29.06,0:03:31.82,Main,,0,0,0,,À thì, tới đây rồi \Nthì gọi món nào sang sang chút.
 Dialogue: 0,0:03:31.82,0:03:35.15,Main,,0,0,0,,Ý là bởi sắp có tiền à?
-Dialogue: 0,0:03:45.69,0:03:48.71,Main,,0,0,0,,Không ngờ là thằng Gould lại là gián điệp.
+Dialogue: 0,0:03:45.69,0:03:48.71,Main,,0,0,0,,Không ngờ thằng Gould lại là gián điệp.
 Dialogue: 0,0:03:48.71,0:03:50.88,Main,,0,0,0,,Nhưng mẹ à, không phải lo gì đâu.
 Dialogue: 0,0:03:50.88,0:03:52.96,Main,,0,0,0,,Ta đã hạ tàu của hắn rồi.
 Dialogue: 0,0:03:54.03,0:03:57.63,Main,,0,0,0,,Không sao hết, \Ngiờ thì một lọ không thành vấn đề.
@@ -98,7 +98,7 @@ Dialogue: 0,0:04:48.97,0:04:51.31,Main,,0,0,0,,Bà già đó... không nhầm th
 Dialogue: 0,0:04:51.68,0:04:54.65,Main,,0,0,0,,Tôi không nhớ là có đặt gánh xiếc.
 Dialogue: 0,0:05:13.46,0:05:16.34,Main,,0,0,0,,Trông mặt bà ta quen quen...
 Dialogue: 0,0:05:27.53,0:05:30.48,Main,,0,0,0,,Chúng tôi, những Chiến Binh Vũ Trụ,
-Dialogue: 0,0:05:30.48,0:05:35.98,Main,,0,0,0,,ngày đêm để bảo vệ môi trường vũ trụ\N và các loài động vật quý hiếm.
+Dialogue: 0,0:05:30.48,0:05:35.98,Main,,0,0,0,,ngày đêm bảo vệ môi trường vũ trụ\N và các loài động vật quý hiếm.
 Dialogue: 0,0:05:41.95,0:05:45.82,Main,,0,0,0,,Nhớ ra rồi!\NBà già đó đáng giá 25 triệu đấy!
 Dialogue: 0,0:05:49.25,0:05:50.28,Main,,0,0,0,,Mẹ! Khẩn trương lên!
 Dialogue: 0,0:05:51.19,0:05:53.54,Main,,0,0,0,,Đến đây thôi, thưa quý bà!
@@ -110,7 +110,7 @@ Dialogue: 0,0:05:59.63,0:06:01.13,Main,,0,0,0,,Morgan thế nào rồi?
 Dialogue: 0,0:06:02.85,0:06:04.55,Main,,0,0,0,,Người như cái rổ rồi.
 Dialogue: 0,0:06:04.55,0:06:05.79,Main,,0,0,0,,Rồi xong luôn.
 Dialogue: 0,0:06:05.79,0:06:07.39,Main,,0,0,0,,Bọn này mất lúa rồi.
-Dialogue: 0,0:06:07.39,0:06:11.76,Main,,0,0,0,,Cơ mà, chả đáng là bao so với quý bà đây \Nđáng giá tới 25 triệu.
+Dialogue: 0,0:06:07.39,0:06:11.76,Main,,0,0,0,,Cơ mà, chả đáng là bao so với quý bà đây, \Nđáng giá tới 25 triệu ha.
 Dialogue: 0,0:06:12.56,0:06:13.35,Main,,0,0,0,,Chó này!
 Dialogue: 0,0:06:13.35,0:06:14.56,Main,,0,0,0,,Thả mẹ tao ra!
 Dialogue: 0,0:06:14.56,0:06:16.03,Main,,0,0,0,,Thôi bỏ đi.
@@ -163,7 +163,7 @@ Dialogue: 0,0:09:13.94,0:09:16.82,Main,,0,0,0,,bọn ta sẽ tiến hành kế h
 Dialogue: 0,0:09:16.82,0:09:20.20,Main,,0,0,0,,K-Khoan đã! Chúng tôi vẫn làm theo lời—
 Dialogue: 0,0:09:26.79,0:09:29.87,Main,,0,0,0,,Cái này có bỏ bụng được quái đâu.
 Dialogue: 0,0:09:35.80,0:09:36.99,Main,,0,0,0,,Uây uây!
-Dialogue: 0,0:09:36.99,0:09:40.09,Main,,0,0,0,,Vụ khủng bố mới xong\N thậm chí còn không được ghi nhận. 
+Dialogue: 0,0:09:36.99,0:09:40.09,Main,,0,0,0,,Vụ khủng bố mới xong\N thậm chí còn không được ghi nhận.
 Dialogue: 0,0:09:40.09,0:09:41.51,Main,,0,0,0,,Rốt cuộc là sao?
 Dialogue: 0,0:09:42.89,0:09:46.63,Main,,0,0,0,,Tôi chả bảo rồi thây,\N "không làm được gì đâu".
 Dialogue: 0,0:09:47.15,0:09:48.96,Main,,0,0,0,,Mau mau thả tôi ra đi.
@@ -185,7 +185,7 @@ Dialogue: 0,0:10:43.97,0:10:47.84,Main,,0,0,0,,Số tiền cô cuỗm từ bọn
 Dialogue: 0,0:10:48.43,0:10:51.29,Main,,0,0,0,,Người ta nói, \N"tiền là động cơ của thế giới" còn gì.
 Dialogue: 0,0:10:51.67,0:10:53.89,Main,,0,0,0,,Cũng có câu, "mặt dày như cái mo nang".
 Dialogue: 0,0:10:54.52,0:10:55.51,Main,,0,0,0,,Bên anh sao rồi?
-Dialogue: 0,0:10:55.51,0:10:59.20,Main,,0,0,0,,Ờ, đang liên lạc với một ông bạn cũ. 
+Dialogue: 0,0:10:55.51,0:10:59.20,Main,,0,0,0,,Ờ, đang liên lạc với một ông bạn cũ.
 Dialogue: 0,0:11:00.29,0:11:03.01,Main,,0,0,0,,Bà mịa! Toàn đồ vô dụng.
 Dialogue: 0,0:11:03.50,0:11:05.01,Main,,0,0,0,,Hở? Cái này?
 Dialogue: 0,0:11:09.53,0:11:12.30,Main,,0,0,0,,Chưa, chúng tôi vẫn chưa biết virus ở đâu...
@@ -217,13 +217,13 @@ Dialogue: 0,0:12:23.81,0:12:27.51,Main,,0,0,0,,Chúng đang tống tiền\N dư�
 Dialogue: 0,0:12:28.17,0:12:31.26,Main,,0,0,200,,Và con tin là \N8 triệu cư dân tại Ganymede.
 Dialogue: 0,0:12:31.26,0:12:32.60,Main,,0,0,200,,Tức là sao?
 Dialogue: 0,0:12:33.04,0:12:36.11,Main,,0,0,0,,Chúng đã bắt cóc \Nmột chuyên gia đầu ngành về virus học.
-Dialogue: 0,0:12:36.71,0:12:39.82,Main,,0,0,0,,ép ông ta tạo ra một loại virus theo ý chúng.
+Dialogue: 0,0:12:36.71,0:12:39.82,Main,,0,0,0,,Ép ông ta tạo ra một loại virus theo ý chúng.
 Dialogue: 0,0:12:40.34,0:12:43.07,Main,,0,0,0,Netflix's most line,Virus có tên là Trò Khỉ.
-Dialogue: 0,0:12:43.07,0:12:48.11,Main,,0,0,0,,Sự khác biệt giữa \Ngien ở người và khỉ chỉ là 2%,
+Dialogue: 0,0:12:43.07,0:12:48.11,Main,,0,0,0,,Sự khác biệt giữa \Ngen người và gen khỉ chỉ là 2%,
 Dialogue: 0,0:12:48.11,0:12:53.12,Main,,0,0,0,,và xem chừng,\N virus này chỉ tác động đến 2% đó thôi.
 Dialogue: 0,0:12:54.28,0:12:59.25,Main,,0,0,0,,Ngắn gọn là virus này\N chỉ tác động đến con người.
 Dialogue: 0,0:13:04.59,0:13:06.30,Main,,0,0,0,,Chịu thua chưa ông tướng?
-Dialogue: 0,0:13:09.41,0:13:13.82,Main,,0,0,0,,Bên này đã mất liên lạc với gián điệp của ISSP\N cài vào tổ chức chúng,
+Dialogue: 0,0:13:09.41,0:13:13.82,Main,,0,0,0,,Bên này đã mất liên lạc với \Ngián điệp do ISSP cài vào tổ chức của chúng,
 Dialogue: 0,0:13:13.82,0:13:15.60,Main,,0,0,0,,nên cũng chả làm được gì nữa.
 Dialogue: 0,0:13:15.60,0:13:18.98,Main,,0,0,0,,Vì thế mà các anh\N sẵn sàng thỏa hiệp với chúng à?
 Dialogue: 0,0:13:21.86,0:13:24.24,Main,,0,0,0,,Dù cho bên tôi đã tóm được thủ lĩnh.
@@ -236,15 +236,15 @@ Dialogue: 0,0:14:11.56,0:14:14.83,Main,,0,0,0,,Phải, sớm thôi...
 Dialogue: 0,0:14:23.44,0:14:25.14,Main,,0,0,0,,Bà ta đã được thả.
 Dialogue: 0,0:14:25.14,0:14:27.86,Main,,0,0,0,,Đội đặc nhiệm sẽ tiếp tục theo dấu.
 Dialogue: 0,0:14:27.86,0:14:29.23,Main,,0,0,0,,Chuẩn bị vệ tinh sao rồi?
-Dialogue: 0,0:14:29.23,0:14:30.88,Main,,0,0,0,,Sẵn sàng trong 1 tiếng nữa
+Dialogue: 0,0:14:29.23,0:14:30.88,Main,,0,0,0,,Sẵn sàng trong 1 tiếng nữa.
 Dialogue: 0,0:14:30.88,0:14:32.43,Main,,0,0,0,,Yêu cầu đội hóa học chờ lệnh.
 Dialogue: 0,0:14:33.00,0:14:35.84,Main,,0,0,0,,Án binh bất động \Ncho đến khi biết được virus ở đâu.
 Dialogue: 0,0:14:35.84,0:14:38.64,Main,,0,0,0,,Sếp! Có tin nhắn từ Twinkle.
-Dialogue: 0,0:14:40.54,0:14:43.04,Main,,0,0,0,,Lâu rồi không gặp, ngài bộ trưởng.
+Dialogue: 0,0:14:40.60,0:14:43.04,Main,,0,0,0,,Lâu rồi không gặp, ngài bộ trưởng.
 Dialogue: 0,0:14:43.04,0:14:45.53,Main,,0,0,0,,Về việc ông đã hứa…
 Dialogue: 0,0:14:45.53,0:14:48.64,Main,,0,0,0,,Đối với vấn đề chuột biển thì...
 Dialogue: 0,0:14:48.64,0:14:51.99,Main,,0,0,0,,chúng tôi đang nỗ lực duy trì số lượng\N bằng cách hạn chế đánh bắt...
-Dialogue: 0,0:14:52.43,0:14:54.86,Main,,0,0,0,,Bộ tôi chưa nói rõ là "cấm hoàn toàn" à?
+Dialogue: 0,0:14:52.58,0:14:54.86,Main,,0,0,0,,Bộ tôi chưa nói rõ là "cấm hoàn toàn" à?
 Dialogue: 0,0:14:55.49,0:15:00.12,Main,,0,0,0,,À, trước mắt vẫn phải tiếp cận từ từ, \Ncần có biện pháp thích hợp.
 Dialogue: 0,0:15:03.20,0:15:06.79,Main,,0,0,0,,Quả nhiên là phải trừng phạt \Nmới hiểu ra vấn đề.
 Dialogue: 0,0:15:06.79,0:15:08.97,Main,,0,0,0,,Ơ này! Từ từ đã!
@@ -291,7 +291,7 @@ Dialogue: 0,0:18:50.74,0:18:52.22,Main,,0,0,0,,Tách ra á? Đệch!
 Dialogue: 0,0:19:06.90,0:19:08.71,Main,,0,0,0,,Jet! Quả cuối nhờ anh đấy!
 Dialogue: 0,0:19:08.71,0:19:10.83,Main,,0,0,0,,Gì cơ? Chỗ tôi có vũ khí quái đâu!
 Dialogue: 0,0:19:11.57,0:19:15.02,Main,,0,0,0,,Nó sẽ trúng Ganymede\Ntrước khi tôi bắn được phát kế tiếp!
-Dialogue: 0,0:19:15.02,0:19:17.15,Main,,0,0,0,,Ui chà! Gặp rắc rối à? 
+Dialogue: 0,0:19:15.02,0:19:17.15,Main,,0,0,0,,Ui chà! Gặp rắc rối à?
 Dialogue: 0,0:19:18.00,0:19:20.18,Main,,0,0,0,,80% tiền thưởng, thấy sao?
 Dialogue: 0,0:19:20.18,0:19:21.20,Main,,0,0,0,,Cô đùa tôi à!
 Dialogue: 0,0:19:21.20,0:19:23.10,Main,,0,0,0,,Thế baibai~ Bảo trọng nhé!
@@ -310,7 +310,6 @@ Dialogue: 0,0:20:02.56,0:20:05.43,Main,,0,0,0,,Họ tính nhốt toàn bộ tên
 Dialogue: 0,0:20:05.43,0:20:07.25,Main,,0,0,0,,Này này! Đùa đấy à?!
 Dialogue: 0,0:20:07.25,0:20:08.43,Main,,0,0,0,,Spike!
 Dialogue: 0,0:20:10.81,0:20:12.60,Main,,0,0,0,,Nghe thấy rồi!
-Dialogue: 0,0:20:22.91,0:20:24.33,Signs,,0,0,0,,
 Dialogue: 0,0:20:30.04,0:20:31.04,Main,,0,0,0,,Spike!
 Dialogue: 0,0:20:56.43,0:20:57.86,Main,,0,0,0,,Sao lại?
 Dialogue: 0,0:21:01.95,0:21:04.25,Main,,0,0,0,,Cấp 3 chả dạy rồi còn gì?
@@ -640,6 +639,7 @@ Dialogue: 0,0:07:15.29,0:07:20.84,Signs,,0,0,0,,
 Dialogue: 0,0:09:55.78,0:10:00.83,Signs,,0,0,0,,
 Dialogue: 0,0:10:19.56,0:10:21.56,Signs,,0,0,0,,
 Dialogue: 0,0:15:47.68,0:15:52.14,Signs,,0,0,0,,
+Dialogue: 0,0:20:22.91,0:20:24.33,Signs,,0,0,0,,
 
 [Aegisub Extradata]
 Data: 0,a-mo,e{"originalText"#3A"{\\fsp5\\blur12\\bord0\\shad0\\pos(1012.8#2C1012.8)\\c&HC3F0F9&\\1a&H9A&\\fax-0.45\\fscx57\\fscy90}G#E1#BA#B6P SAU#2C CH#C3#80NG CAO B#E1#BB#92I KH#C3#94NG GIAN ..."#2C"uuid"#3A"3aef3c8e-31f8-499e-8795-d0086ec9a566"}
