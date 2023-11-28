@@ -16,9 +16,9 @@ Audio File: ../raws/[JySzE] Cowboy Bebop - 06 [v2][06C1CFA4].mkv
 Video File: ../raws/[JySzE] Cowboy Bebop - 06 [v2][06C1CFA4].mkv
 Video AR Value: 1.340741
 Video Zoom Percent: 0.500000
-Scroll Position: 248
-Active Line: 255
-Video Position: 32550
+Scroll Position: 268
+Active Line: 237
+Video Position: 34937
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -60,9 +60,9 @@ Comment: 0,0:01:31.03,0:01:31.07,Main,,0,0,0,,========= Dialogue =========
 Dialogue: 0,0:03:04.35,0:03:06.82,Main,,0,0,0,,Tay làm hàm nhai tay quai miệng trễ.
 Dialogue: 0,0:03:06.82,0:03:09.66,Main,,0,0,0,,Tự thân vận động kiếm ăn đi.
 Dialogue: 0,0:03:10.41,0:03:11.97,Main,,0,0,0,,Tao thì không cần.
-Dialogue: 0,0:03:11.97,0:03:14.53,GT,,0,0,0,,Phụ nữ chỉ cần thở thôi là vĩ đại rồi.
+Dialogue: 0,0:03:11.97,0:03:14.53,Main,,0,0,0,,Phụ nữ chỉ cần thở thôi là vĩ đại rồi.
 Dialogue: 0,0:03:24.55,0:03:27.10,Main,,0,0,0,,3 triệu à...
-Dialogue: 0,0:03:27.10,0:03:29.77,Main,,0,0,0,,Thoải mái, cứ để đám đàn ông đàn ang\N kiếm về là được.
+Dialogue: 0,0:03:27.10,0:03:29.77,Main,,0,0,0,,Mà, cứ để đám đàn ông đàn ang\N kiếm về là được.
 Dialogue: 0,0:03:32.90,0:03:36.65,Main,,0,0,0,,Chà~ Thổi blues-harp hay quá! Hay quá thể đáng!
 Dialogue: 0,0:03:36.96,0:03:39.11,Main,,0,0,0,,Tôi tưởng anh mê jazz?
 Dialogue: 0,0:03:39.36,0:03:40.92,Main,,0,0,0,,Vớ vẩn.
@@ -73,7 +73,8 @@ Dialogue: 0,0:03:52.28,0:03:53.29,Main,,0,0,0,,Là Hươu Cao Cổ.
 Dialogue: 0,0:03:53.29,0:03:56.02,Main,,0,0,0,,Được rồi, tôi bên phải.
 Dialogue: 0,0:03:56.02,0:03:57.36,Main,,0,0,0,,Anh bên trái.
 Dialogue: 0,0:03:57.90,0:03:59.40,Main,,0,0,0,,Cố một gã béo ngáng đường.
-Dialogue: 0,0:04:00.91,0:04:04.22,Main,,0,0,0,,Quỳ đấy! Là Béo.
+Dialogue: 0,0:04:00.91,0:04:02.28,Main,,0,0,0,,Quỳ đấy!
+Dialogue: 0,0:04:02.86,0:04:04.22,Main,,0,0,0,,Là Béo.
 Dialogue: 0,0:04:04.65,0:04:06.39,Main,,0,0,0,,Việc của anh đó.
 Dialogue: 0,0:04:08.56,0:04:09.97,Main,,0,0,0,,Ây~ Béo!
 Dialogue: 0,0:04:10.40,0:04:13.02,Main,,0,0,0,,River Béo! Lâu quá không gặp!
@@ -119,85 +120,91 @@ Dialogue: 0,0:08:17.95,0:08:20.08,Main,,0,0,0,,À… thì...
 Dialogue: 0,0:08:21.18,0:08:23.94,Main,,0,0,0,,Anh cũng săn Hươu Cao Cổ phải không?
 Dialogue: 0,0:08:24.30,0:08:26.04,Main,,0,0,0,,"Ngon nghẻ" chứ?
 Dialogue: 0,0:08:28.82,0:08:30.28,Main,,0,0,0,,Cứ ăn đi.
-Dialogue: 0,0:08:30.28,0:08:33.83,Main,,0,0,0,,Ngon~ Tiền thưởng dù sao cũng chả còn.
+Dialogue: 0,0:08:30.28,0:08:31.44,Main,,0,0,0,,Ngon~
+Dialogue: 0,0:08:31.76,0:08:33.83,Main,,0,0,0,,Tiền thưởng dù sao cũng chả còn.
 Dialogue: 0,0:08:33.83,0:08:36.27,Main,,0,0,0,,Phải! Chả kiếm được cái khỉ khô gì!
 Dialogue: 0,0:08:37.20,0:08:39.79,Main,,0,0,0,,Ấy ấy, một cắc cũng không.
-Dialogue: 0,0:08:39.79,0:08:43.09,Main,,0,0,0,,Thôi được, hôm nay anh nợ tôi một lần nhé.
-Dialogue: 0,0:08:43.09,0:08:47.13,Main,,0,0,0,,Thì đây, nhớ thằng nhóc thổi blues-harp\Nhôm trước chứ?
-Dialogue: 0,0:08:47.45,0:08:50.48,Main,,0,0,0,,Nó tên Ôn, \NHươu Cao Cổ đã truy đuổi bố nó.
+Dialogue: 0,0:08:39.79,0:08:43.09,Main,,0,0,0,,Thôi được, hôm nay coi như anh nợ tôi đấy.
+Dialogue: 0,0:08:43.09,0:08:47.13,Main,,0,0,0,,Nghe này, nhớ thằng nhóc thổi blues-harp\Nhôm trước chứ?
+Dialogue: 0,0:08:47.45,0:08:50.48,GT 2,,0,0,0,,{\pos(404,934.4)}(Wen)
+Dialogue: 0,0:08:47.45,0:08:50.48,Main,,0,0,0,,Nó tên Ôn, Hươu Cao Cổ đã truy đuổi bố nó.
 Dialogue: 0,0:08:50.48,0:08:52.05,Main,,0,0,0,,Đồng đội cũ, tên Ngựa Vằn.
 Dialogue: 0,0:08:52.05,0:08:53.49,Main,,0,0,0,,Đồng đội cũ?
 Dialogue: 0,0:08:53.49,0:08:55.02,Main,,0,0,0,,Không biết luôn à?
 Dialogue: 0,0:08:55.55,0:09:01.27,Main,,0,0,0,,Họ là thủ lĩnh của Đội Tự vệ Tình nguyện \Ncho đến 10 năm trước.
 Dialogue: 0,0:09:02.89,0:09:07.23,Main,,0,0,0,,Nhưng... sao lại truy đuổi đồng đội cũ?
 Dialogue: 0,0:09:09.19,0:09:16.20,Main,,0,0,0,,Mười năm trước, Ngựa Vằn và Hươu Cao Cổ\N đã cố giành đất của một cơ sở nào đó.
-Dialogue: 0,0:09:16.20,0:09:19.59,Main,,0,0,0,,Nhưng vài ngày sau, con Ngựa Vằn biến mất.
+Dialogue: 0,0:09:16.20,0:09:19.59,Main,,0,0,0,,Nhưng vài ngày sau, Ngựa Vằn biến mất.
 Dialogue: 0,0:09:19.59,0:09:21.36,Main,,0,0,0,,Còn Hươu Cao Cổ thì bị bịt mắt,
 Dialogue: 0,0:09:21.36,0:09:24.91,Main,,0,0,0,,bị đưa đến một nơi hẻo lánh\Nmà ông ta chưa từng đến.
-Dialogue: 0,0:09:27.71,0:09:31.94,Main,,0,0,0,,Hươu Cao Cổ có lẽ đã bị đồng đội phản bội\N trong cuộc đua giành lấy quyền lực.
+Dialogue: 0,0:09:27.71,0:09:31.94,Main,,0,0,0,,Hươu Cao Cổ có lẽ đã bị đồng đội phản bội\N trong cuộc chiến giành quyền lực.
 Dialogue: 0,0:09:32.65,0:09:33.86,Main,,0,0,0,,Nhưng mà...
 Dialogue: 0,0:09:34.29,0:09:36.88,Main,,0,0,0,,Ngựa Vằn vẫn còn sống.
 Dialogue: 0,0:09:47.08,0:09:51.32,Main,,0,0,0,,Cuối cùng, Hươu Cao Cổ cũng bị\N kẻ phản bội giết nhỉ?
-Dialogue: 0,0:09:51.32,0:09:56.18,Main,,0,0,0,,Phụ nữ dễ phản bội,\Ncòn đàn ông sống chết với nghĩa vụ.
+Dialogue: 0,0:09:51.32,0:09:56.18,Main,,0,0,0,,Phụ nữ thì dễ phản bội,\Ncòn đàn ông thì sống chết vì nghĩa vụ.
 Dialogue: 0,0:09:56.18,0:09:57.28,Main,,0,0,0,,Nghĩa vụ ha.
 Dialogue: 0,0:09:57.77,0:10:00.24,Main,,0,0,0,,Đó là điều tôi tin tưởng.
 Dialogue: 0,0:10:28.58,0:10:30.34,Main,,0,0,0,,Anh là ai?
 Dialogue: 0,0:10:32.27,0:10:34.11,Main,,0,0,0,,Một người đáng ngờ.
 Dialogue: 0,0:10:34.65,0:10:35.86,Main,,0,0,0,,Anh muốn gì?
 Dialogue: 0,0:10:36.24,0:10:38.14,Main,,0,0,0,,Hươu Cao Cổ có nhờ anh...
-Dialogue: 0,0:10:38.14,0:10:40.11,Main,,0,0,0,,cứu lấy nhóc.
-Dialogue: 0,0:10:43.93,0:10:46.49,Main,,0,0,0,,Nhưng Ngựa Vằn đã bắn Hươu Cao Cổ.
+Dialogue: 0,0:10:38.14,0:10:40.11,Main,,0,0,0,,tới cứu nhóc.
+Dialogue: 0,0:10:43.93,0:10:44.87,Main,,0,0,0,,Nhưng...
+Dialogue: 0,0:10:44.87,0:10:46.49,Main,,0,0,0,,Ngựa Vằn đã bắn Hươu Cao Cổ.
 Dialogue: 0,0:10:46.49,0:10:47.57,Main,,0,0,0,,Ờ.
 Dialogue: 0,0:10:49.22,0:10:53.09,Main,,0,0,0,,Vậy tại sao Hươu Cao Cổ\Nlại nhờ cứu thằng nhóc?
+Dialogue: 0,0:10:53.09,0:10:55.84,Signs,,0,0,0,,{\fscx48\fscy48\pos(506,804)}Thần đồng chơi blues-harp
 Dialogue: 0,0:10:54.21,0:10:55.84,Main,,0,0,0,,Thằng nhóc lên cả báo này.
 Dialogue: 0,0:10:56.26,0:10:58.12,Main,,0,0,0,,Vậy ra cũng nổi tiếng đấy nhề.
 Dialogue: 0,0:10:58.12,0:11:01.08,Main,,0,0,0,,Ờ, thiên tài cơ mà.
-Dialogue: 0,0:11:03.96,0:11:06.60,Main,,0,0,0,,Này, gã này chả phải Ngựa Vằn đúng sao!
+Dialogue: 0,0:11:03.96,0:11:06.60,Main,,0,0,0,,Này, gã này chả phải là Ngựa Vằn sao?
 Dialogue: 0,0:11:06.60,0:11:07.98,Main,,0,0,0,,Gì cơ?
 Dialogue: 0,0:11:07.98,0:11:10.07,Main,,0,0,0,,Kia kìa... xem ngày đi.
 Dialogue: 0,0:11:10.80,0:11:11.94,Main,,0,0,0,,Cái gì thế này?!
-Dialogue: 0,0:11:12.24,0:11:16.90,Main,,0,0,0,,Bài báo này là 30 năm trước \Nmà mặt mũi vẫn y xì đúc?
+Dialogue: 0,0:11:12.24,0:11:16.37,Main,,0,0,0,,Bài báo này là từ 30 năm trước \Nmà mặt mũi vẫn y xì đúc?
 Dialogue: 0,0:11:17.51,0:11:19.78,Main,,0,0,0,,Nào! Không việc gì phải lo.
 Dialogue: 0,0:11:20.59,0:11:21.86,Main,,0,0,0,,Lại đây nào.
-Dialogue: 0,0:11:24.53,0:11:26.40,Main,,0,0,0,,Trẻ con thì đừng xía vô.
-Dialogue: 0,0:11:28.24,0:11:32.71,Main,,0,0,0,,Còn xía vô thêm nữa là không xong đâu.
+Dialogue: 0,0:11:24.53,0:11:26.40,Main,,0,0,0,,Trẻ ranh thì đừng xía vô.
+Dialogue: 0,0:11:28.24,0:11:32.71,Main,,0,0,0,,Còn xía vô thêm nữa là không xong đâu đấy.
 Dialogue: 0,0:11:36.01,0:11:37.72,Main,,0,0,0,,Nhóc con nói ít thôi.
 Dialogue: 0,0:11:38.23,0:11:39.67,Main,,0,0,0,,Tao không phải nhóc con.
 Dialogue: 0,0:11:40.15,0:11:41.64,Main,,0,0,0,,Thằng nhóc nào chả nói thế.
 Dialogue: 0,0:11:43.31,0:11:45.02,Main,,0,0,0,,Trông tao thế này thôi,
-Dialogue: 0,0:11:45.02,0:11:50.44,Main,,0,0,0,,chứ tao đã sống từ cái hồi \Ncon người mới biết ăn lông ở lỗ trên Trái Đất.
+Dialogue: 0,0:11:45.02,0:11:50.54,Main,,0,0,0,,chứ tao đã sống từ cái hồi \Nmà con người còn cạp đất trên Trái Đất.
 Dialogue: 0,0:13:37.92,0:13:42.80,Main,,0,0,0,,Kể từ thời điểm \Ncổng không gian chuyển pha phát nổ,
 Dialogue: 0,0:13:42.80,0:13:46.13,Main,,0,0,0,,cơ thể tao đã ngừng lão hóa.
 Dialogue: 0,0:13:47.42,0:13:48.89,Main,,0,0,0,,Tao bất tử.
-Dialogue: 0,0:13:49.72,0:13:54.37,Main,,0,0,0,,Những kẻ có hứng thú nghiên cứu về ta\N đều đã chết trước ta hết rồi.
-Dialogue: 0,0:13:55.05,0:13:58.35,Main,,0,0,0,,Vào cái lúc gã này lẻn vào phòng thí nghiệm\N cũng là lúc hắn tới số.
-Dialogue: 0,0:13:58.35,0:14:03.07,Main,,0,0,0,,Tao cần phải có "gia đình" để mà che đậy.
+Dialogue: 0,0:13:49.72,0:13:54.37,Main,,0,0,0,,Những kẻ có hứng thú nghiên cứu về ta\N đều đã chết trước ta rồi.
+Dialogue: 0,0:13:55.05,0:13:58.35,Main,,0,0,320,,Vào cái lúc gã này lẻn vào phòng thí nghiệm\N cũng là lúc hắn tới số.
+Dialogue: 0,0:13:58.35,0:13:59.61,Main,,0,0,320,,Tao...
+Dialogue: 0,0:13:59.95,0:14:03.07,Main,,0,0,0,,cần phải có phụ huynh để mà che đậy.
 Dialogue: 0,0:14:04.14,0:14:08.36,Main,,0,0,0,,{\i1}Đừng... đừng để vẻ ngoài của nó đánh lừa.
-Dialogue: 0,0:14:09.68,0:14:10.99,Main,,0,0,0,,{\i1}cứu lấy... 
-Dialogue: 0,0:14:11.70,0:14:13.45,Main,,0,0,0,,{\i1}cậu ta... 
-Dialogue: 0,0:14:13.95,0:14:15.14,Main,,0,0,0,,{\i1}cậu ta...
+Dialogue: 0,0:14:09.89,0:14:10.99,Main,,0,0,0,,{\i1}cứu lấy...
+Dialogue: 0,0:14:11.89,0:14:13.45,Main,,0,0,0,,{\i1}cậu ta...
+Dialogue: 0,0:14:14.18,0:14:15.14,Main,,0,0,0,,{\i1}cậu ta...
 Dialogue: 0,0:14:18.92,0:14:21.63,Main,,0,0,0,,Gã này là kẻ thứ 3 thì phải.
-Dialogue: 0,0:14:22.60,0:14:24.50,Main,,0,0,0,,Mau đưa tao chiếc nhẫn.
-Dialogue: 0,0:14:24.50,0:14:26.88,Main,,0,0,0,,Nhẫn? Ý mày là sao?
-Dialogue: 0,0:14:29.00,0:14:30.38,Main,,0,0,0,,Không sao.
-Dialogue: 0,0:14:31.04,0:14:34.37,Main,,0,0,0,,Ngươi giữ nó cũng như lợn giữ ngọc trai thôi.
+Dialogue: 0,0:14:22.60,0:14:24.17,Main,,0,0,0,,Mau đưa tao chiếc nhẫn.
+Dialogue: 0,0:14:24.50,0:14:25.43,Main,,0,0,0,,Nhẫn?
+Dialogue: 0,0:14:25.87,0:14:26.88,Main,,0,0,0,,Ý mày là sao?
+Dialogue: 0,0:14:29.00,0:14:30.38,Main,,0,0,0,,Mà chả sao.
+Dialogue: 0,0:14:31.10,0:14:34.37,Main,,0,0,0,,Ngươi giữ nó cũng như lợn giữ ngọc trai thôi.
 Dialogue: 0,0:15:46.98,0:15:50.47,Main,,0,0,0,,Thôi xin đấy! Cái thằng đần này!
-Dialogue: 0,0:15:50.87,0:15:53.84,Main,,0,0,0,,Cậu may lắm mới thoát được \Nmà không bị gì nặng,
-Dialogue: 0,0:15:53.84,0:15:56.47,Main,,0,0,0,,chứ nói thật không có tiền ma chay đâu.
+Dialogue: 0,0:15:50.87,0:15:53.89,Main,,0,0,0,,Anh may lắm mới thoát được \Nmà chỉ bị nhiêu đây thôi đấy,
+Dialogue: 0,0:15:53.89,0:15:56.47,Main,,0,0,0,,chứ nói thật cóc có tiền ma chay đâu.
 Dialogue: 0,0:15:57.29,0:15:58.10,Main,,0,0,0,,Xin lỗi.
 Dialogue: 0,0:16:03.68,0:16:04.98,Main,,0,0,0,,Yên nào, Ein!
 Dialogue: 0,0:16:05.26,0:16:06.68,Main,,0,0,0,,Yên lặng coi.
 Dialogue: 0,0:16:11.11,0:16:11.95,Main,,0,0,0,,Ơ?
-Dialogue: 0,0:16:20.50,0:16:23.32,Main,,0,0,0,,Jet, bắt sóng não alpha.
+Dialogue: 0,0:16:20.50,0:16:23.32,Main,,0,0,0,,Jet, dùng alpha-catch.
 Dialogue: 0,0:16:30.46,0:16:33.40,Main,,0,0,0,,Bà mịa! Cái đống sắt vụn này.
 Dialogue: 0,0:16:34.46,0:16:35.43,Main,,0,0,0,,Được rồi.
 Dialogue: 0,0:16:35.78,0:16:38.39,Main,,0,0,0,,Xem nào... xem ta thấy gì nào?
 Dialogue: 0,0:16:42.38,0:16:43.39,Main,,0,0,0,,Là khách sạn.
 Dialogue: 0,0:16:43.90,0:16:47.11,Main,,0,0,0,,Ông ấy nhớ lại\Nkhoảnh khắc Hươu Cao Cổ chết.
 Dialogue: 0,0:16:47.58,0:16:48.88,Main,,0,0,0,,{\i1}Trả người đi!
-Dialogue: 0,0:16:48.88,0:16:50.19,Main,,0,0,0,,{\i1}Ngựa Vằn! 
-Dialogue: 0,0:16:50.19,0:16:51.62,Main,,0,0,0,,{\i1}Lại đây nào!
-Dialogue: 0,0:16:51.62,0:16:52.32,Main,,0,0,0,,Cái đệch!
+Dialogue: 0,0:16:48.88,0:16:50.19,Main,,0,0,0,,{\i1}Ngựa Vằn!
+Dialogue: 0,0:16:50.19,0:16:51.24,Main,,0,0,0,,{\i1}Lại đây nào!
+Dialogue: 0,0:16:51.68,0:16:52.32,Main,,0,0,0,,Cái đệch!
 Dialogue: 0,0:16:52.87,0:16:54.59,Main,,0,0,0,,Rồi sao nữa?
 Dialogue: 0,0:16:54.59,0:16:56.28,Main,,0,0,0,,Hươu Cao Cổ đã nói gì?
 Dialogue: 0,0:16:59.22,0:17:02.67,Main,,0,0,0,,{\i1}Tao đã có thứ này. \NVới nó tao có thể xử mày!
@@ -206,50 +213,49 @@ Dialogue: 0,0:17:07.94,0:17:09.75,Main,,0,0,0,,{\i1}Trả Ngựa Vằn lại cho
 Dialogue: 0,0:17:11.02,0:17:11.97,Main,,0,0,0,,{\i1}Ngựa Vằn!
 Dialogue: 0,0:17:40.26,0:17:41.94,Main,,0,0,0,,Khi cánh cổng nổ tung,
 Dialogue: 0,0:17:41.94,0:17:43.54,Main,,0,0,0,,do không gian chuyển pha bị bẻ cong,
-Dialogue: 0,0:17:43.54,0:17:46.59,Main,,0,0,0,,sinh ra một chiều không gian số ảo,
-Dialogue: 0,0:17:46.59,0:17:51.62,Main,,0,0,0,,từ đó tích tụ một khối năng lượng khổng lồ\N bên trong viên đá của chiếc nhẫn. 
+Dialogue: 0,0:17:43.54,0:17:46.59,Main,,0,0,0,,sinh ra một chiều không gian ảo,
+Dialogue: 0,0:17:46.59,0:17:51.62,Main,,0,0,0,,từ đó tích tụ một khối năng lượng khổng lồ\N bên trong viên đá ở chiếc nhẫn.
 Dialogue: 0,0:17:52.92,0:17:57.68,Main,,0,0,0,,Và chính khối năng lượng đó \N là thứ đã phá vỡ nhịp sinh học của Ôn.
-Dialogue: 0,0:17:58.33,0:18:01.34,Main,,0,0,0,,Tuyến tùng của hắn\Nliên tục sản sinh ra một hoạt chất...
+Dialogue: 0,0:17:58.33,0:18:01.34,Main,,0,0,0,,Tuyến tùng của Ôn\Nliên tục sản sinh ra một hoạt chất...
 Dialogue: 0,0:18:01.34,0:18:04.42,Main,,0,0,0,,tương tự melatonin,\Ncó tác dụng ức chế lão hóa.
 Dialogue: 0,0:18:04.98,0:18:08.73,Main,,0,0,0,,Đấy! Nói chung \Ngiả thuyết đại khái là thế, nhưng...
 Dialogue: 0,0:18:09.22,0:18:10.23,Main,,0,0,0,,Hiểu được không?
 Dialogue: 0,0:18:10.52,0:18:11.73,Main,,0,0,0,,Điên mà hiểu.
 Dialogue: 0,0:18:12.58,0:18:13.88,Main,,0,0,0,,Tôi cũng thế.
 Dialogue: 0,0:18:13.88,0:18:17.56,Main,,0,0,0,,Tóm lại, tất cả những cần làm \Nlà bắn viên đá đó vào Ôn,
-Dialogue: 0,0:18:17.56,0:18:20.16,Main,,0,0,0,,có như vậy mới biết được.
-Dialogue: 0,0:18:24.28,0:18:26.38,Main,,0,0,0,,Tôi không biết là sẽ xảy ra chuyện gì đâu.
-Dialogue: 0,0:18:26.38,0:18:28.75,Main,,0,0,0,,Hoàn toàn có thể phát nổ \Nngay khi cậu bắn.
+Dialogue: 0,0:18:17.56,0:18:20.16,Main,,0,0,0,,chỉ có như vậy mới biết được.
+Dialogue: 0,0:18:24.28,0:18:26.38,Main,,0,0,0,,Tôi không biết sẽ có chuyện gì đâu đấy.
+Dialogue: 0,0:18:26.38,0:18:28.75,Main,,0,0,0,,Hoàn toàn có thể phát nổ \Nngay khi anh bắn.
 Dialogue: 0,0:18:29.57,0:18:31.25,Main,,0,0,0,,Thế nó mới hứng.
 Dialogue: 0,0:18:40.79,0:18:41.64,Main,,0,0,0,,Gì thế?
 Dialogue: 0,0:18:42.09,0:18:46.22,Main,,0,0,0,,Đây có thể là lần cuối tôi gặp anh,\Nnên tôi nghĩ mình cũng nên ra tiễn.
-Dialogue: 0,0:18:46.76,0:18:49.02,Main,,0,0,0,,Ồ~ Thế là cô chịu cuốn xéo rồi à.
-Dialogue: 0,0:18:49.02,0:18:50.85,Main,,0,0,0,,Anh chắc không còn mạng mà về đâu.
+Dialogue: 0,0:18:46.76,0:18:49.02,Main,,0,0,0,,Ồ~ Thế là cô chịu cuốn xéo rồi à?
+Dialogue: 0,0:18:49.02,0:18:50.85,Main,,0,0,0,,Có mà anh không còn mạng để về ấy!
 Dialogue: 0,0:19:00.26,0:19:01.62,Main,,0,0,0,,Tôi không thích thế này.
 Dialogue: 0,0:19:02.45,0:19:03.62,Main,,0,0,0,,Không hề thích.
 Dialogue: 0,0:19:12.99,0:19:15.38,Main,,0,0,0,,Đàn ông đúng là ngốc mà.
 Dialogue: 0,0:21:37.99,0:21:39.46,Main,,0,0,0,,Ra là thế...
 Dialogue: 0,0:21:39.98,0:21:42.40,Main,,0,0,0,,Cuối cùng tao cũng chết được rồi.
-Dialogue: 0,0:21:44.58,0:21:46.40,Main,,0,0,0,,Cảm giác người nặng thật đấy.
-Dialogue: 0,0:21:48.48,0:21:51.91,Main,,0,0,0,,Nhưng mà… thanh thản thật.
+Dialogue: 0,0:21:44.58,0:21:46.40,Main,,0,0,0,,Cảm giác người nặng thật.
+Dialogue: 0,0:21:48.48,0:21:51.91,Main,,0,0,0,,Nhưng mà… lòng thì lại nhẹ.
 Dialogue: 0,0:21:53.13,0:21:54.37,Main,,0,0,0,,Có hiểu không?
 Dialogue: 0,0:21:56.98,0:22:00.90,Main,,0,0,0,,Mày... có hiểu được không?
 Dialogue: 0,0:22:16.57,0:22:17.71,Main,,0,0,0,,Điên mà hiểu.
-Dialogue: 0,0:24:19.39,0:24:20.82,Main,,0,0,0,,Từng nghe heavy metal chưa?
-Dialogue: 0,0:24:20.82,0:24:22.48,Main,,0,0,0,,Cái gì cơ? Chả nghe thấy gì!
-Dialogue: 0,0:24:22.48,0:24:24.52,Main,,0,0,0,,Heavy metal đó! Tôi nói heavy metal! 
-Dialogue: 0,0:24:24.52,0:24:25.66,Main,,0,0,0,,Cái gì cơ?!
-Dialogue: 0,0:24:25.66,0:24:28.14,Main,,0,0,0,,Ây! Xử lý tiếng ồn đó đi chứ!
-Dialogue: 0,0:24:28.14,0:24:30.31,Main,,0,0,0,,Quả nhạc này phát suốt cả tập tiếp theo đấy!
-Dialogue: 0,0:24:30.31,0:24:32.10,Main,,0,0,0,,Thế chắc tôi tính bài chuồn thôi.
-Dialogue: 0,0:24:32.10,0:24:33.66,Main,,0,0,0,,Chả nghe thấy gì hết!
-Dialogue: 0,0:24:33.66,0:24:36.16,Main,,0,0,0,,Kỳ tới, Nữ Hoàng Heavy Metal~
-Dialogue: 0,0:24:36.16,0:24:38.37,Main,,0,0,0,,Có chắc là họ nghe thấy không thế?
-Comment: 0,0:24:38.37,0:24:41.37,Main,,0,0,0,,
+Dialogue: 0,0:24:19.39,0:24:20.82,Main,preview,0,0,0,,Từng nghe heavy metal chưa?
+Dialogue: 0,0:24:20.82,0:24:22.48,Main,preview,0,0,0,,Cái gì cơ? Chả nghe thấy gì!
+Dialogue: 0,0:24:22.48,0:24:24.52,Main,preview,0,0,0,,Heavy metal đó! Tôi nói heavy metal!
+Dialogue: 0,0:24:24.52,0:24:25.66,Main,preview,0,0,0,,Cái gì cơ?!
+Dialogue: 0,0:24:25.66,0:24:28.14,Main,preview,0,0,0,,Ây! Xử lý tiếng ồn đó đi chứ!
+Dialogue: 0,0:24:28.14,0:24:30.31,Main,preview,0,0,0,,Quả nhạc này \Nsẽ phát suốt cả tập tiếp theo đấy!
+Dialogue: 0,0:24:30.31,0:24:32.10,Main,preview,0,0,0,,Ặc? Thế chắc tôi tính bài chuồn thôi.
+Dialogue: 0,0:24:32.10,0:24:33.66,Main,preview,0,0,0,,Chả nghe thấy gì hết!
+Dialogue: 0,0:24:33.66,0:24:36.16,Main,preview,0,0,0,,Kỳ tới, Nữ Hoàng Heavy Metal~
+Dialogue: 0,0:24:36.16,0:24:38.40,Main,preview,0,0,0,,Có chắc là họ nghe thấy không thế?
 Comment: 0,0:24:41.37,0:24:44.37,Main,,0,0,0,,
-Dialogue: 0,0:03:30.19,0:03:31.69,Signs,,0,0,0,,{\an8\fscx66\fscy66}TRUY NÃ\NBÍ DANH: HƯƠU CAO CỔ
-Dialogue: 0,0:03:49.58,0:03:50.54,Signs,,0,0,0,,{\an8\fscx66\fscy66}TRUY NÃ\NBÍ DANH: HƯƠU CAO CỔ
-Dialogue: 0,0:11:56.45,0:12:01.08,Signs,,0,0,0,,CẢM THÔNG CHO QUỶ DỮ
-Dialogue: 0,0:12:02.08,0:12:06.08,Signs,,0,0,0,,CẢM THÔNG CHO QUỶ DỮ
+Dialogue: 0,0:03:30.19,0:03:31.69,Signs,,0,0,0,,{\an8\fscx66\fscy66}TRUY NÃ\NBÍ DANH: Hươu Cao Cổ
+Dialogue: 0,0:03:49.58,0:03:50.54,Signs,,0,0,0,,{\an8\fscx66\fscy66}TRUY NÃ\NBÍ DANH: Hươu Cao Cổ
+Dialogue: 0,0:11:56.45,0:12:01.08,Signs,,0,0,0,,{\pos(526,828)\fscx78\fscy78}CẢM THÔNG CHO QUỶ DỮ
+Dialogue: 0,0:12:02.08,0:12:06.08,Signs,,0,0,0,,{\pos(526,828)\fscx78\fscy78}CẢM THÔNG CHO QUỶ DỮ
 Dialogue: 0,0:02:37.64,0:02:43.60,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H466446&\3c&H466446&\b0\pos(316.2,410.07)\fscx110\fscy117}CẢM THÔNG CHO QUỶ DỮ
 Dialogue: 1,0:02:37.64,0:02:43.60,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(316.2,410.07)\fscx110\fscy117}CẢM THÔNG CHO QUỶ DỮ
 Dialogue: 0,0:02:37.64,0:02:43.60,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H466446&\3c&H466446&\b0\alpha&H50&\3a&H00&\1a&H00&\pos(317.2,410.07)\fscx110\fscy117}CẢM THÔNG CHO QUỶ DỮ
@@ -258,10 +264,10 @@ Dialogue: 0,0:02:37.64,0:02:43.60,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0.7\s
 Dialogue: 1,0:02:37.64,0:02:43.60,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(1382.21,74.67)\fscx59\fscy59}Phụ đề được thực hiện bởi GSGA
 Dialogue: 0,0:02:37.64,0:02:43.60,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0.7\shad0\c&H466446&\3c&H466446&\b0\pos(1382.21,124.67)\fscx59\fscy59}Dịch: KiOZ | TS: KiOZ | QC: mochi
 Dialogue: 1,0:02:37.64,0:02:43.60,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(1382.21,124.67)\fscx59\fscy59}Dịch: KiOZ | TS: KiOZ | QC: mochi
-Dialogue: 0,0:24:36.16,0:24:39.21,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H3A7272&\3c&H3A7272&\b0\pos(206.2,420.07)\fscx109\fscy116}NỮ HOÀNG HEAVY METAL
-Dialogue: 1,0:24:36.16,0:24:39.21,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(206.2,420.07)\fscx109\fscy116}NỮ HOÀNG HEAVY METAL
-Dialogue: 0,0:24:36.16,0:24:39.21,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H3A7272&\3c&H3A7272&\b0\alpha&H50&\3a&H00&\1a&H00&\pos(207.2,420.07)\fscx109\fscy116}NỮ HOÀNG HEAVY METAL
-Dialogue: 1,0:24:36.16,0:24:39.21,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\alpha&H50&\pos(207.2,420.07)\fscx109\fscy116}NỮ HOÀNG HEAVY METAL
+Dialogue: 0,0:24:36.16,0:24:39.21,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H3A7272&\3c&H3A7272&\b0\pos(318.2,420.07)\fscx109\fscy116}NỮ HOÀNG HEAVY METAL
+Dialogue: 1,0:24:36.16,0:24:39.21,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(318.2,420.07)\fscx109\fscy116}NỮ HOÀNG HEAVY METAL
+Dialogue: 0,0:24:36.16,0:24:39.21,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H3A7272&\3c&H3A7272&\b0\alpha&H50&\3a&H00&\1a&H00&\pos(319.2,420.07)\fscx109\fscy116}NỮ HOÀNG HEAVY METAL
+Dialogue: 1,0:24:36.16,0:24:39.21,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\alpha&H50&\pos(319.2,420.07)\fscx109\fscy116}NỮ HOÀNG HEAVY METAL
 Dialogue: 0,0:24:36.16,0:24:39.21,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0.7\shad0\c&H3A7272&\3c&H3A7272&\b0\pos(1382.21,74.67)\fscx59\fscy59}Phụ đề được thực hiện bởi GSGA
 Dialogue: 1,0:24:36.16,0:24:39.21,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(1382.21,74.67)\fscx59\fscy59}Phụ đề được thực hiện bởi GSGA
 Dialogue: 0,0:24:36.16,0:24:39.21,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0.7\shad0\c&H3A7272&\3c&H3A7272&\b0\pos(1382.21,124.67)\fscx59\fscy59}Dịch: KiOZ | TS: KiOZ | QC: mochi
