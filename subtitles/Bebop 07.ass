@@ -17,9 +17,9 @@ Video File: F:/[JySzE] Cowboy Bebop - 07 [v3].mkv
 Video AR Mode: 4
 Video AR Value: 1.340741
 Video Zoom Percent: 0.500000
-Scroll Position: 15
-Active Line: 20
-Video Position: 34434
+Scroll Position: 303
+Active Line: 311
+Video Position: 35406
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -192,7 +192,7 @@ Dialogue: 0,0:10:32.25,0:10:34.75,Main,,0,0,0,,{No, Spike!}Không, Spike!
 Dialogue: 0,0:10:38.15,0:10:40.07,Main,,0,0,0,,{Oh, my.}Ôi trời.
 Dialogue: 0,0:10:41.47,0:10:45.54,Main,,0,0,0,,{Oh, this, those whachamacallit brothers\Ndid this before they took off.}Ừ, là mấy gã đó làm trước khi bỏ đi đó.
 Dialogue: 0,0:10:46.02,0:10:47.45,Main,,0,0,0,,{And you were watching?}Cô đã thấy à?
-Dialogue: 0,0:10:47.45,0:10:48.17,Main,,0,0,0,,{Uh-huh.}
+Dialogue: 0,0:10:47.45,0:10:48.17,Main,,0,0,0,,{Uh-huh.}Ừm.
 Dialogue: 0,0:10:50.27,0:10:52.21,Main,,0,0,0,,{Why didn't you tell me?}Sao không cho tôi biết?
 Dialogue: 0,0:10:52.62,0:10:55.17,Main,,0,0,0,,{What? I just told you right now!}Gì cơ? Tôi vừa mới nói đó thôi.
 Dialogue: 0,0:11:02.35,0:11:03.30,Main,,0,0,0,,{What?}Gì cơ?
@@ -224,7 +224,7 @@ Dialogue: 0,0:12:54.14,0:12:55.39,Main,,0,0,0,,{Yeah?}{\i1}A lô?{\i0}
 Dialogue: 0,0:12:55.39,0:12:56.76,Main,,0,0,0,,{\i1}{That you, VT?}{\i0}{\i1}Là chị à VT?{\i0}
 Dialogue: 0,0:12:56.76,0:12:58.59,Main,,0,0,0,,{Oh, Otto. What's up?}{\i1}Ôi, Otto. Sao thế?{\i0}
 Dialogue: 0,0:12:58.59,0:13:00.89,Main,,0,0,0,,{\i1}{I got into a hit-and-run.}{\i0}{\i1}Có kẻ tông trúng tôi rồi bỏ chạy.{\i0}
-Comment: 0,0:13:00.89,0:13:01.81,Main,,0,0,0,,Gì cơ?
+Dialogue: 0,0:13:00.89,0:13:01.81,Main,,0,0,0,,Gì cơ?
 Dialogue: 0,0:13:01.81,0:13:05.18,Main,,0,0,0,,{\i1}{The guy cut in line at the gate entrance,\Nrammed me, and took off!}{\i0}{\i1}Có một gã chen hàng ở cổng vào,{\i0}\N{\i1}tông trúng tôi rồi bỏ chạy!{\i0}
 Dialogue: 0,0:13:05.80,0:13:09.10,Main,,0,0,0,,{\i1}{Shit, I gotta make him pay for repairs!}{\i0}{\i1}Chết tiệt,{\i0}\N{\i1}tôi phải bắt hắn trả tiền sửa tàu.{\i0}
 Dialogue: 0,0:13:09.10,0:13:10.89,Main,,0,0,0,,{\i1}{Tell me if you see him!}{\i0}{\i1}Thấy hắn thì báo tôi.{\i0}
