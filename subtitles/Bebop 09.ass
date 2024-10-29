@@ -18,8 +18,8 @@ Video File: E:/[JySzE] Cowboy Bebop - 09 [v3].mkv
 Video AR Mode: 4
 Video AR Value: 1.340741
 Video Zoom Percent: 0.500000
-Scroll Position: 10
-Active Line: 22
+Scroll Position: 326
+Active Line: 328
 Video Position: 2211
 
 [V4+ Styles]
@@ -369,11 +369,11 @@ Dialogue: 0,0:22:16.52,0:22:19.20,Main,,0,0,0,,{Hey, wait, you're a girl?}{\i1}G
 Dialogue: 0,0:22:19.79,0:22:23.71,Main,,0,0,0,,{Really, nothing good comes outta Earth!}{\i1}Đúng là ở Trái Đất không có gì tốt đẹp cả.{\i0}
 Comment: 1,0:22:24.76,0:22:27.26,Main,from_ocr,0,0,0,,{\an8}HẸN GẶP LẠI, CAO BỒI VŨ TRỤ...
 Comment: 1,0:24:03.61,0:24:04.61,Main,from_ocr,0,0,0,,TẬP TIẾP THEO
-Dialogue: 0,0:24:05.68,0:24:09.01,Main,,0,0,0,,{No regrets about the woman who ran away,}{\i1}Không hối tiếc{\i0}\N{\i1}về người phụ nữ đã bỏ ta đi,{\i0}
-Dialogue: 0,0:24:09.01,0:24:12.18,Main,,0,0,0,,{but a small thorn still pricks the heart.}{\i1}nhưng tâm can vẫn đau ứa máu.{\i0}
-Dialogue: 0,0:24:12.18,0:24:14.73,Main,,0,0,0,,{Letting one flow along with time itself,}{\i1}Xuôi tay trước cát bụi thời gian,{\i0}
-Dialogue: 0,0:24:14.73,0:24:17.55,Main,,0,0,0,,{living all alone from that day to this.}{\i1}sống đơn độc cho đến hôm nay, dù vậy...{\i0}
-Dialogue: 0,0:24:17.55,0:24:19.97,Main,,0,0,0,,{But to the sounds of waves that come and go,}{\i1}Tâm khảm của loài chim di cư{\i0}\N{\i1}luôn bị mê hoặc bởi âm thanh{\i0}
-Dialogue: 0,0:24:19.97,0:24:22.48,Main,,0,0,0,,{the migrating birds find their hearts drawn.}{\i1}của những đợt thủy triều{\i0}\N{\i1}liên hồi đổi thay.{\i0}
-Dialogue: 0,0:24:23.57,0:24:26.13,Main,,0,0,0,,{Next episode: Ganymede Elegy.}{\i1}Tập tiếp theo: {\i0}Khúc Bi Ca Ganymede.
-Dialogue: 0,0:24:26.13,0:24:30.90,Main,,0,0,0,,{Jet Black will sing it up full of soul.}{\i1}Khúc bi ca được Jet Black{\i0}\N{\i1}hát bằng cả tâm hồn.{\i0}
+Dialogue: 0,0:24:05.68,0:24:09.01,Main,preview,0,0,0,,{No regrets about the woman who ran away,}{\i1}Không hối tiếc{\i0}\N{\i1}về người phụ nữ đã bỏ ta đi,{\i0}
+Dialogue: 0,0:24:09.01,0:24:12.18,Main,preview,0,0,0,,{but a small thorn still pricks the heart.}{\i1}nhưng tâm can vẫn đau ứa máu.{\i0}
+Dialogue: 0,0:24:12.18,0:24:14.73,Main,preview,0,0,0,,{Letting one flow along with time itself,}{\i1}Xuôi tay trước cát bụi thời gian,{\i0}
+Dialogue: 0,0:24:14.73,0:24:17.55,Main,preview,0,0,0,,{living all alone from that day to this.}{\i1}sống đơn độc cho đến hôm nay, dù vậy...{\i0}
+Dialogue: 0,0:24:17.55,0:24:19.97,Main,preview,0,0,0,,{But to the sounds of waves that come and go,}{\i1}Tâm khảm của loài chim di cư{\i0}\N{\i1}luôn bị mê hoặc bởi âm thanh{\i0}
+Dialogue: 0,0:24:19.97,0:24:22.48,Main,preview,0,0,0,,{the migrating birds find their hearts drawn.}{\i1}của những đợt thủy triều{\i0}\N{\i1}liên hồi đổi thay.{\i0}
+Dialogue: 0,0:24:23.57,0:24:26.13,Main,preview,0,0,0,,{Next episode: Ganymede Elegy.}{\i1}Tập tiếp theo: {\i0}Khúc Bi Ca Ganymede.
+Dialogue: 0,0:24:26.13,0:24:30.90,Main,preview,0,0,0,,{Jet Black will sing it up full of soul.}{\i1}Khúc bi ca được Jet Black{\i0}\N{\i1}hát bằng cả tâm hồn.{\i0}

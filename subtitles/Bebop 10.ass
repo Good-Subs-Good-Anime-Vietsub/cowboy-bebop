@@ -18,8 +18,8 @@ Video File: F:/[JySzE] Cowboy Bebop - 10 [v3].mkv
 Video AR Mode: 4
 Video AR Value: 1.340741
 Video Zoom Percent: 0.500000
-Scroll Position: 10
-Active Line: 22
+Scroll Position: 211
+Active Line: 217
 Video Position: 2519
 
 [V4+ Styles]
@@ -260,9 +260,9 @@ Dialogue: 0,0:21:59.96,0:22:02.92,Main,,0,0,0,,{I will wait in my store... for R
 Dialogue: 0,0:22:04.12,0:22:05.88,Main,,0,0,0,,{It won't take long}Sẽ không lâu đâu...
 Dialogue: 0,0:22:06.76,0:22:09.22,Main,,0,0,0,,{because time is flowing along.}vì thời gian không còn đứng yên nữa.
 Comment: 1,0:22:31.60,0:22:34.06,Main,from_ocr,0,0,0,,{\an8}HẸN GẶP LẠI, CAO BỒI VŨ TRỤ...
-Dialogue: 0,0:24:10.51,0:24:14.09,Main,,0,0,0,,{An unseen terror assaults the Bebop crew.}{\i1}Một hiểm họa bất ngờ{\i0}\N{\i1}tấn công phi hành đoàn Bebop.{\i0}
-Dialogue: 0,0:24:14.90,0:24:18.68,Main,,0,0,0,,{Caught by the venomous fangs of the\Nunseen enemy, another victim falls.}{\i1}Những chiếc nanh độc vô hình{\i0}\N{\i1}tấn công một nạn nhân khác.{\i0}
-Dialogue: 0,0:24:19.83,0:24:24.35,Main,,0,0,0,,{What is the identity of the fearsome\Nenemy that refuses to show itself?}{\i1}Là kẻ thù đáng sợ nào{\i0}\N{\i1}không xuất đầu lộ diện?{\i0}
-Dialogue: 0,0:24:25.68,0:24:30.29,Main,,0,0,0,,{A symphony of shivers that will send\Nyou into the deepest trenches of terror! [9 frames but made it 10]}{\i1}Một bản giao hưởng rùng mình nhấn bạn{\i0}\N{\i1}chìm trong nỗi sợ hãi sâu thẳm nhất.{\i0}
-Dialogue: 0,0:24:30.29,0:24:33.98,Main,,0,0,0,,{Next episode: Toys in the Attic.}{\i1}Tập tiếp theo: {\i0}Phi Hành Đoàn Gàn Dở.
-Dialogue: 0,0:24:33.98,0:24:38.61,Main,,0,0,0,,{Once the channel is set,\Nyou will no longer be able to escape...}{\i1}Một khi bạn mở kênh này,{\i0}\N{\i1}sẽ không còn đường thoát.{\i0}
+Dialogue: 0,0:24:10.51,0:24:14.09,Main,preview,0,0,0,,{An unseen terror assaults the Bebop crew.}{\i1}Một hiểm họa bất ngờ{\i0}\N{\i1}tấn công phi hành đoàn Bebop.{\i0}
+Dialogue: 0,0:24:14.90,0:24:18.68,Main,preview,0,0,0,,{Caught by the venomous fangs of the\Nunseen enemy, another victim falls.}{\i1}Những chiếc nanh độc vô hình{\i0}\N{\i1}tấn công một nạn nhân khác.{\i0}
+Dialogue: 0,0:24:19.83,0:24:24.35,Main,preview,0,0,0,,{What is the identity of the fearsome\Nenemy that refuses to show itself?}{\i1}Là kẻ thù đáng sợ nào{\i0}\N{\i1}không xuất đầu lộ diện?{\i0}
+Dialogue: 0,0:24:25.68,0:24:30.29,Main,preview,0,0,0,,{A symphony of shivers that will send\Nyou into the deepest trenches of terror! [9 frames but made it 10]}{\i1}Một bản giao hưởng rùng mình nhấn bạn{\i0}\N{\i1}chìm trong nỗi sợ hãi sâu thẳm nhất.{\i0}
+Dialogue: 0,0:24:30.29,0:24:33.98,Main,preview,0,0,0,,{Next episode: Toys in the Attic.}{\i1}Tập tiếp theo: {\i0}Phi Hành Đoàn Gàn Dở.
+Dialogue: 0,0:24:33.98,0:24:38.61,Main,preview,0,0,0,,{Once the channel is set,\Nyou will no longer be able to escape...}{\i1}Một khi bạn mở kênh này,{\i0}\N{\i1}sẽ không còn đường thoát.{\i0}
