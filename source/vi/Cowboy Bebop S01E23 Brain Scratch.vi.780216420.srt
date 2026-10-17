@@ -1,0 +1,1293 @@
+1
+00:01:44,104 --> 00:01:45,480
+<i>Cơ thể con người là gì?</i>
+
+2
+00:01:46,689 --> 00:01:49,984
+<i>Cơ thể đơn thuần chỉ là một vật thể.</i>
+
+3
+00:01:50,068 --> 00:01:54,114
+<i>Đối với Thượng Đế, hay ta còn gọi là</i>
+<i>linh hồn trong mỗi chúng ta,</i>
+
+4
+00:01:54,781 --> 00:01:57,575
+<i>cơ thể là một thực thể không trong sạch.</i>
+
+5
+00:01:58,451 --> 00:02:02,038
+<i>Giờ là lúc các ngươi</i>
+<i>phải nhớ về lịch sử đẫm máu,</i>
+
+6
+00:02:03,081 --> 00:02:07,919
+<i>và sự khát khao vật chất, thức ăn,</i>
+<i>ân ái, sự thống trị và danh vọng.</i>
+
+7
+00:02:09,129 --> 00:02:12,674
+<i>Vì cơ thể tồn tại,</i>
+<i>nên ham muốn cũng tồn tại.</i>
+
+8
+00:02:12,757 --> 00:02:16,427
+<i>Ham muốn còn đó thì cái tôi</i>
+<i>của con người vẫn sẽ còn đó.</i>
+
+9
+00:02:17,262 --> 00:02:21,141
+<i>Con người sẽ tiếp tục chiến đấu</i>
+<i>để thỏa mãn những ham muốn của cơ thể,</i>
+
+10
+00:02:21,224 --> 00:02:22,517
+<i>nó sẽ không bao giờ ngừng.</i>
+
+11
+00:02:23,143 --> 00:02:25,812
+<i>Và với đà này, sẽ không có tương lai!</i>
+
+12
+00:02:26,604 --> 00:02:28,314
+<i>Tỉnh thức đi, hỡi linh hồn!</i>
+
+13
+00:02:29,232 --> 00:02:32,277
+<i>Giờ hãy rũ bỏ thân xác ô uế đó đi.</i>
+
+14
+00:02:36,239 --> 00:02:39,450
+<i>Chúng tôi là SCRATCH,</i>
+<i>một tổ chức điện tử siêu việt.</i>
+
+15
+00:02:40,076 --> 00:02:43,371
+<i>Những tôi tớ của Thượng Đế, được phái đến</i>
+<i>giải thoát linh hồn khỏi cơ thể</i>
+
+16
+00:02:43,454 --> 00:02:47,709
+{\an8}<i>và đưa các vị đến với biển điện tử vô tận.</i>
+
+17
+00:02:50,461 --> 00:02:54,507
+TẬP 23
+GIÁO PHÁI SCRATCH
+
+18
+00:02:57,218 --> 00:02:59,012
+VŨ TRỤ - TRUYỀN THÔNG - XÃ HỘI
+
+19
+00:02:59,095 --> 00:03:00,722
+ĐÀI CBC
+
+20
+00:03:00,805 --> 00:03:01,639
+ĐA NGÔN NGỮ
+
+21
+00:03:01,723 --> 00:03:04,225
+<i>Chào buổi tối. Đây là bản tin của đài CBC.</i>
+
+22
+00:03:04,809 --> 00:03:07,812
+{\an8}<i>Đầu tiên là tin</i>
+<i>về nhóm điện tử siêu việt SCRATCH.</i>
+
+23
+00:03:08,438 --> 00:03:11,065
+<i>Tuần trước, khi nhận được lệnh</i>
+<i>bắt giữ thủ lĩnh Londes,</i>
+
+24
+00:03:11,149 --> 00:03:14,277
+{\an8}<i>ISSP và các Sở Cảnh Sát Liên Hành Tinh</i>
+
+25
+00:03:14,360 --> 00:03:16,988
+{\an8}<i>bắt đầu lục soát</i>
+<i>nhà các thành viên cấp cao trong hội và…</i>
+
+26
+00:03:25,079 --> 00:03:27,165
+MỆNH LỆNH ĐIÊN RỒ! SCRATCH
+
+27
+00:03:29,918 --> 00:03:31,294
+{\an8}<i>Tôi đang ở hiện trường.</i>
+
+28
+00:03:31,961 --> 00:03:35,089
+{\an8}<i>Với tôn chỉ,</i>
+<i>"Cứu lấy linh hồn. Kết nạp dễ dàng",</i>
+
+29
+00:03:35,173 --> 00:03:37,467
+<i>thành viên của SCRATCH đang gia tăng.</i>
+
+30
+00:03:37,550 --> 00:03:39,010
+<i>Tuy nhiên, một vụ tự tử khác…</i>
+
+31
+00:03:40,303 --> 00:03:41,763
+{\an8}<i>Các thành viên của SCRATCH</i>
+
+32
+00:03:41,846 --> 00:03:46,517
+{\an8}<i>dùng chức năng điều khiển sóng não của</i>
+<i>máy chơi game này để quét sóng não của họ.</i>
+
+33
+00:03:47,518 --> 00:03:50,063
+{\an8}<i>Chương trình được Londes,</i>
+<i>thủ lĩnh của họ phát minh,</i>
+
+34
+00:03:50,146 --> 00:03:56,027
+{\an8}<i>được cho là có thể sao chép và số hóa</i>
+<i>linh hồn từ sóng não của con người.</i>
+
+35
+00:03:56,110 --> 00:04:00,323
+{\an8}<i>Các thành viên sau đó đăng dữ liệu</i>
+<i>linh hồn của họ lên mạng không gian,</i>
+
+36
+00:04:00,406 --> 00:04:03,743
+{\an8}<i>với niềm tin sẽ giúp sự tồn tại</i>
+<i>của linh hồn trở nên thuần khiết, nhưng…</i>
+
+37
+00:04:03,826 --> 00:04:05,078
+{\an8}<i>Thưa giáo sư.</i>
+
+38
+00:04:05,620 --> 00:04:08,248
+{\an8}<i>Nghe nói thủ lĩnh của họ,</i>
+<i>Londes, là một bác sĩ.</i>
+
+39
+00:04:08,831 --> 00:04:11,084
+{\an8}<i>Chuyện như thế có thể xảy ra không?</i>
+
+40
+00:04:11,709 --> 00:04:14,337
+{\an8}<i>Đó là chuyện lố bịch.</i>
+<i>Chỉ là khoa học viễn tưởng.</i>
+
+41
+00:04:14,420 --> 00:04:16,839
+{\an8}<i>Về mặt lý thuyết,</i>
+<i>tôi không nói là bất khả thi,</i>
+
+42
+00:04:16,923 --> 00:04:19,175
+{\an8}<i>nhưng lý thuyết cũng chỉ là lý thuyết.</i>
+
+43
+00:04:19,926 --> 00:04:24,430
+{\an8}<i>Phải, nó đã bỏ đi được hai tuần rồi!</i>
+
+44
+00:04:25,014 --> 00:04:28,476
+{\an8}<i>Thưa bà, bà phải nói</i>
+<i>với chồng bà, được chứ?</i>
+
+45
+00:04:29,018 --> 00:04:30,687
+<i>Chuyện liên quan đến con trai bà mà.</i>
+
+46
+00:04:31,271 --> 00:04:34,107
+{\an8}<i>Nhưng nó không phải</i>
+<i>loại trẻ con muốn bỏ nhà đi.</i>
+
+47
+00:04:34,607 --> 00:04:36,192
+{\an8}<i>Hay là nó bị bắt cóc?</i>
+
+48
+00:04:36,776 --> 00:04:38,945
+{\an8}<i>Thưa bà, bà có nghe tôi nói không?</i>
+
+49
+00:04:39,028 --> 00:04:42,907
+{\an8}<i>Hẳn phải là cái giáo phái gì đó</i>
+<i>nổi tiếng gần đây!</i>
+
+50
+00:04:42,991 --> 00:04:44,200
+{\an8}<i>Ta sẽ nghỉ giải lao.</i>
+
+51
+00:04:45,243 --> 00:04:47,203
+MUA SẮM QUA ĐIỆN THOẠI
+
+52
+00:04:47,912 --> 00:04:51,457
+{\an8}<i>Chào! Hôm nay, với tất cả các bạn DJ,</i>
+<i>những người ít tập thể thao,</i>
+
+53
+00:04:51,541 --> 00:04:54,168
+{\an8}<i>tôi xin giới thiệu, Power CDJ.</i>
+
+54
+00:04:54,252 --> 00:04:59,549
+{\an8}<i>Chỉ cần điều chỉnh nhịp tim bằng cần gạt,</i>
+<i>bạn sẽ trở thành DJ khi đang tập luyện.</i>
+
+55
+00:05:01,009 --> 00:05:03,720
+{\an8}<i>Lý do cô quyết định tham gia là…?</i>
+
+56
+00:05:03,803 --> 00:05:07,974
+{\an8}<i>Ừ thì… tôi đã chán sống</i>
+<i>một cuộc đời đầy nợ nần,</i>
+
+57
+00:05:08,891 --> 00:05:10,893
+{\an8}<i>đó là lúc tôi biết về giáo phái này.</i>
+
+58
+00:05:10,977 --> 00:05:14,564
+{\an8}<i>Tôi nghĩ nếu cơ thể tôi biến mất,</i>
+<i>tôi sẽ không cần tiền nữa.</i>
+
+59
+00:05:17,442 --> 00:05:20,403
+- Này Jet.
+- Chờ chút. Gần chín rồi.
+
+60
+00:05:20,486 --> 00:05:22,113
+Quên chuyện đó đi. Lại đây.
+
+61
+00:05:25,825 --> 00:05:30,079
+{\an8}<i>Bằng cách giải phóng linh hồn khỏi cơ thể,</i>
+<i>ta có thể loại bỏ mọi ham muốn.</i>
+
+62
+00:05:30,663 --> 00:05:32,123
+<i>Cô bị vỡ nợ ư?</i>
+
+63
+00:05:32,206 --> 00:05:36,127
+Lâu rồi không gặp cô ấy, nhưng mà…
+Đây là trò đùa à?
+
+64
+00:05:39,339 --> 00:05:40,715
+<i>Brain Dream!</i>
+
+65
+00:05:43,217 --> 00:05:45,762
+<i>Máy chơi game console mới, Brain Dream,</i>
+
+66
+00:05:46,387 --> 00:05:51,184
+<i>có thể đọc được sóng não của bạn,</i>
+<i>cho phép kiểm soát hoàn toàn mọi trò chơi!</i>
+
+67
+00:05:51,267 --> 00:05:55,188
+<i>Bộ điều khiển không hoạt động</i>
+<i>như bạn muốn? Dây luôn bị rối?</i>
+
+68
+00:05:55,271 --> 00:05:58,900
+<i>Trong trường hợp đó, hãy mơ cùng nhau!</i>
+
+69
+00:05:59,776 --> 00:06:01,152
+<i>Như các bạn thấy,</i>
+
+70
+00:06:01,235 --> 00:06:04,155
+<i>đài chúng tôi thực hiện</i>
+<i>các chính sách nghiêm ngặt nhất thế giới</i> 
+
+71
+00:06:04,238 --> 00:06:05,990
+<i>ngăn các chương trình độc hại…</i>
+
+72
+00:06:08,659 --> 00:06:10,244
+Hắn đây rồi.
+
+73
+00:06:10,328 --> 00:06:12,163
+Đến giờ ăn rồi!
+
+74
+00:06:13,039 --> 00:06:16,542
+Bác sĩ Londes
+hiện đang bị truy nã vì tội giết người.
+
+75
+00:06:16,626 --> 00:06:18,920
+Khoản tiền thưởng khổng lồ 38 triệu.
+
+76
+00:06:19,003 --> 00:06:22,256
+Giờ hiểu rồi. Cô ấy bỏ ta
+vì một khoản tiền thưởng khổng lồ.
+
+77
+00:06:23,383 --> 00:06:28,012
+Gã này rõ ràng là nhà nghiên cứu
+khoa học thần kinh 50 năm trước.
+
+78
+00:06:28,763 --> 00:06:31,307
+Một ngày nọ, hắn nhận được
+sự mặc khải từ Thượng Đế
+
+79
+00:06:31,391 --> 00:06:35,978
+và đắm mình trong nghiên cứu
+cách lưu giữ linh hồn con người,
+
+80
+00:06:36,062 --> 00:06:39,315
+lưu giữ chức năng của bộ não,
+như một dạng dữ liệu số.
+
+81
+00:06:39,399 --> 00:06:42,652
+Từ đó không ai biết nơi ở của hắn.
+
+82
+00:06:43,403 --> 00:06:45,905
+Hai năm sau,
+hắn đột nhiên thành lập SCRATCH
+
+83
+00:06:45,988 --> 00:06:47,782
+một tổ chức điện tử siêu việt.
+
+84
+00:06:48,408 --> 00:06:51,869
+- Là cái quái gì?
+- Tôi đoán là một giáo phái mới.
+
+85
+00:06:51,953 --> 00:06:55,540
+Theo hắn, chức năng của bộ não người
+
+86
+00:06:56,249 --> 00:07:01,254
+là một dòng xung điện yếu, nên bằng cách
+sao chép nó dưới dạng dữ liệu,
+
+87
+00:07:01,337 --> 00:07:05,174
+và vận hành nó như một chương trình
+trên mạng không gian,
+
+88
+00:07:05,258 --> 00:07:08,261
+một cá thể có thể tồn tại thuần khiết
+như một linh hồn.
+
+89
+00:07:08,845 --> 00:07:10,430
+Có nghe tôi nói không đó?
+
+90
+00:07:10,513 --> 00:07:12,765
+Mọi người được tự do tin điều họ muốn.
+
+91
+00:07:14,308 --> 00:07:16,352
+Họ đã có 20.000 thành viên,
+
+92
+00:07:16,436 --> 00:07:21,107
+và gần một trăm người trong số họ
+đã tự sát hoặc mất tích.
+
+93
+00:07:21,983 --> 00:07:25,153
+Nên cảnh sát cuối cùng
+cũng lê cái thân lười biếng mà điều tra.
+
+94
+00:07:25,236 --> 00:07:26,863
+Cái mặt nhìn là nuốt không trôi.
+
+95
+00:07:26,946 --> 00:07:29,532
+- Em muốn ăn nữa!
+- Có nhiêu đó thôi.
+
+96
+00:07:30,158 --> 00:07:31,367
+Ta cũng sẽ truy tìm hắn.
+
+97
+00:07:32,285 --> 00:07:35,830
+<i>Chúng tôi là SCRATCH,</i>
+<i>một tổ chức điện tử siêu việt.</i>
+
+98
+00:07:35,913 --> 00:07:39,750
+<i>Những tôi tớ của Thượng Đế, được phái đến</i>
+<i>giải thoát linh hồn khỏi cơ thể</i>
+
+99
+00:07:39,834 --> 00:07:44,213
+{\an8}<i>và đưa các vị đến với biển điện tử vô tận.</i>
+
+100
+00:08:46,651 --> 00:08:48,945
+Tìm ngươi.
+
+101
+00:08:49,028 --> 00:08:50,947
+Ngươi đang ở đâu?
+
+102
+00:08:58,079 --> 00:08:59,789
+Anh cũng muốn gia nhập chứ?
+
+103
+00:08:59,872 --> 00:09:02,333
+Ừ, có thể.
+
+104
+00:09:03,209 --> 00:09:06,254
+Để gia nhập, trước hết linh hồn anh
+phải được thanh tẩy.
+
+105
+00:09:06,337 --> 00:09:07,755
+Bước đầu tiên là…
+
+106
+00:09:08,714 --> 00:09:13,553
+Trước đó, tôi muốn gặp vị này,
+ngài Londes. Anh biết ngài ấy ở đâu không?
+
+107
+00:09:13,636 --> 00:09:15,805
+- Ồ, tất nhiên rồi.
+- Thật sao?
+
+108
+00:09:16,889 --> 00:09:18,057
+Ngài ấy ở thiên đàng.
+
+109
+00:09:23,854 --> 00:09:25,064
+Londes?
+
+110
+00:09:25,731 --> 00:09:28,276
+Tôi không nhớ người nào tên như thế cả.
+
+111
+00:09:28,859 --> 00:09:30,486
+Giúp tôi đi, ông già.
+
+112
+00:09:30,570 --> 00:09:34,282
+Ông là đồng nghiệp duy nhất của ông ấy
+còn sống.
+
+113
+00:09:37,326 --> 00:09:39,161
+Ông không nhớ được gì sao?
+
+114
+00:09:39,912 --> 00:09:43,165
+Nhìn vừa quen vừa lạ.
+
+115
+00:09:44,292 --> 00:09:45,376
+Là quen hay lạ?
+
+116
+00:09:54,218 --> 00:09:56,929
+Vậy anh cũng muốn gia nhập ư?
+
+117
+00:09:57,013 --> 00:09:57,930
+Ừ, có thể.
+
+118
+00:09:58,514 --> 00:10:02,727
+Để gia nhập, trước hết linh hồn anh
+phải được thanh tẩy.
+
+119
+00:10:02,810 --> 00:10:06,314
+Trước khi gia nhập,
+tôi muốn hỏi cô một điều.
+
+120
+00:10:06,397 --> 00:10:08,441
+Tôi muốn gặp ngài Londes,
+
+121
+00:10:08,524 --> 00:10:11,777
+hay linh hồn của ngài ấy hay gì cũng được.
+
+122
+00:10:11,861 --> 00:10:13,404
+Làm sao gặp được ngài ấy?
+
+123
+00:10:14,030 --> 00:10:16,907
+Anh thực sự muốn gia nhập à?
+
+124
+00:10:23,873 --> 00:10:27,627
+<i>Và như vậy,</i>
+<i>tiến sĩ Londes là chủ đề nóng hổi gần đây.</i>
+
+125
+00:10:28,210 --> 00:10:30,212
+<i>Lâu rồi mới có giải thưởng lớn đến vậy.</i>
+
+126
+00:10:30,296 --> 00:10:33,424
+<i>Thật không may, chúng tôi hoàn toàn</i>
+<i>không có thông tin mới!</i>
+
+127
+00:10:33,507 --> 00:10:34,425
+<i>Trời ơi.</i>
+
+128
+00:10:34,508 --> 00:10:38,137
+<i>Mọi người đang ráo riết tìm hắn,</i>
+<i>nhưng không có thông tin gì.</i>
+
+129
+00:10:38,804 --> 00:10:42,683
+{\an8}<i>Mặc dù thấy khuôn mặt hắn mỗi ngày</i>
+<i>trên các chương trình tivi của SCRATCH,</i>
+
+130
+00:10:42,767 --> 00:10:44,852
+{\an8}<i>nhưng ta không có</i>
+<i>một manh mối nào hữu ích.</i>
+
+131
+00:10:45,436 --> 00:10:48,230
+<i>Có thể nào hắn chỉ là</i>
+<i>một linh hồn không thân xác?</i>
+
+132
+00:10:48,314 --> 00:10:51,484
+<i>Bây giờ, tôi có một tin quan trọng khác</i>
+<i>cho các bạn.</i>
+
+133
+00:10:51,567 --> 00:10:53,194
+Tin gì vậy?
+
+134
+00:10:53,277 --> 00:10:56,405
+<i>- Thật ra…</i>
+<i>- Nói tôi biết nhanh đi!</i>
+
+135
+00:10:57,031 --> 00:10:59,367
+<i>Chương trình</i>
+<i>đã phát sóng một thời gian dài</i>
+
+136
+00:10:59,450 --> 00:11:02,703
+<i>và tôi biết là đột ngột, nhưng đây là</i>
+<i>chương trình cuối của chúng tôi!</i>
+
+137
+00:11:02,787 --> 00:11:03,871
+<i>Anh đùa sao?</i>
+
+138
+00:11:03,954 --> 00:11:06,582
+<i>Họ dừng chương trình</i>
+<i>vì tỉ lệ người xem thấp.</i>
+
+139
+00:11:07,124 --> 00:11:10,086
+<i>Đừng khóc lóc nữa!</i>
+<i>Không ai nói với tôi vụ này!</i>
+
+140
+00:11:19,512 --> 00:11:21,305
+- Không tốt à?
+- Không tốt.
+
+141
+00:11:21,889 --> 00:11:23,182
+Phía này cũng không tốt.
+
+142
+00:11:23,974 --> 00:11:26,602
+Không tốt!
+
+143
+00:11:27,186 --> 00:11:30,564
+Tôi đã lần theo một đồng nghiệp
+hồi gã còn làm nghiên cứu,
+
+144
+00:11:30,648 --> 00:11:31,941
+nhưng không có ích gì.
+
+145
+00:11:32,024 --> 00:11:34,485
+Tôi không thu được tin gì
+từ các tín đồ giáo phái.
+
+146
+00:11:36,570 --> 00:11:38,489
+Là chị Faye chị Faye.
+
+147
+00:11:41,242 --> 00:11:43,411
+{\an8}<i>Tôi đang gặp rắc rối.</i>
+
+148
+00:11:44,412 --> 00:11:45,329
+{\an8}<i>Có nghe không?</i>
+
+149
+00:11:45,996 --> 00:11:50,459
+{\an8}<i>Giờ tôi nghĩ tôi có thể</i>
+<i>trút bỏ món nợ của mình.</i>
+
+150
+00:11:52,294 --> 00:11:54,004
+{\an8}MẤT KẾT NỐI
+
+151
+00:11:58,342 --> 00:12:00,344
+Tôi trông cậy cậu tìm Faye đó.
+
+152
+00:12:00,970 --> 00:12:04,306
+<i>Tôi cũng trông cậy anh tìm ra cô ấy.</i>
+<i>Anh không thể làm vú em cả ngày.</i>
+
+153
+00:12:05,307 --> 00:12:06,308
+Tôi đã nói là…
+
+154
+00:12:07,309 --> 00:12:11,397
+Mua Brain Dream khó lắm.
+Không xếp hàng thì không mua được.
+
+155
+00:12:12,565 --> 00:12:15,192
+<i>Anh thật sự</i>
+<i>muốn xâm nhập trang web của họ à?</i>
+
+156
+00:12:15,735 --> 00:12:17,987
+Chỉ còn lại duy nhất đầu mối này.
+
+157
+00:12:18,070 --> 00:12:20,322
+<i>Bên cạnh đó, Faye hẳn cũng tìm thấy gì đó.</i>
+
+158
+00:12:20,406 --> 00:12:21,240
+<i>- Nên…</i>
+- Ái chà!
+
+159
+00:12:21,907 --> 00:12:22,908
+Gần đến rồi.
+
+160
+00:12:31,542 --> 00:12:33,544
+- Được rồi, làm đi.
+- Tuân lệnh.
+
+161
+00:12:38,424 --> 00:12:41,260
+<i>Chào mừng đến với SCRATCH,</i>
+<i>một nhóm điện tử siêu việt.</i>
+
+162
+00:12:41,802 --> 00:12:44,221
+<i>Nếu muốn tham gia, đi thẳng về hướng này.</i>
+
+163
+00:12:44,847 --> 00:12:47,850
+<i>Với những ai muốn biết</i>
+<i>thông tin chi tiết về SCRATCH</i>
+
+164
+00:12:47,933 --> 00:12:49,643
+<i>vui lòng đi hướng này.</i>
+
+165
+00:12:49,727 --> 00:12:52,772
+Không có lựa chọn sao chép linh hồn ư?
+
+166
+00:12:52,855 --> 00:12:54,273
+Mình không có lựa chọn rồi.
+
+167
+00:12:55,107 --> 00:12:56,442
+<i>Anh muốn tham gia à?</i>
+
+168
+00:12:56,525 --> 00:12:59,278
+<i>Vậy hãy nhập dữ liệu cá nhân vào.</i>
+
+169
+00:13:00,821 --> 00:13:01,781
+Dữ liệu.
+
+170
+00:13:01,864 --> 00:13:03,908
+Dữ liệu giả!
+
+171
+00:13:10,790 --> 00:13:13,501
+<i>Máu, thịt và xương.</i>
+
+172
+00:13:14,293 --> 00:13:18,005
+<i>Mất những thứ này sẽ dẫn đến cái chết.</i>
+
+173
+00:13:25,179 --> 00:13:30,684
+<i>Ngoài những thứ đó thì sao?</i>
+<i>Thiên đường ư? Địa ngục ư? Đầu thai ư?</i>
+
+174
+00:13:31,227 --> 00:13:34,814
+<i>Những thứ như vậy không thể tồn tại.</i>
+<i>Chỉ là thứ để bào chữa.</i>
+
+175
+00:13:37,274 --> 00:13:38,108
+Sao thế?
+
+176
+00:13:40,528 --> 00:13:41,529
+Chuyện gì vậy?
+
+177
+00:13:45,616 --> 00:13:47,326
+<i>Ừ, đúng vậy.</i>
+
+178
+00:13:47,409 --> 00:13:50,120
+<i>Chưa từng có con đường nào</i>
+<i>đi đến sự cứu rỗi</i> 
+
+179
+00:13:50,204 --> 00:13:52,331
+<i>lại có tầm nhìn rõ ràng như thế này.</i>
+
+180
+00:13:59,338 --> 00:14:01,340
+<i>Tỉnh thức đi, linh hồn!</i>
+
+181
+00:14:01,423 --> 00:14:04,260
+<i>Giờ là lúc</i>
+<i>rũ bỏ thân xác không trong sạch đó.</i>
+
+182
+00:14:12,643 --> 00:14:13,853
+Tần số cao ư?
+
+183
+00:14:13,936 --> 00:14:16,105
+<i>Ừ. Tôi không chắc lắm,</i>
+
+184
+00:14:16,188 --> 00:14:19,400
+<i>nhưng có vẻ bằng cách nào đó</i>
+<i>nó làm tê liệt các dây thần kinh giao cảm.</i>
+
+185
+00:14:21,402 --> 00:14:24,488
+<i>Trong vài giây, mọi thứ trước mắt tôi</i>
+<i>biến mất, và tôi bất tỉnh.</i>
+
+186
+00:14:25,406 --> 00:14:28,784
+Nếu Ein không để ý và cắn tôi,
+có lẽ tôi đã…
+
+187
+00:14:29,410 --> 00:14:30,786
+Là một thành viên của SCRATCH.
+
+188
+00:14:31,745 --> 00:14:34,707
+Dù sao thì cần
+nghĩ ra biện pháp đối phó, cho nên…
+
+189
+00:14:34,790 --> 00:14:37,126
+<i>- Lần tới, tôi sẽ tham gia cùng.</i>
+- Này, Spike!
+
+190
+00:14:37,209 --> 00:14:38,168
+<i>Này!</i>
+
+191
+00:14:44,675 --> 00:14:46,594
+Ngay cả chó cũng có sóng não.
+
+192
+00:14:46,677 --> 00:14:48,804
+Ed cũng muốn đeo thử!
+
+193
+00:14:48,888 --> 00:14:52,933
+Nếu em tham gia, ai sẽ tìm Londes?
+
+194
+00:14:54,268 --> 00:14:55,269
+Làm đi.
+
+195
+00:14:58,355 --> 00:15:02,067
+<i>Chào mừng đến với SCRATCH,</i>
+<i>một nhóm điện tử siêu…</i>
+
+196
+00:15:06,906 --> 00:15:08,699
+Giỏi lắm Ed! Em đã xâm nhập được.
+
+197
+00:15:12,703 --> 00:15:13,954
+CHƯƠNG TRÌNH PHÁ MẬT KHẨU
+
+198
+00:15:27,968 --> 00:15:28,802
+Đây là…
+
+199
+00:15:32,806 --> 00:15:34,308
+Sao có thể như vậy?
+
+200
+00:15:40,940 --> 00:15:43,442
+<i>Londes không hề tồn tại.</i>
+
+201
+00:15:43,525 --> 00:15:48,155
+<i>Quá khứ và hồ sơ của hắn đều là giả.</i>
+
+202
+00:15:49,698 --> 00:15:52,534
+Và đây là nơi kiểm soát tất cả.
+
+203
+00:15:53,410 --> 00:15:55,120
+Viện tế bần thung lũng Alles.
+
+204
+00:15:59,291 --> 00:16:00,459
+Ed, giúp anh nào.
+
+205
+00:16:16,225 --> 00:16:17,226
+Ba ơi.
+
+206
+00:16:17,851 --> 00:16:20,312
+- Chưa phải lúc!
+- Ba ơi.
+
+207
+00:16:35,911 --> 00:16:39,123
+Ở đây không cần khách đến thăm.
+
+208
+00:16:39,206 --> 00:16:41,750
+Và phải đặt hẹn trước.
+
+209
+00:16:41,834 --> 00:16:44,294
+Hay anh đến để đòi thừa kế?
+
+210
+00:16:44,378 --> 00:16:45,629
+Đừng vô lý thế!
+
+211
+00:16:45,713 --> 00:16:50,926
+- Anh trai sinh đôi của con gái tôi ở đây.
+- Ba ơi!
+
+212
+00:16:51,010 --> 00:16:54,179
+Con gái anh à? Đứa này là con gái thật à?
+
+213
+00:16:54,263 --> 00:16:55,180
+Ba ơi!
+
+214
+00:16:56,515 --> 00:17:00,144
+Thật ra… đó là một câu chuyện dài.
+
+215
+00:17:03,647 --> 00:17:05,315
+<i>Ta chỉ khiến cô ấy ngủ.</i>
+
+216
+00:17:06,275 --> 00:17:11,530
+<i>Tất nhiên, các thợ săn tiền thưởng khác</i>
+<i>đều ngủ quên đến chết.</i>
+
+217
+00:17:15,075 --> 00:17:18,162
+Cuối cùng cũng tìm được
+người anh thất lạc đã lâu của con bé,
+
+218
+00:17:18,245 --> 00:17:20,330
+và biết được thằng bé ấy ở đây.
+
+219
+00:17:21,415 --> 00:17:22,708
+Ba ơi!
+
+220
+00:17:22,791 --> 00:17:26,879
+Con bé hẳn bị chấn động.
+Từ lúc biết tin nó cư xử khá kỳ lạ.
+
+221
+00:17:27,504 --> 00:17:30,924
+Ít nhất, tôi muốn con bé
+được gặp anh trai nó một lần.
+
+222
+00:17:31,717 --> 00:17:33,969
+- Đi đi.
+- Tôi nợ anh.
+
+223
+00:17:35,679 --> 00:17:39,892
+Sao lại cướp đi mạng sống của các tín đồ?
+Mục đích của ngươi là gì?
+
+224
+00:17:40,768 --> 00:17:43,103
+<i>Ta đâu ép buộc ai làm gì.</i>
+
+225
+00:17:43,771 --> 00:17:48,609
+<i>Họ chỉ đang theo</i>
+<i>một giáo lý mà họ đã chọn để tin tưởng.</i>
+
+226
+00:17:49,902 --> 00:17:52,863
+<i>Ngươi nghĩ vì sao</i>
+<i>người ta tin vào Thượng Đế?</i>
+
+227
+00:17:54,948 --> 00:17:56,658
+<i>Đó là vì họ muốn.</i>
+
+228
+00:17:57,951 --> 00:18:01,622
+<i>Sống trong thế giới thối nát của chúng ta</i>
+<i>không hề dễ dàng.</i>
+
+229
+00:18:02,414 --> 00:18:06,251
+<i>Không có gì là chắc chắn</i>
+<i>khi sống trong thế giới này.</i>
+
+230
+00:18:06,877 --> 00:18:07,961
+<i>Ngươi hiểu chứ?</i>
+
+231
+00:18:08,962 --> 00:18:11,381
+<i>Thượng Đế không tạo ra con người.</i>
+
+232
+00:18:11,965 --> 00:18:14,593
+<i>Mà chính con người tạo ra Thượng Đế.</i>
+
+233
+00:18:23,727 --> 00:18:24,603
+Đây là hắn ư?
+
+234
+00:18:28,982 --> 00:18:31,610
+<i>Ta phát ốm với chương trình vớ vẩn này.</i>
+
+235
+00:18:32,486 --> 00:18:34,154
+Sao thế? Hãy ra mặt đi.
+
+236
+00:18:34,738 --> 00:18:36,615
+Là một ảo ảnh đâu có xứng với ngươi.
+
+237
+00:18:38,325 --> 00:18:39,368
+<i>Chính xác.</i>
+
+238
+00:18:40,202 --> 00:18:43,872
+<i>Người đàn ông tên Londes</i>
+<i>chưa từng tồn tại ở thế giới này.</i>
+
+239
+00:18:43,956 --> 00:18:47,084
+<i>Hắn là nhân vật hư cấu do ta sáng tạo ra.</i>
+
+240
+00:18:47,960 --> 00:18:51,088
+<i>Hắn chỉ là ảo ảnh</i>
+<i>được tạo ra bởi các đường quét.</i>
+
+241
+00:18:51,880 --> 00:18:55,467
+Đây là bộ điều khiển sóng não,
+giống như Brain Dream.
+
+242
+00:18:56,218 --> 00:18:57,219
+Này Ed.
+
+243
+00:18:58,053 --> 00:19:01,181
+Em ngắt kết nối mạng
+của bộ điều khiển được không?
+
+244
+00:19:01,265 --> 00:19:02,266
+Tuân lệnh.
+
+245
+00:19:02,349 --> 00:19:04,685
+Nhưng này.
+Đừng tắt hệ thống hỗ trợ sự sống.
+
+246
+00:19:08,438 --> 00:19:12,860
+<i>Ngươi biết phát minh vĩ đại nhất</i>
+<i>và tồi tệ nhất của loài người là gì không?</i>
+
+247
+00:19:15,988 --> 00:19:17,281
+<i>Truyền hình.</i>
+
+248
+00:19:17,990 --> 00:19:20,826
+<i>Truyền hình thao túng con người</i>
+<i>bằng cách sử dụng thông tin</i>
+
+249
+00:19:20,909 --> 00:19:23,453
+<i>và lấy đi ý thức của họ về thực tế.</i>
+
+250
+00:19:24,913 --> 00:19:29,042
+<i>Thật ra, thời nay,</i>
+<i>chính truyền hình là một kiểu tôn giáo.</i>
+
+251
+00:19:32,129 --> 00:19:35,799
+<i>Truyền hình đã tạo ra con người</i>
+<i>có thể dễ dàng bị lừa hoặc</i>
+
+252
+00:19:35,883 --> 00:19:39,553
+<i>bởi thị phi từ những ảo tưởng ngu ngốc.</i>
+
+253
+00:19:56,361 --> 00:19:57,571
+Ngươi như một đứa trẻ.
+
+254
+00:19:58,155 --> 00:19:59,323
+<i>Sao cơ?</i>
+
+255
+00:20:00,407 --> 00:20:02,951
+Một đứa trẻ không phân biệt
+được ảo ảnh và thực tế,
+
+256
+00:20:03,619 --> 00:20:05,704
+chính là ngươi, Londes.
+
+257
+00:20:07,539 --> 00:20:10,334
+Nếu ngươi muốn mơ, cứ mơ một mình.
+
+258
+00:20:11,668 --> 00:20:14,087
+<i>Ngươi biết gì chứ?</i>
+
+259
+00:20:15,756 --> 00:20:18,008
+<i>Ngươi biết gì về ta?</i>
+
+260
+00:20:19,676 --> 00:20:21,553
+<i>Ngươi… đang làm gì vậy?</i>
+
+261
+00:20:22,387 --> 00:20:23,347
+<i>Dừng lại!</i>
+
+262
+00:20:23,430 --> 00:20:24,932
+<i>Cứu! Đừng mà!</i>
+
+263
+00:20:25,015 --> 00:20:26,433
+MÁY CHỦ Y TẾ
+
+264
+00:20:26,516 --> 00:20:27,976
+<i>Dừng lại! Chết tiệt.</i>
+
+265
+00:20:28,769 --> 00:20:29,770
+<i>Dừng lại!</i>
+
+266
+00:20:30,729 --> 00:20:31,688
+<i>Xin đừng.</i>
+
+267
+00:20:31,772 --> 00:20:32,856
+<i>Đừng tắt nó đi.</i>
+
+268
+00:20:33,607 --> 00:20:35,901
+<i>Ta đã làm gì chứ?</i>
+
+269
+00:20:37,361 --> 00:20:39,613
+<i>Không. Không công bằng.</i>
+
+270
+00:20:41,031 --> 00:20:42,741
+<i>Sao ta lại là người duy nhất?</i>
+
+271
+00:20:44,117 --> 00:20:45,786
+<i>Chết tiệt… Mọi người…</i>
+
+272
+00:20:46,662 --> 00:20:48,455
+<i>nên có…</i>
+
+273
+00:20:49,164 --> 00:20:49,998
+<i>một cơ thể…</i>
+
+274
+00:20:50,582 --> 00:20:51,667
+<i>như ta.</i>
+
+275
+00:20:53,710 --> 00:20:55,212
+<i>Không. Ta…</i>
+
+276
+00:20:56,463 --> 00:20:57,839
+<i>Ta không muốn biến mất!</i>
+
+277
+00:20:59,049 --> 00:21:00,467
+<i>Ta không muốn… biến mất!</i>
+
+278
+00:21:01,843 --> 00:21:03,679
+LỖI
+
+279
+00:21:06,390 --> 00:21:08,558
+Rosny Spanngen, cựu tin tặc.
+
+280
+00:21:09,643 --> 00:21:11,937
+Hai năm trước, ở tuổi 13,
+
+281
+00:21:12,020 --> 00:21:15,399
+cậu ấy rơi vào trạng thái thực vật
+sau một tai nạn y khoa.
+
+282
+00:21:18,777 --> 00:21:23,991
+Nhưng cậu không còn là một bé trai nữa.
+Cậu là một tên lừa đảo tài tình.
+
+283
+00:21:32,249 --> 00:21:34,376
+Ồ, lâu rồi không gặp.
+
+284
+00:21:35,544 --> 00:21:36,586
+Tôi đang ở đâu?
+
+285
+00:21:42,175 --> 00:21:45,137
+Tất cả chỉ là một giấc mơ của trẻ con.
+
+286
+00:21:45,220 --> 00:21:49,641
+Ừ, điều duy nhất
+cậu ấy có thể làm là nằm mơ mà thôi.
+
+287
+00:21:57,733 --> 00:21:59,651
+Lần này chúc bạn có giấc mơ đẹp.
+
+288
+00:22:06,158 --> 00:22:11,580
+<i>Những linh hồn được Thượng Đế ban cho ta,</i>
+<i>nói cách khác, những linh hồn của ta,</i>
+
+289
+00:22:12,122 --> 00:22:17,044
+<i>đã tìm ra cách để sống trong vũ trụ vô tận</i>
+<i>và đi xuyên qua mạng lưới rộng lớn.</i>
+
+290
+00:22:17,669 --> 00:22:19,671
+<i>Xét cho cùng, chẳng phải cơ thể này</i>
+
+291
+00:22:20,255 --> 00:22:26,053
+<i>là một thực thể quá nhỏ bé và yếu đuối</i>
+<i>để linh hồn trú ngự đó ư?</i>
+
+292
+00:24:06,445 --> 00:24:07,446
+TẬP TIẾP THEO
+
+293
+00:24:33,096 --> 00:24:34,890
+<i>Tập tiếp theo: </i>Những Cô Gái Không May.
+
+294
+00:24:34,973 --> 00:24:36,099
+Biên dịch: Vũ Ngọc Ái Vy
+
