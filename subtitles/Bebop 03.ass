@@ -13,12 +13,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
+Audio File: ../[JySzE] Cowboy Bebop - 03 [v3].mkv
+Video File: ../[JySzE] Cowboy Bebop - 03 [v3].mkv
 Video AR Mode: 4
 Video AR Value: 1.340741
 Video Zoom Percent: 0.500000
-Scroll Position: 265
-Active Line: 276
-Video Position: 35392
+Scroll Position: 289
+Active Line: 293
+Video Position: 4551
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -302,7 +304,7 @@ Dialogue: 0,0:24:25.44,0:24:26.53,Main,preview,0,0,0,,Nhìn đây này!
 Dialogue: 0,0:24:26.53,0:24:29.65,Main,preview,0,0,0,,Khủng bố đấy, \Nchúng tính cho Ganymede nổ tanh bành luôn.
 Dialogue: 0,0:24:29.65,0:24:32.32,Main,preview,0,0,0,,Hả?! Tổ chức bảo vệ môi trường?
 Dialogue: 0,0:24:32.32,0:24:35.74,Main,preview,0,0,0,,Vừa hay, \Nđể họ bế luôn con thú hoang này đi.
-Dialogue: 0,0:24:35.74,0:24:37.85,Main,preview,0,0,0,,Kỳ tới, "Điệu shuffle nơi cổng không gian".
+Dialogue: 0,0:24:35.74,0:24:37.85,Main,preview,0,0,0,,Kỳ tới, "Điệu Shuffle nơi cổng không gian".
 Dialogue: 0,0:24:37.85,0:24:39.50,Main,preview,0,0,0,,Tôi sắp phát điên lên rồi.
 Comment: 0,0:24:37.97,0:24:39.50,Main,,0,0,0,,==========================================
 Dialogue: 0,0:04:21.28,0:04:25.24,Signs,,0,0,0,,{\an8}CHÀO MỪNG ĐẾN SPAIDERS FROM MARS
@@ -320,32 +322,32 @@ Dialogue: 0,0:24:37.04,0:24:40.04,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0.7\s
 Dialogue: 1,0:24:37.04,0:24:40.04,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(1382.21,74.67)\fscx59\fscy59}Phụ đề được thực hiện bởi GSGA
 Dialogue: 0,0:24:37.04,0:24:40.04,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0.7\shad0\c&H30592A&\3c&H30592A&\b0\pos(1382.21,124.67)\fscx59\fscy59}Dịch: KiOZ | TS: KiOZ | QC: mochi
 Dialogue: 1,0:24:37.04,0:24:40.04,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(1382.21,124.67)\fscx59\fscy59}Dịch: KiOZ | TS: KiOZ | QC: mochi
-Dialogue: 0,0:03:09.79,0:03:14.26,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H532A3A&\3c&H532A3A&\b0\pos(176.2,430.07)\fscx97\fscy108}BÓNG HỒNG QUÁN RƯỢU {\fs50}(Honky Tonk Women)
-Dialogue: 1,0:03:09.79,0:03:14.26,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(176.2,430.07)\fscx97\fscy108}BÓNG HỒNG QUÁN RƯỢU {\fs50}(Honky Tonk Women)
-Dialogue: 0,0:03:09.79,0:03:14.26,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H532A3A&\3c&H532A3A&\b0\alpha&H50&\3a&H00&\1a&H00&\pos(177.2,430.07)\fscx97\fscy108}BÓNG HỒNG QUÁN RƯỢU {\fs50}(Honky Tonk Women)
-Dialogue: 1,0:03:09.79,0:03:14.26,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\alpha&H50&\pos(177.2,430.07)\fscx97\fscy108}BÓNG HỒNG QUÁN RƯỢU {\fs50}(Honky Tonk Women)
+Dialogue: 0,0:03:09.79,0:03:14.26,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H532A3A&\3c&H532A3A&\b0\pos(176.2,430.07)\fscx155\fscy140}BÓNG HỒNG QUÁN RƯỢU
+Dialogue: 1,0:03:09.79,0:03:14.26,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(176.2,430.07)\fscx155\fscy140}BÓNG HỒNG QUÁN RƯỢU
+Dialogue: 0,0:03:09.79,0:03:14.26,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H532A3A&\3c&H532A3A&\b0\alpha&H50&\3a&H00&\1a&H00&\pos(177.2,430.07)\fscx155\fscy140}BÓNG HỒNG QUÁN RƯỢU
+Dialogue: 1,0:03:09.79,0:03:14.26,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\alpha&H50&\pos(177.2,430.07)\fscx155\fscy140}BÓNG HỒNG QUÁN RƯỢU
 Dialogue: 0,0:03:09.79,0:03:14.26,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0.7\shad0\c&H532A3A&\3c&H532A3A&\b0\pos(1382.21,74.67)\fscx59\fscy59}Phụ đề được thực hiện bởi GSGA
 Dialogue: 1,0:03:09.79,0:03:14.26,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(1382.21,74.67)\fscx59\fscy59}Phụ đề được thực hiện bởi GSGA
 Dialogue: 0,0:03:09.79,0:03:14.26,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0.7\shad0\c&H532A3A&\3c&H532A3A&\b0\pos(1382.21,124.67)\fscx59\fscy59}Dịch: KiOZ | TS: KiOZ | QC: mochi
 Dialogue: 1,0:03:09.79,0:03:14.26,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(1382.21,124.67)\fscx59\fscy59}Dịch: KiOZ | TS: KiOZ | QC: mochi
-Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1183.2,430.07,383.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
-Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1184.2,430.07,384.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
-Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1185.2,430.07,385.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
-Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1186.2,430.07,386.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
-Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1187.2,430.07,387.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
-Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1188.2,430.07,388.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
-Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1189.2,430.07,389.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
-Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1190.2,430.07,390.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
-Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1191.2,430.07,391.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
-Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1192.2,430.07,392.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
-Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1193.2,430.07,393.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
-Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1194.2,430.07,394.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
-Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1195.2,430.07,395.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
-Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1196.2,430.07,396.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
-Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1197.2,430.07,397.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
-Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1198.2,430.07,398.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
-Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1199.2,430.07,399.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
-Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1200.2,430.07,400.2,430.07)\fscx105\fscy112\1a&HC8&\3c&H6F475A&}CÔ GÁI QUÁN BAR {\fs50}(Honky Tonk Women)
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1183.2,430.07,383.2,430.07)\fscx155\fscy140\1a&HC8&\3c&H6F475A&}BÓNG HỒNG QUÁN RƯỢU
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1184.2,430.07,384.2,430.07)\fscx155\fscy140\1a&HC8&\3c&H6F475A&}BÓNG HỒNG QUÁN RƯỢU
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1185.2,430.07,385.2,430.07)\fscx155\fscy140\1a&HC8&\3c&H6F475A&}BÓNG HỒNG QUÁN RƯỢU
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1186.2,430.07,386.2,430.07)\fscx155\fscy140\1a&HC8&\3c&H6F475A&}BÓNG HỒNG QUÁN RƯỢU
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1187.2,430.07,387.2,430.07)\fscx155\fscy140\1a&HC8&\3c&H6F475A&}BÓNG HỒNG QUÁN RƯỢU
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1188.2,430.07,388.2,430.07)\fscx155\fscy140\1a&HC8&\3c&H6F475A&}BÓNG HỒNG QUÁN RƯỢU
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1189.2,430.07,389.2,430.07)\fscx155\fscy140\1a&HC8&\3c&H6F475A&}BÓNG HỒNG QUÁN RƯỢU
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1190.2,430.07,390.2,430.07)\fscx155\fscy140\1a&HC8&\3c&H6F475A&}BÓNG HỒNG QUÁN RƯỢU
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1191.2,430.07,391.2,430.07)\fscx155\fscy140\1a&HC8&\3c&H6F475A&}BÓNG HỒNG QUÁN RƯỢU
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1192.2,430.07,392.2,430.07)\fscx155\fscy140\1a&HC8&\3c&H6F475A&}BÓNG HỒNG QUÁN RƯỢU
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1193.2,430.07,393.2,430.07)\fscx155\fscy140\1a&HC8&\3c&H6F475A&}BÓNG HỒNG QUÁN RƯỢU
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1194.2,430.07,394.2,430.07)\fscx155\fscy140\1a&HC8&\3c&H6F475A&}BÓNG HỒNG QUÁN RƯỢU
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1195.2,430.07,395.2,430.07)\fscx155\fscy140\1a&HC8&\3c&H6F475A&}BÓNG HỒNG QUÁN RƯỢU
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1196.2,430.07,396.2,430.07)\fscx155\fscy140\1a&HC8&\3c&H6F475A&}BÓNG HỒNG QUÁN RƯỢU
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1197.2,430.07,397.2,430.07)\fscx155\fscy140\1a&HC8&\3c&H6F475A&}BÓNG HỒNG QUÁN RƯỢU
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1198.2,430.07,398.2,430.07)\fscx155\fscy140\1a&HC8&\3c&H6F475A&}BÓNG HỒNG QUÁN RƯỢU
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1199.2,430.07,399.2,430.07)\fscx155\fscy140\1a&HC8&\3c&H6F475A&}BÓNG HỒNG QUÁN RƯỢU
+Dialogue: 0,0:03:09.63,0:03:09.79,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H6F475A&\b0\move(1200.2,430.07,400.2,430.07)\fscx155\fscy140\1a&HC8&\3c&H6F475A&}BÓNG HỒNG QUÁN RƯỢU
 Dialogue: 0,0:03:09.63,0:03:09.79,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H6F475A&\3c&H532A3A&\b0\move(183.21,124.67,1183.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi
 Dialogue: 0,0:03:09.63,0:03:09.79,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H6F475A&\3c&H532A3A&\b0\move(184.21,124.67,1184.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi
 Dialogue: 0,0:03:09.63,0:03:09.79,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H6F475A&\3c&H532A3A&\b0\move(185.21,124.67,1185.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi

@@ -12,12 +12,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
+Audio File: ../[JySzE] Cowboy Bebop - 02 [v3].mkv
+Video File: ../[JySzE] Cowboy Bebop - 02 [v3].mkv
 Video AR Mode: 4
 Video AR Value: 1.340741
-Video Zoom Percent: 0.625000
-Scroll Position: 296
-Active Line: 313
-Video Position: 31959
+Video Zoom Percent: 0.500000
+Scroll Position: 298
+Active Line: 306
+Video Position: 32024
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -339,8 +341,8 @@ Dialogue: 12,0:21:58.13,0:22:01.04,Main,preview,0,0,0,,nhưng rồi sẽ có ng�
 Dialogue: 12,0:22:02.13,0:22:04.79,Main,preview,0,0,0,,Lang tha lang thang ngoài không gian,
 Dialogue: 12,0:22:04.79,0:22:07.43,Main,preview,0,0,0,,để rồi gặp một chàng cao bồi.
 Dialogue: 12,0:22:07.81,0:22:12.56,Main,preview,0,0,0,,Chơi một bản nhạc với giai điệu lạc nhịp.
-Dialogue: 12,0:22:12.56,0:22:15.56,GT 2,preview,0,0,0,,(tên một bài hát có thật, mọi tên tập của Bebop đều lấy cảm hứng từ nhạc jazz)
-Comment: 12,0:22:12.56,0:22:14.24,Main,preview,0,0,0,,Honky Tonk Women\N (Cô gái quán bar)
+Comment: 12,0:22:12.56,0:22:15.56,GT 2,preview,0,0,0,,(tên một bài hát có thật, mọi tên tập của Bebop đều lấy cảm hứng từ nhạc jazz)
+Comment: 12,0:22:12.56,0:22:14.24,Main,preview,0,0,0,,Bóng hồng quán rượu.
 Comment: 0,0:22:14.24,0:22:17.24,Main,,0,0,0,,======================================
 Dialogue: 0,0:02:42.18,0:02:46.94,Signs,,0,0,0,,{\an8}BIG SHOT\NCHƯƠNG TRÌNH DÀNH CHO THỢ SĂN TIỀN THƯỞNG
 Dialogue: 0,0:02:55.74,0:02:58.45,Signs,,0,0,0,,{\an8}DANH SÁCH HÔM NAY
@@ -386,10 +388,10 @@ Dialogue: 0,0:21:46.49,0:21:47.54,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c
 Dialogue: 1,0:21:46.49,0:21:47.54,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\fscx105\fscy112\pos(386.2,410.07)}GIỚI THIỆU TẬP SAU
 Dialogue: 0,0:21:46.49,0:21:47.54,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H2B2D7B&\3c&H2B2D7B&\b0\alpha&H50&\3a&H00&\1a&H00&\fscx105\fscy112\pos(387.2,410.07)}GIỚI THIỆU TẬP SAU
 Dialogue: 1,0:21:46.49,0:21:47.54,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\alpha&H50&\fscx105\fscy112\pos(387.2,410.07)}GIỚI THIỆU TẬP SAU
-Dialogue: 0,0:22:12.56,0:22:15.56,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H532A3A&\3c&H532A3A&\b0\pos(176.2,430.07)\fscx97\fscy108}BÓNG HỒNG QUÁN RƯỢU {\fs50}(Honky Tonk Women)
-Dialogue: 1,0:22:12.56,0:22:15.56,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(176.2,430.07)\fscx97\fscy108}BÓNG HỒNG QUÁN RƯỢU {\fs50}(Honky Tonk Women)
-Dialogue: 0,0:22:12.56,0:22:15.56,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H532A3A&\3c&H532A3A&\b0\alpha&H50&\3a&H00&\1a&H00&\pos(177.2,430.07)\fscx97\fscy108}BÓNG HỒNG QUÁN RƯỢU {\fs50}(Honky Tonk Women)
-Dialogue: 1,0:22:12.56,0:22:15.56,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\alpha&H50&\pos(177.2,430.07)\fscx97\fscy108}BÓNG HỒNG QUÁN RƯỢU {\fs50}(Honky Tonk Women)
+Dialogue: 0,0:22:12.56,0:22:15.56,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H532A3A&\3c&H532A3A&\b0\pos(176.2,430.07)\fscx155\fscy140}BÓNG HỒNG QUÁN RƯỢU
+Dialogue: 1,0:22:12.56,0:22:15.56,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(176.2,430.07)\fscx155\fscy140}BÓNG HỒNG QUÁN RƯỢU
+Dialogue: 0,0:22:12.56,0:22:15.56,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H532A3A&\3c&H532A3A&\b0\alpha&H50&\3a&H00&\1a&H00&\pos(177.2,430.07)\fscx155\fscy140}BÓNG HỒNG QUÁN RƯỢU
+Dialogue: 1,0:22:12.56,0:22:15.56,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\alpha&H50&\pos(177.2,430.07)\fscx155\fscy140}BÓNG HỒNG QUÁN RƯỢU
 Dialogue: 0,0:22:12.56,0:22:15.56,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0.7\shad0\c&H532A3A&\3c&H532A3A&\b0\pos(1382.21,74.67)\fscx59\fscy59}Phụ đề được thực hiện bởi GSGA
 Dialogue: 1,0:22:12.56,0:22:15.56,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(1382.21,74.67)\fscx59\fscy59}Phụ đề được thực hiện bởi GSGA
 Dialogue: 0,0:22:12.56,0:22:15.56,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0.7\shad0\c&H532A3A&\3c&H532A3A&\b0\pos(1382.21,124.67)\fscx59\fscy59}Dịch: KiOZ | TS: KiOZ | QC: mochi
