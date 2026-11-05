@@ -18,9 +18,9 @@ Video File: ../[JySzE] Cowboy Bebop - 03 [v3].mkv
 Video AR Mode: 4
 Video AR Value: 1.340741
 Video Zoom Percent: 0.500000
-Scroll Position: 289
-Active Line: 293
-Video Position: 4551
+Scroll Position: 165
+Active Line: 177
+Video Position: 22535
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -200,7 +200,7 @@ Dialogue: 0,0:14:56.56,0:14:58.96,Main,,0,0,0,,Mấy anh không có ý đồ gì
 Dialogue: 0,0:14:58.96,0:15:02.96,Main,,0,0,0,,Đâu có, bọn này chỉ tính đưa cô em\N đến một nơi đàng hoàng hơn thôi.
 Dialogue: 0,0:15:02.96,0:15:04.76,Main,,0,0,0,,Ái chà, là đâu cơ?
 Dialogue: 0,0:15:04.76,0:15:06.52,Main,,0,0,0,,Đồn cảnh sát.
-Dialogue: 0,0:15:06.52,0:15:10.33,Main,,0,0,0,,Thực sự xin lỗi \Nvì đã nhỏ nhen chỉ vì 200 cành.
+Dialogue: 0,0:15:06.52,0:15:10.33,Main,,0,0,0,,Thực sự xin lỗi \Nvì có 200 cành mà cũng tính toán.
 Dialogue: 0,0:15:10.33,0:15:12.22,Main,,0,0,0,,Faye Valentine.
 Dialogue: 0,0:15:12.22,0:15:14.41,Main,,0,0,0,,Tôi bị treo thưởng á?
 Dialogue: 0,0:15:14.41,0:15:16.22,Main,,0,0,0,,Kếch xù đấy, 6 triệu.
@@ -214,7 +214,7 @@ Dialogue: 0,0:15:31.02,0:15:32.48,Main,,0,0,0,,Đó là mong ước cuối đờ
 Dialogue: 0,0:15:32.48,0:15:33.41,Main,,0,0,0,,Rồi, rồi.
 Dialogue: 0,0:15:33.98,0:15:37.43,Main,,0,0,0,,Gia tộc chúng tôi \Nchu du khắp nơi tìm kiếm tình yêu.
 Dialogue: 0,0:15:37.43,0:15:38.33,Main,,0,0,0,,Là người {\i1}Romani{\i0}.
-Dialogue: 0,0:15:39.87,0:15:42.46,Main,,0,0,0,,Anh có vẻ thiếu hiểu biết,\N là dân Gypsy đó.
+Dialogue: 0,0:15:39.87,0:15:42.46,Main,,0,0,0,,Anh kém hiểu biết thật,\N là dân Gypsy đó.
 Dialogue: 0,0:15:42.92,0:15:46.16,Main,,0,0,0,,Những người không có lòng kiêu hãnh\N như hai anh,
 Dialogue: 0,0:15:46.16,0:15:47.82,Main,,0,0,0,,chúng tôi gọi là Gorja.
 Dialogue: 0,0:15:47.82,0:15:49.42,Main,,0,0,0,,Gorja thì Gorja.

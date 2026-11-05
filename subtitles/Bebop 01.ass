@@ -12,14 +12,12 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../[JySzE] Cowboy Bebop - 01 [v3].mkv
-Video File: ../[JySzE] Cowboy Bebop - 01 [v3].mkv
 Video AR Mode: 4
 Video AR Value: 1.340741
 Video Zoom Percent: 0.500000
-Scroll Position: 249
-Active Line: 257
-Video Position: 16300
+Scroll Position: 222
+Active Line: 227
+Video Position: 29691
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -263,7 +261,7 @@ Dialogue: 12,0:19:52.98,0:19:54.50,Main,,0,0,0,,Để anh chờ rồi.
 Dialogue: 12,0:19:54.80,0:19:56.52,Main,,0,0,0,,Muộn vãi! Jet à!
 Dialogue: 12,0:19:57.38,0:19:58.29,Main,,0,0,0,,Thôi chết!
 Dialogue: 12,0:20:07.69,0:20:08.57,Main,,0,0,0,,Asimov.
-Dialogue: 12,0:20:35.54,0:20:38.25,Main,,0,0,0,,Thôi anh ơi! \NCòn dùng nữa là phát điên đấy!
+Dialogue: 12,0:20:35.54,0:20:38.25,Main,,0,0,0,,Dừng lại đi!\NDùng thêm nữa là anh phát điên mất!{Thôi anh ơi! \NCòn dùng nữa là phát điên đấy!}
 Dialogue: 12,0:20:39.09,0:20:40.02,Main,,0,0,0,,Đừng mà!
 Dialogue: 12,0:21:00.05,0:21:01.72,Main,,0,0,0,,Hết đường lui rồi.
 Dialogue: 12,0:21:02.88,0:21:04.50,Main,,0,0,0,,Không thoát nổi đâu.

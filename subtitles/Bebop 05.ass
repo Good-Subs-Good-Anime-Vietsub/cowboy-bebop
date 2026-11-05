@@ -12,14 +12,12 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../[JySzE] Cowboy Bebop - 05 [v3].mkv
-Video File: ../[JySzE] Cowboy Bebop - 05 [v3].mkv
 Video AR Mode: 4
 Video AR Value: 1.340741
 Video Zoom Percent: 0.500000
-Scroll Position: 290
-Active Line: 294
-Video Position: 15879
+Scroll Position: 265
+Active Line: 280
+Video Position: 22494
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -121,7 +119,7 @@ Dialogue: 12,0:03:48.34,0:03:49.37,Main,,0,0,0,,Thế thì—
 Dialogue: 12,0:03:49.37,0:03:52.41,Main,,0,0,0,,Tiền thưởng ngon, thông tin dễ thu thập.
 Dialogue: 12,0:03:52.41,0:03:53.80,Main,,0,0,0,,Cũng có manh mối luôn.
 Dialogue: 12,0:03:54.17,0:03:55.59,Main,,0,0,0,,Có cái gì mà anh sợ thế?
-Dialogue: 12,0:03:56.60,0:04:00.03,Main,,0,0,0,,Spike, anh đang cố tình né tránh mấu chốt.
+Dialogue: 12,0:03:56.60,0:04:00.03,Main,,0,0,0,,Spike, anh đang cố tình\N lảng tránh vấn đề đấy.{Spike, anh đang cố tình né tránh mấu chốt.}
 Dialogue: 12,0:04:00.03,0:04:02.01,Main,,0,0,0,,Đang giấu giếm chuyện gì à?
 Dialogue: 12,0:04:03.21,0:04:05.14,Main,,0,0,0,,Thế cánh tay đó của anh... \Nđã xảy ra chuyện gì?
 Dialogue: 12,0:04:05.95,0:04:07.22,Main,,0,0,0,,Có liên quan không?
@@ -191,7 +189,7 @@ Dialogue: 12,0:08:43.53,0:08:45.95,Main,,0,0,0,,Đến chịu đám nhóc này!
 Dialogue: 12,0:08:45.95,0:08:48.11,Main,,0,0,0,,Tao tống cổ lên đồn hết!
 Dialogue: 12,0:08:50.70,0:08:51.76,Main,,0,0,0,,Cậu?!
 Dialogue: 12,0:08:52.17,0:08:53.01,Main,,0,0,0,,Chào~
-Dialogue: 12,0:08:59.75,0:09:02.94,Main,,0,0,0,,Uầy, tu một phát hết sạch \Nkhông tốt cho sức khỏe đâu, Annie.
+Dialogue: 12,0:08:59.75,0:09:02.94,Main,,0,0,0,,Uầy, tu một hơi hết sạch \Nkhông tốt cho sức khỏe đâu, Annie.
 Dialogue: 12,0:09:03.39,0:09:07.52,Main,,0,0,0,,Vẫn chưa ảnh hưởng bằng chuyện\N cậu đội mồ sống dậy đâu.
 Dialogue: 12,0:09:07.85,0:09:09.36,Main,,0,0,0,,Ai lại nói thế bao giờ.
 Dialogue: 12,0:09:10.39,0:09:12.66,Main,,0,0,0,,Chết rồi có nói gì cũng vô ích.
@@ -210,7 +208,7 @@ Dialogue: 12,0:09:51.64,0:09:52.65,Main,,0,0,0,,Đã gặp chuyện gì?
 Dialogue: 12,0:10:03.98,0:10:07.44,Main,,0,0,0,,Ngài Mao, chuyện này là sao?
 Dialogue: 12,0:10:07.44,0:10:10.16,Main,,0,0,0,,Không cần nói gì cả, thưa cô Valentine.
 Dialogue: 12,0:10:11.40,0:10:13.84,Main,,0,0,0,,Chúng tôi đã tìm hiểu trước rồi.
-Dialogue: 12,0:10:14.88,0:10:18.84,Main,,0,0,0,,Yên tâm, chúng tôi\N đảm bảo không tổn hại gì đâu.
+Dialogue: 12,0:10:14.88,0:10:18.84,Main,,0,0,0,,Yên tâm, chúng tôi đảm bảo\N sẽ không làm hại cô đâu.{Yên tâm, chúng tôi\N đảm bảo không tổn hại gì đâu.}
 Dialogue: 12,0:10:18.84,0:10:20.24,Main,,0,0,0,,Mời cô ngồi.
 Dialogue: 12,0:10:42.54,0:10:43.66,Main,,0,0,0,,Cô đang run.
 Dialogue: 12,0:10:45.34,0:10:47.66,Main,,0,0,0,,Anh... là ai?
@@ -270,7 +268,7 @@ Dialogue: 12,0:15:22.87,0:15:25.26,Main,,0,0,0,,Những thiên thần \Nbị đ�
 Dialogue: 12,0:15:25.26,0:15:27.55,Main,,0,0,0,,chỉ còn lựa chọn duy nhất là\N trở thành ác quỷ.
 Dialogue: 12,0:15:28.49,0:15:30.96,Main,,0,0,0,,Phải không, Spike?
 Dialogue: 12,0:15:33.48,0:15:36.33,Main,,0,0,0,,Tao chỉ đang mê man \Nmột giấc mơ không hồi kết mà thôi.
-Dialogue: 12,0:15:36.66,0:15:38.86,Main,,0,0,0,,Vậy để tao gọi dậy cho.
+Dialogue: 12,0:15:36.66,0:15:38.86,Main,,0,0,0,,Vậy để tao đánh thức mày.{Vậy để tao gọi dậy cho.}
 Dialogue: 12,0:15:38.86,0:15:40.25,Main,,0,0,0,,Cứ từ từ, Vicious.
 Dialogue: 12,0:15:40.85,0:15:42.97,Main,,0,0,0,,Chúng ta lâu rồi mới gặp mà.
 Dialogue: 12,0:15:42.97,0:15:44.58,Main,,0,0,0,,Đang xin tha mạng à?
@@ -316,7 +314,7 @@ Dialogue: 12,0:23:51.21,0:23:52.71,Main,preview,0,0,0,,Sự thật à...
 Dialogue: 12,0:23:52.71,0:23:55.28,Main,preview,0,0,0,,Thế nên tôi sẽ đập vỡ sạch đống "nắp" đó.
 Dialogue: 12,0:23:55.83,0:23:58.31,Main,preview,0,0,0,,Kỳ tới, "Cảm thông cho quỷ dữ".
 Dialogue: 12,0:23:58.31,0:23:59.57,Main,preview,0,0,0,,Nghe "bốc mùi" nhỉ.
-Comment: 0,0:23:59.57,0:24:02.57,Main,,0,0,0,,
+Comment: 0,0:23:59.57,0:24:02.57,Main,,0,0,0,,======================================
 Dialogue: 0,0:03:18.14,0:03:22.60,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H925B5E&\3c&H925B5E&\b0\pos(182.2,430.07)\fscx92\fscy99}BẢN BALLAD CỦA THIÊN THẦN SA NGÃ
 Dialogue: 0,0:03:18.14,0:03:22.60,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H925B5E&\3c&H925B5E&\b0\alpha&H50&\3a&H00&\1a&H00&\pos(183.2,430.07)\fscx92\fscy99}BẢN BALLAD CỦA THIÊN THẦN SA NGÃ
 Dialogue: 0,0:03:18.14,0:03:22.60,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0.7\shad0\c&H925B5E&\3c&H925B5E&\b0\pos(1382.21,74.67)\fscx59\fscy59}Phụ đề được thực hiện bởi GSGA
