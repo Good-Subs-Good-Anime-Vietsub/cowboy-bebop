@@ -15,8 +15,8 @@ Last Style Storage: Default
 Video AR Mode: 4
 Video AR Value: 1.340741
 Video Zoom Percent: 0.500000
-Scroll Position: 288
-Active Line: 304
+Scroll Position: 269
+Active Line: 300
 Video Position: 8731
 
 [V4+ Styles]
@@ -83,7 +83,7 @@ Dialogue: 0,0:03:48.26,0:03:50.55,Main,,0,0,0,,Nói thật, người tóm Cookwi
 Dialogue: 0,0:03:50.55,0:03:54.92,Main,,0,0,0,,Hôm nọ là hôm nào?\NChuyện 10 năm trước rồi, lão già!
 Dialogue: 0,0:03:55.32,0:04:00.13,Main,,0,0,0,,Bọn ranh con thì biết cái gì!\NChính tôi đã dạy dỗ Telpsicorei đấy!
 Dialogue: 0,0:04:00.13,0:04:02.18,Main,,0,0,0,,Thợ săn tiền thưởng huyền thoại ấy hả?
-Dialogue: 0,0:04:02.18,0:04:06.46,Main,,0,0,0,,Ờ, chỉ cần nghe tên thôi là\Nbọn tội phạm nào cũng run như cầy sấy.
+Dialogue: 0,0:04:02.18,0:04:06.46,Main,,0,0,0,,Ờ, chỉ cần nghe tên thôi là\N tên tội phạm nào cũng run như cầy sấy.
 Dialogue: 0,0:04:06.46,0:04:08.35,Main,,0,0,0,,Chuyện đó thì ai chả biết.
 Dialogue: 0,0:04:18.94,0:04:20.36,Main,,0,0,0,,Ô, Zeros.
 Dialogue: 0,0:04:20.36,0:04:22.97,Main,,0,0,0,,Chào VT. Như mọi khi chứ?
@@ -100,7 +100,7 @@ Dialogue: 0,0:04:48.17,0:04:52.77,Main,,0,0,0,,Mà mặt mũi hắn thế nào c
 Dialogue: 0,0:04:53.64,0:04:54.89,Main,,0,0,0,,Faye?
 Dialogue: 0,0:04:55.45,0:04:58.08,Main,,0,0,0,,{\i1}Bên đó thì chắc gì đã khá hơn.{\i0}
 Dialogue: 0,0:04:59.09,0:05:00.97,Main,,0,0,0,,{\i1}Chào mừng quý khách đến với Woody's!{\i0}
-Dialogue: 0,0:05:00.97,0:05:04.04,Main,,0,0,0,,{\i1}Ngay bây giờ, tất cả các bạn nhỏ\Ncó sinh nhật hôm nay{\i0}
+Dialogue: 0,0:05:00.97,0:05:04.04,Main,,0,0,0,,{\i1}Ngay bây giờ,\N tất cả các bé sinh nhật hôm nay{\i0}
 Dialogue: 0,0:05:04.04,0:05:07.12,Main,,0,0,0,,{\i1}đều được chụp ảnh cùng Mackey và Mannie!{\i0}
 Dialogue: 0,0:05:07.12,0:05:10.95,Main,,0,0,0,,{\i1}Bố mẹ các bé báo với nhân viên nhé!{\i0}
 Dialogue: 0,0:05:17.76,0:05:19.25,Main,,0,0,0,,Chào~
@@ -146,7 +146,7 @@ Dialogue: 0,0:08:27.36,0:08:29.83,Main,,0,0,0,,12 triệu của tôi...
 Dialogue: 0,0:08:32.42,0:08:37.39,Main,,0,0,0,,Đúng là bọn thợ săn tiền thưởng\Ntoàn một lũ đần với cặn bã.
 Dialogue: 0,0:08:37.39,0:08:38.38,Main,,0,0,0,,Thế à?
 Dialogue: 0,0:08:38.38,0:08:39.42,Main,,0,0,0,,Chứ sao!
-Dialogue: 0,0:08:39.42,0:08:43.79,Main,,0,0,0,,Theo những gì tôi biết, bọn chúng\Ntoàn sống kiểu đem đời ra đánh bạc thôi.
+Dialogue: 0,0:08:39.42,0:08:43.79,Main,,0,0,0,,Theo những gì tôi biết, bọn chúng \Ntoàn sống kiểu đem đời ra đánh bạc thôi.
 Dialogue: 0,0:08:44.52,0:08:46.75,Main,,0,0,0,,Chà, chắc vậy.
 Dialogue: 0,0:08:47.26,0:08:49.96,Main,,0,0,0,,Qua đây. Tôi mời cậu một cốc.
 Dialogue: 0,0:08:55.01,0:08:58.30,Main,,0,0,0,,Muốn gì? Giá đỗ tốt cho sức khỏe đấy!
@@ -276,7 +276,7 @@ Dialogue: 0,0:17:17.41,0:17:18.89,Main,,0,0,0,,{\i1}Nghe thấy thì trả lời
 Dialogue: 0,0:17:19.66,0:17:22.71,Main,,0,0,0,,{\i1}Không sao. Chừng này chưa chết được đâu.{\i0}
 Dialogue: 0,0:17:22.71,0:17:23.77,Main,,0,0,0,,Ta phải đi ngay!
 Dialogue: 0,0:17:24.52,0:17:26.44,Main,,0,0,0,,{\i1}Decker là dân chuyên thuốc nổ.{\i0}
-Dialogue: 0,0:17:26.44,0:17:29.90,Main,,0,0,0,,{\i1}Thứ hắn đang chở là\Nnitro rắn hắn định đem đi bán.{\i0}
+Dialogue: 0,0:17:26.44,0:17:29.90,Main,,0,0,0,,{\i1}Thứ hắn đang chở là\Nnitro rắn hắn định đem đi bán đấy.{\i0}
 Dialogue: 0,0:17:31.46,0:17:35.26,Main,,0,0,0,,Cả tàu á? Lượng đó đủ thổi bay\Ncả tiểu hành tinh này còn gì!
 Dialogue: 0,0:17:35.26,0:17:37.57,Main,,0,0,0,,{\i1}Đã thế, đây còn là mỏ than excel.{\i0}
 Dialogue: 0,0:17:37.57,0:17:40.08,Main,,0,0,0,,{\i1}Lò phản ứng nổ dây chuyền từ nãy rồi...{\i0}
@@ -327,14 +327,14 @@ Dialogue: 0,0:22:12.99,0:22:14.91,Main,,0,0,0,,Chắc phải lâu lắm đấy.
 Dialogue: 0,0:22:16.26,0:22:19.48,Main,,0,0,0,,Chồng tôi giờ chuyển\N lên thiên đường làm ăn rồi.
 Dialogue: 0,0:22:19.48,0:22:20.73,Main,,0,0,0,,Vậy à...
 Dialogue: 0,0:22:23.54,0:22:25.36,Main,,0,0,0,,Phần còn lại gửi cho anh nhà.
-Dialogue: 0,0:22:25.36,0:22:27.45,Main,,0,0,0,,Chắc giờ anh ấy đang khổ sở vì say.
+Dialogue: 0,0:22:25.36,0:22:27.45,Main,,0,0,0,,Chắc giờ anh ấy đang vật vã vì say.
 Dialogue: 0,0:22:29.38,0:22:31.32,Main,,0,0,0,,Để tôi mời anh ấy\Nmột cốc prairie oyster.
 Dialogue: 0,0:24:13.51,0:24:16.18,Main,preview,0,0,0,,{\i1}Thi thoảng, tôi sẽ làm phần\Ngiới thiệu tập sau một mình.{\i0}
 Dialogue: 0,0:24:16.69,0:24:18.18,Main,preview,0,0,0,,{\i1}Jet Black, 36 tuổi.{\i0}
-Dialogue: 0,0:24:19.06,0:24:22.20,Main,preview,0,0,0,,{\i1}Hay bị nói là trông không giống 36,{\i0}
-Dialogue: 0,0:24:22.20,0:24:25.61,Main,preview,0,0,0,,{\i1}nhưng đừng có đánh giá người ta\Nqua vẻ ngoài hay mái tóc.{\i0}
-Dialogue: 0,0:24:25.61,0:24:28.27,Main,preview,0,0,0,,{\i1}Mọi chuyện chả như vẻ bề ngoài đâu.{\i0}
-Dialogue: 0,0:24:28.27,0:24:29.78,Main,preview,0,0,0,,{\i1}Tập tới cũng là chuyện như vậy.{\i0}
+Dialogue: 0,0:24:19.06,0:24:22.20,Main,preview,0,0,0,,{\i1}Ai cũng bảo nhìn tôi \Nchẳng giống 36 chút nào,{\i0}
+Dialogue: 0,0:24:22.20,0:24:25.61,Main,preview,0,0,0,,{\i1}nhưng đừng có trông mặt \Nhay nhìn đầu tóc mà bắt hình dong.{\i0}
+Dialogue: 0,0:24:25.61,0:24:28.27,Main,preview,0,0,0,,{\i1}Mọi thứ chẳng như vẻ bề ngoài đâu.{\i0}
+Dialogue: 0,0:24:28.27,0:24:29.78,Main,preview,0,0,0,,{\i1}Tập sau cũng là một câu chuyện như thế.{\i0}
 Dialogue: 0,0:24:29.78,0:24:32.99,Main,preview,0,0,0,,{\i1}Một câu chuyện cổ tích cảm động \Nchả mang chút phong cách Bebop nào.{\i0}
 Dialogue: 0,0:24:32.99,0:24:36.28,Main,preview,0,0,0,,{\i1}Kỳ tới, "Điệu Waltz cho Sao Kim".{\i0}
 Dialogue: 0,0:24:36.28,0:24:38.54,Main,preview,0,0,0,,{\i1}Thi thoảng thế này cũng hay nhỉ.{\i0}
