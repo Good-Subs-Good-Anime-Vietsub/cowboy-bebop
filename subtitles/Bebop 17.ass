@@ -306,7 +306,7 @@ Dialogue: 0,0:20:10.36,0:20:11.86,Signs,sign,0,0,0,,{\fs65.8\1a&FE&\4a&be&\fax-0
 Dialogue: 2,0:20:11.86,0:20:13.69,Signs,sign,0,0,0,,{\c&HCCCCCC&\fax-0.17\fs65.8\b1\i1\fnUDDigiKyoWriting Web\blur0.5\i1\pos(430.6,1017.2)}Có gì đâu, chuyện nhỏ ấy mà.
 Dialogue: 1,0:20:11.86,0:20:13.69,Signs,sign,0,0,0,,{\fs65.8\1a&FE&\fax-0.17\shad3\b1\i1\c&HCCCCCC&\fnUDDigiKyoWriting Web\blur0.8\pos(430.6,1017.2)}Có gì đâu, chuyện nhỏ ấy mà.
 Dialogue: 0,0:20:11.86,0:20:13.69,Signs,sign,0,0,0,,{\fs65.8\1a&FE&\4a&be&\fax-0.17\shad4.5\b1\i1\c&HCCCCCC&\fnUDDigiKyoWriting Web\blur0.8\pos(430.6,1017.2)}Có gì đâu, chuyện nhỏ ấy mà.
-Comment: 1,0:22:08.37,0:22:11.29,Signs,,0,0,0,,{\an8}ĐỜI CHỈ LÀ MỘT GIẤC MỘNG...{ĐỜI NHƯ MỘNG}
+Comment: 1,0:22:08.37,0:22:11.29,Signs,,0,0,0,,ĐỜI CHỈ LÀ MỘT GIẤC MƠ...{ĐỜI NGƯỜI NHƯ MỘNG}
 Comment: 1,0:23:47.43,0:23:48.47,Signs,,0,0,0,,TẬP TIẾP THEO
 Comment: 0,0:24:13.49,0:24:16.49,Signs,,0,0,0,,TRÒ CHUYỆN NHƯ MỘT ĐỨA TRẺ
 Comment: 0,0:24:13.09,0:24:15.67,Main,,0,0,0,,======================================
