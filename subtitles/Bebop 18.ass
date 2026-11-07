@@ -18,8 +18,9 @@ Video File: ../[JySzE] Cowboy Bebop - 18 [v3].mkv
 Video AR Mode: 4
 Video AR Value: 1.340741
 Video Zoom Percent: 0.500000
-Active Line: 136
-Video Position: 13009
+Scroll Position: 262
+Active Line: 269
+Video Position: 30373
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -92,7 +93,7 @@ Dialogue: 0,0:04:08.45,0:04:10.02,Main,,0,0,0,,Không, biết đâu lại là...
 Dialogue: 0,0:04:10.02,0:04:13.19,Main,,0,0,0,,Nghĩ tới nhiều vụ quá đi mất...
 Dialogue: 0,0:04:13.19,0:04:14.87,Main,,0,0,0,,Trước mắt cứ chuồn đã!
 Dialogue: 0,0:04:17.82,0:04:19.96,Main,,0,0,0,,Không thấy đáng ngờ à?
-Dialogue: 0,0:04:19.96,0:04:22.76,Main,,0,0,0,,Cái loại phụ nữ đồ của người khác\Ncũng bảo là của mình
+Dialogue: 0,0:04:19.96,0:04:22.76,Main,,0,0,0,,Cái loại phụ nữ thấy đồ của người khác\Ncũng nhận vơ là của mình
 Dialogue: 0,0:04:22.76,0:04:25.49,Main,,0,0,0,,mà lại chuồn đi,\Nchả thèm động vào nó.
 Dialogue: 0,0:04:25.49,0:04:27.83,Main,,0,0,0,,Trông cô ta cũng kiểu\Ngây thù chuốc oán khắp nơi.
 Dialogue: 0,0:04:27.83,0:04:34.16,Main,,0,0,0,,Ờ, cứ phải kiểm tra phản ứng\Nchất nổ với hóa sinh đã...
@@ -118,7 +119,7 @@ Dialogue: 0,0:05:31.80,0:05:38.27,Main,,0,0,0,,"Do sự cố nổ Cổng Mặt T
 Dialogue: 0,0:05:38.27,0:05:39.90,Main,,0,0,0,,Đồ cổ rồi.
 Dialogue: 0,0:05:44.21,0:05:47.42,Main,,0,0,0,,{\i1}Hình như là một thứ\Ngọi là "băng video".{\i0}
 Dialogue: 0,0:05:47.42,0:05:49.83,Main,,0,0,0,,{\i1}Di vật của thời vàng son xưa kia.{\i0}
-Dialogue: 0,0:05:50.95,0:05:54.83,Main,,0,0,0,,Tự ý bỏ chạy thì\Nbị bán đi cũng đừng có kêu.
+Dialogue: 0,0:05:50.95,0:05:54.83,Main,,0,0,0,,Tự ý bỏ chạy thì \Nđồ có bị đem bán cũng đừng có kêu.
 Dialogue: 0,0:05:54.83,0:05:56.46,Main,,0,0,0,,{\i1}Bán được không đấy?{\i0}
 Dialogue: 0,0:05:56.46,0:06:00.09,Main,,0,0,0,,Nghe nói gã đó cuồng\Nphim ảnh thế kỷ 20, kiểu gì chả mua.
 Dialogue: 0,0:06:00.09,0:06:02.21,Main,,0,0,0,,Nhìn chả thấy giá trị gì.
@@ -137,8 +138,8 @@ Dialogue: 0,0:06:38.39,0:06:40.18,Main,,0,0,0,,{\i1}Cảm ơn anh.{\i0}
 Dialogue: 0,0:06:41.13,0:06:44.22,Main,,0,0,0,,{\i1}Mệt thật,\Nmai lại phải đi làm thêm từ sáng.{\i0}
 Dialogue: 0,0:06:44.22,0:06:45.60,Main,,0,0,0,,{\i1}Ngủ ngon nhé anh.{\i0}
 Dialogue: 0,0:06:45.60,0:06:46.55,Main,,0,0,0,,{\i1}Ngủ ngon.{\i0}
-Dialogue: 0,0:06:47.36,0:06:52.04,Main,,0,0,0,,Ôi, hay quá! Phim truyền hình\Nthế kỷ 20 quả nhiên là kiệt tác!
-Dialogue: 0,0:06:52.04,0:06:55.06,Main,,0,0,0,,Trái lại,\Nphim truyền hình bây giờ thì thật là...
+Dialogue: 0,0:06:47.36,0:06:52.04,Main,,0,0,0,,Ôi, hay quá! Phim truyền hình\N thế kỷ 20 đúng là kiệt tác!
+Dialogue: 0,0:06:52.04,0:06:55.06,Main,,0,0,0,,So với thời đó thì \Nphim truyền hình bây giờ đúng là...
 Dialogue: 0,0:06:55.06,0:06:56.95,Main,,0,0,0,,Tôi có cái này\Nmuốn nhờ anh xem...
 Dialogue: 0,0:06:56.95,0:06:58.33,Main,,0,0,0,,Này!
 Dialogue: 0,0:06:58.33,0:07:00.69,Main,,0,0,0,,Này này này, không được đâu anh kia!
@@ -170,7 +171,7 @@ Dialogue: 0,0:08:13.69,0:08:16.84,Main,,0,0,0,,nên được dân mê hình ản
 Dialogue: 0,0:08:16.84,0:08:20.85,Main,,0,0,0,,Nhưng... từ đó lại bắt đầu\Nlịch sử bất hạnh của Beta.
 Dialogue: 0,0:08:20.85,0:08:22.27,Main,,0,0,0,,Thôi đủ rồi, khỏi giảng.
 Dialogue: 0,0:08:22.27,0:08:24.66,Main,,0,0,0,,Hả? Mới phần dạo đầu thôi mà!
-Dialogue: 0,0:08:24.66,0:08:26.93,Main,,0,0,0,,Tôi đã nói việc của chúng tôi rồi đấy.
+Dialogue: 0,0:08:24.66,0:08:26.93,Main,,0,0,0,,Chuyện cần bàn tôi đã nói rõ rồi đấy.
 Dialogue: 0,0:08:26.93,0:08:28.73,Main,,0,0,0,,Thế nào? Có mua không?
 Dialogue: 0,0:08:36.91,0:08:39.16,Main,,0,0,0,,Thì còn tùy nội dung bên trong...
 Comment: 1,0:09:02.56,0:09:03.80,Main,,0,0,0,,Trời ơi.
@@ -184,7 +185,7 @@ Comment: 1,0:09:38.24,0:09:39.08,Main,,0,0,0,,Ối.
 Dialogue: 0,0:09:43.68,0:09:45.07,Main,,0,0,0,,Lên rồi...
 Dialogue: 0,0:09:45.07,0:09:46.35,Main,,0,0,0,,Đây rồi, lên rồi...
 Dialogue: 0,0:09:46.35,0:09:47.60,Main,,0,0,0,,Về rồi!
-Dialogue: 0,0:09:49.55,0:09:52.07,Main,,0,0,0,,Quả nhiên chó vẫn hơn ngựa!
+Dialogue: 0,0:09:49.55,0:09:52.07,Main,,0,0,0,,Biết ngay là chó vẫn hơn ngựa mà!
 Dialogue: 0,0:09:53.51,0:09:55.90,Main,,0,0,0,,Thường thì đá một phát là chạy mà.
 Dialogue: 0,0:09:58.73,0:10:02.18,Main,,0,0,0,,Nhưng anh đâu có biết\Nnặng nhẹ là gì.
 Dialogue: 0,0:10:03.66,0:10:05.79,Main,,0,0,0,,{\i1}Đền cái đầu máy cho tôi!{\i0}
@@ -224,7 +225,7 @@ Dialogue: 0,0:12:33.35,0:12:36.06,Main,,0,0,0,,Tầng hầm 28 à.
 Dialogue: 0,0:12:38.55,0:12:39.53,Main,,0,0,0,,Không chạy à?
 Dialogue: 0,0:12:46.56,0:12:48.99,Main,,0,0,0,,Dây cáp đứt nên bị mắc kẹt rồi.
 Dialogue: 0,0:14:45.19,0:14:48.11,Main,,0,0,0,,Sao chúng ta lại khổ thế này chứ?
-Dialogue: 0,0:14:48.63,0:14:51.74,Main,,0,0,0,,Thì tức là đi tìm kho báu\Nchả dễ dàng gì.
+Dialogue: 0,0:14:48.63,0:14:51.74,Main,,0,0,0,,Thì bởi đi tìm kho báu \Nđâu có dễ dàng gì.
 Dialogue: 0,0:14:51.74,0:14:53.29,Main,,0,0,0,,Kho báu?
 Dialogue: 0,0:14:53.29,0:14:55.17,Main,,0,0,0,,Kho báu là gì ấy nhỉ?
 Dialogue: 0,0:14:55.17,0:14:56.87,Main,,0,0,0,,Hộp báu chứ gì.
@@ -294,9 +295,9 @@ Dialogue: 0,0:19:38.96,0:19:41.68,Main,,0,0,0,,Ồ, cái gì đây?
 Dialogue: 0,0:19:41.68,0:19:42.95,Main,,0,0,0,,Im mà xem.
 Dialogue: 0,0:20:02.42,0:20:03.45,Main,,0,0,0,,{\i1}{\i1}À thì...{\i0}
 Dialogue: 0,0:20:04.28,0:20:05.41,Main,,0,0,0,,{\i1}Mọi người cùng nhau...{\i0}
-Dialogue: 0,0:20:06.11,0:20:10.07,Main,,0,0,0,,{\i1}mỗi người sẽ gửi lời nhắn\Ncho chính mình của mười năm sau.{\i0}
+Dialogue: 0,0:20:06.11,0:20:10.07,Main,,0,0,0,,{\i1}Mỗi người sẽ gửi lời nhắn\Ncho chính mình của mười năm sau.{\i0}
 Dialogue: 0,0:20:10.71,0:20:12.60,Main,,0,0,0,,{\i1}Ơ kìa, đừng có cười chứ!{\i0}
-Dialogue: 0,0:20:18.92,0:20:20.58,Main,,0,0,0,,{\i1}À...{\i0}
+Dialogue: 0,0:20:18.92,0:20:20.58,Main,,0,0,0,,{\i1}À thì...{\i0}
 Dialogue: 0,0:20:23.95,0:20:26.47,Main,,0,0,0,,{\i1}Đúng là ngượng thật đấy...{\i0}
 Dialogue: 0,0:20:26.47,0:20:28.66,Main,,0,0,0,,{\i1}Hả? Điều muốn nói á?{\i0}
 Dialogue: 0,0:20:32.15,0:20:33.18,Main,,0,0,0,,{\i1}Chào buổi sáng...{\i0}
@@ -306,8 +307,8 @@ Dialogue: 0,0:20:49.89,0:20:51.61,Main,,0,0,0,,{\i1}Ngủ có ngon không?{\i0}
 Dialogue: 0,0:20:51.61,0:20:53.66,Main,,0,0,0,,{\i1}Và tỉnh giấc có sảng khoái không?{\i0}
 Dialogue: 0,0:20:54.75,0:21:01.06,Main,,0,0,0,,{\i1}Ánh sáng, gió, không khí, mùi hương,\Ntất cả có thấy mới mẻ không?{\i0}
 Dialogue: 0,0:21:01.60,0:21:05.29,Main,,0,0,0,,{\i1}Từng tế bào trong cơ thể\Nđã thức dậy chưa?{\i0}
-Dialogue: 0,0:21:06.78,0:21:09.49,Main,,0,0,0,,{\i1}Hôm nay là một cậu mới của hôm nay,{\i0}
-Dialogue: 0,0:21:09.49,0:21:11.62,Main,,0,0,0,,{\i1}và cũng là một mình mới đấy.{\i0}
+Dialogue: 0,0:21:06.78,0:21:09.49,Main,,0,0,0,,{\i1}Hôm nay đã là một "cậu" mới,{\i0}
+Dialogue: 0,0:21:09.49,0:21:11.62,Main,,0,0,0,,{\i1}và cũng là một "mình" mới đấy.{\i0}
 Dialogue: 0,0:21:15.29,0:21:17.38,Main,,0,0,0,,{\i1}Mình của mười năm sau...{\i0}
 Dialogue: 0,0:21:17.38,0:21:20.95,Main,,0,0,0,,{\i1}với mình bây giờ còn xa quá,\Nchả hình dung nổi.{\i0}
 Dialogue: 0,0:21:21.83,0:21:23.08,Main,,0,0,0,,{\i1}Mình vẫn chỉ có một mình à?{\i0}
