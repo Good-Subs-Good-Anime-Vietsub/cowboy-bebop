@@ -13,13 +13,11 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../[JySzE] Cowboy Bebop - 22 [v3].mkv
-Video File: ../[JySzE] Cowboy Bebop - 22 [v3].mkv
 Video AR Mode: 4
 Video AR Value: 1.340741
 Video Zoom Percent: 0.500000
 Scroll Position: 285
-Active Line: 290
+Active Line: 303
 Video Position: 31621
 
 [V4+ Styles]
@@ -336,11 +334,11 @@ Dialogue: 0,0:22:10.23,0:22:12.69,Main,,0,0,0,,Gọi ta là... Musashi!
 Dialogue: 0,0:22:12.69,0:22:15.69,Main,,0,0,0,,Tiến lên, Jiromaru!
 Dialogue: 0,0:22:17.78,0:22:18.76,Main,,0,0,0,,Nhưng...
 Dialogue: 0,0:22:19.68,0:22:21.91,Main,,0,0,0,,chuyện đó rốt cuộc\Ncũng là lãng phí nhỉ.
-Dialogue: 0,0:24:13.01,0:24:15.84,Main,preview,0,0,0,,{\i1}Màn tung hoành của ta lần này\Ncác ngươi có xem kỹ không?{\i0}
+Dialogue: 0,0:24:13.01,0:24:15.84,Main,preview,0,0,0,,{\i1}Các ngươi đã chiêm ngưỡng kỹ \Nmàn tung hoành của ta lần này chưa?{\i0}
 Dialogue: 0,0:24:15.84,0:24:17.02,Main,preview,0,0,0,,{\i1}Này, khoan đã.{\i0}
 Dialogue: 0,0:24:17.02,0:24:18.88,Main,preview,0,0,0,,Giờ thì, tập sau là...
 Dialogue: 0,0:24:18.88,0:24:20.47,Main,preview,0,0,0,,Sao mày lại đi giới thiệu tập sau hả?
-Dialogue: 0,0:24:20.47,0:24:23.32,Main,preview,0,0,0,,{\i1}Lại một lần nữa\Nta, tức Andy, tung hoành!{\i0}
+Dialogue: 0,0:24:20.47,0:24:23.32,Main,preview,0,0,0,,{\i1}Lại một lần nữa,\Nta, tức Andy, tung hoành!{\i0}
 Dialogue: 0,0:24:23.32,0:24:25.21,Main,preview,0,0,0,,{\i1}Vai của mày hết rồi mà!{\i0}
 Dialogue: 0,0:24:25.21,0:24:29.04,Main,preview,0,0,0,,{\i1}Ta giờ đã thành samurai không gian,\Nquật ngã đám cao bồi lia lịa!{\i0}
 Dialogue: 0,0:24:29.04,0:24:30.53,Main,preview,0,0,0,,{\i1}Mày không xuất hiện nữa đâu!{\i0}
