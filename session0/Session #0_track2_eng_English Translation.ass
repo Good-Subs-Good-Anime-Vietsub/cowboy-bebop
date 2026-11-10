@@ -1,0 +1,228 @@
+[Script Info]
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,60,&H00FFFFFF,&H00000000,&H4D000000,&H81000000,-1,0,0,0,100,100,0,0,1,3,0,2,60,60,40,1
+Style: Top,Arial,60,&H00FFFFFF,&H00000000,&H4D000000,&H81000000,-1,0,0,0,100,100,0,0,1,3,0,8,60,60,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:38.60,0:01:44.57,Top,,0,0,0,,"Spike Spiegel"\N"Age: 27 · Born: Mars · Bounty Hunter"
+Dialogue: 0,0:01:57.95,0:02:02.69,Top,,0,0,0,,"Jet Black" "Age: 36 ·\NBloodtype: A · Ex-Cop, Spike's Partner"
+Dialogue: 0,0:02:04.39,0:02:06.43,Default,,0,0,0,,That guy that was just here?
+Dialogue: 0,0:02:06.59,0:02:08.76,Default,,0,0,0,,Something on your mind?
+Dialogue: 0,0:02:08.93,0:02:10.40,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:02:09.93,0:02:13.73,Top,,0,0,0,,"Faye Valentine" "Age: 23 · Bloodtype: B ·\NBorn: Unknown · History: Unknown"
+Dialogue: 0,0:02:13.70,0:02:16.47,Default,,0,0,0,,So she does smell like money, huh?
+Dialogue: 0,0:02:16.64,0:02:17.77,Default,,0,0,0,,You have got to be kidding!
+Dialogue: 0,0:02:17.94,0:02:20.31,Default,,0,0,0,,Jet, how much did you have?
+Dialogue: 0,0:02:20.47,0:02:22.31,Default,,0,0,0,,Oh, 200K. Easy.
+Dialogue: 0,0:02:22.48,0:02:25.28,Default,,0,0,0,,The information isn't connected to Earth.
+Dialogue: 0,0:02:25.45,0:02:27.95,Default,,0,0,0,,It's connected only between satellites.
+Dialogue: 0,0:02:28.12,0:02:30.68,Default,,0,0,0,,And nobody hacked into it...
+Dialogue: 0,0:02:30.02,0:02:33.12,Top,,0,0,0,,"Ed" "Age: 13 · Bloodtype: AB ·\NBorn: Earth · Hacker"
+Dialogue: 0,0:02:33.25,0:02:34.59,Default,,0,0,0,,Hey? What's wrong?!
+Dialogue: 0,0:02:34.76,0:02:37.09,Default,,0,0,0,,I'm after a bounty worth 1.8 million.
+Dialogue: 0,0:02:42.06,0:02:44.43,Default,,0,0,0,,How about making some pocket cash?
+Dialogue: 0,0:02:53.57,0:02:55.78,Default,,0,0,0,,We're spending a lot of money...
+Dialogue: 0,0:02:55.94,0:03:00.48,Default,,0,0,0,,It's about the life and love...\Nof bounty hunters in space.
+Dialogue: 0,0:03:06.22,0:03:08.39,Default,,0,0,0,,Please watch the show!
+Dialogue: 0,0:03:06.22,0:03:10.06,Top,,0,0,0,,"Animator: Yutaka Nakamura"
+Dialogue: 0,0:03:08.56,0:03:09.82,Default,,0,0,0,,Yea...
+Dialogue: 0,0:03:11.96,0:03:21.97,Top,,0,0,0,,"Producer: Yoshiyuki Takei"\N"Q. What's the most difficult task?"
+Dialogue: 0,0:03:12.63,0:03:19.23,Default,,0,0,0,,Well, I have to think about the surrounding\Nenvironment and situation of each act
+Dialogue: 0,0:03:19.40,0:03:27.51,Default,,0,0,0,,and the overall depth of each scene\Nbefore creating the structure.
+Dialogue: 0,0:03:27.68,0:03:30.68,Default,,0,0,0,,So that, I think, is pretty...
+Dialogue: 0,0:03:30.84,0:03:32.58,Default,,0,0,0,,...troublesome.
+Dialogue: 0,0:03:32.85,0:03:39.22,Top,,0,0,0,,"Character Designs: Toshihiro Kawamoto"\N"Q. What's the most difficult task?"
+Dialogue: 0,0:03:35.02,0:03:36.65,Default,,0,0,0,,How 'bout... the schedule?!
+Dialogue: 0,0:03:36.82,0:03:39.22,Default,,0,0,0,,That's not it?! No?!
+Dialogue: 0,0:03:41.99,0:03:49.56,Top,,0,0,0,,"Mechanical Designs: Kimitoshi Yamane"\N"Q. What's the most difficult task?"
+Dialogue: 0,0:03:42.16,0:03:44.43,Default,,0,0,0,,It's like any other work, but trying to
+Dialogue: 0,0:03:44.59,0:03:49.63,Default,,0,0,0,,come up with a completely new and\Ndifferent vision is the toughest for me.
+Dialogue: 0,0:03:49.80,0:03:53.43,Default,,0,0,0,,Making sure that I'm on top of
+Dialogue: 0,0:03:49.83,0:04:00.64,Top,,0,0,0,,"Cultural / Setting Production: Satoshi Toba"\N"Q. What's the most difficult task?"
+Dialogue: 0,0:03:53.60,0:03:58.57,Default,,0,0,0,,all important aspects and probably\Nthe schedule for my work.
+Dialogue: 0,0:03:58.74,0:04:00.91,Default,,0,0,0,,I'm comfortable with the rest.
+Dialogue: 0,0:04:04.88,0:04:05.78,Top,,0,0,0,,"Barbeque Party"
+Dialogue: 0,0:04:12.02,0:04:19.56,Top,,0,0,0,,"Q. What's 'HYPERSPACE'?"
+Dialogue: 0,0:04:12.12,0:04:15.39,Default,,0,0,0,,It's the black line in between\Neach frame on the film.
+Dialogue: 0,0:04:15.56,0:04:18.03,Default,,0,0,0,,Actually, there's a rationale behind it.
+Dialogue: 0,0:04:18.19,0:04:19.79,Default,,0,0,0,,Ask Mr. Kawamori.
+Dialogue: 0,0:04:21.40,0:04:23.13,Top,,0,0,0,,"Shoji Kawamori Phone Interview"
+Dialogue: 0,0:04:23.73,0:04:28.80,Default,,0,0,0,,Well, the story is set\Nin the solar system,
+Dialogue: 0,0:04:24.60,0:04:28.44,Top,,0,0,0,,"Q. About hyperspace...\N(Shoji Kawamori, SF Settings)"
+Dialogue: 0,0:04:28.44,0:04:32.77,Top,,0,0,0,,"Mecha designer, planner, sci-fi worldbuilder,\Nand director affiliated with Studio Nue."
+Dialogue: 0,0:04:28.97,0:04:33.01,Default,,0,0,0,,but we can't take one or two\Nmonths to get somewhere.
+Dialogue: 0,0:04:32.77,0:04:35.64,Top,,0,0,0,,"Important works include Macross."
+Dialogue: 0,0:04:33.17,0:04:36.11,Default,,0,0,0,,And I didn't want to use\Na warp environment,
+Dialogue: 0,0:04:36.28,0:04:38.58,Default,,0,0,0,,so I wanted to come up\Nwith something else.
+Dialogue: 0,0:04:38.75,0:04:42.78,Default,,0,0,0,,The line between the frames of film\Nis much thinner than a frame itself.
+Dialogue: 0,0:04:42.95,0:04:45.12,Default,,0,0,0,,If we were to compare\Nthe environment to film,
+Dialogue: 0,0:04:45.29,0:04:48.82,Default,,0,0,0,,the line between the\Nframes is much skinnier
+Dialogue: 0,0:04:48.99,0:04:52.79,Default,,0,0,0,,than a frame making up the picture.
+Dialogue: 0,0:04:52.96,0:04:58.60,Default,,0,0,0,,Compare that to the size of space,\Nwhich is 1/240 in scale.
+Dialogue: 0,0:04:58.77,0:05:03.17,Default,,0,0,0,,So because you're in a space that's\N1/240 the scale of regular space,
+Dialogue: 0,0:05:03.34,0:05:08.44,Default,,0,0,0,,if you move 1, you'll travel 240\Nand get where you want to go.
+Dialogue: 0,0:05:08.61,0:05:12.68,Default,,0,0,0,,That's the rough\Nexplanation of the theory...
+Dialogue: 0,0:05:19.99,0:05:34.17,Top,,0,0,0,,"Director: Shinichiro Watanabe"\N"Q. How did this project start?"
+Dialogue: 0,0:05:20.59,0:05:24.83,Default,,0,0,0,,I was told to create something...
+Dialogue: 0,0:05:24.99,0:05:27.66,Default,,0,0,0,,...that involved spaceships\Nand to submit a concept.
+Dialogue: 0,0:05:27.83,0:05:30.10,Default,,0,0,0,,They said as long as it\Nportrayed spaceships
+Dialogue: 0,0:05:30.26,0:05:32.03,Default,,0,0,0,,they wouldn't question anything.
+Dialogue: 0,0:05:32.20,0:05:34.07,Default,,0,0,0,,So I agreed.
+Dialogue: 0,0:05:34.23,0:05:38.94,Default,,0,0,0,,I had to create a non-existent\Nworld step by step, and make it
+Dialogue: 0,0:05:34.60,0:05:44.61,Top,,0,0,0,,"Q. What took a lot of time?"
+Dialogue: 0,0:05:39.11,0:05:42.81,Default,,0,0,0,,seem as though life actually existed.
+Dialogue: 0,0:05:42.98,0:05:47.98,Default,,0,0,0,,I had to consider every aspect...\Nincluding trash cans and telephone poles.
+Dialogue: 0,0:05:48.15,0:05:52.35,Default,,0,0,0,,And usually, I don't think about\Nthese things, cause it's a pain,
+Dialogue: 0,0:05:52.52,0:05:57.52,Default,,0,0,0,,but when I did, it took\Na lot of time and effort.
+Dialogue: 0,0:05:57.69,0:06:01.26,Default,,0,0,0,,I wanted to create something\Nthat had never been seen.
+Dialogue: 0,0:05:58.19,0:06:08.20,Top,,0,0,0,,"Q. What did you want to express the most?"
+Dialogue: 0,0:06:01.43,0:06:09.34,Default,,0,0,0,,These days, many people try to\Ncreate things like what they've enjoyed
+Dialogue: 0,0:06:09.50,0:06:16.78,Default,,0,0,0,,out of all the things\Nthey've seen in the past.
+Dialogue: 0,0:06:16.94,0:06:20.68,Default,,0,0,0,,That's not what I wanted to do.
+Dialogue: 0,0:06:20.85,0:06:23.95,Default,,0,0,0,,I probably included\Nwhat I've seen and liked...
+Dialogue: 0,0:06:24.12,0:06:29.09,Default,,0,0,0,,But the overall picture will\Nbecome something totally new.
+Dialogue: 0,0:06:29.26,0:06:32.79,Default,,0,0,0,,Creating something never seen before...
+Dialogue: 0,0:06:32.96,0:06:36.06,Default,,0,0,0,,...was my goal... sort of.
+Dialogue: 0,0:06:36.23,0:06:40.07,Default,,0,0,0,,Spike's past, or his karma.
+Dialogue: 0,0:06:36.63,0:06:46.64,Top,,0,0,0,,"Q. What's the theme of the series?"
+Dialogue: 0,0:06:40.23,0:06:48.44,Default,,0,0,0,,Part of his life you haven't seen.\NPeople wanted to, but...
+Dialogue: 0,0:06:48.61,0:06:52.31,Default,,0,0,0,,...we couldn't show it on television.
+Dialogue: 0,0:06:54.05,0:06:59.32,Default,,0,0,0,,On video, in the 26 episode series,\Nyou see it gradually.
+Dialogue: 0,0:06:59.49,0:07:04.52,Default,,0,0,0,,It's the underlying theme\Nthroughout the show.
+Dialogue: 0,0:07:17.87,0:07:27.88,Top,,0,0,0,,"Series Composer: Keiko Nobumoto"\N"Q. Why did you work on this project?"
+Dialogue: 0,0:07:17.97,0:07:24.18,Default,,0,0,0,,I first worked with the director,\NMr. Watanabe, on Macross Plus.
+Dialogue: 0,0:07:24.34,0:07:33.95,Default,,0,0,0,,Later, I was asked to work on a series\Ndirected by Mr. Watanabe.
+Dialogue: 0,0:07:34.12,0:07:40.79,Default,,0,0,0,,I still don't know what a Series\NComposer is supposed to do...
+Dialogue: 0,0:07:40.96,0:07:47.70,Default,,0,0,0,,I'm writing the scripts for\Na number of episodes.
+Dialogue: 0,0:07:47.87,0:07:58.68,Default,,0,0,0,,The use of gaps. This series\Nmakes really smart use of gaps.
+Dialogue: 0,0:07:48.27,0:07:58.91,Top,,0,0,0,,"Q. How is it different from other anime?"
+Dialogue: 0,0:07:59.55,0:08:09.56,Top,,0,0,0,,"Music: Yoko Kanno"\N"Q. How is the music used in the series?"
+Dialogue: 0,0:07:59.81,0:08:06.62,Default,,0,0,0,,I was sometimes so amazed to find\Ncertain pieces used for certain scenes.
+Dialogue: 0,0:08:06.79,0:08:12.46,Default,,0,0,0,,Some of the pieces I wish they\Nused for different scenes...
+Dialogue: 0,0:08:12.63,0:08:18.43,Default,,0,0,0,,But I didn't find any\Nthat were inappropriate.
+Dialogue: 0,0:08:18.60,0:08:20.67,Default,,0,0,0,,So, I'm happy.
+Dialogue: 0,0:08:20.83,0:08:25.94,Default,,0,0,0,,Everyone is so relaxed...
+Dialogue: 0,0:08:21.03,0:08:31.04,Top,,0,0,0,,"Q. How about the production team?"
+Dialogue: 0,0:08:26.11,0:08:30.78,Default,,0,0,0,,...like, they're sitting around all lazy.
+Dialogue: 0,0:08:30.94,0:08:35.65,Default,,0,0,0,,I don't think they say they're tired.
+Dialogue: 0,0:08:35.82,0:08:42.29,Default,,0,0,0,,Anime, either commercials or TV,\Nthey're all so serious, always arguing...
+Dialogue: 0,0:08:42.46,0:08:44.32,Default,,0,0,0,,"This scene should be like this..."
+Dialogue: 0,0:08:44.49,0:08:47.69,Default,,0,0,0,,"No, no, the heroine\Nshouldn't say such a word!"
+Dialogue: 0,0:08:47.86,0:08:49.50,Default,,0,0,0,,That's my impression.
+Dialogue: 0,0:08:49.66,0:08:52.17,Default,,0,0,0,,But this team...
+Dialogue: 0,0:08:52.33,0:08:56.34,Default,,0,0,0,,They're totally slacking off...
+Dialogue: 0,0:08:56.50,0:09:01.91,Default,,0,0,0,,And it shows in this anime!
+Dialogue: 0,0:09:09.82,0:09:18.06,Top,,0,0,0,,"Producer: Masahiko Minami "Q. What were\Nyour intentions when producing Bebop?"
+Dialogue: 0,0:09:09.88,0:09:14.62,Default,,0,0,0,,I've been doing robot\Nstories, and I wanted
+Dialogue: 0,0:09:14.79,0:09:17.99,Default,,0,0,0,,to do something different this time.
+Dialogue: 0,0:09:18.16,0:09:30.10,Default,,0,0,0,,When I watch the rushes...\NThey're really solid.
+Dialogue: 0,0:09:18.46,0:09:28.47,Top,,0,0,0,,"Q. What's your impression?"
+Dialogue: 0,0:09:30.27,0:09:35.84,Default,,0,0,0,,We're putting a lot of\Ntime and money into it...
+Dialogue: 0,0:09:36.01,0:09:39.25,Default,,0,0,0,,...hoping to recoup the costs.
+Dialogue: 0,0:09:39.98,0:09:43.98,Default,,0,0,0,,We're going to make a lot of money...
+Dialogue: 0,0:09:44.15,0:09:45.45,Default,,0,0,0,,Cut!
+Dialogue: 0,0:09:55.53,0:09:59.97,Default,,0,0,0,,It's a promise... to be\Na member of the Bebop.
+Dialogue: 0,0:09:59.73,0:10:02.00,Top,,0,0,0,,"Ed: Aoi Tada"
+Dialogue: 0,0:10:01.87,0:10:08.78,Default,,0,0,0,,Very smart, and sensitive,\Nbut also a little naïve.
+Dialogue: 0,0:10:02.00,0:10:14.78,Top,,0,0,0,,"Ed: Aoi Tada"\N"Q. What's Ed like?"
+Dialogue: 0,0:10:08.94,0:10:14.61,Default,,0,0,0,,Someone who can make everyone happy.
+Dialogue: 0,0:10:14.78,0:10:16.72,Default,,0,0,0,,It's deep, not superficial.
+Dialogue: 0,0:10:14.78,0:10:23.32,Top,,0,0,0,,"Q. What do you think about the series?"
+Dialogue: 0,0:10:16.88,0:10:23.22,Default,,0,0,0,,They're trying to tell you something.
+Dialogue: 0,0:10:23.39,0:10:25.69,Default,,0,0,0,,It's been three years since\NI teamed up with you.
+Dialogue: 0,0:10:25.86,0:10:29.63,Default,,0,0,0,,But I never knew you\Nlooked at me that way!
+Dialogue: 0,0:10:29.80,0:10:34.03,Default,,0,0,0,,I was under the impression\Nthat you were the lonely one!
+Dialogue: 0,0:10:34.20,0:10:35.94,Default,,0,0,0,,Well we got rid of that misunderstanding.
+Dialogue: 0,0:10:36.10,0:10:37.47,Default,,0,0,0,,Good riddance!
+Dialogue: 0,0:10:37.64,0:10:39.81,Default,,0,0,0,,Now we'll have more money for food!
+Dialogue: 0,0:10:40.47,0:10:54.59,Top,,0,0,0,,"Jet: Unsho Ishizuka"\N"Q. Your first impression of Jet?"
+Dialogue: 0,0:10:40.67,0:10:45.85,Default,,0,0,0,,Gosh, a bald and brawny guy...
+Dialogue: 0,0:10:46.01,0:10:51.69,Default,,0,0,0,,Why me? I thought Yamadera\Nwas better suited for the role.
+Dialogue: 0,0:10:51.85,0:10:54.49,Default,,0,0,0,,I guess not...
+Dialogue: 0,0:10:54.65,0:10:58.79,Default,,0,0,0,,I think of it as a movie...
+Dialogue: 0,0:10:54.99,0:11:05.00,Top,,0,0,0,,"Q. How's your enthusiasm for the series?"
+Dialogue: 0,0:10:58.96,0:11:02.80,Default,,0,0,0,,Making a movie every week one by one.
+Dialogue: 0,0:11:02.96,0:11:07.30,Default,,0,0,0,,I can take care of it the\Nsame day I get the script.
+Dialogue: 0,0:11:07.47,0:11:09.57,Default,,0,0,0,,No, just joking!
+Dialogue: 0,0:11:09.67,0:11:17.04,Top,,0,0,0,,"Spike: Koichi Yamadera"\N"Q. Your reaction to getting the part?"
+Dialogue: 0,0:11:09.74,0:11:12.61,Default,,0,0,0,,It said "protagonist." I was happy.
+Dialogue: 0,0:11:12.77,0:11:17.18,Default,,0,0,0,,It's my first protagonist in an anime\Nseries after ten years in the business.
+Dialogue: 0,0:11:17.34,0:11:23.28,Default,,0,0,0,,You really need to watch this whole release!\NBecause not everything was broadcast!
+Dialogue: 0,0:11:17.51,0:11:27.52,Top,,0,0,0,,"Q. Please promote Cowboy Bebop."
+Dialogue: 0,0:11:23.45,0:11:26.25,Default,,0,0,0,,Not because I'm in it.
+Dialogue: 0,0:11:26.42,0:11:27.95,Default,,0,0,0,,Maybe a little bit.
+Dialogue: 0,0:11:28.12,0:11:31.39,Default,,0,0,0,,If all of it's about this much...
+Dialogue: 0,0:11:31.56,0:11:36.50,Default,,0,0,0,,Anyway, it's a great show. Check it out!
+Dialogue: 0,0:11:36.66,0:11:38.10,Default,,0,0,0,,Everyone--check, check it out!
+Dialogue: 0,0:11:38.27,0:11:40.70,Default,,0,0,0,,Hi.
+Dialogue: 0,0:11:40.87,0:11:43.74,Default,,0,0,0,,Whadduyawant? Ya wanna get some?
+Dialogue: 0,0:11:43.90,0:11:47.11,Default,,0,0,0,,I'd rather be the one that gives some.
+Dialogue: 0,0:11:47.27,0:11:48.84,Default,,0,0,0,,I'm fine with that.
+Dialogue: 0,0:11:49.01,0:11:50.81,Default,,0,0,0,,Hands in the air...
+Dialogue: 0,0:11:49.94,0:11:53.41,Top,,0,0,0,,"Q. Your first impression of Faye?"
+Dialogue: 0,0:11:50.98,0:11:53.35,Default,,0,0,0,,She's a disagreeable woman.
+Dialogue: 0,0:11:53.41,0:11:57.88,Top,,0,0,0,,"Faye: Megumi Hayashibara"\N"Q. What is Faye like?"
+Dialogue: 0,0:11:53.51,0:11:57.82,Default,,0,0,0,,She's... very raw.
+Dialogue: 0,0:11:57.98,0:12:08.63,Default,,0,0,0,,Her rawness... She's so very human,\Nand I used that to enter into her character.
+Dialogue: 0,0:11:58.35,0:12:08.33,Top,,0,0,0,,"Q. What did you pay special attention to?"
+Dialogue: 0,0:12:10.63,0:12:14.13,Default,,0,0,0,,--Excuse me!\N--That was Spike...
+Dialogue: 0,0:12:14.10,0:12:24.11,Top,,0,0,0,,"Q. What about the unbroadcast parts?"
+Dialogue: 0,0:12:15.60,0:12:27.41,Default,,0,0,0,,Those who watched it on TV every\Nweek would definitely want to see more.
+Dialogue: 0,0:12:27.58,0:12:30.58,Default,,0,0,0,,Your wish will come true...
+Dialogue: 0,0:12:32.95,0:12:39.46,Top,,0,0,0,,"Unaired TV Episode Digest"
+Dialogue: 0,0:13:14.09,0:13:19.00,Default,,0,0,0,,Asimov Solensan.\NThis is our next target.
+Dialogue: 0,0:13:19.17,0:13:20.57,Default,,0,0,0,,Hey, Jet...
+Dialogue: 0,0:13:20.73,0:13:24.44,Default,,0,0,0,,He's a higher-up in the syndicate\Nthat deals all around the asteroids.
+Dialogue: 0,0:13:24.60,0:13:26.71,Default,,0,0,0,,...about this beef with bell peppers...
+Dialogue: 0,0:13:26.87,0:13:29.44,Default,,0,0,0,,The guy's name is Asimov Solensan.\NWeren't you listening to me?!
+Dialogue: 0,0:13:33.55,0:13:37.25,Default,,0,0,0,,This is dandy, but you got anything to eat?
+Dialogue: 0,0:13:41.42,0:13:42.76,Default,,0,0,0,,I see...
+Dialogue: 0,0:13:45.49,0:13:50.10,Default,,0,0,0,,The red-eyed coyote will appear\Nat the north end of town.
+Dialogue: 0,0:13:50.26,0:13:52.17,Default,,0,0,0,,That is what I see.
+Dialogue: 0,0:13:52.33,0:13:54.17,Default,,0,0,0,,A red-eyed coyote, huh...
+Dialogue: 0,0:14:30.87,0:14:35.31,Default,,0,0,0,,We, the Space Warriors, work night\Nand day to preserve the environment
+Dialogue: 0,0:14:35.48,0:14:39.95,Default,,0,0,0,,and protect endangered\Nspecies all over the universe.
+Dialogue: 0,0:14:43.82,0:14:46.39,Default,,0,0,0,,If Mom doesn't come back...
+Dialogue: 0,0:14:46.55,0:14:49.42,Default,,0,0,0,,...we'll set that plan\Ninto action immediately.
+Dialogue: 0,0:14:49.59,0:14:53.26,Default,,0,0,0,,W-Wait! We're not going\Nagainst your wishes--
+Dialogue: 0,0:14:59.77,0:15:02.80,Default,,0,0,0,,Doesn't look like it would ease my hunger...
+Dialogue: 0,0:15:08.04,0:15:09.21,Default,,0,0,0,,Chief!
+Dialogue: 0,0:15:09.38,0:15:10.31,Default,,0,0,0,,What?
+Dialogue: 0,0:15:10.48,0:15:12.51,Default,,0,0,0,,The one who nabbed Twinkle...
+Dialogue: 0,0:15:12.68,0:15:14.75,Default,,0,0,0,,You found them?!
+Dialogue: 0,0:15:14.91,0:15:19.45,Default,,0,0,0,,And, that guy told you\Nto take this to the ISSP?
+Dialogue: 0,0:15:19.62,0:15:21.99,Default,,0,0,0,,Yup. Doesn't that look\Nlike it's worth something?
+Dialogue: 0,0:15:22.16,0:15:24.62,Default,,0,0,0,,So, how about we call it even?
+Dialogue: 0,0:15:34.13,0:15:37.10,Default,,0,0,0,,Who... are you?
+Dialogue: 0,0:15:39.41,0:15:41.11,Default,,0,0,0,,Vicious.
+Dialogue: 0,0:15:41.27,0:15:43.78,Default,,0,0,0,,So, what do you want to know?
+Dialogue: 0,0:15:43.94,0:15:45.98,Default,,0,0,0,,Mao Yenrai.
+Dialogue: 0,0:15:47.18,0:15:49.18,Default,,0,0,0,,What happened to him?
+Dialogue: 0,0:15:53.49,0:15:59.16,Default,,0,0,0,,Angels that are forced from\Nheaven have to become demons.
+Dialogue: 0,0:15:59.33,0:16:01.36,Default,,0,0,0,,Isn't that right, Spike?
+Dialogue: 0,0:16:04.20,0:16:07.27,Default,,0,0,0,,I'm only watching a dream\Nthat I never awakened from.
+Dialogue: 0,0:16:28.25,0:16:30.76,Default,,0,0,0,,Hey you! Don't die! Hey!
+Dialogue: 0,0:16:30.92,0:16:34.13,Default,,0,0,0,,Shit, are you going to wipe out my bounty?
+Dialogue: 0,0:16:34.29,0:16:38.60,Default,,0,0,0,,D-Don't be fooled by his appearance...
+Dialogue: 0,0:16:38.77,0:16:41.00,Default,,0,0,0,,You idiot! Don't speak!
+Dialogue: 0,0:16:41.17,0:16:44.64,Default,,0,0,0,,...him... Help...
+Dialogue: 0,0:16:50.84,0:16:55.58,Default,,0,0,0,,Giraffe was going after the top spot\Nin the group, but he was betrayed.
+Dialogue: 0,0:16:55.75,0:16:59.92,Default,,0,0,0,,However, Zebra was still alive...
+Dialogue: 0,0:21:04.16,0:21:09.74,Default,,0,0,0,,Too much time has passed by...
+Dialogue: 0,0:21:09.90,0:21:15.98,Default,,0,0,0,,...to lament that we were deeply in love.
+Dialogue: 0,0:21:16.14,0:21:21.48,Default,,0,0,0,,The wind keeps blowing, while my heart...
+Dialogue: 0,0:21:21.65,0:21:26.62,Default,,0,0,0,,...cannot heal all the tears in it.
+Dialogue: 0,0:21:28.55,0:21:37.10,Default,,0,0,0,,Someone, cry for me with parched eyes.
+Dialogue: 0,0:21:39.23,0:21:42.44,Default,,0,0,0,,The real folk blues.
+Dialogue: 0,0:21:42.60,0:21:51.01,Default,,0,0,0,,I only want to know what true sadness is.
+Dialogue: 0,0:21:51.18,0:21:58.55,Default,,0,0,0,,Sitting in muddy water...
+Dialogue: 0,0:21:58.72,0:22:03.12,Default,,0,0,0,,...isn't such a bad life...
+Dialogue: 0,0:22:03.29,0:22:12.03,Default,,0,0,0,,...if it ends after the first time...
