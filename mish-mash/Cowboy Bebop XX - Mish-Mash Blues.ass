@@ -21,9 +21,9 @@ Keyframes File: Cowboy Bebop XX - Mish-Mash Blues_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 319
-Active Line: 369
-Video Position: 31841
+Scroll Position: 370
+Active Line: 375
+Video Position: 33990
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,6 +37,8 @@ Style: GT 2,Adobe Clean,42,&H00FFFFFF,&H000000FF,&H000A0937,&HB40000FF,-1,0,0,0,
 Style: Signs,Arial,80,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: insert-1,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
 Style: OST,KiOZ BunaeroPro Dialogue,66,&H00FFFFFF,&H000000FF,&H00000000,&HA9000000,0,0,0,0,100,100,0,0,1,3,0,7,60,60,60,1
+Style: ED-Vie,SVN-Bree,66,&H00FFFFFF,&H000019FF,&H00020A16,&H78000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,45,1
+Style: GT,Adobe Clean,50,&H00FFFFFF,&H000000FF,&H00000000,&H82000000,-1,0,0,0,100,100,0,0,3,0,0.0740741,8,10,10,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -366,47 +368,61 @@ Dialogue: 0,0:18:59.20,0:19:02.70,GT 2,,0,0,0,,{\an8}(Bài hát của Bob Dylan)
 Dialogue: 0,0:19:20.22,0:19:24.19,Signs,,0,0,0,,ĐÂY CHƯA PHẢI LÀ KẾT THÚC.
 Dialogue: 0,0:19:26.40,0:19:32.40,Signs,,0,0,0,,BẠN SẼ ĐƯỢC THẤY "COWBOY BEBOP" ĐÍCH THỰC VÀO MỘT NGÀY NÀO ĐÓ!
 Comment: 0,0:22:13.77,0:22:16.77,Main,,0,0,0,,======================================
-Dialogue: 0,0:19:41.61,0:19:44.58,OST,,0,0,0,,Bầu trời bị cướp mất, ngày mai vỡ tan
-Dialogue: 0,0:19:44.58,0:19:47.29,OST,,0,0,0,,Bóng tối sinh sôi gặm nhấm tâm can
-Dialogue: 0,0:19:47.29,0:19:49.79,OST,,0,0,0,,Giấc mơ khô cằn, quen dần bất an
-Dialogue: 0,0:19:49.79,0:19:53.46,OST,,0,0,0,,Ah, bầu trời trôi về đâu giữa muôn vàn hoang mang?
-Dialogue: 0,0:19:53.46,0:19:55.04,OST,,0,0,0,,Hãy nói cho tôi biết,
-Dialogue: 0,0:19:55.04,0:19:58.46,OST,,0,0,0,,chim trời, mây ngàn, vì sao\N và chính tôi đang mất chốn dung thân
-Dialogue: 0,0:19:58.46,0:20:00.76,OST,,0,0,0,,Ranh giới ngày đêm xóa nhòa,
-Dialogue: 0,0:20:00.76,0:20:04.05,OST,,0,0,0,,chiếc đồng hồ vứt bỏ lăn lóc \Ngiữa phố xá xám ngắt một màu
-Dialogue: 0,0:20:04.05,0:20:05.97,OST,,0,0,0,,Trèo lên tận đỉnh mái nhà,
-Dialogue: 0,0:20:05.97,0:20:08.64,OST,,0,0,0,,tập bay bằng trí tưởng tượng trong đầu
-Dialogue: 0,0:20:08.64,0:20:11.39,OST,,0,0,0,,Vẫn vương vấn "một bản thân \Ntung cánh chẳng biết sợ là gì",
-Dialogue: 0,0:20:11.39,0:20:14.31,OST,,0,0,0,,khi tiếng còi báo động\N dội vang trong lồng ngực
-Dialogue: 0,0:20:14.31,0:20:16.61,OST,,0,0,0,,Nhìn những kẻ buông xuôi tất cả
-Dialogue: 0,0:20:16.61,0:20:20.03,OST,,0,0,0,,mà ngẫm ngày mai tới lượt mình, \Nphú quý vinh hoa cũng chực chờ vụt mất
-Dialogue: 0,0:20:20.03,0:20:22.11,OST,,0,0,0,,Nuốt ngược dòng nước mắt đang dâng trào,
-Dialogue: 0,0:20:22.11,0:20:26.08,OST,,0,0,0,,đôi mắt này tôi chẳng muốn mở ra thêm nữa
-Dialogue: 0,0:20:26.08,0:20:30.50,OST,,0,0,0,,Ánh sáng từng thoáng thấy khi khép chặt hàng mi
-Dialogue: 0,0:20:30.50,0:20:35.04,OST,,0,0,0,,Mình tôi đơn độc kiếm tìm giữa cơn mê...
-Dialogue: 0,0:20:56.48,0:20:59.44,OST,,0,0,0,,Đường nét sự thật ngày một phai nhạt,
-Dialogue: 0,0:20:59.44,0:21:02.95,OST,,0,0,0,,cuộc chiến gằm ghè giữa \Nbất an và hy vọng vẫn bất phân thắng bại
-Dialogue: 0,0:21:02.95,0:21:05.37,OST,,0,0,0,,Ảo giác của Tokyo chẳng thể nhìn thấu,
-Dialogue: 0,0:21:05.37,0:21:07.16,OST,,0,0,0,,kẻ nào bị lừa thì lập tức bị đào thải
-Dialogue: 0,0:21:07.16,0:21:09.70,OST,,0,0,0,,Đôi cánh cũ kỹ này\N liệu còn nghe lời như xưa hay không,
-Dialogue: 0,0:21:09.70,0:21:13.25,OST,,0,0,0,,chẳng tài nào biết nổi nên cứ mãi trăn trở
-Dialogue: 0,0:21:13.25,0:21:15.75,OST,,0,0,0,,Nhưng tôi vẫn ấp ủ giấc mơ tung bay giữa tầng không,
-Dialogue: 0,0:21:15.75,0:21:18.09,OST,,0,0,0,,lẽ sống giờ chỉ còn hai lựa chọn
-Dialogue: 0,0:21:18.09,0:21:21.46,OST,,0,0,0,,Ah, cứ trăn trở mãi \Nvề bầu trời nên chẳng thể chợp mắt,
-Dialogue: 0,0:21:21.46,0:21:23.63,OST,,0,0,0,,cũng chẳng thể giả vờ say giấc
-Dialogue: 0,0:21:23.63,0:21:26.34,OST,,0,0,0,,Từ giây phút này, những lời thật tâm
-Dialogue: 0,0:21:26.34,0:21:29.14,OST,,0,0,0,,không thể cứ phó mặc cho người đời định đoạt
-Dialogue: 0,0:21:29.14,0:21:31.85,OST,,0,0,0,,Đếm đến ba rồi ngước mắt nhìn lên
-Dialogue: 0,0:21:31.85,0:21:34.44,OST,,0,0,0,,Một bầu trời rộng lớn đẹp đến nghẹt thở
-Dialogue: 0,0:21:34.44,0:21:36.06,OST,,0,0,0,,Hãy trở lại như xưa đi
+Dialogue: 0,0:19:41.61,0:19:44.58,OST,,0,0,0,,Bầu trời xanh vụt tan, ngày mai vỡ toang
+Dialogue: 0,0:19:44.58,0:19:47.29,OST,,0,0,0,,Từ trong bóng tối ngút ngàn gặm nhấm tâm can
+Dialogue: 0,0:19:47.29,0:19:49.79,OST,,0,0,0,,Mộng ước khô khan, quen dần hoang mang
+Dialogue: 0,0:19:49.79,0:19:53.46,OST,,0,0,0,,À... Bầu trời trôi về đâu, hỏi ai biết chăng?
+Dialogue: 0,0:19:53.46,0:19:55.04,OST,,0,0,0,,Hãy nói cho ta hay
+Dialogue: 0,0:19:55.04,0:19:58.46,OST,,0,0,0,,nơi chốn nào dung thân \Ncho cánh chim, làn mây, vì sao với ta đây?
+Dialogue: 0,0:19:58.46,0:20:00.76,OST,,0,0,0,,Ranh giới một ngày vụt bay
+Dialogue: 0,0:20:00.76,0:20:04.05,OST,,0,0,0,,chiếc đồng hồ vứt ngay, cả phố phường xám ngắt cuộn xoay
+Dialogue: 0,0:20:04.05,0:20:05.97,OST,,0,0,0,,Trèo lên tận nóc mái nhà
+Dialogue: 0,0:20:05.97,0:20:08.64,OST,,0,0,0,,tập bay bằng trí tưởng tượng vượt không gian
+Dialogue: 0,0:20:08.64,0:20:11.39,OST,,0,0,0,,Vẫn vương vấn "cái tôi tung cánh chẳng nề hà"
+Dialogue: 0,0:20:11.39,0:20:14.31,OST,,0,0,0,,trong lồng ngực tiếng còi báo động dội ngân vang
+Dialogue: 0,0:20:14.31,0:20:16.61,OST,,0,0,0,,Nhìn kẻ buông xuôi tất cả giữa dòng đời
+Dialogue: 0,0:20:16.61,0:20:20.03,OST,,0,0,0,,hôm nay phận người, \Nngày mai phận mình phù hoa sắp rời tầm với
+Dialogue: 0,0:20:20.03,0:20:22.11,OST,,0,0,0,,Nuốt ngược giọt lệ đầy vơi
+Dialogue: 0,0:20:22.11,0:20:26.08,OST,,0,0,0,,chẳng muốn mở đôi mắt này nhìn thêm nữa người ơi
+Dialogue: 0,0:20:26.08,0:20:30.50,OST,,0,0,0,,Khi khép chặt bờ mi, chợt bừng lên tia sáng mong manh
+Dialogue: 0,0:20:30.50,0:20:35.04,OST,,0,0,0,,Kẻ miệt mài kiếm tìm, chỉ có ta cô độc một mình...
+Dialogue: 0,0:20:56.48,0:20:59.44,OST,,0,0,0,,Đường nét sự thật mờ nhạt
+Dialogue: 0,0:20:59.44,0:21:02.95,OST,,0,0,0,,cuộc chiến giữa bất an và hy vọng \Ngầm ghè nhau bất phân thắng bại ngang sức
+Dialogue: 0,0:21:02.95,0:21:05.37,OST,,0,0,0,,Ảo giác Tokyo chẳng thể nhìn bắt
+Dialogue: 0,0:21:05.37,0:21:07.16,OST,,0,0,0,,hễ mắc lừa là bị loại ngay tức khắc
+Dialogue: 0,0:21:07.16,0:21:09.70,OST,,0,0,0,,Đôi cánh cũ kỹ thuở trước,
+Dialogue: 0,0:21:09.70,0:21:13.25,OST,,0,0,0,,liệu còn nghe lời ta hay chăng, lòng u uất chẳng sao đoán được
+Dialogue: 0,0:21:13.25,0:21:15.75,OST,,0,0,0,,Nhưng vẫn ôm mộng bay giữa tầng không
+Dialogue: 0,0:21:15.75,0:21:18.09,OST,,0,0,0,,cách sống này chỉ một mất một còn
+Dialogue: 0,0:21:18.09,0:21:21.46,OST,,0,0,0,,À... Trăn trở chuyện bầu trời chẳng thể chợp mắt
+Dialogue: 0,0:21:21.46,0:21:23.63,OST,,0,0,0,,giả vờ say ngủ cũng đành bất lực
+Dialogue: 0,0:21:23.63,0:21:26.34,OST,,0,0,0,,Hơn thế nữa, những lời chân thật
+Dialogue: 0,0:21:26.34,0:21:29.14,OST,,0,0,0,,quyết chẳng thể phó mặc cho ai khác
+Dialogue: 0,0:21:29.14,0:21:31.85,OST,,0,0,0,,Đếm đến ba rồi ngước mắt lên trời
+Dialogue: 0,0:21:31.85,0:21:34.44,OST,,0,0,0,,Khoảng trời cao rộng lớn đến nghẹt hơi
+Dialogue: 0,0:21:34.44,0:21:36.06,OST,,0,0,0,,Hãy quay về như xưa
 Dialogue: 0,0:21:36.06,0:21:37.11,OST,,0,0,0,,Một,
 Dialogue: 0,0:21:37.11,0:21:38.06,OST,,0,0,0,,Một, hai,
 Dialogue: 0,0:21:38.06,0:21:38.57,OST,,0,0,0,,Một, hai, ba!
-Dialogue: 0,0:21:38.57,0:21:42.03,OST,,0,0,0,,Rồi một ngày kia ta sẽ giành lại bầu trời năm ấy,
-Dialogue: 0,0:21:42.03,0:21:45.15,OST,,0,0,0,,những kẻ lạc lối quây quần bên nhau suốt đêm thâu
-Dialogue: 0,0:21:45.15,0:21:47.45,OST,,0,0,0,,Cùng sẻ chia để cười xòa cho bay biến
-Dialogue: 0,0:21:47.45,0:21:52.08,OST,,0,0,0,,những tháng ngày cúi đầu chẳng thể nào quên
-Dialogue: 0,0:21:52.08,0:21:57.14,OST,,0,0,0,,Lần đầu tiên trong đời \Ntôi thấy niềm hy vọng rõ ràng đến thế,
-Dialogue: 0,0:21:57.14,0:22:02.67,OST,,0,0,0,,đó là tham vọng ẩn sâu\N trong một trái tim kiên cường
-Dialogue: 0,0:22:02.67,0:22:08.01,OST,,0,0,0,,Trốn chạy về phía thế giới xanh thẳm trải dài vô tận
-Dialogue: 0,0:22:08.01,0:22:13.77,OST,,0,0,0,,ngay lúc này, hãy bay lên bầu trời thực sự!
+Dialogue: 0,0:21:38.57,0:21:42.03,OST,,0,0,0,,Rồi một ngày giành lại bầu trời xưa đã mất
+Dialogue: 0,0:21:42.03,0:21:45.15,OST,,0,0,0,,những kẻ lạc lối nắm tay thành vòng tròn suốt đêm trôi
+Dialogue: 0,0:21:45.15,0:21:47.45,OST,,0,0,0,,Sẻ chia cùng nhau chẳng thể phai phôi
+Dialogue: 0,0:21:47.45,0:21:52.08,OST,,0,0,0,,cười xòa thổi bay tháng ngày cúi mặt đơn côi
+Dialogue: 0,0:21:52.08,0:21:57.14,OST,,0,0,0,,Lần đầu trong đời thấy niềm hy vọng rạng ngời
+Dialogue: 0,0:21:57.14,0:22:02.67,OST,,0,0,0,,đó là khát vọng ẩn sâu trong trái tim kiên cường thôi
+Dialogue: 0,0:22:02.67,0:22:08.01,OST,,0,0,0,,Đào thoát về thế giới xanh bao la vời vợi
+Dialogue: 0,0:22:08.01,0:22:13.77,OST,,0,0,0,,ngay lúc này, cùng tung cánh về bầu trời thật sự thôi
+Comment: 0,0:22:40.51,0:26:41.91,Main,,0,0,0,,========= ED =========
+Dialogue: 0,0:22:52.23,0:22:57.69,ED-Vie,,0,0,0,,{\fad(0,300)\blur0.67}Cứ mải than thân trách phận, cho mối tình xưa,
+Dialogue: 0,0:22:57.69,0:23:03.11,ED-Vie,,0,0,0,,{\fad(0,300)\blur0.67}dòng thời gian vẫn lẳng lặng trôi, đã bao lâu rồi?
+Dialogue: 0,0:23:04.20,0:23:09.74,ED-Vie,,0,0,0,,{\fad(0,300)\blur0.67}Vết bỏng hằn sâu trong tim, nào có nguôi đi,
+Dialogue: 0,0:23:09.74,0:23:14.96,ED-Vie,,0,0,0,,{\fad(0,300)\blur0.67}gió chẳng thể xoa dịu cho tôi, chỉ biết thổi thôi.
+Dialogue: 0,0:23:16.21,0:23:25.47,ED-Vie,,0,0,0,,{\fad(0,300)\blur0.67}Với con ngươi khô, với tròng mắt cạn, ai đó ơi, giúp tôi đổ lệ đi!
+Dialogue: 0,0:23:27.10,0:23:30.64,ED-Vie,,0,0,0,,{\fad(0,300)\blur0.67}Giai điệu Folk Blues đích thực!
+Dialogue: 0,0:23:27.10,0:23:30.64,GT,,0,0,0,,{\fad(0,300)\bord0\shad0\blur0.67}(Blues còn có nghĩa là u sầu, buồn bã)
+Dialogue: 0,0:23:30.64,0:23:34.19,ED-Vie,,0,0,0,,{\fad(300,0)\blur0.67}Đâu là thật đây?
+Dialogue: 0,0:23:34.89,0:23:39.23,ED-Vie,,0,0,0,,{\fad(0,300)\blur0.67}Tôi chỉ muốn biết đâu là u sầu thật sự.
+Dialogue: 0,0:23:39.23,0:23:42.78,ED-Vie,,0,0,0,,{\fad(0,300)\blur0.67}Toàn thân lấm lem phù sa.
+Dialogue: 0,0:23:42.78,0:23:46.20,ED-Vie,,0,0,0,,{\fad(0,300)\blur0.67}Ngụp lặn giữa sông.
+Dialogue: 0,0:23:46.87,0:23:51.37,ED-Vie,,0,0,0,,{\fad(0,300)\blur0.67}Sống như vậy cũng đâu đến nỗi tệ,
+Dialogue: 0,0:23:51.37,0:24:00.21,ED-Vie,,0,0,0,,{\fad(0,300)\blur0.67}miễn sao chỉ phải... cam chịu một lần.

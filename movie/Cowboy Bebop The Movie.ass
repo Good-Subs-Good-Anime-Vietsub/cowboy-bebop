@@ -18,9 +18,9 @@ Video File: [DB]Cowboy Bebop Knockin' on Heaven's Door _-_(Dual Audio_10bit_BD10
 Video AR Mode: 4
 Video AR Value: 1.846154
 Video Zoom Percent: 0.500000
-Scroll Position: 23
-Active Line: 28
-Video Position: 3844
+Scroll Position: 1246
+Active Line: 1253
+Video Position: 9835
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1144,233 +1144,152 @@ Dialogue: 0,1:54:34.37,1:54:37.27,Main,,0,0,0,,{\i1}Hắn là kẻ chỉ có th�
 Dialogue: 0,1:54:38.52,1:54:40.27,Main,,0,0,0,,{\i1}Như thể sống trong một giấc mơ...{\i0}
 Dialogue: 0,1:54:41.93,1:54:43.40,Main,,0,0,0,,{\i1}Hắn là một gã như thế đấy.{\i0}
 Comment: 0,1:54:52.32,1:55:01.23,Main,,0,0,0,,======================================
-Comment: 0,0:05:16.14,0:05:22.14,OST,,0,0,0,,♪ シートベルツ (The Seatbelts) (Ft. Raj Ramayya) - Ask DNA
-Comment: 0,0:05:37.99,0:05:42.91,OST,,0,0,0,,Bế tắc, mụ mẫm và chẳng thể quyết định
-Comment: 0,0:05:43.17,0:05:48.21,OST,,0,0,0,,Có cầu nguyện bao nhiêu cũng vô ích, trốn tránh sao được
-Comment: 0,0:05:48.34,0:05:52.38,OST,,0,0,0,,Cứ tỏ ra thật ngầu hoặc cứ bật khóc
-Comment: 0,0:05:52.51,0:05:56.60,OST,,0,0,0,,Làm sai, không làm gì cả, hay làm cho thật đúng
-Comment: 0,0:05:58.64,0:06:03.35,OST,,0,0,0,,Chẳng ai nợ bạn điều gì, cũng chẳng thể trách cứ ai
-Comment: 0,0:06:03.64,0:06:08.65,OST,,0,0,0,,Ngoại trừ đổ lỗi cho bộ gen hay DNA tồi
-Comment: 0,0:06:08.98,0:06:13.11,OST,,0,0,0,,Hãy tự hỏi lương tâm vì sao và bằng cách nào
-Comment: 0,0:06:13.24,0:06:16.45,OST,,0,0,0,,Lúc đó làm, khi nào làm, nhưng hãy làm ngay lúc này
-Comment: 0,0:06:18.37,0:06:23.21,OST,,0,0,0,,Sao thế hả cưng?
-Comment: 0,0:06:23.41,0:06:28.63,OST,,0,0,0,,Thế rốt cuộc ai mới sành điệu cơ chứ?
-Comment: 0,0:06:28.75,0:06:34.42,OST,,0,0,0,,Các cô gái Trái Đất vốn dễ dãi mà
-Comment: 0,0:06:34.97,0:06:37.34,OST,,0,0,0,,Cậu định làm gì đây, chàng cao bồi bé nhỏ?
-Comment: 0,0:06:37.47,0:06:39.64,OST,,0,0,0,,(Này, tốt nhất là cậu nên hỏi xin cô ấy cho tử tế!)
-Comment: 0,0:06:40.18,0:06:42.81,OST,,0,0,0,,Tất cả những gì cậu cần làm, hỡi tên ngốc vui vẻ,
-Comment: 0,0:06:42.93,0:06:47.06,OST,,0,0,0,,là về hỏi mẹ cậu đi
 Comment: 0,0:09:37.32,0:09:40.40,OST,,0,0,0,,♪シートベルツ (The Seatbelts) (Ft. Reynada Hill) - Cosmic Dare (Pretty with a Pistol)
-Dialogue: 0,0:09:40.53,0:09:44.15,OST,,0,0,0,,Anh và em đang đánh cược qua từng lời nói
-Dialogue: 0,0:09:44.53,0:09:48.15,OST,,0,0,0,,Anh và em đang lang bạt khắp các thế giới
-Dialogue: 0,0:10:09.72,0:10:11.18,OST,,0,0,0,,Anh có tin em không?
-Dialogue: 0,0:10:11.18,0:10:15.19,OST,,0,0,0,,Em vẫn ngồi đây mĩ miều với khẩu súng lục trên tay
-Dialogue: 0,0:10:15.19,0:10:18.66,OST,,0,0,0,,Sống là để yêu anh, liệu anh có nguyện làm người đàn ông của em?
-Dialogue: 0,0:10:18.66,0:10:22.19,OST,,0,0,0,,Nếu em cầu xin, nếu em van nài
-Dialogue: 0,0:10:22.19,0:10:27.74,OST,,0,0,0,,Liệu anh có, có, có làm em thỏa mãn không?
-Dialogue: 0,0:10:27.74,0:10:31.49,OST,,0,0,0,,Mọi điều đều có thể xảy ra trong ván cược vũ trụ này
-Dialogue: 0,0:10:31.49,0:10:34.91,OST,,0,0,0,,Mọi điều đều có thể, nên hãy cẩn thận nhé
-Dialogue: 0,0:10:34.91,0:10:39.46,OST,,0,0,0,,Anh có cảm nhận được tim em đập vì những lời dối trá của anh?
-Dialogue: 0,0:10:39.46,0:10:43.59,OST,,0,0,0,,Hãy lắng nghe cho thật kỹ, tình yêu ngọt ngào của em
+Dialogue: 0,0:09:40.53,0:09:44.15,OST,,0,0,0,,Anh cùng em đang cược vào đầu môi
+Dialogue: 0,0:09:44.53,0:09:48.15,OST,,0,0,0,,Anh cùng em đang phiêu dạt ngàn nơi
+Dialogue: 0,0:10:09.72,0:10:11.18,OST,,0,0,0,,Anh có tin lời em?
+Dialogue: 0,0:10:11.18,0:10:15.19,OST,,0,0,0,,Vẫn ngồi đây kiêu kỳ, cầm khẩu súng lục trong tay
+Dialogue: 0,0:10:15.19,0:10:18.66,OST,,0,0,0,,Sống để yêu anh hoài, nguyện làm người bên đời này
+Dialogue: 0,0:10:18.66,0:10:22.19,OST,,0,0,0,,Nếu em xin, nếu em nài
+Dialogue: 0,0:10:22.19,0:10:27.74,OST,,0,0,0,,Anh ơi xin, xin hãy thỏa lấp lòng em
+Dialogue: 0,0:10:27.74,0:10:31.49,OST,,0,0,0,,Mọi điều đều có giữa ván cược trời sao
+Dialogue: 0,0:10:31.49,0:10:34.91,OST,,0,0,0,,Mọi điều đều có, nhớ giữ thân nào
+Dialogue: 0,0:10:34.91,0:10:39.46,OST,,0,0,0,,Anh có nghe nhịp tim đập theo lời dối trao
+Dialogue: 0,0:10:39.46,0:10:43.59,OST,,0,0,0,,Lắng nghe em, tình yêu ngọt ngào...
 Comment: 0,0:20:04.98,0:20:10.99,OST,,0,0,0,,♪ シートベルツ (The Seatbelts) (Ft. Steve Conte) - Diggin’
-Dialogue: 0,0:20:19.46,0:20:22.20,OST,,0,0,0,,Em biết đấy, bố tôi đã dành cả cuộc đời để đào cổng
-Dialogue: 0,0:20:22.20,0:20:24.08,OST,,0,0,0,,Và ông chẳng biết làm việc gì khác cả
-Dialogue: 0,0:20:24.73,0:20:27.08,OST,,0,0,0,,Và bố ông cũng cặm cụi đào như ông nội tôi
-Dialogue: 0,0:20:27.08,0:20:29.68,OST,,0,0,0,,Người đã bắt đầu đào từ trước thời chiến
-Dialogue: 0,0:20:29.68,0:20:32.34,OST,,0,0,0,,Và dẫu bà chẳng thể biết cho đến khi tôi chào đời
-Dialogue: 0,0:20:32.34,0:20:36.72,OST,,0,0,0,,Người mẹ đáng thương của tôi, mong Chúa cho linh hồn bà yên nghỉ
-Dialogue: 0,0:20:37.21,0:20:39.72,OST,,0,0,0,,Rằng giống như họ, tôi sinh ra với nghiệp đào bới
-Dialogue: 0,0:20:44.31,0:20:47.14,OST,,0,0,0,,Có phải vì tôi đã thấy chán chường và cô độc
-Dialogue: 0,0:20:49.39,0:20:53.02,OST,,0,0,0,,Có phải vì tôi chỉ là gã ngốc nghếch và rạo rực
-Dialogue: 0,0:20:54.16,0:20:59.95,OST,,0,0,0,,Có phải vì Nữ thần May mắn đã mỉm cười với tôi
+Dialogue: 0,0:20:19.46,0:20:22.20,OST,,0,0,0,,Này cha già của ta đào cổng suốt cả cuộc đời
+Dialogue: 0,0:20:22.20,0:20:24.08,OST,,0,0,0,,Chẳng hề biết đến thứ gì khác hơn
+Dialogue: 0,0:20:24.73,0:20:27.08,OST,,0,0,0,,Rồi cha của ông cũng đào hệt như cha già mình
+Dialogue: 0,0:20:27.08,0:20:29.68,OST,,0,0,0,,Người từng đào từ trước thời đao binh
+Dialogue: 0,0:20:29.68,0:20:32.34,OST,,0,0,0,,Dẫu mẹ chẳng thể nào biết trước tới lúc sinh ta
+Dialogue: 0,0:20:32.34,0:20:36.72,OST,,0,0,0,,Mẹ nghèo của ta, yên nghỉ trên trời...
+Dialogue: 0,0:20:37.21,0:20:39.72,OST,,0,0,0,,Giống họ, ta sinh ra để đào
+Dialogue: 0,0:20:44.31,0:20:47.14,OST,,0,0,0,,Phải chăng vì lòng ta buồn tênh và lẻ loi?
+Dialogue: 0,0:20:49.39,0:20:53.02,OST,,0,0,0,,Phải chăng vì đầu ta khờ ngây và sục sôi?
+Dialogue: 0,0:20:54.16,0:20:59.95,OST,,0,0,0,,Phải chăng Nữ Thần Vận May kia vừa mỉm nụ cười cùng tôi?
 Comment: 0,1:45:00.32,1:45:06.04,OST,,0,0,0,,======================================
 Comment: 0,1:45:00.52,1:45:05.94,OST,,0,0,0,,Không muốn làm gấu bông của em nổi điên với tôi đâu, cô gái à
 Comment: 0,1:50:38.90,1:50:41.08,OST,,0,0,0,,シートベルツ (The Seatbelts) (Ft. 山根麻以 (Mai Yamane)) - Gotta Knock A Little Harder
-Comment: 0,1:50:38.90,1:50:41.08,OST,,0,0,0,,Hạnh phúc với tôi chỉ là chữ nghĩa
-Comment: 0,1:50:41.21,1:50:43.13,OST,,0,0,0,,Và có lẽ nó đã mang đôi chút ý nghĩa
-Comment: 0,1:50:43.25,1:50:46.25,OST,,0,0,0,,Nếu tôi hiểu được sự khác biệt
-Comment: 0,1:50:47.71,1:50:49.97,OST,,0,0,0,,Trống rỗng, một màn giễu nhại cô độc
-Comment: 0,1:50:50.09,1:50:52.05,OST,,0,0,0,,Và đời tôi, tựa nòng súng vừa nhả đạn
-Comment: 0,1:50:52.18,1:50:55.76,OST,,0,0,0,,Là minh chứng cho sự thờ ơ
-Comment: 0,1:50:56.81,1:50:58.85,OST,,0,0,0,,Luôn giấu mình chốn an toàn
-Comment: 0,1:50:58.97,1:51:01.06,OST,,0,0,0,,Nơi chưa từng ai có cơ hội
-Comment: 0,1:51:01.19,1:51:04.19,OST,,0,0,0,,Xuyên thấu và bước vào trong
-Comment: 0,1:51:05.86,1:51:07.78,OST,,0,0,0,,Thật ra cũng vài người từng thử
-Comment: 0,1:51:07.90,1:51:09.99,OST,,0,0,0,,Nhưng tôi lại đóng sầm cửa chặt
-Comment: 0,1:51:10.11,1:51:13.61,OST,,0,0,0,,Đến mức chẳng ai bước vào được
-Comment: 0,1:51:17.53,1:51:20.12,OST,,0,0,0,,Khóa chặt vẻ ngoài lạnh lùng
-Comment: 0,1:51:20.25,1:51:21.50,OST,,0,0,0,,Và chưa từng rơi một giọt lệ
-Comment: 0,1:51:21.62,1:51:25.25,OST,,0,0,0,,Thêm minh chứng cho cảnh ngộ này
-Comment: 0,1:51:26.17,1:51:29.34,OST,,0,0,0,,Sợ tình yêu, hay sự phù phiếm cay đắng
-Comment: 0,1:51:29.46,1:51:30.66,OST,,0,0,0,,Khiến tôi cứ mãi trốn chạy
-Comment: 0,1:51:30.66,1:51:33.72,OST,,0,0,0,,Trọng tâm của lời thú tội này
-Comment: 0,1:51:35.47,1:51:37.88,OST,,0,0,0,,Tôi quấn chặt xích quanh cửa
-Comment: 0,1:51:37.88,1:51:40.17,OST,,0,0,0,,Đủ khiến nỗi nhục nhã của Cain
-Comment: 0,1:51:40.17,1:51:42.81,OST,,0,0,0,,Phải cúi đầu nhượng bộ mù quáng
-Comment: 0,1:51:44.52,1:51:46.52,OST,,0,0,0,,Bóng ma rực lửa vô danh
-Comment: 0,1:51:46.65,1:51:48.65,OST,,0,0,0,,Vẫn không ngừng cất tiếng gọi
-Comment: 0,1:51:48.77,1:51:52.07,OST,,0,0,0,,Nhưng tôi quyết bỏ ngoài tai
-Comment: 0,1:51:55.91,1:51:58.74,OST,,0,0,0,,Càng chần chừ, tôi càng trườn xa
-Comment: 0,1:51:58.87,1:52:01.37,OST,,0,0,0,,Càng trườn xa, tôi càng ngã đau
-Comment: 0,1:52:01.50,1:52:06.25,OST,,0,0,0,,Tôi đang trườn dần vào ngọn lửa
-Comment: 0,1:52:07.42,1:52:10.21,OST,,0,0,0,,Càng thấy nhiều, tôi càng ngã đau
-Comment: 0,1:52:10.34,1:52:12.76,OST,,0,0,0,,Càng ngã đau, tôi càng lết thấp
-Comment: 0,1:52:12.88,1:52:17.80,OST,,0,0,0,,Cứ thế tôi chìm vào ngọn lửa
-Comment: 0,1:52:26.52,1:52:29.06,OST,,0,0,0,,Chìm vào ngọn lửa
-Comment: 0,1:52:37.73,1:52:40.33,OST,,0,0,0,,Chìm trong ngọn lửa
-Comment: 0,1:52:44.62,1:52:47.00,OST,,0,0,0,,Rồi chợt tôi nhận ra
-Comment: 0,1:52:47.12,1:52:48.71,OST,,0,0,0,,Việc mải miết chạy trốn và nấp mình
-Comment: 0,1:52:48.83,1:52:51.92,OST,,0,0,0,,Đã hủy hoại cả sự tồn tại này
-Comment: 0,1:52:52.92,1:52:55.26,OST,,0,0,0,,Bất cứ điều gì ở phía bên kia
-Comment: 0,1:52:55.38,1:52:57.38,OST,,0,0,0,,Cùng lắm chỉ tệ đến thế này thôi
-Comment: 0,1:52:57.51,1:53:00.55,OST,,0,0,0,,Nhưng liệu tôi có dám đi đến cùng
-Comment: 0,1:53:01.72,1:53:03.89,OST,,0,0,0,,Đối mặt cánh cửa và nỗi hổ thẹn
-Comment: 0,1:53:04.02,1:53:06.14,OST,,0,0,0,,Giật tung từng đoạn dây xích
-Comment: 0,1:53:06.27,1:53:09.23,OST,,0,0,0,,Cho đến khi chúng đứt rời
-Comment: 0,1:53:10.44,1:53:12.48,OST,,0,0,0,,Nhưng dù cố gắng nhường nào
-Comment: 0,1:53:12.61,1:53:14.53,OST,,0,0,0,,Phía bên kia vẫn khóa quá chặt
-Comment: 0,1:53:14.65,1:53:17.91,OST,,0,0,0,,Cánh cửa kiên quyết chẳng chịu mở
-Comment: 0,1:53:21.33,1:53:23.95,OST,,0,0,0,,Dồn sức bình sinh và bắt đầu gõ
-Comment: 0,1:53:24.33,1:53:26.83,OST,,0,0,0,,Gào thét mong ai đó mở khóa giùm
-Comment: 0,1:53:26.96,1:53:31.42,OST,,0,0,0,,Tôi phải qua được cánh cửa này
-Comment: 0,1:53:32.54,1:53:35.38,OST,,0,0,0,,Càng gõ cửa, người càng nóng bừng
-Comment: 0,1:53:35.51,1:53:37.97,OST,,0,0,0,,Càng nóng bừng, gõ lại càng mạnh
-Comment: 0,1:53:38.09,1:53:42.76,OST,,0,0,0,,Tôi phải phá tan cánh cửa này
-Comment: 0,1:53:42.89,1:53:45.56,OST,,0,0,0,,Phải gõ mạnh hơn chút nữa
-Comment: 0,1:53:45.68,1:53:48.48,OST,,0,0,0,,Phải gõ mạnh hơn chút nữa
-Comment: 0,1:53:48.60,1:53:51.23,OST,,0,0,0,,Phải gõ mạnh hơn chút nữa
-Comment: 0,1:53:51.36,1:53:54.48,OST,,0,0,0,,Phá vỡ cánh cửa kia
-Comment: 0,1:53:54.61,1:53:56.69,OST,,0,0,0,,Phải gõ mạnh hơn chút nữa
-Comment: 0,1:53:56.82,1:53:59.53,OST,,0,0,0,,Phải gõ mạnh hơn chút nữa
-Comment: 0,1:53:59.66,1:54:02.16,OST,,0,0,0,,Phải gõ mạnh hơn chút nữa
-Comment: 0,1:54:02.28,1:54:04.37,OST,,0,0,0,,Phá vỡ cánh cửa kia
-Comment: 0,1:54:05.24,1:54:07.96,OST,,0,0,0,,Phải gõ mạnh hơn chút nữa
-Comment: 0,1:54:08.08,1:54:10.67,OST,,0,0,0,,Phải gõ mạnh hơn chút nữa
-Comment: 0,1:54:10.79,1:54:13.50,OST,,0,0,0,,Phải gõ mạnh hơn chút nữa
-Comment: 0,1:54:13.63,1:54:16.59,OST,,0,0,0,,Phá vỡ cánh cửa kia
-Comment: 0,1:54:19.17,1:54:21.13,OST,,0,0,0,,Phải gõ mạnh hơn chút nữa
-Comment: 0,1:54:21.93,1:54:24.60,OST,,0,0,0,,Phải gõ mạnh hơn chút nữa
-Comment: 0,1:54:24.72,1:54:27.64,OST,,0,0,0,,Phá vỡ cánh cửa kia
-Comment: 0,1:54:48.54,1:54:52.32,OST,,0,0,0,,Đập tan cánh cửa đó
 Comment: 0,1:54:52.32,1:55:01.23,Main,,0,0,0,,ENDING
-Dialogue: 0,1:50:38.90,1:50:42.57,ED Eng,,0,0,0,,{\fad(250,500)\pos(520,35)}Happiness is just a word to me...
+Dialogue: 0,1:50:38.90,1:50:42.57,ED Eng,,0,0,0,,{\fad(250,500)\pos(520,35)}Hạnh phúc với ta đâu khác tiếng cười suông
 Dialogue: 0,1:50:38.90,1:50:46.37,ED Vie,,0,0,0,,{\fad(250,500)}
-Dialogue: 0,1:50:41.57,1:50:44.74,ED Eng,,0,0,0,,{\fad(250,500)\pos(950,110)}...And it might've meant a thing or two...
-Dialogue: 0,1:50:43.74,1:50:46.37,ED Eng,,0,0,0,,{\fad(250,500)\pos(1530,35)}...If I had known the difference.
-Dialogue: 0,1:50:47.58,1:50:51.67,ED Eng,,0,0,0,,{\fad(250,500)\pos(460,35)}Emptiness, a lonely parody...
+Dialogue: 0,1:50:41.57,1:50:44.74,ED Eng,,0,0,0,,{\fad(250,500)\pos(950,110)}Mà biết đâu từng mang ý nghĩa mặn nồng
+Dialogue: 0,1:50:43.58,1:50:46.37,ED Eng,,0,0,0,,{\fad(250,500)\pos(1530,35)}Nếu xưa kia ta từng thấu hiểu
+Dialogue: 0,1:50:47.58,1:50:51.67,ED Eng,,0,0,0,,{\fad(250,500)\pos(490,32.92)}Niềm trống rỗng như vai diễn giữa cô đơn
 Dialogue: 0,1:50:47.58,1:50:56.00,ED Vie,,0,0,0,,{\fad(250,500)}
-Dialogue: 0,1:50:50.46,1:50:53.71,ED Eng,,0,0,0,,{\fad(250,500)\pos(940,110)}...And my life, another smokin' gun...
-Dialogue: 0,1:50:52.58,1:50:56.00,ED Eng,,0,0,0,,{\fad(250,500)\pos(1530,35)}...A sign of my indifference.
-Dialogue: 0,1:50:57.05,1:51:00.22,ED Eng,,0,0,0,,{\fad(250,500)\pos(400,35)}Always keepin' safe inside...
+Dialogue: 0,1:50:50.46,1:50:53.71,ED Eng,,0,0,0,,{\fad(250,500)\pos(940,110)}Và kiếp ta tựa nòng súng khói chưa tan
+Dialogue: 0,1:50:52.50,1:50:56.00,ED Eng,,0,0,0,,{\fad(250,500)\pos(1530,35)}Dấu ấn cho tâm hồn nguội lạnh
+Dialogue: 0,1:50:57.05,1:51:00.22,ED Eng,,0,0,0,,{\fad(250,500)\pos(400,35)}Luôn ẩn náu an toàn bên trong
 Dialogue: 0,1:50:57.05,1:51:04.35,ED Vie,,0,0,0,,{\fad(250,500)}
-Dialogue: 0,1:50:59.26,1:51:02.68,ED Eng,,0,0,0,,{\fad(250,500)\pos(920,110)}...Where no one ever had a chance...
-Dialogue: 0,1:51:01.72,1:51:04.35,ED Eng,,0,0,0,,{\fad(250,500)\pos(1540,35)}...To penetrate and break in.
-Dialogue: 0,1:51:05.72,1:51:09.18,ED Eng,,0,0,0,,{\fad(250,500)\pos(455,35)}Let me tell you some have tried...
+Dialogue: 0,1:50:59.26,1:51:02.68,ED Eng,,0,0,0,,{\fad(250,500)\pos(920,110)}Nơi chẳng ai từng có lấy cơ may
+Dialogue: 0,1:51:01.72,1:51:04.35,ED Eng,,0,0,0,,{\fad(250,500)\pos(1540,35)}Để bước qua hay chạm vào lòng
+Dialogue: 0,1:51:05.72,1:51:09.18,ED Eng,,0,0,0,,{\fad(250,500)\pos(455,35)}Đã có những người từng thử bước sang
 Dialogue: 0,1:51:05.72,1:51:14.27,ED Vie,,0,0,0,,{\fad(250,500)}
-Dialogue: 0,1:51:08.22,1:51:11.27,ED Eng,,0,0,0,,{\fad(250,500)\pos(950,110)}...But I would slam the door so tight...
-Dialogue: 0,1:51:10.48,1:51:14.27,ED Eng,,0,0,0,,{\fad(250,500)\pos(1490,35)}...That they could never get in.
-Dialogue: 0,1:51:17.40,1:51:21.07,ED Eng,,0,0,0,,{\fad(250,500)\pos(520,35)}Kept my cool under lock and key...
+Dialogue: 0,1:51:08.22,1:51:11.27,ED Eng,,0,0,0,,{\fad(250,500)\pos(950,110)}Nhưng chính ta sập chặt cánh cửa ngay
+Dialogue: 0,1:51:10.48,1:51:14.27,ED Eng,,0,0,0,,{\fad(250,500)\pos(1490,35)}Khiến chẳng ai bước vào trong được
+Dialogue: 0,1:51:17.40,1:51:21.07,ED Eng,,0,0,0,,{\fad(250,500)\pos(520,35)}Giữ vẻ ngoài lạnh lùng sau khóa then
 Dialogue: 0,1:51:17.40,1:51:25.45,ED Vie,,0,0,0,,{\fad(250,500)}
-Dialogue: 0,1:51:20.36,1:51:22.74,ED Eng,,0,0,0,,{\fad(250,500)\pos(1000,110)}...And I never shed a tear...
-Dialogue: 0,1:51:21.99,1:51:25.45,ED Eng,,0,0,0,,{\fad(250,500)\pos(1460,35)}...Another sign of my condition.
-Dialogue: 0,1:51:26.41,1:51:30.12,ED Eng,,0,0,0,,{\fad(250,500)\pos(450,35)}Fear of love, or bitter vanity...
+Dialogue: 0,1:51:20.36,1:51:22.74,ED Eng,,0,0,0,,{\fad(250,500)\pos(1000,110)}Chưa một lần rơi giọt nước mắt
+Dialogue: 0,1:51:21.99,1:51:25.45,ED Eng,,0,0,0,,{\fad(250,500)\pos(1460,35)}Dấu ấn cho căn bệnh trong cõi lòng
+Dialogue: 0,1:51:26.41,1:51:30.12,ED Eng,,0,0,0,,{\fad(250,500)\pos(450,35)}Sợ tình yêu hay ngạo mạn đắng cay
 Dialogue: 0,1:51:26.41,1:51:34.21,ED Vie,,0,0,0,,{\fad(250,500)}
-Dialogue: 0,1:51:29.25,1:51:31.79,ED Eng,,0,0,0,,{\fad(250,500)\pos(710,110)}...That kept me on the run...
-Dialogue: 0,1:51:30.83,1:51:34.21,ED Eng,,0,0,0,,{\fad(250,500)\pos(1370,35)}...The main events of my confession.
-Dialogue: 0,1:51:35.63,1:51:38.84,ED Eng,,0,0,0,,{\fad(250,500)\pos(415,35)}I kept a chain upon my door...
+Dialogue: 0,1:51:29.25,1:51:31.79,ED Eng,,0,0,0,,{\fad(250,500)\pos(710,110)}Bắt thân ta chạy trốn mãi
+Dialogue: 0,1:51:30.83,1:51:34.21,ED Eng,,0,0,0,,{\fad(250,500)\pos(1370,35)}Khúc chính trong lời thú tội đời mình
+Dialogue: 0,1:51:35.63,1:51:38.84,ED Eng,,0,0,0,,{\fad(250,500)\pos(487,37.07)}Ta quấn chặt vạn xiềng xích quanh mình
 Dialogue: 0,1:51:35.63,1:51:43.22,ED Vie,,0,0,0,,{\fad(250,500)}
-Dialogue: 0,1:51:38.00,1:51:41.13,ED Eng,,0,0,0,,{\fad(250,500)\pos(850,110)}...That would shake the shame of Cain...
-Dialogue: 0,1:51:40.26,1:51:43.22,ED Eng,,0,0,0,,{\fad(250,500)\pos(1565,35)}...Into a blind submission.
-Dialogue: 0,1:51:44.55,1:51:47.72,ED Eng,,0,0,0,,{\fad(250,500)\pos(490,35)}The burning ghost without a name...
+Dialogue: 0,1:51:38.00,1:51:41.13,ED Eng,,0,0,0,,{\fad(250,500)\pos(850,110)}Khiến nỗi nhục ngàn năm của Cain
+Dialogue: 0,1:51:40.26,1:51:43.22,ED Eng,,0,0,0,,{\fad(250,500)\pos(1513,32.92)}Cũng cúi đầu cam chịu khuất phục
+Dialogue: 0,1:51:44.55,1:51:47.72,ED Eng,,0,0,0,,{\fad(250,500)\pos(490,35)}Kìa bóng ma rực lửa chẳng mang tên
 Dialogue: 0,1:51:44.55,1:51:52.56,ED Vie,,0,0,0,,{\fad(250,500)}
-Dialogue: 0,1:51:47.01,1:51:50.14,ED Eng,,0,0,0,,{\fad(250,500)\pos(1080,110)}...Was still callin' all the same...
-Dialogue: 0,1:51:49.31,1:51:52.56,ED Eng,,0,0,0,,{\fad(250,500)\pos(1570,35)}...But I just wouldn't listen.
-Dialogue: 0,1:51:56.02,1:51:58.52,ED Eng,,0,0,0,,{\fad(250,500)\pos(290,45)}The longer I'd stall...
+Dialogue: 0,1:51:47.01,1:51:50.14,ED Eng,,0,0,0,,{\fad(250,500)\pos(1080,110)}Vẫn thét gào gọi ta giữa màn đêm
+Dialogue: 0,1:51:49.31,1:51:52.56,ED Eng,,0,0,0,,{\fad(250,500)\pos(1516,37.08)}Nhưng chính ta khước từ nghe lời
+Dialogue: 0,1:51:56.02,1:51:58.52,ED Eng,,0,0,0,,{\fad(250,500)\pos(290,45)}Càng chần chừ bao lâu
 Dialogue: 0,1:51:56.02,1:52:06.70,ED Vie,,0,0,0,,{\fad(250,500)}
-Dialogue: 0,1:51:57.69,1:51:59.94,ED Eng,,0,0,0,,{\fad(250,500)\pos(405,125)}...The further I'd crawl...
-Dialogue: 0,1:51:59.15,1:52:01.40,ED Eng,,0,0,0,,{\fad(250,500)\pos(975,125)}The further I'd crawl...
-Dialogue: 0,1:52:00.44,1:52:02.90,ED Eng,,0,0,0,,{\fad(250,500)\pos(1330,35)}...The harder I'd fall...
-Dialogue: 0,1:52:01.86,1:52:06.70,ED Eng,,0,0,0,,{\fad(250,500)\pos(1535,125)}...I was crawlin' into the fire.
-Dialogue: 0,1:52:07.66,1:52:09.99,ED Eng,,0,0,0,,{\fad(250,500)\pos(310,35)}The more that I saw...
+Dialogue: 0,1:51:57.69,1:51:59.94,ED Eng,,0,0,0,,{\fad(250,500)\pos(405,125)}Càng lê bước vực sâu
+Dialogue: 0,1:51:59.15,1:52:01.40,ED Eng,,0,0,0,,{\fad(250,500)\pos(975,125)}Càng lê bước vực sâu
+Dialogue: 0,1:52:00.44,1:52:02.90,ED Eng,,0,0,0,,{\fad(250,500)\pos(1330,35)}Càng vấp ngã quặn đau
+Dialogue: 0,1:52:01.86,1:52:06.70,ED Eng,,0,0,0,,{\fad(250,500)\pos(1485,135.38)}Ta trườn mình lao vào trong lửa thiêu
+Dialogue: 0,1:52:07.66,1:52:09.99,ED Eng,,0,0,0,,{\fad(250,500)\pos(310,35)}Càng nhìn thấu trần gian
 Dialogue: 0,1:52:07.66,1:52:18.17,ED Vie,,0,0,0,,{\fad(250,500)}
-Dialogue: 0,1:52:09.16,1:52:11.45,ED Eng,,0,0,0,,{\fad(250,500)\pos(370,125)}...The further I'd fall...
-Dialogue: 0,1:52:10.62,1:52:12.91,ED Eng,,0,0,0,,{\fad(250,500)\pos(885,125)}The further I'd fall...
-Dialogue: 0,1:52:11.91,1:52:14.25,ED Eng,,0,0,0,,{\fad(250,500)\pos(1330,35)}The lower I'd crawl...
-Dialogue: 0,1:52:13.29,1:52:18.17,ED Eng,,0,0,0,,{\fad(250,500)\pos(1535,125)}...I kept fallin' into the fire.
-Dialogue: 0,1:52:26.64,1:52:29.14,ED Eng,,0,0,0,,{\fad(250,500)\pos(230,50)}Into the fire.
+Dialogue: 0,1:52:09.16,1:52:11.45,ED Eng,,0,0,0,,{\fad(250,500)\pos(370,125)}Càng rơi xuống vực sâu
+Dialogue: 0,1:52:10.62,1:52:12.91,ED Eng,,0,0,0,,{\fad(250,500)\pos(947,127.08)}Càng rơi xuống vực sâu
+Dialogue: 0,1:52:11.91,1:52:14.25,ED Eng,,0,0,0,,{\fad(250,500)\pos(1178,24.62)}Càng lê lết niềm đau
+Dialogue: 0,1:52:13.29,1:52:18.17,ED Eng,,0,0,0,,{\fad(250,500)\pos(1497,129.15)}Ta chìm dần lao vào trong lửa thiêu
+Dialogue: 0,1:52:26.64,1:52:29.14,ED Eng,,0,0,0,,{\fad(250,500)\pos(290,54.15)}Lao vào trong lửa thiêu
 Dialogue: 0,1:52:26.64,1:52:29.14,ED Vie,,0,0,0,,{\fad(250,500)}
-Dialogue: 0,1:52:37.73,1:52:40.23,ED Eng,,0,0,0,,{\fad(250,500)\pos(1700,50)}Into the fire.
+Dialogue: 0,1:52:37.73,1:52:40.23,ED Eng,,0,0,0,,{\fad(250,500)\pos(1628,52.08)}Lao vào trong lửa thiêu
 Dialogue: 0,1:52:37.73,1:52:40.23,ED Vie,,0,0,0,,{\fad(250,500)}
-Dialogue: 0,1:52:44.36,1:52:48.12,ED Eng,,0,0,0,,{\fad(250,500)\pos(390,30)}Suddenly it occurred to me...
+Dialogue: 0,1:52:44.36,1:52:48.12,ED Eng,,0,0,0,,{\fad(250,500)\pos(456,38.31)}Chợt một ngày lòng bừng tỉnh cơn mê
 Dialogue: 0,1:52:44.36,1:52:52.41,ED Vie,,0,0,0,,{\fad(250,500)}
-Dialogue: 0,1:52:47.20,1:52:50.24,ED Eng,,0,0,0,,{\fad(250,500)\pos(865,110)}...The reason for the run and hide...
-Dialogue: 0,1:52:49.28,1:52:52.41,ED Eng,,0,0,0,,{\fad(250,500)\pos(1500,30)}...Had totaled my existence.
-Dialogue: 0,1:52:53.08,1:52:56.71,ED Eng,,0,0,0,,{\fad(250,500)\pos(450,30)}Everything left on the other side...
+Dialogue: 0,1:52:47.20,1:52:50.24,ED Eng,,0,0,0,,{\fad(250,500)\pos(865,110)}Lý do xưa buộc ta trốn chạy hoài
+Dialogue: 0,1:52:49.28,1:52:52.41,ED Eng,,0,0,0,,{\fad(250,500)\pos(1500,30)}Đã bóp nghẹt cả đời ta rồi
+Dialogue: 0,1:52:53.08,1:52:56.71,ED Eng,,0,0,0,,{\fad(250,500)\pos(450,30)}Mọi điều chờ đợi ở phía bên kia
 Dialogue: 0,1:52:53.08,1:53:00.55,ED Vie,,0,0,0,,{\fad(250,500)}
-Dialogue: 0,1:52:55.75,1:52:58.92,ED Eng,,0,0,0,,{\fad(250,500)\pos(975,115)}...Could never be much worse than this...
-Dialogue: 0,1:52:57.83,1:53:00.55,ED Eng,,0,0,0,,{\fad(250,500)\pos(1495,30)}...But could I go the distance?
-Dialogue: 0,1:53:01.80,1:53:05.09,ED Eng,,0,0,0,,{\fad(250,500)\pos(480,30)}I faced the door and all my shame...
+Dialogue: 0,1:52:55.75,1:52:58.92,ED Eng,,0,0,0,,{\fad(250,500)\pos(975,115)}Đâu thể nào tồi tệ hơn lúc này
+Dialogue: 0,1:52:57.83,1:53:00.55,ED Eng,,0,0,0,,{\fad(250,500)\pos(1495,30)}Nhưng sức ta có đi đến cùng?
+Dialogue: 0,1:53:01.80,1:53:05.09,ED Eng,,0,0,0,,{\fad(250,500)\pos(480,30)}Đối diện cửa và tủi hổ trong ta
 Dialogue: 0,1:53:01.80,1:53:09.93,ED Vie,,0,0,0,,{\fad(250,500)}
-Dialogue: 0,1:53:04.34,1:53:07.43,ED Eng,,0,0,0,,{\fad(250,500)\pos(1030,115)}...Tearin' off each piece of chain...
-Dialogue: 0,1:53:06.47,1:53:09.93,ED Eng,,0,0,0,,{\fad(250,500)\pos(1530,30)}...Until they were broken.
-Dialogue: 0,1:53:10.47,1:53:13.85,ED Eng,,0,0,0,,{\fad(250,500)\pos(420,30)}But no matter how I tried...
+Dialogue: 0,1:53:04.34,1:53:07.43,ED Eng,,0,0,0,,{\fad(250,500)\pos(1030,115)}Giật tung hết từng mắt xích sắt kia
+Dialogue: 0,1:53:06.47,1:53:09.93,ED Eng,,0,0,0,,{\fad(250,500)\pos(1530,30)}Đến khi xiềng xích vụn vỡ rời
+Dialogue: 0,1:53:10.47,1:53:13.85,ED Eng,,0,0,0,,{\fad(250,500)\pos(450,32.08)}Nhưng cho dù gồng mình cố biết bao
 Dialogue: 0,1:53:10.47,1:53:18.35,ED Vie,,0,0,0,,{\fad(250,500)}
-Dialogue: 0,1:53:12.93,1:53:15.94,ED Eng,,0,0,0,,{\fad(250,500)\pos(930,110)}...The other side was locked so tight...
-Dialogue: 0,1:53:14.98,1:53:18.35,ED Eng,,0,0,0,,{\fad(250,500)\pos(1485,30)}...The door it wouldn't open.
-Dialogue: 0,1:53:21.19,1:53:24.11,ED Eng,,0,0,0,,{\fad(250,500)\pos(325,30)}Gave it all that I got...
+Dialogue: 0,1:53:12.93,1:53:15.94,ED Eng,,0,0,0,,{\fad(250,500)\pos(930,110)}Phía bên kia cài then khóa chặt sao
+Dialogue: 0,1:53:14.98,1:53:18.35,ED Eng,,0,0,0,,{\fad(250,500)\pos(1485,30)}Cánh cửa kia chẳng chịu hé mở
+Dialogue: 0,1:53:21.19,1:53:24.11,ED Eng,,0,0,0,,{\fad(250,500)\pos(325,30)}Dồn trọn hết sức tàn này
 Dialogue: 0,1:53:21.19,1:53:31.87,ED Vie,,0,0,0,,{\fad(250,500)}
-Dialogue: 0,1:53:23.23,1:53:25.70,ED Eng,,0,0,0,,{\fad(250,500)\pos(445,110)}...And started to knock...
-Dialogue: 0,1:53:24.65,1:53:26.99,ED Eng,,0,0,0,,{\fad(250,500)\pos(840,30)}...Shouted for someone...
-Dialogue: 0,1:53:25.90,1:53:28.45,ED Eng,,0,0,0,,{\fad(250,500)\pos(1180,110)}...To open the lock...
-Dialogue: 0,1:53:27.28,1:53:31.87,ED Eng,,0,0,0,,{\fad(250,500)\pos(1450,30)}...I just gotta get through the door.
-Dialogue: 0,1:53:32.70,1:53:35.33,ED Eng,,0,0,0,,{\fad(250,500)\pos(420,30)}And the more that I knocked...
+Dialogue: 0,1:53:23.23,1:53:25.70,ED Eng,,0,0,0,,{\fad(250,500)\pos(445,110)}Bắt đầu đập cửa ngay
+Dialogue: 0,1:53:24.65,1:53:26.99,ED Eng,,0,0,0,,{\fad(250,500)\pos(840,30)}Gào thét gọi một ai
+Dialogue: 0,1:53:25.90,1:53:28.45,ED Eng,,0,0,0,,{\fad(250,500)\pos(1180,110)}Mở tung ổ khóa này
+Dialogue: 0,1:53:27.28,1:53:31.87,ED Eng,,0,0,0,,{\fad(250,500)\pos(1450,30)}Ta chỉ cần bước vượt qua cánh cửa
+Dialogue: 0,1:53:32.70,1:53:35.33,ED Eng,,0,0,0,,{\fad(250,500)\pos(366,32.08)}Và càng giáng nắm đấm này
 Dialogue: 0,1:53:32.70,1:53:42.84,ED Vie,,0,0,0,,{\fad(250,500)}
-Dialogue: 0,1:53:34.41,1:53:36.62,ED Eng,,0,0,0,,{\fad(250,500)\pos(385,110)}...The hotter I got...
-Dialogue: 0,1:53:35.83,1:53:37.96,ED Eng,,0,0,0,,{\fad(250,500)\pos(845,110)}The hotter I got...
-Dialogue: 0,1:53:37.00,1:53:39.29,ED Eng,,0,0,0,,{\fad(250,500)\pos(1170,30)}...The harder I knocked...
-Dialogue: 0,1:53:38.29,1:53:42.84,ED Eng,,0,0,0,,{\fad(250,500)\pos(1445,110)}...I just gotta break through the door.
-Dialogue: 0,1:53:45.84,1:53:49.72,ED Eng,,0,0,0,,{\fad(250,500)\pos(420,30)}Gotta knock a little harder...
+Dialogue: 0,1:53:34.41,1:53:36.62,ED Eng,,0,0,0,,{\fad(250,500)\pos(505,122.46)}Lửa càng hừng hực say
+Dialogue: 0,1:53:35.83,1:53:37.96,ED Eng,,0,0,0,,{\fad(250,500)\pos(1045,126.62)}Lửa càng hừng hực say
+Dialogue: 0,1:53:37.00,1:53:39.29,ED Eng,,0,0,0,,{\fad(250,500)\pos(1170,30)}Càng nện chặt vòng tay
+Dialogue: 0,1:53:38.29,1:53:42.84,ED Eng,,0,0,0,,{\fad(250,500)\pos(1445,110)}Ta phải đập phá vượt qua cánh cửa
+Dialogue: 0,1:53:45.84,1:53:49.72,ED Eng,,0,0,0,,{\fad(250,500)\pos(420,30)}Phải đập mạnh thêm một chút nữa
 Dialogue: 0,1:53:45.84,1:53:55.22,ED Vie,,0,0,0,,{\fad(250,500)}
-Dialogue: 0,1:53:48.80,1:53:51.47,ED Eng,,0,0,0,,{\fad(250,500)\pos(1100,110)}...Gotta knock a little harder...
-Dialogue: 0,1:53:50.64,1:53:52.85,ED Eng,,0,0,0,,{\fad(250,500)\pos(1485,30)}...Gotta knock a little harder...
-Dialogue: 0,1:53:51.51,1:53:53.89,ED Eng,,0,0,0,,{\fad(250,500)\pos(350,60)}...Break through the door...
-Dialogue: 0,1:53:52.93,1:53:55.22,ED Eng,,0,0,0,,{\fad(250,500)\pos(1300,50)}...Break through the door...
-Dialogue: 0,1:54:48.74,1:54:56.54,ED Eng,,0,0,0,,{\fad(250,2000)}Break down the door.
+Dialogue: 0,1:53:48.80,1:53:51.47,ED Eng,,0,0,0,,{\fad(250,500)\pos(1100,110)}Phải đập mạnh thêm một chút nữa
+Dialogue: 0,1:53:50.64,1:53:52.85,ED Eng,,0,0,0,,{\fad(250,500)\pos(1485,30)}Phải đập mạnh thêm một chút nữa
+Dialogue: 0,1:53:51.51,1:53:53.89,ED Eng,,0,0,0,,{\fad(250,500)\pos(350,60)}Phá tung cánh cửa
+Dialogue: 0,1:53:52.93,1:53:55.22,ED Eng,,0,0,0,,{\fad(250,500)\pos(1300,50)}Phá tung cánh cửa
+Dialogue: 0,1:54:48.74,1:54:56.54,ED Eng,,0,0,0,,{\fad(250,2000)}Đập sập cánh cửa
 Dialogue: 0,1:54:48.74,1:54:56.54,ED Vie,,0,0,0,,{\fad(250,2000)}
+Comment: 0,0:05:16.14,0:05:22.14,OST,,0,0,0,,♪ シートベルツ (The Seatbelts) (Ft. Raj Ramayya) - Ask DNA
 Comment: 0,1:54:52.32,1:55:01.23,Main,,0,0,0,,OPENING
-Dialogue: 0,0:05:37.94,0:05:43.07,ED Eng,,0,0,0,,{\pos(1255,75)}Gummed up, brain dead and can't decide
+Dialogue: 0,0:05:37.94,0:05:43.07,ED Eng,,0,0,0,,{\pos(1253,87.46)}Tắc tị, đơ người, chẳng biết tính sao
 Dialogue: 0,0:05:37.94,0:05:43.07,ED Vie,,0,0,0,,{\pos(1255,960)}
-Dialogue: 0,0:05:43.07,0:05:48.33,ED Eng,,0,0,0,,{\fs64\pos(590,45)}You can't pray enough, you can't hide
+Dialogue: 0,0:05:43.07,0:05:48.33,ED Eng,,0,0,0,,{\pos(602,55.38)}Cầu xin mấy cũng thừa, trốn nơi nào?
 Dialogue: 0,0:05:43.07,0:05:48.33,ED Vie,,0,0,0,,{\pos(590,995)}
-Dialogue: 0,0:05:48.33,0:05:52.71,ED Eng,,0,0,0,,{\pos(610,350)}You can be cool or you can cry
+Dialogue: 0,0:05:48.33,0:05:52.71,ED Eng,,0,0,0,,{\pos(608,362.46)}Tỏ ra thật ngầu hoặc cứ khóc gào
 Dialogue: 0,0:05:48.33,0:05:52.71,ED Vie,,0,0,0,,{\pos(590,990)}
-Dialogue: 0,0:05:52.71,0:05:56.04,ED Eng,,0,0,0,,{\pos(1070,40)}Do it wrong, not at all, or do it right
+Dialogue: 0,0:05:52.71,0:05:56.04,ED Eng,,0,0,0,,{\pos(1108,46.23)}Làm cho sai, khỏi cần làm, hoặc làm thật cao!
 Dialogue: 0,0:05:52.71,0:05:56.04,ED Vie,,0,0,0,,{\pos(1070,790)}
-Dialogue: 0,0:05:58.59,0:06:03.72,ED Eng,,0,0,0,,{\pos(585,55)}No one owes you, no one's to blame
+Dialogue: 0,0:05:58.59,0:06:03.72,ED Eng,,0,0,0,,{\pos(587,69.54)}Chẳng ai nợ mày, biết trách ai đây
 Dialogue: 0,0:05:58.59,0:06:03.72,ED Vie,,0,0,0,,{\pos(585,905)\fs64}
-Dialogue: 0,0:06:03.72,0:06:08.89,ED Eng,,0,0,0,,{\pos(1375,135)}Save for bad genes or DNA
+Dialogue: 0,0:06:03.72,0:06:08.89,ED Eng,,0,0,0,,{\pos(1375,155.77)}Trừ bộ gen tồi hay DNA
 Dialogue: 0,0:06:03.72,0:06:08.89,ED Vie,,0,0,0,,{\pos(1375,990)}
-Dialogue: 0,0:06:08.89,0:06:13.39,ED Eng,,0,0,0,,{\pos(710,40)}Ask your conscience the why and how
+Dialogue: 0,0:06:08.89,0:06:13.39,ED Eng,,0,0,0,,{\pos(712,54.54)}Hỏi lương tâm mày vì sao ra nỗi
 Dialogue: 0,0:06:08.89,0:06:13.39,ED Vie,,0,0,0,,{\pos(710,995)}
-Dialogue: 0,0:06:13.39,0:06:16.69,ED Eng,,0,0,0,,{\pos(1240,45)}Do it then, do it when, but do it now
+Dialogue: 0,0:06:13.39,0:06:16.69,ED Eng,,0,0,0,,{\pos(1240,63.69)}Làm hôm qua, làm khi nào, phải làm ngay thôi!
 Dialogue: 0,0:06:13.39,0:06:16.69,ED Vie,,0,0,0,,{\pos(1240,995)}
-Dialogue: 0,0:06:18.52,0:06:23.45,ED Eng,,0,0,0,,{\pos(820,35)}What's up sweet cakes?
+Dialogue: 0,0:06:18.52,0:06:23.45,ED Eng,,0,0,0,,{\pos(824,47.46)}Sao rồi cưng ơi?
 Dialogue: 0,0:06:18.52,0:06:23.45,ED Vie,,0,0,0,,{\pos(820,805)}
-Dialogue: 0,0:06:19.82,0:06:21.19,ED Eng,,0,0,0,,{\blur1\bord0\fad(100,400)\c&HE5E0D9&\4c&H2C1C15&\pos(400,85)}What's up...
-Dialogue: 0,0:06:22.24,0:06:23.45,ED Eng,,0,0,0,,{\blur1\bord0\fad(100,400)\fad(0,400)\c&HE5E0D9&\4c&H2C1C15&\pos(1270,100)}...sweet cakes?
-Dialogue: 0,0:06:23.45,0:06:28.91,ED Eng,,0,0,0,,{\pos(1240,45)}Who's hip anyway?
+Dialogue: 0,0:06:19.82,0:06:21.19,ED Eng,,0,0,0,,{\blur1\bord0\fad(100,400)\c&HE5E0D9&\4c&H2C1C15&\pos(400,85)}Sao rồi...
+Dialogue: 0,0:06:22.24,0:06:23.45,ED Eng,,0,0,0,,{\blur1\bord0\fad(100,400)\fad(0,400)\c&HE5E0D9&\4c&H2C1C15&\pos(1270,100)}...cưng ơi?
+Dialogue: 0,0:06:23.45,0:06:28.91,ED Eng,,0,0,0,,{\pos(1240,45)}Ai sành điệu thời nay?
 Dialogue: 0,0:06:23.45,0:06:28.91,ED Vie,,0,0,0,,{\pos(1240,890)}
-Dialogue: 0,0:06:24.99,0:06:26.37,ED Eng,,0,0,0,,{\blur1\bord0\fad(100,400)\c&HE5E0D9&\4c&H2C1C15&\pos(890,110)}Who's hip...
-Dialogue: 0,0:06:27.53,0:06:28.91,ED Eng,,0,0,0,,{\blur1\bord0\fad(100,400)\c&HE5E0D9&\4c&H2C1C15&\pos(1550,110)}...anyway?
-Dialogue: 0,0:06:28.91,0:06:34.75,ED Eng,,0,0,0,,{\pos(570,45)}Earth girls are easy
+Dialogue: 0,0:06:24.99,0:06:26.37,ED Eng,,0,0,0,,{\blur1\bord0\fad(100,400)\c&HE5E0D9&\4c&H2C1C15&\pos(890,110)}Ai sành điệu...
+Dialogue: 0,0:06:27.53,0:06:28.91,ED Eng,,0,0,0,,{\blur1\bord0\fad(100,400)\c&HE5E0D9&\4c&H2C1C15&\pos(1550,110)}...thời nay?
+Dialogue: 0,0:06:28.91,0:06:34.75,ED Eng,,0,0,0,,{\pos(570,45)}Gái Địa Cầu dễ cưa
 Dialogue: 0,0:06:28.91,0:06:34.75,ED Vie,,0,0,0,,{\pos(570,990)}
-Dialogue: 0,0:06:30.12,0:06:31.62,ED Eng,,0,0,0,,{\blur1\bord0\fad(100,400)\c&HE5E0D9&\4c&H2C1C15&\pos(270,120)}Earth girls...
-Dialogue: 0,0:06:32.71,0:06:34.46,ED Eng,,0,0,0,,{\blur1\bord0\fad(100,400)\c&HE5E0D9&\4c&H2C1C15&\pos(875,120)}...are easy
-Dialogue: 0,0:06:34.75,0:06:39.88,ED Eng,,0,0,0,,{\pos(1380,135)}What you gonna do lil' buckaroo?
+Dialogue: 0,0:06:30.12,0:06:31.62,ED Eng,,0,0,0,,{\blur1\bord0\fad(100,400)\c&HE5E0D9&\4c&H2C1C15&\pos(320,120)}Gái Địa Cầu...
+Dialogue: 0,0:06:32.71,0:06:34.46,ED Eng,,0,0,0,,{\blur1\bord0\fad(100,400)\c&HE5E0D9&\4c&H2C1C15&\pos(875,120)}...dễ cưa
+Dialogue: 0,0:06:34.75,0:06:39.88,ED Eng,,0,0,0,,{\fs50\pos(1380,145.38)}Nhóc định tính làm sao, chàng cao bồi nào?
 Dialogue: 0,0:06:34.75,0:06:39.88,ED Vie,,0,0,0,,{\pos(1380,985)}
-Dialogue: 0,0:06:37.63,0:06:39.88,ED Eng,,0,0,0,,{\blur1\bord0\fad(40,400)\c&HE5E0D9&\4c&H2C1C15&\pos(1365,205)}"Hey you better ask her nice!"
+Dialogue: 0,0:06:37.63,0:06:39.88,ED Eng,,0,0,0,,{\blur1\bord0\fad(40,400)\c&HE5E0D9&\4c&H2C1C15&\pos(1365,205)}"Này mày nhớ hỏi nàng thật ngoan!"
 Dialogue: 0,0:06:37.63,0:06:39.88,ED Vie,,0,0,0,,{\blur1\bord0\fad(40,400)\c&HF2E2CE&\4c&H2C1C15&\pos(1365,910)\fs60}
-Dialogue: 0,0:06:39.88,0:06:48.14,ED Eng,,0,0,0,,{\fad(800,1400)}All you gotta do, happy fool, is ask your mom
+Dialogue: 0,0:06:39.88,0:06:48.14,ED Eng,,0,0,0,,{\fad(800,1400)}Việc duy nhất cần làm, chàng khờ à, là hỏi mẹ mày
 Dialogue: 0,0:06:39.88,0:06:48.14,ED Vie,,0,0,0,,{\fad(800,1400)}
 Comment: 0,1:54:52.32,1:55:01.23,Main,,0,0,0,,======================================
 Comment: 0,0:01:16.89,0:01:20.89,Signs,,0,0,0,,MỞ CỬA 24 GIỜ
