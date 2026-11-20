@@ -259,10 +259,10 @@ Dialogue: 0,0:24:10.51,0:24:14.09,Main,preview,0,0,0,,{\i1}Nỗi kinh hoàng ch�
 Dialogue: 0,0:24:14.90,0:24:18.68,Main,preview,0,0,0,,{\i1}Sa vào nanh độc của kẻ thù vô hình,\Nlại thêm một nạn nhân gục ngã.{\i0}
 Dialogue: 0,0:24:19.83,0:24:24.35,Main,preview,0,0,0,,{\i1}Kẻ thù đáng sợ không chịu lộ diện\Nrốt cuộc là ai?{\i0}
 Dialogue: 0,0:24:25.68,0:24:30.29,Main,preview,0,0,0,,{\i1}Bản giao hưởng rùng rợn\Nsẽ đẩy bạn xuống tận đáy sâu của nỗi sợ!{\i0}
-Dialogue: 0,0:24:30.29,0:24:33.98,Main,preview,0,0,0,,{\i1}Kỳ tới, "Điệu Heavy Rock trong đêm tối".{ĐỒ CHƠI TRÊN GÁC MÁI}{\i0}
+Dialogue: 0,0:24:30.29,0:24:33.98,Main,preview,0,0,0,,{\i1}Kỳ tới, "Điệu Heavy Rock trong đêm tối".{\i0}
 Dialogue: 0,0:24:33.98,0:24:38.61,Main,preview,0,0,0,,{\i1}Một khi đã bật kênh này,\Nbạn sẽ không còn đường thoát...{\i0}
 Comment: 0,0:24:36.50,0:24:39.54,Main,,0,0,0,,======================================
-Comment: 1,0:05:10.83,0:05:16.84,Signs,,0,0,0,,KHÚC BI CA GANYMEDE
+Comment: 1,0:05:10.83,0:05:16.84,Signs,,0,0,0,,NỖI NIỀM GANYMEDE{Vấn Vương}
 Comment: 1,0:06:18.36,0:06:21.32,Signs,,0,0,0,,CẢNH SÁT
 Comment: 0,0:06:22.15,0:06:23.65,Signs,,0,0,0,,XIN VUI LÒNG ĐỢI...
 Comment: 1,0:06:23.65,0:06:24.57,Signs,,0,0,0,,CẢM ƠN ĐÃ BẮT TỘI PHẠM

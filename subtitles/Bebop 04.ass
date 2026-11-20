@@ -12,12 +12,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
+Audio File: ../[PHTM] Cowboy Bebop - S01E04 (BD 1080p AV1 Multi Opus 5.1).mkv
+Video File: ../[PHTM] Cowboy Bebop - S01E04 (BD 1080p AV1 Multi Opus 5.1).mkv
 Video AR Mode: 4
 Video AR Value: 1.340741
 Video Zoom Percent: 0.500000
-Scroll Position: 588
-Active Line: 606
-Video Position: 4952
+Scroll Position: 300
+Active Line: 307
+Video Position: 3591
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -341,32 +343,32 @@ Dialogue: 0,0:24:30.86,0:24:32.59,Main,preview,0,0,0,,Không còn biết đâu l
 Dialogue: 0,0:24:33.63,0:24:35.12,Main,preview,0,0,0,,Quả là ác mộng.
 Dialogue: 0,0:24:36.16,0:24:39.21,Main,preview,0,0,0,,Kỳ tới, "Bản Ballad của Thiên thần sa ngã".
 Comment: 0,0:24:36.10,0:24:38.72,Main,,0,0,0,,===================================
-Dialogue: 0,0:02:29.75,0:02:34.30,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H30592A&\3c&H30592A&\b0\pos(162.2,430.07)\fscx97\fscy110}ĐIỆU SHUFFLE NƠI CỔNG KHÔNG GIAN
-Dialogue: 1,0:02:29.75,0:02:34.30,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(162.2,430.07)\fscx97\fscy110}ĐIỆU SHUFFLE NƠI CỔNG KHÔNG GIAN
-Dialogue: 0,0:02:29.75,0:02:34.30,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H30592A&\3c&H30592A&\b0\alpha&H50&\3a&H00&\1a&H00&\pos(163.2,430.07)\fscx97\fscy110}ĐIỆU SHUFFLE NƠI CỔNG KHÔNG GIAN
-Dialogue: 1,0:02:29.75,0:02:34.30,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\alpha&H50&\pos(163.2,430.07)\fscx97\fscy110}ĐIỆU SHUFFLE NƠI CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.75,0:02:34.30,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H30592A&\3c&H30592A&\b0\pos(162.2,430.07)\fscx110\fscy110}ĐIỆU SHUFFLE CỔNG KHÔNG GIAN
+Dialogue: 1,0:02:29.75,0:02:34.30,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(162.2,430.07)\fscx110\fscy110}ĐIỆU SHUFFLE CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.75,0:02:34.30,Title,,0,0,0,,{\an4\q2\blur0.9\bord0.9\shad0\c&H30592A&\3c&H30592A&\b0\alpha&H50&\3a&H00&\1a&H00&\pos(163.2,430.07)\fscx110\fscy110}ĐIỆU SHUFFLE CỔNG KHÔNG GIAN
+Dialogue: 1,0:02:29.75,0:02:34.30,Title,,0,0,0,,{\an4\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\alpha&H50&\pos(163.2,430.07)\fscx110\fscy110}ĐIỆU SHUFFLE CỔNG KHÔNG GIAN
 Dialogue: 0,0:02:29.75,0:02:34.30,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0.7\shad0\c&H30592A&\3c&H30592A&\b0\pos(1382.21,74.67)\fscx59\fscy59}Phụ đề được thực hiện bởi GSGA
 Dialogue: 1,0:02:29.75,0:02:34.30,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(1382.21,74.67)\fscx59\fscy59}Phụ đề được thực hiện bởi GSGA
 Dialogue: 0,0:02:29.75,0:02:34.30,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0.7\shad0\c&H30592A&\3c&H30592A&\b0\pos(1382.21,124.67)\fscx59\fscy59}Dịch: KiOZ | TS: KiOZ | QC: mochi
 Dialogue: 1,0:02:29.75,0:02:34.30,Title,credit,0,0,0,,{\an6\q2\blur0.9\bord0\shad0\c&HFFFFFF&\b0\pos(1382.21,124.67)\fscx59\fscy59}Dịch: KiOZ | TS: KiOZ | QC: mochi
-Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1183.2,430.07,383.2,430.07)\fscx97\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE NƠI CỔNG KHÔNG GIAN
-Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1184.2,430.07,384.2,430.07)\fscx97\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE NƠI CỔNG KHÔNG GIAN
-Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1185.2,430.07,385.2,430.07)\fscx97\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE NƠI CỔNG KHÔNG GIAN
-Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1186.2,430.07,386.2,430.07)\fscx97\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE NƠI CỔNG KHÔNG GIAN
-Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1187.2,430.07,387.2,430.07)\fscx97\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE NƠI CỔNG KHÔNG GIAN
-Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1188.2,430.07,388.2,430.07)\fscx97\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE NƠI CỔNG KHÔNG GIAN
-Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1189.2,430.07,389.2,430.07)\fscx97\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE NƠI CỔNG KHÔNG GIAN
-Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1190.2,430.07,390.2,430.07)\fscx97\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE NƠI CỔNG KHÔNG GIAN
-Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1191.2,430.07,391.2,430.07)\fscx97\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE NƠI CỔNG KHÔNG GIAN
-Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1192.2,430.07,392.2,430.07)\fscx97\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE NƠI CỔNG KHÔNG GIAN
-Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1193.2,430.07,393.2,430.07)\fscx97\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE NƠI CỔNG KHÔNG GIAN
-Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1194.2,430.07,394.2,430.07)\fscx97\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE NƠI CỔNG KHÔNG GIAN
-Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1195.2,430.07,395.2,430.07)\fscx97\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE NƠI CỔNG KHÔNG GIAN
-Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1196.2,430.07,396.2,430.07)\fscx97\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE NƠI CỔNG KHÔNG GIAN
-Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1197.2,430.07,397.2,430.07)\fscx97\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE NƠI CỔNG KHÔNG GIAN
-Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1198.2,430.07,398.2,430.07)\fscx97\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE NƠI CỔNG KHÔNG GIAN
-Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1199.2,430.07,399.2,430.07)\fscx97\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE NƠI CỔNG KHÔNG GIAN
-Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1200.2,430.07,400.2,430.07)\fscx97\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE NƠI CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1183.2,430.07,383.2,430.07)\fscx110\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1184.2,430.07,384.2,430.07)\fscx110\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1185.2,430.07,385.2,430.07)\fscx110\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1186.2,430.07,386.2,430.07)\fscx110\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1187.2,430.07,387.2,430.07)\fscx110\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1188.2,430.07,388.2,430.07)\fscx110\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1189.2,430.07,389.2,430.07)\fscx110\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1190.2,430.07,390.2,430.07)\fscx110\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1191.2,430.07,391.2,430.07)\fscx110\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1192.2,430.07,392.2,430.07)\fscx110\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1193.2,430.07,393.2,430.07)\fscx110\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1194.2,430.07,394.2,430.07)\fscx110\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1195.2,430.07,395.2,430.07)\fscx110\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1196.2,430.07,396.2,430.07)\fscx110\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1197.2,430.07,397.2,430.07)\fscx110\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1198.2,430.07,398.2,430.07)\fscx110\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1199.2,430.07,399.2,430.07)\fscx110\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE CỔNG KHÔNG GIAN
+Dialogue: 0,0:02:29.59,0:02:29.75,Title,,0,0,0,,{\an4\q2\blur2\bord0\shad0\c&H30592A&\b0\move(1200.2,430.07,400.2,430.07)\fscx110\fscy110\1a&HC8&\3c&H6F475A&}ĐIỆU SHUFFLE CỔNG KHÔNG GIAN
 Dialogue: 0,0:02:29.59,0:02:29.75,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H30592A&\3c&H532A3A&\b0\move(183.21,124.67,1183.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi
 Dialogue: 0,0:02:29.59,0:02:29.75,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H30592A&\3c&H532A3A&\b0\move(184.21,124.67,1184.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi
 Dialogue: 0,0:02:29.59,0:02:29.75,Title,credit,0,0,0,,{\an6\q2\blur2\bord0\shad0\c&H30592A&\3c&H532A3A&\b0\move(185.21,124.67,1185.21,124.67)\fscx59\fscy59\1a&HC8&}Dịch: KiOZ | TS: KiOZ | QC: mochi

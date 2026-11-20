@@ -356,7 +356,7 @@ Dialogue: 0,0:24:12.18,0:24:14.73,Main,preview,0,0,0,,{\i1}Phó mặc cho dòng 
 Dialogue: 0,0:24:14.73,0:24:17.55,Main,preview,0,0,0,,{\i1}một mình sống đến tận hôm nay,{\i0}
 Dialogue: 0,0:24:17.55,0:24:19.97,Main,preview,0,0,0,,{\i1}vậy mà tiếng sóng xô bờ{\i0}
 Dialogue: 0,0:24:19.97,0:24:22.48,Main,preview,0,0,0,,{\i1}vẫn làm chim di trú nao lòng.{\i0}
-Dialogue: 0,0:24:23.57,0:24:26.13,Main,preview,0,0,0,,{\i1}Kỳ tới, "Khúc Bi Ca Ganymede".{\i0}{Nỗi niềm Ganymede}
+Dialogue: 0,0:24:23.57,0:24:26.13,Main,preview,0,0,0,,{\i1}Kỳ tới, "Nỗi Niềm Ganymede".{\i0}{Vấn Vương}
 Dialogue: 0,0:24:26.13,0:24:30.90,Main,preview,0,0,0,,{\i1}Jet Black sẽ cất tiếng hát bằng cả trái tim.{\i0}
 Comment: 0,0:24:26.13,0:24:30.90,Main,,0,0,0,,======================================
 Comment: 1,0:02:12.32,0:02:16.86,Signs,,0,0,0,,{\an8}NGẪU HỨNG CÙNG EDWARD
@@ -374,4 +374,4 @@ Comment: 1,0:21:03.74,0:21:07.87,Signs,,0,0,0,,{\an8}BIG SHOT\NCHƯƠNG TRÌNH D
 Comment: 0,0:21:13.58,0:21:15.83,Signs,,0,0,0,,{\an8}TIN NÓNG HÔM NAY
 Comment: 1,0:22:24.76,0:22:27.26,Signs,,0,0,0,,{\an8}GẶP SAU, CHÀNG CAO BỒI KHÔNG GIAN ...
 Comment: 1,0:24:03.59,0:24:04.67,Signs,,0,0,0,,{\an8}GIỚI THIỆU TẬP SAU
-Comment: 0,0:24:29.70,0:24:32.70,Signs,,0,0,0,,{\an8}KHÚC BI CA GANYMEDE
+Comment: 0,0:24:29.70,0:24:32.70,Signs,,0,0,0,,{\an8}NỖI NIỀM GANYMEDE{Vấn Vương}

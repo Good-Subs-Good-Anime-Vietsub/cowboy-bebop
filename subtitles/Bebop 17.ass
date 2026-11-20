@@ -290,7 +290,7 @@ Dialogue: 0,0:24:00.98,0:24:02.96,Main,preview,0,0,0,,{\i1}Trước một câu c
 Dialogue: 0,0:24:02.96,0:24:05.46,Main,preview,0,0,0,,{\i1}những pha hành động thoạt nhìn nhỏ lẻ,{\i0}
 Dialogue: 0,0:24:05.46,0:24:07.65,Main,preview,0,0,0,,{\i1}và cái kết thoạt nhìn gượng gạo,{\i0}
 Dialogue: 0,0:24:07.65,0:24:09.46,Main,preview,0,0,0,,{\i1}bạn sẽ cảm nhận được điều gì?{\i0}
-Dialogue: 0,0:24:10.48,0:24:13.09,Main,preview,0,0,0,,{\i1}Kỳ tới, "Trò chuyện như một đứa trẻ{Tiếng vọng ngày xanh}".{\i0}
+Dialogue: 0,0:24:10.48,0:24:13.09,Main,preview,0,0,0,,{\i1}Kỳ tới, "Cất lời như một đứa trẻ".{\i0}
 Dialogue: 0,0:24:13.09,0:24:15.67,Main,preview,0,0,0,,{\i1}Thoạt nhìn thì cũng thú vị đấy.{\i0}
 Comment: 0,0:24:13.09,0:24:15.67,Main,,0,0,0,,======================================
 Comment: 1,0:03:43.77,0:04:01.61,Signs,,0,0,0,,THẾ GIỚI VIỄN TÂY\NVÙNG KHAI PHÁ\NKHU VỰC 8271
@@ -308,5 +308,5 @@ Dialogue: 1,0:20:11.86,0:20:13.69,Signs,sign,0,0,0,,{\fs65.8\1a&FE&\fax-0.17\sha
 Dialogue: 0,0:20:11.86,0:20:13.69,Signs,sign,0,0,0,,{\fs65.8\1a&FE&\4a&be&\fax-0.17\shad4.5\b1\i1\c&HCCCCCC&\fnUDDigiKyoWriting Web\blur0.8\pos(430.6,1017.2)}Có gì đâu, chuyện nhỏ ấy mà.
 Comment: 1,0:22:08.37,0:22:11.29,Signs,,0,0,0,,ĐỜI CHỈ LÀ MỘT GIẤC MƠ...{ĐỜI NGƯỜI NHƯ MỘNG}
 Comment: 1,0:23:47.43,0:23:48.47,Signs,,0,0,0,,TẬP TIẾP THEO
-Comment: 0,0:24:13.49,0:24:16.49,Signs,,0,0,0,,TRÒ CHUYỆN NHƯ MỘT ĐỨA TRẺ
+Comment: 0,0:24:13.49,0:24:16.49,Signs,,0,0,0,,CẤT LỜI NHƯ MỘT ĐỨA TRẺ
 Comment: 0,0:24:13.09,0:24:15.67,Main,,0,0,0,,======================================
